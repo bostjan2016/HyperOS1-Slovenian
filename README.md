@@ -1,0 +1,2 @@
+# HyperOS1-Slovenian
+ 
