@@ -113,6 +113,7 @@ Potrebna je Mainland China bančna kartica za nakup dodatnega prostora."</string
      <string name="cloud_storage_common_functions_text">Pogosto uporabljeno</string>
      <string name="cloud_storage_default_title">Cloud shramba</string>
      <string name="cloud_storage_full_upgrade_default_text">"Premalo prostora. Fotografij ni bilo mogoče sinhronizirati."</string>
+     <string name="cloud_storage_info_type_creation">Mi platna</string>
      <string name="cloud_storage_info_type_drive">Mi Drive</string>
      <string name="cloud_storage_info_type_duokan">Duokan</string>
      <string name="cloud_storage_info_type_family">Družina</string>
@@ -137,6 +138,13 @@ Potrebna je Mainland China bančna kartica za nakup dodatnega prostora."</string
      <string name="contact">Stiki</string>
      <string name="contact_alert_sync_data_merge_dialog_msg">Če vklopite sinhronizacijo bodo stiki, naloženi iz te naprave združeni s stiki, shranjenimi v oblaku. Vseeno vklopim sinhronizacijo?</string>
      <string name="copy">Kopiraj</string>
+     <string name="creation_dialog_message">Oglejte si podatke Mi platna na tabličnem računalniku.</string>
+     <string name="creation_dialog_positive_btn">V redu</string>
+     <string name="creation_dialog_title">pozor</string>
+     <string name="creation_sync_settings_only_in_wifi">Sinhroniziraj samo prek omrežja WiFi</string>
+     <string name="creation_sync_settings_only_in_wifi_summary">Priporočeno za varčevanje z mobilnimi podatki</string>
+     <string name="creation_sync_settings_preference">Sinhroniziraj platna</string>
+     <string name="creation_sync_settings_summary">Ustvarjena platna</string>
      <string name="cta_notification_content_text">Dovolite %s povezovanje s spletom da boste lahko vrnili stvari</string>
      <string name="cta_notification_content_title">"Ne morem vrniti stvari iz %s"</string>
      <string name="customize_notification_btn_text">Nadgradi</string>
@@ -324,6 +332,7 @@ Potrebna je Mainland China bančna kartica za nakup dodatnega prostora."</string
      <string name="friday_short">Pet</string>
      <string name="friday_shortest">P</string>
      <string name="gallery_auto_sync_fail_noti_content">V oblaku ni dovolj prostora za shranjevanje. Nadgradite načrt prostora za shranjevanje za sinhronizacijo fotografij in videoposnetkov.</string>
+     <string name="gallery_auto_sync_fail_noti_content_lite">"Shrambe v oblaku ni dovolj. Fotografij ni mogoče shraniti."</string>
      <string name="gallery_data_transfer_ddl">Rok: %s</string>
      <string name="gallery_data_transfer_summary">"Stvari galerije ni več mogoče sinhronizirati z Xiaomi Cloud. Priporočamo, da fotografije in videoposnetke, ki ste jih sinhronizirali z oblakom, prenesete v Google Foto in uporabite njihove storitve za varnostno kopiranje svojih stvari."</string>
      <string name="gallery_data_transfer_title">Prenesite sinhronizirane fotografije in videoposnetke v Google Foto</string>
@@ -725,8 +734,8 @@ Najdite in zaklenite napravo, če se izgubi."</string>
      <string name="micloud_space_duokan_detail">Urejajte vašo Duokan vsebino s pomočjo Duokan aplikacije.</string>
      <string name="micloud_space_duokan_title">Duokan</string>
      <string name="micloud_space_full_influence">Kaj se zgodi ko mi zmanjka prostora?</string>
-     <string name="micloud_space_soundrecorder_detail">Odprite aplikacijo Snemalnik v napravi Xiaomi in izberite mapo z stvarmi, shranjenimi v oblaku.
-Prepričajte se, da uporabljate povezani račun Xiaomi kot sistemski račun MIUI</string>
+     <string name="micloud_space_soundrecorder_detail">"Odprite aplikacijo Snemalnik v napravi Xiaomi in izberite mapo z stvarmi, shranjenimi v oblaku.
+Prepričajte se, da uporabljate povezani račun Xiaomi kot sistemski račun MIUI"</string>
      <string name="micloud_space_soundrecorder_title">Posnetki</string>
      <string name="micloud_storage">Prostor za shranjevanje</string>
      <string name="micloud_storage_detail">Podrobnosti</string>

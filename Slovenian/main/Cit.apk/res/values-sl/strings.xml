@@ -66,6 +66,7 @@
      <string name="baterry_percent">"Napolnjenost baterije: "</string>
      <string name="baterry_temperature">"Temperatura baterije: "</string>
      <string name="battery_authentic">Baterija je pristna</string>
+     <string name="battery_auto_plug_wirelee_summary">Brezžični polnilnik je bil uspešno povezan, test opravljen</string>
      <string name="battery_dual_connector">Drugi priključek baterije</string>
      <string name="battery_id">Baterija ID:</string>
      <string name="battery_info">Povezane informacije o polnjenju baterije</string>
@@ -308,6 +309,14 @@ Držite telefon kot da odgovarjate na klic, govorite v mikrofon. Morali bi sliš
      <string name="cit_bluetooth_scanning_opening_bluetooth">Odpiranje Bluetooth naprave…</string>
      <string name="cit_bottom_left_speaker_test">Test levega spodnjega zvočnika</string>
      <string name="cit_bottom_right_speaker_test">Test desnega spodnjega zvočnika</string>
+     <string name="cit_btn_security_test_summary">"1.Kliknite gumb in počakajte nekaj časa. Bodite pozorni, da preverite stanje omrežja
+2.Če se prikaže Uspešno posodobljeno, to pomeni, da je bilo potrdilo Widevine uspešno posodobljeno.
+3.Če se prikaže Posodobitev potrdila ni uspela, to pomeni, da potrdilo Widevine ni bilo posodobljeno.
+4.To orodje se ne uporablja kot redni test.
+5.To orodje trenutno deluje samo z XiaoMi Pad 6"</string>
+     <string name="cit_btn_security_test_text">Posodobljeno</string>
+     <string name="cit_btn_security_text">Posodobitev potrdila Widevine</string>
+     <string name="cit_btn_security_text_title">Posodobitev varnostnih potrdil</string>
      <string name="cit_build_finger_failed">Shranjevanje prstnega odtisa NEUSPEŠNO</string>
      <string name="cit_build_finger_passed">Shranjevanje prstnega odtisa USPEŠNO</string>
      <string name="cit_button_light_off">Osvetlitev tipk izklj.</string>
@@ -414,6 +423,7 @@ Prosimo, kliknite ustrezen gumb glede na številko, ki jo slišite"</string>
      <string name="cit_finger_check_title">Testiranje prstnih odtisev (FPC)</string>
      <string name="cit_flash_life_check_summary">Ocena časa trajanja bliskavice naprave</string>
      <string name="cit_flash_life_check_title">Trajanje bliskavice</string>
+     <string name="cit_flash_timeout_tip">Časovna omejitev preizkusa je potekla, znova naredite preizkus bliskavice</string>
      <string name="cit_flicker_sensor_check_summary">Vrednosti za utripanje naj bi bile prikazane spodaj</string>
      <string name="cit_flicker_sensor_check_title">Senzor utripanja</string>
      <string name="cit_flip_board_bottom_speaker_test_title">Preizkus spodnjega zvočnika na Flip Board</string>
@@ -536,10 +546,15 @@ Dotaknite se zaslona za zagon GPS-a…"</string>
      <string name="cit_lcdlight_brightness">Osvetlitev v ozadju</string>
      <string name="cit_lcdlight_brightness_max">MAX</string>
      <string name="cit_lcdlight_brightness_min">MIN</string>
+     <string name="cit_lcdlight_title">Test zadnje luči</string>
+     <string name="cit_led_change">Izberite način LED bliskavice</string>
      <string name="cit_led_check_backlight">zadnja luč</string>
      <string name="cit_led_check_charge_light">led za polnjenje</string>
      <string name="cit_led_check_first_flash_light">prva bliskavica</string>
      <string name="cit_led_check_second_flash_light">druga bliskavica</string>
+     <string name="cit_led_continue">vedno svetlo</string>
+     <string name="cit_led_interval">čudovito</string>
+     <string name="cit_led_negative">negativno</string>
      <string name="cit_led_selected">Trenutno izbrano：</string>
      <string name="cit_leds_check_summary">Lučka v ozadju, lučka obvestil in bliskavica (zadnja) bi morale reagirati kadar se pritisne odgovarjajoča tipka.</string>
      <string name="cit_leds_check_title">Lučka obvestil (LED)</string>
@@ -1235,6 +1250,7 @@ določen položaj"</string>
      <string name="mic1_spk_loop">Mic speak Loop</string>
      <string name="mic1test">MIC1</string>
      <string name="mic_check_rm_headset_tip">Najprej odstranite slušalke in posnemite zvok.</string>
+     <string name="mic_reopen_tip">Prosimo, da znova vnesete ta testni element za testiranje</string>
      <string name="mic_tip">Napravite hrup na mikrofonu. Ko priključite slušalke, jih poslušajte, da slišite zvok</string>
      <string name="mic_volume_height_tip">MIC test USPELO</string>
      <string name="mic_volume_low_tip">MIC zvočni test ni uspel. Med snemanjem naredite večji zvok</string>
@@ -1434,9 +1450,13 @@ Po uspešnem kalibriranju nadzorujte napravo blizu in stran od telefona"</string
      <string name="template_data">Podatki predlog</string>
      <string name="template_hint">Izločanje predlog %1$s za en prst</string>
      <string name="template_progress_hint">Počakajte Izločanje podatkov predlog</string>
+     <string name="test_back_handset">Test zadnje slušalke</string>
      <string name="test_back_mic">Zadnji mikrofon</string>
      <string name="test_bottom_speaker">spodnji_zvočnik</string>
      <string name="test_cases">Test ovitka</string>
+     <string name="test_first_flash">Test prve bliskavice</string>
+     <string name="test_flash">Test bliskavice</string>
+     <string name="test_front_handset">Test sprednje slušalke</string>
      <string name="test_front_mic">Sprednji mikrofon</string>
      <string name="test_headset">Test slušalk</string>
      <string name="test_horn_motor_summary">"Slišali boste dve naključni številki
@@ -1447,6 +1467,7 @@ Izberite pravi gumb glede na različne pogoje vibriranja"</string>
      <string name="test_receiver_summary">"Slišali boste dve naključni številki
 Prosimo, kliknite ustrezen gumb glede na številko, ki jo slišite"</string>
      <string name="test_result">REZULTAT PRESKUSA</string>
+     <string name="test_second_flash">Test druge bliskavice</string>
      <string name="test_sidebottom_mic">Mikr. stransko dno</string>
      <string name="test_sidetop_mic">Mikr. stranski vrh</string>
      <string name="test_speaker">zvočnik</string>

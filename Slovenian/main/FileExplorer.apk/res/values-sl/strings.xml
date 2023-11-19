@@ -59,8 +59,9 @@
      <string name="already_signin_description">"Danes ste se že vpisali".</string>
      <string name="am">dop.</string>
      <string name="apk_installing">Nameščanje…</string>
-     <string name="app_all_purpose">Dobrodošli v raziskovalcu! S to aplikacijo lahko urejate datoteke, shranjene v vaši napravi.</string>
-     <string name="app_all_purpose_pad">Dobrodošli v raziskovalcu! S to aplikacijo lahko urejate datoteke, shranjene v vaši napravi.</string>
+     <string name="app_all_purpose">Dobrodošli v Raziskovalcu! S to aplikacijo lahko urejate datoteke, shranjene v vaši napravi.</string>
+     <string name="app_all_purpose_global">Dobrodošli v Raziskovalcu! To aplikacijo lahko uporabite za predogled in upravljanje datotek, shranjenih v vaši napravi.</string>
+     <string name="app_all_purpose_pad">Dobrodošli v Raziskovalcu! S to aplikacijo lahko urejate datoteke, shranjene v vaši napravi.</string>
      <string name="app_function">Urejanje datotek v vaši napravi</string>
      <string name="app_name">Raziskovalec</string>
      <string name="app_name_bluetooth">Bluetooth</string>
@@ -113,6 +114,13 @@
      <string name="by_size">Velikost</string>
      <string name="by_type">Vrsta</string>
      <string name="byteShort">B</string>
+     <string name="call_notification_answer_action">Odgovor</string>
+     <string name="call_notification_answer_video_action">Video</string>
+     <string name="call_notification_decline_action">Zavrni</string>
+     <string name="call_notification_hang_up_action">Prekini</string>
+     <string name="call_notification_incoming_text">Dohodni klic</string>
+     <string name="call_notification_ongoing_text">Odhodni klic</string>
+     <string name="call_notification_screening_text">Preverjanje dohodnega klica</string>
      <string name="can_not_send_with_too_many">"Ne morem poslati toliko stvari naenkrat"</string>
      <string name="cancel">Prekliči</string>
      <string name="cancel_error">"Ne morem odstraniti, poskusite ponovno"</string>
@@ -238,6 +246,7 @@ Poskusite premakniti datoteke iz vaše naprave v Mi Drive."</string>
      <string name="comment_fail_banned_temporary">"Začasno ste blokirani zaradi neprimernih komentarjev"</string>
      <string name="comment_hint">Pusti komentar</string>
      <string name="comment_reply">Odgovor %1$s: </string>
+     <string name="common_google_play_services_unknown_issue">%1$s ima težave s storitvami Google Play. Prosim poskusite ponovno.</string>
      <string name="compress_fail">Kompresija spodletela: datoteka z istim imenom že obstaja.</string>
      <string name="compress_fail_unknown">"Ne morem stisniti. Prostor za shranjevanje je poln ali pa je prišlo do neznane napake."</string>
      <string name="compress_message">Stisni v…</string>
@@ -337,6 +346,9 @@ Poskusite premakniti datoteke iz vaše naprave v Mi Drive."</string>
      <string name="disk_total">Skupaj:</string>
      <string name="dislike_toast">"Takšni videoposnetki ne bodo priporočeni za vas."</string>
      <string name="dislike_video">"Nisem zainteresiran"</string>
+     <string name="display_all_dirs">Vse mape</string>
+     <string name="display_hide_sys_dirs">Skrite sistemske mape</string>
+     <string name="display_mode">Zaslon</string>
      <string name="display_setting">Prikazane stvari</string>
      <string name="dlg_error_unmount_text">Ni bilo mogoče izvreči zunanjega pomnilnika.</string>
      <string name="doc_all">Vse</string>
@@ -506,6 +518,7 @@ Poskusite premakniti datoteke iz vaše naprave v Mi Drive."</string>
      <string name="ftp_anonymous_login">Anonimna prijava</string>
      <string name="ftp_anonymous_warning_msg">Storitve anonimizacije lahko predstavljajo varnostno tveganje. Vseeno uporabim?</string>
      <string name="ftp_anonymous_warning_title">Pozor</string>
+     <string name="ftp_invalid_username">"Uporabniško ime ne sme vsebovati posebnih znakov. Vnesite drugo ime."</string>
      <string name="ftp_invalid_username_or_password">Nepravilno uporabniško ime ali geslo.</string>
      <string name="ftp_open_port_error">"Napaka pri odpiranju vrat: preverite vašo povezavo ali ponastavite številko vrat."</string>
      <string name="ftp_password_hint">Geslo</string>
@@ -514,6 +527,7 @@ Poskusite premakniti datoteke iz vaše naprave v Mi Drive."</string>
      <string name="ftp_username_and_passworld">Prijava</string>
      <string name="ftp_username_hint">Uporabniško ime</string>
      <string name="full_gems">Zamenjajte svoje dragulje</string>
+     <string name="func_settings">Nastavitve storitev</string>
      <string name="function_file_operation">"Za prikaz ali urejanje datotek"</string>
      <string name="function_set_private">"Za pregled in šifriranje datotek; "</string>
      <string name="function_use_imei">"Za dostop do IMEI in šifriranje datotek; "</string>
@@ -576,6 +590,7 @@ Poskusite premakniti datoteke iz vaše naprave v Mi Drive."</string>
      <string name="instruction_pre_phone">Upravljajte datoteke v tej napravi z računalnikom</string>
      <string name="interest_recommend">Priporočeni videoposnetki</string>
      <string name="internal_storage">Notranji pomnilnik</string>
+     <string name="internal_storage_device">Naprava</string>
      <string name="is_playing">Predvajanje…</string>
      <string name="item_view_role_description">Zavihek</string>
      <string name="join_activity">Sodeluj</string>
@@ -746,6 +761,7 @@ Poskusite premakniti datoteke iz vaše naprave v Mi Drive."</string>
      <string name="miuix_appcompat_delete_description">Izbriši</string>
      <string name="miuix_appcompat_deselect_all">Prekliči vse</string>
      <string name="miuix_appcompat_deselect_all_description">Prekliči vse</string>
+     <string name="miuix_appcompat_edit">Uredi</string>
      <string name="miuix_appcompat_search_action_mode_cancel">Prekliči</string>
      <string name="miuix_appcompat_search_input_description">Išči</string>
      <string name="miuix_appcompat_select_all">Izberi vse</string>
@@ -753,6 +769,10 @@ Poskusite premakniti datoteke iz vaše naprave v Mi Drive."</string>
      <string name="miuix_appcompat_select_item">Izberi stvari</string>
      <string name="miuix_indexer_collect">Zbirke</string>
      <string name="miuix_indexer_selected">Izbrano %s</string>
+     <string name="miuix_item_view_role_description">Zavihek</string>
+     <string name="miuix_navigator_content_switch_description">Pokaži stransko vrstico</string>
+     <string name="miuix_navigator_multiple_choice">Izberi</string>
+     <string name="miuix_navigator_navigator_switch_description">Skrij stransko vrstico</string>
      <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Podrsaj dol za osvežitev</string>
      <string name="miuix_sbl_tracking_progress_labe_refreshed">Končano</string>
      <string name="miuix_sbl_tracking_progress_labe_refreshing">Osvežujem…</string>
@@ -884,6 +904,8 @@ Poskusite premakniti datoteke iz vaše naprave v Mi Drive."</string>
      <string name="my_video">Videoposnetki</string>
      <string name="my_video_desc" />
      <string name="name_empty">Vnesite ime</string>
+     <string name="navigator_label_all_files">Vse datoteke</string>
+     <string name="navigator_label_external_devices">Zunanje naprave</string>
      <string name="need_login">Najprej se prijavite</string>
      <string name="need_open_content">Raziskovalcu dovolite dostop do vaših fotografij in datotek za uporabo te storitve.</string>
      <string name="need_open_permission">Zahtevana so dovoljenja</string>
@@ -1122,6 +1144,10 @@ in ne spreglejte novih cool nalepk!"</string>
      <string name="permission_account_title_pad">Dostop do računov naprave</string>
      <string name="permission_denial">"Ne morem dostopiti do datotek. Dovolite aplikaciji Raziskovalec dostop do datotek v nastavitvah."</string>
      <string name="permission_description">Podrobnosti o dovoljenjih</string>
+     <string name="permission_group_description_phone">Ko nastavite datoteko kot zasebno, bo ta aplikacija zbrala IMEI vaše naprave za namene prepoznavanja, shranjevanja in odklepanja</string>
+     <string name="permission_group_description_storage_space">Dostop in dodajanje stvari v shrambo</string>
+     <string name="permission_group_name_phone">Telefon</string>
+     <string name="permission_group_name_storage_space">Shramba</string>
      <string name="permission_required">"Ne morem dostopiti do datotek. Dovolite aplikaciji Raziskovalec dostop do datotek v nastavitvah.​"</string>
      <string name="permission_storage_desc_pad">Za shranjevanje fotografij in dokumentov v vašo napravo</string>
      <string name="permission_storage_title">Dostop do pomnilnika naprave</string>
@@ -1166,6 +1192,7 @@ in ne spreglejte novih cool nalepk!"</string>
      <string name="popup_msg_wb">Cool videoposnetek? Delite ga z vašimi Weibo prijatelji!</string>
      <string name="popup_msg_wx">Delite ta video z vašimi WeChat prijatelji.</string>
      <string name="port_range">Vrata morajo biti med 1024–65535</string>
+     <string name="positive_order">Forward</string>
      <string name="pre_privacy_recall">Preklic soglasja</string>
      <string name="pref_permission_allowed">Dovoljeno</string>
      <string name="pref_permission_manage_key_storage">Dostop do fotografij in datotek v napravi</string>
@@ -1209,6 +1236,9 @@ in ne spreglejte novih cool nalepk!"</string>
      <string name="query_quota_searching">Delam…</string>
      <string name="quota_info">MiDrive: %1$s na voljo, %2$s skupaj</string>
      <string name="qzone_platform">Qzone</string>
+     <string name="recent_file_by_source">Vir datoteke</string>
+     <string name="recent_file_sort_by_date">Datum</string>
+     <string name="recent_file_sort_type">Razvrsti po</string>
      <string name="recent_hide_camera_and_screenshots">"Med nedavnimi datotekami ne kaži stvari iz galerije in posnetkov zaslona"</string>
      <string name="recent_hide_cloud_drive_files">"Med nedavnimi datotekami ne kaži Mi Drive datotek"</string>
      <string name="recent_show">Nedavno</string>
@@ -1250,6 +1280,7 @@ in ne spreglejte novih cool nalepk!"</string>
      <string name="request_timeout">Omrežna zahteva je potekla</string>
      <string name="reset_password">Spremeni geslo</string>
      <string name="restoring">Obnavljam…</string>
+     <string name="reverse_order">Vzvratno</string>
      <string name="rlv_closing">Zapiranje…</string>
      <string name="rlv_last_loading_time">Zadnja osvežitev: %1$s</string>
      <string name="rlv_last_refreshing_time">Posodobljeno %1$s</string>
@@ -1281,6 +1312,7 @@ in ne spreglejte novih cool nalepk!"</string>
      <string name="search_app_more">Več</string>
      <string name="search_category">Kategorije</string>
      <string name="search_category_folder">Mape</string>
+     <string name="search_category_type">Iskanje po kategoriji</string>
      <string name="search_description">Preišči vse datoteke v napravi</string>
      <string name="search_empty_view_hint">Ni rezultatov</string>
      <string name="search_error_hint">Išči</string>
@@ -1315,6 +1347,7 @@ in ne spreglejte novih cool nalepk!"</string>
      <string name="search_statistic_appname">Izvor</string>
      <string name="search_statistic_keyword">Ključna beseda</string>
      <string name="search_statistic_tag">Oznaka</string>
+     <string name="search_text_hint">Iskanje datotek</string>
      <string name="search_title">Išči</string>
      <string name="search_title_hint">Išči</string>
      <string name="search_topic">Išči teme</string>
@@ -1408,6 +1441,7 @@ in ne spreglejte novih cool nalepk!"</string>
      <string name="sort_hint_name">Razvrščeno po imenu</string>
      <string name="sort_hint_time">Razvrščeno po času</string>
      <string name="sort_hint_type">Razvrščeno po vrsti</string>
+     <string name="sort_mode">Vrstni red</string>
      <string name="sort_size_asc">Manjše proti večjem</string>
      <string name="sort_size_desc">Večje proti manjšemu</string>
      <string name="space_info">KuaiPan: %1$s na voljo, %2$s skupaj</string>
@@ -1710,9 +1744,12 @@ in ne spreglejte novih cool nalepk!"</string>
      <string name="video_uploaded">Naloženo</string>
      <string name="videos">Videoposnetki</string>
      <string name="view_master_rank">Pokaži Youliao top</string>
+     <string name="view_mode_grid">Mreža</string>
+     <string name="view_mode_list">Seznam</string>
      <string name="view_more_sticker">Pokaži več nalepk</string>
      <string name="view_top_rank">Pokaži lestvico</string>
      <string name="view_type">Prikaz</string>
+     <string name="view_type_mode">Postavitev</string>
      <string name="vip_info">VIP: %1$s</string>
      <string name="wait_net">Čakam na omrežje</string>
      <string name="wait_sdcard">Čakam na SD kartico...</string>

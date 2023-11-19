@@ -586,8 +586,8 @@ Vizitke stikov so izključene"</string>
      <string name="create_group_item_label">Ustvari novo skupino</string>
      <string name="create_qrcode_fail_message">Ne morem ustvariti QR kode</string>
      <string name="create_voip_shortcut_success">Bližnjica je napravljena</string>
-     <string name="cta_content_seg1"><Data>"&lt;strong>Važno obvestilo
-Če tapnete \"Strinjam se\" se strinjate z &lt;font color=#33aaff>&lt;a href ='https://static.account.xiaomi.com/html/agreement/account/en.html'>Mi račun pogoji uporabe&lt;/a>&lt;/font>, &lt;font color=#33aaff>&lt;a href ='https://cnbj1-fds.api.xiaomi.com/mimobile-static/mi-carrier-services-useragreement.html'>Mi gostovanje Pogoji uporabe&lt;/a>&lt;/font>, in &lt;font color=#33aaff>&lt;a href ='http://www.miui.com/res/doc/privacy/en.html'>Pravila o zasebnosti&lt;/a>&lt;/font>. Preden se strinjate, natančno preberite te dokumente in v celoti sprejmite vse povezane pogoje in določila.&lt;/strong>"</Data></string>
+     <string name="cta_content_seg1">"<Data>"&lt;strong>Važno obvestilo
+Če tapnete \"Strinjam se\" se strinjate z &lt;font color=#33aaff>&lt;a href ='https://static.account.xiaomi.com/html/agreement/account/en.html'>Mi račun pogoji uporabe&lt;/a>&lt;/font>, &lt;font color=#33aaff>&lt;a href ='https://cnbj1-fds.api.xiaomi.com/mimobile-static/mi-carrier-services-useragreement.html'>Mi gostovanje Pogoji uporabe&lt;/a>&lt;/font>, in &lt;font color=#33aaff>&lt;a href ='http://www.miui.com/res/doc/privacy/en.html'>Pravila o zasebnosti&lt;/a>&lt;/font>. Preden se strinjate, natančno preberite te dokumente in v celoti sprejmite vse povezane pogoje in določila.&lt;/strong>"</Data>"</string>
      <string name="cta_content_seg2">"
 Mi gostovanje se mora za normalno delovanje povezati s spletom in dostopati do informacij o vaši lokaciji. Poleg tega lahko Mi gostovanje zbira, uporablja in deli vaše osebne podatke. Vaši osebni podatki bodo zaščiteni v skladu z lokalnimi zakoni in predpisi."</string>
      <string name="cta_dialog_cancel">Izhod</string>
@@ -1209,6 +1209,10 @@ ki bo prikazan drugim MIUI uporabnikom na njihovih napravah kadar jih kličete"<
      <string name="miuix_appcompat_select_item">Izberi stvari</string>
      <string name="miuix_indexer_collect">Zbirke</string>
      <string name="miuix_indexer_selected">Izbrano %s</string>
+     <string name="miuix_item_view_role_description">Zavihek</string>
+     <string name="miuix_navigator_content_switch_description">Pokaži stransko vrstico</string>
+     <string name="miuix_navigator_multiple_choice">Izberi</string>
+     <string name="miuix_navigator_navigator_switch_description">Skrij stransko vrstico</string>
      <string name="miuix_sb_tracking_progress_labe_pull_to_refresh">Podrsaj dol za osvežitev</string>
      <string name="miuix_sb_tracking_progress_labe_refreshed">Osveženo</string>
      <string name="miuix_sb_tracking_progress_labe_refreshing">Osveževanje</string>

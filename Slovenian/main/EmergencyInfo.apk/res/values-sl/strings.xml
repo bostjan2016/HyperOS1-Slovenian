@@ -38,8 +38,8 @@
      <string name="accessibility_data_signal_full">Podatkovni signal poln.</string>
      <string name="accessibility_data_three_bars">Podatki tri vrstice.</string>
      <string name="accessibility_data_two_bars">Podatki dve vrstici.</string>
-     <string name="accessibility_display_daltonizer_preference_subtitle">Popravljanje barv je lahko koristno, če želite:&lt;br/> &lt;ol> &lt;li>&amp;nbsp;Videti barve natančneje&lt;/li> &lt;li>&amp;nbsp;Odstraniti barve, da
-se lažje osredotočite&lt; /li> &lt;/ol></string>
+     <string name="accessibility_display_daltonizer_preference_subtitle">"Popravljanje barv je lahko koristno, če želite:&lt;br/> &lt;ol> &lt;li>&amp;nbsp;Videti barve natančneje&lt;/li> &lt;li>&amp;nbsp;Odstraniti barve, da
+se lažje osredotočite&lt; /li> &lt;/ol>"</string>
      <string name="accessibility_display_daltonizer_preference_title">Popravljanje barv</string>
      <string name="accessibility_ethernet_connected">Ethernet.</string>
      <string name="accessibility_ethernet_disconnected">Povezava z ethernetom je prekinjena.</string>
@@ -212,6 +212,7 @@ se lažje osredotočite&lt; /li> &lt;/ol></string>
      <string name="bluetooth_profile_headset">Telefonski klici</string>
      <string name="bluetooth_profile_hearing_aid">Slušni aparati</string>
      <string name="bluetooth_profile_hid">Vhodna naprava</string>
+     <string name="bluetooth_profile_le_audio">LE zvok</string>
      <string name="bluetooth_profile_map">SMS-i</string>
      <string name="bluetooth_profile_opp">Prenos datotek</string>
      <string name="bluetooth_profile_pan">Dostop do spleta</string>
@@ -716,6 +717,7 @@ Vsakdo lahko prebere te podatke z zaklenjenega zaslona in pokliče vaše stike t
      <string name="strict_mode">Omogočen strogi način</string>
      <string name="strict_mode_summary">Zaslon utripa, ko aplikacije izvajajo dolge operacije v glavni niti</string>
      <string name="sud_back_button_label">Nazaj</string>
+     <string name="sud_default_device_name">naprava</string>
      <string name="sud_more_button_label">Več</string>
      <string name="sud_next_button_label">Naprej</string>
      <string name="sud_skip_button_label">Preskoči</string>

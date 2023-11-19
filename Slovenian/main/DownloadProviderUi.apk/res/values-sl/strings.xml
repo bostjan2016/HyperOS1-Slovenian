@@ -189,6 +189,7 @@ Pošljite to kodo tehnikom."</string>
      <string name="download_title_sorted_by_date">Razvrsti po datumu</string>
      <string name="download_title_sorted_by_size">Razvrsti po velikosti</string>
      <string name="download_wait_connect">Čakanje povezave</string>
+     <string name="download_waiting">Na čakanju</string>
      <string name="download_when_network_connected">Prenesi preko podatkovne povezave</string>
      <string name="downloaded">Prenos končan</string>
      <string name="downloaded_empty">Prazno</string>
@@ -223,7 +224,7 @@ Pošljite to kodo tehnikom."</string>
      <string name="fmt_date_long_month_day">dd.MM</string>
      <string name="fmt_date_long_year_month">MMMM, yyyy</string>
      <string name="fmt_date_long_year_month_day">dd.MM. yyyy</string>
-    <string name="fmt_date_numeric_day">d</string>
+     <string name="fmt_date_numeric_day">d</string>
      <string name="fmt_date_numeric_month">MM.</string>
      <string name="fmt_date_numeric_month_day">dd.MM.</string>
      <string name="fmt_date_numeric_year">yyyy</string>
@@ -304,6 +305,7 @@ Pošljite to kodo tehnikom."</string>
      <string name="install_failed">"Ne morem namestiti %1$s"</string>
      <string name="installing">Nameščanje…</string>
      <string name="insufficient_space">Ni dovolj prostora za shranjevanje</string>
+     <string name="introduction">O tem</string>
      <string name="invalid_address">Naslov ki ste ga vnesli ni veljaven</string>
      <string name="jump_rank_hint">"Preglejte današnje prevzeme &gt;"</string>
      <string name="jump_rank_hint2">Oglejte si najbolj priljubljene prenose</string>
@@ -353,6 +355,10 @@ Pošljite to kodo tehnikom."</string>
      <string name="miuix_appcompat_select_item">Izberi stvari</string>
      <string name="miuix_indexer_collect">Zbirke</string>
      <string name="miuix_indexer_selected">Izbrano %s</string>
+     <string name="miuix_item_view_role_description">Zavihek</string>
+     <string name="miuix_navigator_content_switch_description">Pokaži stransko vrstico</string>
+     <string name="miuix_navigator_multiple_choice">Izberi</string>
+     <string name="miuix_navigator_navigator_switch_description">Skrij stransko vrstico</string>
      <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povleci za osvežitev</string>
      <string name="miuix_sbl_tracking_progress_labe_refreshed">Končano</string>
      <string name="miuix_sbl_tracking_progress_labe_refreshing">Osveževanje</string>

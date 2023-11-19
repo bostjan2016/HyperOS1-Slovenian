@@ -193,6 +193,7 @@
         <item>polno</item>
         <item>snoopheadersfiltered</item>
         <item>mediapktsfiltered</item>
+	<item>profilesfiltered</item>
      </string-array>
      <string-array name="color_mode_descriptions">
         <item>Izboljšane barve</item>

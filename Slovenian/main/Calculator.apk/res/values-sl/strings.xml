@@ -213,6 +213,7 @@
      <string name="factorialDesc">faktorsko</string>
      <string name="fat">Prekomerna teža</string>
      <string name="female">Spol: ženski</string>
+     <string name="finance_interest">Obrestna mera (%s)</string>
      <string name="float_window">Zmanjšaj</string>
      <string name="float_window_guide_text">Tapnite da boste zmanjšali kalkulator</string>
      <string name="fmt_date">D</string>
@@ -294,6 +295,7 @@
      <string name="golbal_search_calculator_setting">Kalkulator; Nastavitve kalkulatorja; Nastavitve</string>
      <string name="golbal_search_path_calculator_setting">Sistemske aplikacije/Kalkulator/Nastavitve</string>
      <string name="gst_percentage">%s</string>
+     <string name="height">Višina (cm)</string>
      <string name="height_prompt">Višina</string>
      <string name="help_content_desc">Pomoč</string>
      <string name="hint_age">Vnesite starost</string>
@@ -1023,6 +1025,7 @@ Vedite da se aplikacija mora povezati s spletom in zahteva naslednja dovoljenja 
      <string name="unit_data_short_time_ps">ps</string>
      <string name="unit_data_short_time_s">s</string>
      <string name="unit_data_short_time_us">μs</string>
+     <string name="unit_data_short_time_week">ted</string>
      <string name="unit_data_short_time_yr">l</string>
      <string name="unit_data_short_velocity_c">c</string>
      <string name="unit_data_short_velocity_ftps">fps</string>

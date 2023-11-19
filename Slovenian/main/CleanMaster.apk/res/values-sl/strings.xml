@@ -54,6 +54,7 @@
      <string name="activity_title_video">Izbriši videoposnetke</string>
      <string name="activity_title_white_list">Izjeme</string>
      <string name="ad_description" formatted="false">%s | Verzija %s | %s | %s</string>
+     <string name="ad_flag_text">Oglasi</string>
      <string name="ad_install_success_dialog_lunch">Odpri</string>
      <string name="ad_install_success_dialog_title">%1$s uspešno nameščen. Odprem?</string>
      <string name="afternoon">Popoldne</string>
@@ -642,6 +643,7 @@
      <string name="last_check_canceled">Zadnje preverjanje je bilo odpovedano</string>
      <string name="load_only_under_wlan">Naloži novice kadar je povezano na WiFi</string>
      <string name="location_not_found">"Ne najdem datoteke"</string>
+     <string name="lock_device_toast">Ta naprava je zaklenjena. Odklenite za uporabo programa Čistilec.</string>
      <string name="login_immediately">Prijavite se</string>
      <string name="long_click_dialog_summary">Dolg pritisk za dodajanje v izjeme.</string>
      <string name="long_click_dialog_title">Obvestilo</string>
@@ -763,6 +765,9 @@
      <string name="msg_update_error_code_unknown_error">Strežniki so zasedeni, poskusite kasneje</string>
      <string name="name_debuglog_dir">Dnevnik odpravljanja napak BSP</string>
      <string name="name_optimizer">Pravila o zasebnosti</string>
+     <string name="native_body">Telo</string>
+     <string name="native_headline">Naslov</string>
+     <string name="native_media_view">Pogled medijev</string>
      <string name="nb_clear_set">Počisti predpomnilnik, pokaži baterijo in seznam blokiranih v plošči obvestil</string>
      <string name="net_assistant_detail">Izkoriščeno %1$s, prihranjeno %2$s</string>
      <string name="net_assistant_title">Izkoriščeno %s mob. pod. ta mesec</string>
