@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string-array name="account_user_gender_name">
+        <item>Moški</item>
+        <item>Ženska</item>
+     </string-array>
+     <string-array name="exo_controls_playback_speeds">
+        <item>0.25x</item>
+        <item>0.5x</item>
+        <item>0.75x</item>
+        <item>Normalno</item>
+        <item>1.25x</item>
+        <item>1.5x</item>
+        <item>2x</item>
+     </string-array>
+     <string-array name="menu_theme_setting">
+        <item>Bela</item>
+        <item>Rumena</item>
+        <item>Siva</item>
+        <item>Rjava</item>
+        <item>Zelena</item>
+        <item>Modra</item>
+     </string-array>
+     <string-array name="nf_ad_feedback_reason">
+        <item>Ni zanimivo</item>
+        <item>Ponavljajoče</item>
+        <item>Slaba kvaliteta</item>
+        <item>Neprimerne fotografije</item>
+        <item>Goljufive informacije</item>
+     </string-array>
+     <string-array name="nf_feedback_reason">
+        <item>Eksplicitna vsebina</item>
+        <item>Laž</item>
+        <item>Stare novice</item>
+        <item>Ekstremistični pogledi</item>
+        <item>Subliminalno oglaševanje</item>
+        <item>"Ni mi všeč"</item>
+     </string-array>
+     <string-array name="pref_fling_on_border_gesture_entries">
+        <item>Nazaj/naprej</item>
+        <item>Preklopi med zavihki</item>
+        <item>Nič</item>
+     </string-array>
+     <string-array name="pref_homepage_choices">
+        <item>Privzeta začetna stran</item>
+        <item>Po meri</item>
+     </string-array>
+     <string-array name="pref_nav_mode_summary">
+        <item>Telefon</item>
+        <item>Tablica</item>
+     </string-array>
+     <string-array name="pref_navscreen_layoutstate_choices">
+        <item>Navpični pogled</item>
+        <item>Vodoravni pogled</item>
+     </string-array>
+     <string-array name="pref_security_do_not_track_keys">
+        <item>Vklop</item>
+        <item>Samo v načinu brez beleženja zgodovine</item>
+        <item>Izklopi</item>
+     </string-array>
+     <string-array name="pref_text_zoom_choices">
+        <item>Drobno</item>
+        <item>Majhno</item>
+        <item>Normalno</item>
+        <item>Veliko</item>
+        <item>Ogromno</item>
+     </string-array>
+     <string-array name="pref_ua_choices">
+        <item>Android</item>
+        <item>Namizje</item>
+        <item>iPhone</item>
+        <item>iPad</item>
+     </string-array>
+     <string-array name="pref_web_permissions">
+        <item>Omeji</item>
+        <item>Vprašaj</item>
+        <item>Dovoli</item>
+     </string-array>
+     <string-array name="pref_web_permissions_sub_one">
+        <item>Omeji</item>
+        <item>Vprašaj</item>
+     </string-array>
+     <string-array name="pref_web_permissions_sub_two">
+        <item>Omeji</item>
+        <item>Dovoli</item>
+     </string-array>
+     <string-array name="protection_name">
+        <item>Samod.</item>
+        <item>Nič</item>
+        <item>Nov uporabnik</item>
+     </string-array>
+     <string-array name="setting_swipe_up_target">
+        <item>Iskanje</item>
+        <item>Novice</item>
+     </string-array>
+     <string-array name="shortcut_dialog_delete">
+        <item>Izbriši</item>
+        <item>Ne, hvala</item>
+     </string-array>
+     <string-array name="shortcut_dialog_keep">
+        <item>V redu</item>
+        <item>Sledi</item>
+     </string-array>
+     <string-array name="shortcut_dialog_title">
+        <item>Sporočilo iz brskalnika</item>
+        <item>Spremljajte OI z Mi</item>
+     </string-array>
+     <string-array name="speed_result_tips">
+        <item>Trenutna omrežna povezava je zelo počasna. Kaže, da ste na območju s slabo pokritostjo omrežja.</item>
+        <item>Trenutna omrežna povezava je počasna.</item>
+        <item>Niso bile najdene težave z omrežno povezavo.</item>
+        <item>Trenutna omrežna povezava je hitra. Dovolj je za gledanje filmov!</item>
+        <item>Trenutna omrežna povezava je zelo hitra. Odlično vam gre!</item>
+     </string-array>
+     <string-array name="user_guide_info_array">
+        <item>Prenesite videoposnetke in slike iz družbenih medijev</item>
+        <item>Shranite fotografije in videoposnetke iz WhatsAppa</item>
+        <item>Uredite datoteke v vaši napravi in jih naredite zasebne</item>
+     </string-array>
+     <string-array name="user_guide_title_array">
+        <item>Prenesite videoposnetke</item>
+        <item>Shranjevalec WhatsAppa</item>
+        <item>Zasebne datoteke</item>
+     </string-array>
+</resources>
