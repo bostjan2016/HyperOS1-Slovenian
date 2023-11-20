@@ -190,6 +190,7 @@
      <string name="fp_nav_center_action_choose_dlg_negative_btn_text">Ne, hvala</string>
      <string name="fp_nav_center_action_choose_dlg_positive_btn_text">Vključi</string>
      <string name="fp_nav_center_action_choose_dlg_title">Vključi Hitri dotik</string>
+     <string name="free_form_recommend_tip">Plavajoče okno</string>
      <string name="freeform_exchange_tip">Odpri plavajoče okno v celozaslonskem načinu</string>
      <string name="freeform_exchange_tip2">Povlecite v kot da prenehate</string>
      <string name="freeform_exchange_tip3">Odpri plavajoče okno v celozaslonskem načinu</string>
@@ -243,6 +244,13 @@
      <string name="high_temperature_brightness_toast">Večja svetlost zaslona bo napravo segrela in porabila več energije</string>
      <string name="hisense">Hisense</string>
      <string name="hisense_phone">Hisense</string>
+     <string name="hovermode_text_confirm">Razumem</string>
+     <string name="hovermode_text_doubleclick">Dvakrat tapnite za premor/predvajanje</string>
+     <string name="hovermode_text_drag">Podrsajte za povečavo</string>
+     <string name="hovermode_text_help">Pomoč</string>
+     <string name="hovermode_text_left">Prilagodi svetlost</string>
+     <string name="hovermode_text_prompt">Ko je način lebdenja vklopljen, uporabite poteze na spodnji polovici zaslona. Med aplikacijami lahko pride do razlik.</string>
+     <string name="hovermode_text_right">Prilagodi glasnost</string>
      <string name="hs_guide_dialog_button_confirm">Razumem</string>
      <string name="hs_guide_dialog_message">"Ta aplikacija še ni bila optimizirana za novi ležeči način. Namesto tega prekloplljeno na drugo združljivo postavitev."</string>
      <string name="hs_guide_dialog_title">Pozor</string>
@@ -387,12 +395,12 @@
      <string name="mw_guide_dialog_title">"Vzporedna okna niso podprta"</string>
      <string name="name_with_ellipsize">%1$s…%2$s</string>
      <string name="nearby_share">Bluetooth</string>
+     <string name="no_avaliable_application">Na voljo ni nobene aplikacije</string>
      <string name="notice_audition">Zvoki narave</string>
      <string name="notification_channel_hotspot">Hotspot obvestilo</string>
      <string name="notificationxylophone">Obvestila (Xylophone)</string>
      <string name="nps_ContentText">Kliknite za preverjanje podrobnosti</string>
      <string name="nps_ContentTitle">Iskanje GPS</string>
-
      <string name="nps_blur_ContentText">zdaj uporablja zamegljeno lokacijo</string>
      <string name="nps_close_blur_location">Vklopite dovoljenje za visoko natančnost</string>
      <string name="nps_close_mock_location">onemogočite lažno lokacijo</string>
@@ -408,6 +416,7 @@
      <string name="open_close_tip_action">Razumem</string>
      <string name="open_close_tip_content">Da zaprete plavajoče okno pritisnite in držite delovni trak, potem pa povlecite gor</string>
      <string name="open_miui_optimization">Najprej vklopite MIUI optimizacijo</string>
+     <string name="open_system_optimization">Najprej vklopite sistemsko optimizacijo</string>
      <string name="oppo">OPPO</string>
      <string name="oppo_phone">OPPO</string>
      <string name="orange">Orange</string>
@@ -488,6 +497,7 @@
      <string name="rescuepartyplus_config_reset_context">Nekateri podatki so morda izbrisani. Tapnite za ogled podrobnosti.</string>
      <string name="rescuepartyplus_config_reset_title">Popravilo sistema končano</string>
      <string name="resolver_app_recommend_flag">Priporočeno</string>
+     <string name="resolver_cast">Pretakanje</string>
      <string name="resolver_checkbox_always">Zmeraj</string>
      <string name="resolver_checkbox_once">Enkrat</string>
      <string name="resolver_mi_browser">Mi brskalnik</string>
@@ -650,6 +660,10 @@
      <string name="tip_use_front_camera">"Zložite napravo 
 da uporabite sprednjo kamero"</string>
      <string name="tips_prompt_enable_midrop">Delite datoteke z napravami v bližini</string>
+     <string name="tof_music_support_scene_des">Podpira kontrole predvajalnika glasbe</string>
+     <string name="tof_office_support_scene_des">Podpira Wordove dokumente in PowerPoint predstavitve</string>
+     <string name="tof_short_video_support_scene_des">Podpira preklapljanje med videi</string>
+     <string name="tof_video_support_scene_des">Podpira celozaslonske kontrole video predvajalnika</string>
      <string name="total">DND</string>
      <string name="total_description">Utišaj zvoke in izključi vibriranje za vse stvari razen alarma</string>
      <string name="total_title">Ne moti</string>
@@ -683,6 +697,7 @@ da uporabite sprednjo kamero"</string>
      <string name="voice_button_action_up">Pritisni za pogovor</string>
      <string name="voice_input_error_network">"Ne morem se povezati na omrežje. Preverite mrežne nastavitve in poskusite ponovno."</string>
      <string name="voice_input_error_other">Prišlo je do napake. Počakajte minuto ali dve in poskusite ponovno.</string>
+     <string name="wallpaper_geometrically_irregular_title">Abstraktna geometrija</string>
      <string name="wallpaper_group_black_gobi_title">Puščava Gobi</string>
      <string name="wallpaper_group_black_white_title">Črno in belo</string>
      <string name="wallpaper_group_color_move_title">Tekoče barve</string>
@@ -707,6 +722,10 @@ da uporabite sprednjo kamero"</string>
      <string name="wallpaper_group_red_mars_title">Mars</string>
      <string name="wallpaper_group_sgn_mountain_title">Gora Siguniang</string>
      <string name="wallpaper_group_shadow_geometry_title">Geometrija senc</string>
+     <string name="wallpaper_neon_title">Neon</string>
+     <string name="wallpaper_overlapping_space_title">Oblika in senca</string>
+     <string name="wallpaper_submerged_wing_title">Teksture</string>
+     <string name="wallpaper_wabi_sabi_title">Wabi-sabi</string>
      <string name="waterdrop_preview">Kapljice</string>
      <string name="wifi_assistant_wifi_no_internet">To WiFi omrežje nima dostopa do spleta</string>
      <string name="wifi_assistant_wifi_no_internet_detail">Tapni za prikaz podrobnosti</string>

@@ -216,6 +216,7 @@
      <string name="autologin_bar_login_text">Vpišite se</string>
      <string name="autologin_bar_text">Vpišite se kot</string>
      <string name="avatar">Profilna slika</string>
+     <string name="back">Nazaj</string>
      <string name="back_button_label">Nazaj</string>
      <string name="back_description">Nazaj</string>
      <string name="back_dialog_antivirus_primary_btn">Išči</string>
@@ -499,6 +500,7 @@ Preklopite za ustavitev sinhronizacije."</string>
      <string name="confirm_unbundled_phone_dialog_message">Ta telefonska številka je povezana z Mi Računom %2$s na %1$s. Ta ne bo več povezan z Mi Računom %3$s če nadaljujete. Želite nadaljevati?</string>
      <string name="connection_lost">Povezava prekinjena</string>
      <string name="consume">Odhodno</string>
+     <string name="content_center_title">Center za vsebine</string>
      <string name="content_collection_done">Uspešno dodano med priljubljene</string>
      <string name="content_recommend">Priporočeno</string>
      <string name="contextmenu_add_contact">Dodaj stik</string>
@@ -2815,7 +2817,11 @@ Nekatera spletna mesta ne bodo uporabila vaše prejšnje zgodovine brskanja za p
      <string name="tuesday">Torek</string>
      <string name="tuesday_short">Tor</string>
      <string name="tuesday_shortest">T</string>
-     <string name="twitter_moments">Twitter Moments</string>
+     <string name="turn_off_dia_btn_cancel">Prekliči</string>
+     <string name="turn_off_dia_btn_turn_off">Izključi</string>
+     <string name="turn_off_dia_content">"Če izklopite Center za vsebine, ne boste mogli povleči navzgor z začetnega zaslona. Dejanje za to potezo lahko uredite v Nastavitve > Začetni zaslon. Izklopim Center za vsebine zdaj?"</string>
+     <string name="turn_off_dia_title">Izklopim Center za vsebine?</string>
+     <string name="twitter_moments">Twitter trenutki</string>
      <string name="type_not_support">Ta format datoteke ni podprt. Razširite datoteko in poskusite ponovno.</string>
      <string name="unSwitchText">NE</string>
      <string name="unauthorized_toast">Vaša seja je potekla. Ponovno se prijavite.</string>
@@ -2856,10 +2862,16 @@ Nekatera spletna mesta ne bodo uporabila vaše prejšnje zgodovine brskanja za p
 Kadarkoli se lahko izpišete iz programa v Nastavitve > Zasebnost in varnost."</string>
      <string name="user_experience_disagree">Ne sodeluj</string>
      <string name="user_experience_title">Program uporabniških izkušenj</string>
+     <string name="user_guide_agree">Se strinjam</string>
      <string name="user_guide_color_mode_info">Na voljo sta svetli in temni način</string>
      <string name="user_guide_color_mode_title">Izberite barvno shemo</string>
      <string name="user_guide_control_privacy_tips">Popolnoma nadzorujte vašo zasebnost</string>
+     <string name="user_guide_disagree">"Ne strinjam se"</string>
+     <string name="user_guide_privacy_message">Preberite in se strinjate z &lt;font color=#0a84ff>&lt;a href=%1$s style=color:#0a84ff;>Pravila o zasebnosti&lt;/a>&lt;/font> in &lt;font color=#0a84ff>&lt;a href=%2$s style=color:#0a84ff;>Pogoji uporabe&lt;/a>&lt;/font> pred uporabo.</string>
+     <string name="user_guide_provide_service_content">Priljubljeni videi in novice</string>
+     <string name="user_guide_provide_service_title">Ta storitev nudi naslednje:</string>
      <string name="user_guide_read_info_tips">Da boste lahko vključili aplikacije v rezultate iskanja, mora Mi brskalnik dostopati do seznama aplikacij, ki so nameščene na vaši napravi.</string>
+     <string name="user_guide_turn_off_feature">Če želite izklopiti to storitev, tapnite &lt;font color=#0a84ff>&lt;u>tukaj&lt;/u>&lt;/font>.</string>
      <string name="user_id_hint">E-naslov/Telefon/ID Mi Računa</string>
      <string name="username">Ime</string>
      <string name="uuid">UUID(Kliknite Za izvoz)</string>
@@ -3130,6 +3142,7 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
      <string name="whatsapp_tab_status">Stanje</string>
      <string name="whatsapp_webpage_btn">Pokaži</string>
      <string name="whatsapp_webpage_tips">Shranjevalec WhatsAppa</string>
+     <string name="withdraw_dia_content">Če prekličete svoje soglasje s pravilnikom o zasebnosti Center za vsebine, bo ta storitev prenehala zbirati vaše osebne podatke. Vsi osebni podatki, ki so bili predhodno zbrani in naloženi na naše strežnike bodo izbrisani. Ko prekličete svoje soglasje, ne boste mogli več uporabljati Center za vsebine. Umaknem soglasje zdaj?</string>
      <string name="xiaomi_sign_in_btn_txt">Prijavite se ali ustvarite račun</string>
      <string name="xiaomi_update_sdk_bytes_unit">%1$sB</string>
      <string name="xiaomi_update_sdk_connect_download_manager_fail">Povezava upravitelja prenosov ni uspela, preverite stanje upravitelja prenosov v upravljanju aplikacij.</string>

@@ -154,6 +154,9 @@ Za več informacij, vključno s pravilniki organizacije o zasebnosti, se obrnite
      <string name="fully_managed_device_provisioning_step_2_subheader">Skrbnik za IT bo morda lahko videl podatke in dejavnost v tej %1$s.</string>
      <string name="fully_managed_device_provisioning_summary">Uporabite ta %1$s za enostaven dostop do službenih aplikacij. Ta %1$s ni zaseben, zato bo vaš skrbnik IT morda lahko videl vaše podatke in dejavnost.</string>
      <string name="fully_managed_device_reset_and_return_button">Ponastavi napravo pred vrnitvijo</string>
+     <string name="fully_managed_device_reset_button">Tovarniška ponastavitev</string>
+     <string name="fully_managed_device_unsupported_DPC_in_headless_mode_header">"Naprave ni mogoče nastaviti"</string>
+     <string name="fully_managed_device_unsupported_DPC_in_headless_mode_subheader">"Te naprave ni mogoče prijaviti v popolnoma upravljani način. Ponastavite napravo na tovarniške nastavitve in se obrnite na skrbnika IT."</string>
      <string name="fully_managed_device_with_permission_control_provisioning_summary">Uporabite ta %1$s za enostaven dostop do službenih aplikacij. Ta %1$s ni zaseben, zato bo vaš skrbnik IT morda lahko videl vašo dejavnost in podatke. Vaš skrbnik za IT lahko nastavi tudi dovoljenja za aplikacije v tej napravi, kot so dovoljenja za mikrofon, kamero in lokacijo.</string>
      <string name="icon_content_description">Pogovorno okno</string>
      <string name="if_questions_contact_admin">Če imate dodatna vprašanja se obrnite na administratorja organizacije</string>

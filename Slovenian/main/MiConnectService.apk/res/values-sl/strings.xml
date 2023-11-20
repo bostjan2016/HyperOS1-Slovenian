@@ -192,6 +192,8 @@ Prepričajte se, da je vdelana programska oprema zvočnika posodobljena."</strin
      <string name="notification_scanning">Iskanje naprav v bližini…</string>
      <string name="ok">Končano</string>
      <string name="pm">pop.</string>
+     <string name="rationale_ask">Ta aplikacija morda ne bo delovala pravilno brez zahtevanih dovoljenj.</string>
+     <string name="rationale_ask_again">Ta aplikacija morda ne bo delovala pravilno brez zahtevanih dovoljenj. Odprite zaslon z nastavitvami aplikacije, da spremenite dovoljenja aplikacije.</string>
      <string name="saturday">Sobota</string>
      <string name="saturday_short">Sob</string>
      <string name="saturday_shortest">S</string>
@@ -221,6 +223,7 @@ Prepričajte se, da je vdelana programska oprema zvočnika posodobljena."</strin
      <string name="time_picker_dialog_title">Nastavi čas</string>
      <string name="time_picker_label_hour">H</string>
      <string name="time_picker_label_minute">M</string>
+     <string name="title_settings_dialog">Potrebna so dovoljenja</string>
      <string name="today">Danes</string>
      <string name="tomorrow">Jutri</string>
      <string name="tuesday">Torek</string>

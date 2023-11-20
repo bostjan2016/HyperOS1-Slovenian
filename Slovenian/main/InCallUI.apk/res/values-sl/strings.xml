@@ -37,10 +37,13 @@
      <string name="ai_mode_auto">Samodejno</string>
      <string name="ai_mode_manual">Ročno</string>
      <string name="ai_mode_subtitles">Naslovi</string>
+     <string name="align_satellite_model_exit">Izhod</string>
+     <string name="align_satellite_model_use">Začetek</string>
      <string name="am">dop.</string>
      <string name="antifraud_center">Platforma za opozorilo proti goljufijam</string>
      <string name="antifraud_center_incoming_prompt">"Ne zamudite nobenega klica z uradne platforme za opozarjanje na goljufije"</string>
      <string name="antispam_local_marked">Lokalno označen</string>
+     <string name="antispam_notification_text">Tapnite za vklop pametnih storitev Ne moti</string>
      <string name="antispam_notification_title">Neznana številka</string>
      <string name="antispam_provider">Identificirano od %s</string>
      <string name="areacode_set_default">Nastavi za privzeto</string>
@@ -224,7 +227,7 @@
      <string name="fmt_date_long_month_day">dd.MM</string>
      <string name="fmt_date_long_year_month">MMMM, yyyy</string>
      <string name="fmt_date_long_year_month_day">dd.MM. yyyy</string>
-    <string name="fmt_date_numeric_day">d</string>
+     <string name="fmt_date_numeric_day">d</string>
      <string name="fmt_date_numeric_month">MM.</string>
      <string name="fmt_date_numeric_month_day">dd.MM.</string>
      <string name="fmt_date_numeric_year">yyyy</string>
@@ -269,6 +272,8 @@
      <string name="fmt_weekday_time">W T</string>
      <string name="fmt_weekday_time_timezone">W T z</string>
      <string name="fmt_weekday_timezone">W z</string>
+     <string name="focus_notification_on_call">Kličem…</string>
+     <string name="focus_notification_on_ringing">Dohodni klic</string>
      <string name="font_camera_tip">Zložite napravo, da uporabite sprednjo kamero</string>
      <string name="fraud_call_answer">Odgovori</string>
      <string name="fraud_call_decline">Zavrni</string>
@@ -326,6 +331,7 @@
      <string name="miuix_appcompat_delete_description">Izbriši</string>
      <string name="miuix_appcompat_deselect_all">Prekliči vse</string>
      <string name="miuix_appcompat_deselect_all_description">Prekliči vse</string>
+     <string name="miuix_appcompat_edit">Uredi</string>
      <string name="miuix_appcompat_search_action_mode_cancel">Prekliči</string>
      <string name="miuix_appcompat_search_input_description">Išči</string>
      <string name="miuix_appcompat_select_all">Izberi vse</string>
@@ -466,11 +472,15 @@
      <string name="relay_cal_from_device_name">Od %1$s</string>
      <string name="relay_call">Prostoročno</string>
      <string name="relay_call_device_name">Povezana naprava (%1$s)</string>
+     <string name="relay_call_unable_to_work">"Te storitve ni mogoče uporabiti za preusmerjene klice"</string>
      <string name="relay_deny_permission_msg">"Ne morem tega brez dovoljenja za snemanje zvoka"</string>
+     <string name="relay_device_local">Ta naprava</string>
+     <string name="relay_device_type_pc">Računalnik</string>
      <string name="relay_grant_permissions_on_phone">Dajte dovoljenje za snemanje zvoka v telefonu</string>
      <string name="relay_known">Razumem</string>
      <string name="relay_network_error">Napaka omrežja</string>
      <string name="relay_network_error_msg">"Zaradi napake v omrežju ni mogoče sprejeti klicev v tej napravi. Namesto tega preklopite nazaj na telefon."</string>
+     <string name="relay_stop_recorder">Snemanje ustavljeno</string>
      <string name="remind_unlock_message">Vaša naprava je zaklenjena. \"%s\ bo na voljo ko odklenete napravo. Odklenem?"</string>
      <string name="remind_unlock_screen_message">Odklenite napravo, da boste lahko uporabljali \"%s\". Odklenem?</string>
      <string name="respond_via_sms_custom_message">Lastni SMS…</string>
@@ -484,6 +494,25 @@ Tapnite \"%1$s\" in izberite \"%2$s\"."</string>
      <string name="saf_permission_refused">"Ne morem snemati klicev zaradi manjkajočih dovoljenj"</string>
      <string name="saf_permission_title">Potrebna so dovoljenja</string>
      <string name="saf_permission_use_this_folder">Uporabi to mapo</string>
+     <string name="satellite_call_failed">Signal prekinjen. Poskusite ponovno.</string>
+     <string name="satellite_dialog_button">Plavajoče okno</string>
+     <string name="satellite_dialog_cancel">Prekliči</string>
+     <string name="satellite_guide_down">"Nagnite napravo navzdol
+da žogo položite v modro območje"</string>
+     <string name="satellite_guide_found">Najden satelit</string>
+     <string name="satellite_guide_left">"Nagnite napravo v levo
+da ikono satelita postavite v modro območje"</string>
+     <string name="satellite_guide_right">"Nagnite napravo v desno
+da ikono satelita postavite v modro območje"</string>
+     <string name="satellite_guide_searching">Iskanje satelita…</string>
+     <string name="satellite_guide_searching_floating">Iščem…</string>
+     <string name="satellite_guide_up">"Nagnite napravo navzgor
+da žogo položite v modro območje"</string>
+     <string name="satellite_incall_tip">Zvočnik je vključen</string>
+     <string name="satellite_service_provider">Ponuja China Telecom</string>
+     <string name="satellite_state">"Ne premikajte naprave"</string>
+     <string name="satellite_state_connected">"Povezano s satelitom. Ne premikajte naprave."</string>
+     <string name="satellite_state_connected_floating">"Ne premikajte naprave"</string>
      <string name="saturday">Sobota</string>
      <string name="saturday_short">Sob</string>
      <string name="saturday_shortest">S</string>
