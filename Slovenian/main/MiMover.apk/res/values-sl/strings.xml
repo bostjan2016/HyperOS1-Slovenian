@@ -588,7 +588,7 @@ Odprite WeChat in pojdite na Jaz > Nastavitve > Splošno > Var. kopija &amp; pre
      <string name="not_support_data_content1">%d. Stvari specifične za model naprave</string>
      <string name="not_support_data_content2">%d. Podatki izbranih aplikacij</string>
      <string name="not_support_data_content3">%d. Podatki Drugega prostora</string>
-     <string name="not_support_data_content4">4. Dvojne aplikacije</string>
+     <string name="not_support_data_content4">%d. Dvojne aplikacije</string>
      <string name="not_support_data_link">"Stvari ki se ne morejo prenesti"</string>
      <string name="not_support_data_summary1">"Kartic za prevoz in dostop ni mogoče prenesti; teme in ozadja je mogoče prenesti na nekatere modele."</string>
      <string name="not_support_data_summary2">Nekatere aplikacije določajo stroge varnostne ukrepe za preprečevanje prenosa podatkov aplikacij. Takšne ukrepe lahko vključujejo bančne aplikacije ali finančne storitve.</string>
@@ -837,6 +837,7 @@ Sprostite najmanj %s."</string>
      <string name="soft_ap_create_failed">Dostopne točke ni mogoče ustvariti. Poskusite ponovno. </string>
      <string name="soft_ap_create_failed_apple">"Kode QR ni bilo mogoče ustvariti"</string>
      <string name="soft_ap_creating">Ustvarjanje dostopne točke…</string>
+     <string name="ssid_name">SSID/ime WiFi</string>
      <string name="succ_description">Končano</string>
      <string name="summary_open_wlan">Mi Mover to dovoljenje potrebuje za zagotovitev stabilnosti postopka prenosa.</string>
      <string name="summary_request_alert_window_prem">Mi Mover to dovoljenje potrebuje za zagotovitev stabilnosti postopka prenosa.</string>

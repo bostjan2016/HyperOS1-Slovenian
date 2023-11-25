@@ -47,8 +47,10 @@
      <string name="anti_flicker_mode">Način proti utripanju</string>
      <string name="anti_flicker_mode_categroy">Načini</string>
      <string name="anti_flicker_mode_summary">Zmanjšajte utripanje v slabih svetlobnih pogojih.</string>
+     <string name="anti_flicker_mode_summary_new">Uporabite DC zatemnitev pri šibki svetlobi, da zmanjšate obremenitev oči</string>
      <string name="anti_flicker_title">Način proti utripanju</string>
      <string name="app_name">Nastavitve</string>
+     <string name="app_use">Čas uporabe aplikacije</string>
      <string name="application_sound">Obvestila aplikacije</string>
      <string name="apply_ringtone">Uporabi</string>
      <string name="arctic_fox">Arktična lisica</string>
@@ -253,7 +255,7 @@ niso ustvarjene v drugem prostoru"</string>
      <string name="fmt_date_long_month_day">dd.MM</string>
      <string name="fmt_date_long_year_month">MMMM, yyyy</string>
      <string name="fmt_date_long_year_month_day">dd.MM. yyyy</string>
-    <string name="fmt_date_numeric_day">d</string>
+     <string name="fmt_date_numeric_day">d</string>
      <string name="fmt_date_numeric_month">MM.</string>
      <string name="fmt_date_numeric_month_day">dd.MM.</string>
      <string name="fmt_date_numeric_year">yyyy</string>
@@ -423,6 +425,8 @@ niso ustvarjene v drugem prostoru"</string>
      <string name="masked_palm_civet">Maskirana palmova cibetka</string>
      <string name="max_fps_string">Do %s Hz</string>
      <string name="medium_tree_finch">Srednja drevesna ščinkavica</string>
+     <string name="mi_transfer_banner_summary">Podprtih je več znamk naprav</string>
+     <string name="mi_transfer_banner_title">Prenesite stvari iz stare naprave</string>
      <string name="midnight">Noč</string>
      <string name="miuix_access_state_desc">Izbrano</string>
      <string name="miuix_alphabet_indexer_name">Vrstica za iskanje</string>
