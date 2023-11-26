@@ -145,4 +145,5 @@ Daljše animacije bodo na tej točki ustavljene."</item>
      <plurals name="weather_temperature_desc">
         <item quantity="other">Temperatura: %1$s stopinj, %2$s</item>
         <item quantity="one">Temperatura: %1$s stopinja, %2$s</item>
+     </plurals>          
 </resources>
