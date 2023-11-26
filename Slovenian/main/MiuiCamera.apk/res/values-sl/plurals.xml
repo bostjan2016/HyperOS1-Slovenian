@@ -77,6 +77,14 @@
         <item quantity="other">"&lt;Data>"Različica kamere, ki jo uporabljate, ni združljiva z modelom vaše naprave.&lt;br>Aplikacija se bo zaprla čez &lt;font color=#FFCE16>&lt;b>%1$d sek&lt;/b>&lt;/font>. Odstranite posodobitve kamere in poskusite znova."&lt;/Data>"</item>
         <item quantity="one">"&lt;Data>"Različica kamere, ki jo uporabljate, ni združljiva z modelom vaše naprave.&lt;br>Aplikacija se bo zaprla čez &lt;font color=#FFCE16>&lt;b>%1$d sek&lt;/b>&lt;/font>. Odstranite posodobitve kamere in poskusite znova."&lt;/Data>"</item>
      </plurals>
+     <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="other">Hitro naprej %d sekund</item>
+        <item quantity="one">Hitro naprej %d sekundo</item>
+     </plurals>
+     <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="other">Previj nazaj %d sekund</item>
+        <item quantity="one">Previj nazaj %d sekundo</item>
+     </plurals>
      <plurals name="fastmotion_pro_min_unit">
         <item quantity="other">%1$d min</item>
         <item quantity="one">%1$d min</item>
@@ -115,6 +123,10 @@
      <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">izbrano %d stvari</item>
         <item quantity="one">izbrana %d stvar</item>
+     </plurals>
+     <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d novih obvestil</item>
+        <item quantity="one">%d novo obvestilo</item>
      </plurals>
      <plurals name="num_minutes_ago">
         <item quantity="other">pred %d min</item>

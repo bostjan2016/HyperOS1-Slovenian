@@ -116,6 +116,7 @@
      <string name="friday">Petek</string>
      <string name="friday_short">Pet</string>
      <string name="friday_shortest">P</string>
+     <string name="hide_password_talkback">Skrij geslo</string>
      <string name="invalid_package_signature">Podpis aplikacije ni veljaven</string>
      <string name="login_mi_account_alert">Pozor</string>
      <string name="login_mi_account_summary">Upravitelj gesel sinhronizira gesla z vašim računom Mi. Se boste prijavili zdaj?</string>
@@ -131,6 +132,7 @@
      <string name="miuix_appcompat_delete_description">Izbriši</string>
      <string name="miuix_appcompat_deselect_all">Prekliči</string>
      <string name="miuix_appcompat_deselect_all_description">Prekliči vse</string>
+     <string name="miuix_appcompat_edit">Uredi</string>
      <string name="miuix_appcompat_search_action_mode_cancel">Prekliči</string>
      <string name="miuix_appcompat_search_input_description">Išči</string>
      <string name="miuix_appcompat_select_all">Izberi vse</string>
@@ -205,6 +207,7 @@
      <string name="settings_clear_data_confirmation_description">"Če zdaj izbrišete gesla jih boste morali ročno vnesti naslednjič ko se prijavite.
 Izbrišem geslo?"</string>
      <string name="settings_clear_data_confirmation_title">Brisanje gesel</string>
+     <string name="show_password_talkback">Pokaži geslo</string>
      <string name="sunday">Nedelja</string>
      <string name="sunday_short">Ned</string>
      <string name="sunday_shortest">N</string>

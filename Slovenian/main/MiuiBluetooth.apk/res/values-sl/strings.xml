@@ -370,6 +370,15 @@ Ta storitev je v fazi razvoja, zato morda ne bo delovala pravilno.
      <string name="disconnect_Channel">odklopi kanal</string>
      <string name="disconnect_device">odklopi napravo</string>
      <string name="early_morning">Jutro</string>
+     <string name="easy_tether_auto_connect_summary">Samodejno vklopi mobilno dostopno točko in se poveži, ko naprave v bližini z istim računom potrebujejo dostop do spleta.</string>
+     <string name="easy_tether_cancel">Prekliči</string>
+     <string name="easy_tether_confirm">Potrdi</string>
+     <string name="easy_tether_next_auto_connect">Samodejna povezava naslednjič?</string>
+     <string name="easy_tether_statusbar_auto_connected_title">Povezan z %1$s dostopnimi točkami</string>
+     <string name="easy_tether_statusbar_connect_fail_title">Povezava ni uspela</string>
+     <string name="easy_tether_statusbar_connect_title">Omogoči dostopno točko %1$s</string>
+     <string name="easy_tether_statusbar_connecting_title">Povezovanje</string>
+     <string name="easy_tether_statusbar_dialog_connected_title">Povezano</string>
      <string name="enable_adb">Odpravljanje težav preko USB-ja</string>
      <string name="enable_adb_summary">Način za odpravljanje težav, ko je vzpostavljena povezava USB</string>
      <string name="enable_adb_wireless">Brezžično odpravljanje napak</string>
@@ -403,6 +412,7 @@ Za podrobnosti glejte Nastavitve."</string>
      <string name="fast_connect_device_battery">Baterija</string>
      <string name="fast_connect_device_box">Box</string>
      <string name="fast_connect_device_box_name">%1$s Box</string>
+     <string name="fast_connect_device_button_audio_share_fail">V redu</string>
      <string name="fast_connect_device_connect_cancel">Prekliči</string>
      <string name="fast_connect_device_connect_ok">Poveži</string>
      <string name="fast_connect_device_connect_retry">Poskusi ponovno</string>
@@ -411,6 +421,13 @@ Za podrobnosti glejte Nastavitve."</string>
      <string name="fast_connect_device_headset_l">Levo</string>
      <string name="fast_connect_device_headset_r">Desno</string>
      <string name="fast_connect_device_headset_reset">Pritisnite in držite tipko na boxu</string>
+     <string name="fast_connect_device_message_audio_share">z njim poslušajte zvok</string>
+     <string name="fast_connect_device_replace_current_device">zamenjaj trenutno napravo</string>
+     <string name="fast_connect_device_reset_audio_share">Za ponastavitev pritisnite in držite 2 sekundi</string>
+     <string name="fast_connect_device_start_audio_share">poslušajte skupaj</string>
+     <string name="fast_connect_device_title_audio_share">poslušajte z %1$s</string>
+     <string name="fast_connect_device_title_audio_share_fail">Z %1$s ni mogoče vzpostaviti povezave, poskusite znova</string>
+     <string name="fast_connect_device_title_audio_share_success">zdaj poslušam z %1$s</string>
      <string name="fast_connect_device_title_connect_fail">"Ne morem povezati %1$s"</string>
      <string name="fast_connect_device_title_connecting">Povezovanje…</string>
      <string name="fast_connect_device_title_find_headset">Najdi %1$s</string>
@@ -548,6 +565,7 @@ Hitrejši protokol povezave."</string>
      <string name="headset_loss_notify_summary">Kaže, da vsaj ena od vaših slušalk ni v ohišju za polnjenje. Poglejte naokoli!</string>
      <string name="headset_loss_notify_summary1">"Kaže, da slušalke niso v torbici. Vrnite jih, da se napolnijo."</string>
      <string name="headset_loss_notify_title">Manjka opozorilo slušalk</string>
+     <string name="headset_new_notification_connecting">Povezujem</string>
      <string name="headset_not_in_case">Obe slušalki vstavite v etui in začnite znova</string>
      <string name="headset_read_fw_state">ni uspelo</string>
      <string name="headset_update_failed">ni uspelo</string>
