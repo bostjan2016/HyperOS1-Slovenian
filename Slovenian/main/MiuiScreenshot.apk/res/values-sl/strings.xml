@@ -61,6 +61,9 @@
      <string name="confirm_cancel_task_files">Prekličem pošiljanje datotek %1$s?</string>
      <string name="confirm_cancel_task_images">Prekličem pošiljanje slik %1$s?</string>
      <string name="copy">Kopiraj</string>
+     <string name="copy_dialog_confirm">Razumem</string>
+     <string name="copy_dialog_content">Posnetki zaslona bodo samodejno dodani v odložišče in jih je mogoče prilepiti. To storitev lahko izklopite v nastavitvah z iskanjem \"Dodaj stvari v odložišče\".</string>
+     <string name="copy_dialog_title">Pozor</string>
      <string name="copy_success_toast">Kopirano</string>
      <string name="cta_agree_desc">Dovolite tej aplikaciji, da se poveže s spletom in ji dajte obvezna dovoljenja, navedena zgoraj.</string>
      <string name="cta_btn_agree">Strinjam se</string>
@@ -186,6 +189,7 @@ drsnega posnetka zaslona"</string>
      <string name="miuix_appcompat_delete_description">Izbriši</string>
      <string name="miuix_appcompat_deselect_all">Prekliči vse</string>
      <string name="miuix_appcompat_deselect_all_description">Prekliči vse</string>
+     <string name="miuix_appcompat_edit">Uredi</string>
      <string name="miuix_appcompat_search_action_mode_cancel">Prekliči</string>
      <string name="miuix_appcompat_search_input_description">Išči</string>
      <string name="miuix_appcompat_select_all">Izberi vse</string>

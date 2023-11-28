@@ -208,6 +208,7 @@
      <string name="morning">Jutro</string>
      <string name="night">Večer</string>
      <string name="noon">Poldne</string>
+     <string name="phrase_network_tip_summary">Če želite svoje pogoste fraze sinhronizirati z oblakom in jih uporabljati v svojih napravah, tej aplikaciji dovolite povezavo s spletom.</string>
      <string name="pm">pop.</string>
      <string name="saturday">Sobota</string>
      <string name="saturday_short">Sob</string>

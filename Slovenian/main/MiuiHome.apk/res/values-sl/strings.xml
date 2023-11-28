@@ -527,6 +527,7 @@
 Bolj dostopno klicanje.
 Izboljšana varnost."</string>
      <string name="key_shortcut_settings_title">Bližnjice tipk</string>
+     <string name="keyguard_multi_window_tip">Ta stran je lahko prikazana samo v celozaslonskem načinu</string>
      <string name="label">Oznaka</string>
      <string name="launcher_auto_fill_empty_title">Samod. izpolni prazna mesta</string>
      <string name="launcher_global_search_mode_title">Globalno iskanje</string>
@@ -615,6 +616,7 @@ Izboljšana varnost."</string>
      <string name="minus_one_screen">Osebni asistent</string>
      <string name="minus_one_screen_none">Nič</string>
      <string name="miui_screen_config_title">Nastavitve zač. zaslona</string>
+     <string name="miui_setting_config_title">Nastavitve zač. zaslona</string>
      <string name="miui_widget_menu_replace_text">Preklopi</string>
      <string name="miui_widget_toast_for_not_support_by_pa">"Meni aplikacij ne podpira pripomočkov te velikosti"</string>
      <string name="miuix_access_state_desc">Izbrano</string>
@@ -786,7 +788,11 @@ Izboljšana varnost."</string>
      <string name="navigation_type_title">Navigacija sistema</string>
      <string name="navigation_type_virtual_key">Tipke</string>
      <string name="network_error">"Povezave z omrežjem ni bilo mogoče vzpostaviti. Poskusite ponovno."</string>
+     <string name="new_default_folder_title_tools">Sistemske aplikacije</string>
      <string name="new_feature_title">"Kaj je novega"</string>
+     <string name="new_open_personal_assistant_settings_simplified">Meni aplikacij</string>
+     <string name="new_privacy_thumbnail_blur_summary">Zamegli predoglede aplikacij v Nedavno</string>
+     <string name="new_recents_config_title">Ostalo</string>
      <string name="night">Večer</string>
      <string name="no_detail_page">Ni podrobnosti strani</string>
      <string name="no_space_toast">Ni dovolj prostora</string>
@@ -795,6 +801,7 @@ Izboljšana varnost."</string>
      <string name="noon">Poldne</string>
      <string name="normal_wallpaper">Slika ozadja</string>
      <string name="not_set">Ni nastavljeno</string>
+     <string name="not_support_adding">"Dodajanje te stvari še ni podprto"</string>
      <string name="notification_channel_alerts">Opozorila</string>
      <string name="notification_installed">Uspešno nameščeno</string>
      <string name="notification_open_button">Odpri</string>
@@ -956,6 +963,9 @@ Izboljšana varnost."</string>
      <string name="send">Pošlji</string>
      <string name="server_error">Prišlo je do napake strežnika. Počakajte minuto ali dve in poskusite znova.</string>
      <string name="service_double_attention">Izboljšano storitev iskanja zagotavlja Branch Metrics Inc. Da bo ta storitev delovala, moramo vaše iskalne zahteve, ID Google Ads in naslov IP deliti z Branch Metrics Inc. Preberite in se strinjajte z <font color="#B3000000"><a href="http://url1">Pogoji odkrivanja za končnega uporabnika &amp; Pogoji</a></font> in <font color="#B3000000"><a href="http://url2">Branch Discovery Pravila o zasebnosti</a></font> pred uporabo.</string>
+     <string name="setting_close">Izključeno</string>
+     <string name="setting_no_word">Kjerkoli</string>
+     <string name="setting_only_widget_no_word">Na pripomočku</string>
      <string name="setting_wallpaper_tip">Premakni ali povečaj za prilagoditev</string>
      <string name="settings">Nastavitve</string>
      <string name="settings_shortcut">Nastavitve</string>
@@ -985,6 +995,7 @@ Izboljšana varnost."</string>
      <string name="sort_by_frequency">Razvrsti po uporabi</string>
      <string name="sort_by_not_defined">Samodejno sortiranje</string>
      <string name="start_activity_failed">"Ne morem zagnati vmesnika"</string>
+     <string name="start_new_window">Novo okno</string>
      <string name="starting_preset_app">Začenjam…</string>
      <string name="status_bar_recent_memory_giga">%1$s GB</string>
      <string name="status_bar_recent_memory_info1">Na voljo %1$s od %2$s</string>

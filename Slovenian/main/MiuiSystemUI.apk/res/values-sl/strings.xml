@@ -1,5 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+     <string name="UVI_level_0">Nizko</string>
+     <string name="UVI_level_1">Zmerno</string>
+     <string name="UVI_level_2">Močno</string>
+     <string name="UVI_level_3">Zelo močno</string>
+     <string name="UVI_level_4">Nevarno</string>
      <string name="a11y_action_pip_move_done">končano</string>
      <string name="a11y_action_pip_move_down">Premik navzdol</string>
      <string name="a11y_action_pip_move_left">Premik levo</string>
@@ -489,6 +494,7 @@
      <string name="appops_mic_overlay">Ta aplikacija se prikazuje preko drugih aplikacij na zaslonu in uporablja mikrofon.</string>
      <string name="appops_microphone">Ta aplikacija uporablja mikrofon.</string>
      <string name="appops_overlay">Ta aplikacija se prikazuje preko drugih aplikacij na zaslonu.</string>
+     <string name="aqi_format_desc">Indeks kakovosti zraka: %s</string>
      <string name="as_important">Pomembno</string>
      <string name="as_unimportant">Nepomembno</string>
      <string name="ask_me_later_bubbles">Vprašaj me kasneje</string>
@@ -1116,6 +1122,18 @@ Aplikacija vaše naprave določa, katere naprave je mogoče nadzorovati na ta na
      <string name="download_lock_wallpaper">Tapnite dvakrat da prenesete aplikacijo Wallpaper Carousel</string>
      <string name="doze_brightness_sensor_type" />
      <string name="doze_pickup_subtype_performs_proximity_check" />
+     <string name="drag_shadow_freeform_mini_open">Mini plavajoče okno</string>
+     <string name="drag_shadow_freeform_mini_unsupported">"Mini plavajoča okna niso podprta"</string>
+     <string name="drag_shadow_freeform_open">Plavajoče okno</string>
+     <string name="drag_shadow_freeform_unsupported">"Plavajoča okna niso podprta"</string>
+     <string name="drag_shadow_freeform_unsupported_app">"%s ne podpira plavajočih oken"</string>
+     <string name="drag_shadow_fullscreen_open">Celozaslonski način</string>
+     <string name="drag_shadow_split_bottom_open">Razdeljen zaslon (spodaj)</string>
+     <string name="drag_shadow_split_left_open">Razdeljen zaslon (levo)</string>
+     <string name="drag_shadow_split_right_open">Razdeljen zaslon (desno)</string>
+     <string name="drag_shadow_split_top_open">Razdeljen zaslon (zgoraj)</string>
+     <string name="drag_shadow_split_unsupported">"Razdeljen zaslon ni podprt"</string>
+     <string name="drag_shadow_split_unsupported_app">"%s ne podpira Razdeljen zaslon"</string>
      <string name="drag_split_not_supported">To obvestilo ne podpira vlečenja na deljenem zaslonu.</string>
      <string name="drag_to_add_tiles">Pritisnite in držite da boste dodali ali zamenjali razpored stvari</string>
      <string name="drag_to_rearrange_tiles">Držite in povlecite da boste premestili ploščice</string>
@@ -1415,6 +1433,16 @@ Ko jih izbrišete, boste morali znova nastaviti odklepanje s prstnim odtisom, č
      <string name="forced_resizable_secondary_display">Aplikacija morda ne bo delovala na sekundarnem zaslonu.</string>
      <string name="forget_password_string">Pozabljeno geslo</string>
      <string name="forget_password_string_for_esim"><u>Pozabljeno PUK geslo</u></string>
+     <string name="format_day_week_desc">Dan v mesecu: %1$s, %2$s</string>
+     <string name="format_lunar_calendar_month_day_desc">Datum po tradicionalnem kitajskem koledarju: %s</string>
+     <string name="format_month_day_lunar_calendar_month_day_desc">%1$s %2$s, datum po tradicionalnem kitajskem koledarju: %3$s, prazniki: %4$s</string>
+     <string name="format_month_day_style1">dd/MM</string>
+     <string name="format_month_day_style2">dd/MM</string>
+     <string name="format_month_day_week">dd/MM, EEE</string>
+     <string name="format_month_day_week_lunar_calendar_month_day_desc">%1$s %2$s, %3$s, datum po tradicionalnem kitajskem koledarju: %4$s</string>
+     <string name="format_month_day_week_solar_desc">%1$s %2$s, %3$s, prazniki: %4$s</string>
+     <string name="format_solar_lunar_calendar_month_day_desc">Prazniki: %1$s, datum po tradicionalnem kitajskem koledarju: %2$s</string>
+     <string name="format_week_day_style1_desc">%1$s, dan v mesecu: %2$s</string>
      <string name="friday">Petek</string>
      <string name="friday_short">Pet</string>
      <string name="friday_shortest">P</string>
@@ -1533,6 +1561,14 @@ Ko jih izbrišete, boste morali znova nastaviti odklepanje s prstnim odtisom, č
      <string name="heads_up_snooze_toast">"Obvestila te aplikacije se ne bodo pojavila, dokler naprave znova ne odklenete"</string>
      <string name="headset">Slušalke</string>
      <string name="headset_settings">Slušalke priključene</string>
+     <string name="health_chart_calories_unit">Kalorije</string>
+     <string name="health_chart_sleep_time_good">Zadostno</string>
+     <string name="health_chart_sleep_time_low">Nezadostno</string>
+     <string name="health_chart_sleep_time_normal">Normalno</string>
+     <string name="health_chart_sleep_time_very_good">Dobro</string>
+     <string name="health_chart_step_count_unit">Koraki</string>
+     <string name="health_no_data">Ni zdravstvenih podatkov</string>
+     <string name="health_sleep_desc">Trajanje spanja %1$s, kakovost spanja: %2$s</string>
      <string name="heap_dump_tile_name">Izpis kopice SysUI</string>
      <string name="help_feedback_label">Pomoč in povratne informacije</string>
      <string name="help_label">Pomoč in povratne informacije</string>
@@ -1559,6 +1595,7 @@ Ko se telefon ohladi, bo zopet deloval kot običajno."</string>
      <string name="how_to_use_drawer">Kako uporabiti meni</string>
      <string name="how_to_use_drawer_summary">Podrsajte s prstom desno v zgornjem delu zaslona</string>
      <string name="how_to_use_fsg">To lahko naredite s pomočjo kretenj:</string>
+     <string name="humidity_format">Vlažnost %s</string>
      <string name="icon_content_description">Pogovorno okno</string>
      <string name="ime_security_warning">%1$s način vnosa mogoče lahko zbira tekst ki ga vnašate vključno z osebnimi podatki kot so gesla in številke kreditnih kartic.</string>
      <string name="ime_security_warning_global">Načini vnosa mogoče lahko zbirajo tekst ki ga vnašate vključno z osebnimi podatki kot so gesla in številke kreditnih kartic. Uporabim %1$s?</string>
@@ -1599,6 +1636,7 @@ Ko se telefon ohladi, bo zopet deloval kot običajno."</string>
      <string name="input_lockscreen_pin_hint_text">Vnesite PIN</string>
      <string name="input_password_after_boot_msg">"Vnos gesla je obvezen, ko se naprava znova zažene"</string>
      <string name="input_password_after_boot_msg_can_not_switch_when_calling">"Ne morem zamenjati prostore med klicem"</string>
+     <string name="input_password_after_boot_msg_can_not_switch_when_desktop_mode_active">"V načinu delovne postaje ni mogoče preklapljati med prostori"</string>
      <string name="input_password_after_boot_msg_can_not_switch_when_extrememode_active">"Drugega prostora ni mogoče uporabiti v načinu mirovanja"</string>
      <string name="input_password_after_boot_msg_can_not_switch_when_extrememode_endurance_battery_zero_active">"Drugega prostora ni mogoče uporabiti zaradi prazne baterije"</string>
      <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">"Ne morem spremeniti prostor ko je vključen starševski nadzor"</string>
@@ -1731,6 +1769,7 @@ prednostno"</string>
      <string name="keyguard_charging_normal_and_level_tip">Polnjenje %d%%</string>
      <string name="keyguard_charging_quick_and_level_tip">Hitro polnjenje %d%%</string>
      <string name="keyguard_charging_super_quick_and_level_tip">Hitro polnjenje %d%%</string>
+     <string name="keyguard_editor_super_save_mode_toast">"Zaklenjenega zaslona ni mogoče urejati, ko je vklopljen Ultra varčevanje z baterijo"</string>
      <string name="keyguard_enter_password">Vnesite geslo</string>
      <string name="keyguard_enter_pattern">Vnesite vzorec</string>
      <string name="keyguard_enter_pin">Vnesite PIN</string>
@@ -1761,6 +1800,7 @@ prednostno"</string>
      <string name="keyguard_left_smarthome">Stiki</string>
      <string name="keyguard_left_torch">Svetilka</string>
      <string name="keyguard_left_view_lock_wallpaper">Wallpaper Carousel</string>
+     <string name="keyguard_loading_to_editor_tips">Odpiranje urejevalnika zaklenjenega zaslona…</string>
      <string name="keyguard_low_battery">Priključite napajalnik.</string>
      <string name="keyguard_missing_sim_instructions">Vstavite kartico SIM.</string>
      <string name="keyguard_missing_sim_instructions_long">Ni kartkarticeica SIM ali je ni mogoče prebrati. Vstavite kartico SIM.</string>
@@ -2137,6 +2177,10 @@ dd/MM"</string>
 dd/MM"</string>
      <string name="miui_lock_screen_large_date_12">"EEE
 dd/MM"</string>
+     <string name="miui_magazine_c_clock_style2_date">dd/MM EE</string>
+     <string name="miui_magazine_c_clock_style2_date_content_description">EEEE, dd/MM</string>
+     <string name="miui_magazine_clock_date">dd/MM</string>
+     <string name="miui_magazine_clock_date_content_description">dd/MM</string>
      <string name="miui_notification_menu_aggregate_feedback">Povratne inf.</string>
      <string name="miui_notification_menu_allow">Dovoli</string>
      <string name="miui_notification_menu_feedback_success">Hvala za povratne informacije!</string>
@@ -2144,10 +2188,12 @@ dd/MM"</string>
      <string name="miui_notification_menu_more_setting">Več</string>
      <string name="miui_notification_menu_msg_fold">Združim vsa obvestila od %1$s?</string>
      <string name="miui_notification_menu_msg_not_allow">Omejim vsa obvestila od %1$s?</string>
+     <string name="miui_notification_menu_msg_unfocus">"Izklopili boste žaromet obvestil za %1$s. Ta obvestila bodo prikazana normalno. Izklopim zdaj?"</string>
      <string name="miui_notification_menu_msg_unfold">Pokažem %1$s obvestil ločeno?</string>
      <string name="miui_notification_menu_setting_success">Končano</string>
      <string name="miui_notification_menu_snooze">Odloži</string>
      <string name="miui_notification_menu_title_not_allow">Omeji</string>
+     <string name="miui_notification_menu_unfocus">Izklopi žaromet obvestil</string>
      <string name="miui_notification_menu_unfold">Označi kot pomembno</string>
      <string name="miui_notification_slide_menu_msg_ongoing">Omejim trajna obvestila za \"%1$s\" zdaj?</string>
      <string name="miui_notification_slide_menu_ongoing">Omeji trajna obvestila</string>
@@ -2155,12 +2201,14 @@ dd/MM"</string>
      <string name="miui_quick_settings_tiles_default_pad">vowifi1,vowifi2,celica,wifi,vrtenje,letalo,izklop zvoka,posnetek zaslona,bt,samodejna svetlost,zaklepanje zaslona,po meri(com.miui.screenrecorder/.service.QuickService),noč,papirni način,tihi način,varčevanje z baterijo,izjemno varčevanje z baterijo,gps,bliskavica,skener,po meri(com.milink.service/com.milink.ui.service.MiLinkTileService), po meri(com.miui.mishare.connectivity/.tile.MiShareTileService),način napajanja,freeformhang,vibriranje,hotspot,sinh.,po meri(com .google.android.gms/.nearby.sharing.SharingTileService), zaslonski gumb, brezžično napajanje, nfc, po meri(com.android.camera/com.xiaomi.camera.videocast.VideoCastTileService), dolbyatomssound, pc način, uredi</string>
      <string name="miui_quick_settings_tiles_stock">vowifi1,vowifi2,omrežje,wifi,bliskavica,utišaj,posnetek zaslona,bt,samosvetlost,letalo,zaklep zaslona,gps,rotacija,papirnati način,noč,tiho,varčevanje baterije,extremno varčevanje baterije,moč,vibriraj,hotspot,sinh.,gumb zaslona,brezžično,nfc,dolbyatoms zvok,circulateworld,gps,uredi,način vožnje,slušni pomočnik</string>
      <string name="miui_quick_settings_tiles_stock_pad">vowifi1,vowifi2,celica,wifi,vrtenje,letalo,izklop zvoka,posnetek zaslona,bt,samodejna svetlost,zaklepanje zaslona,noč,papirni način,tihi način,varčevanje z baterijo,izjemno varčevanje z baterijo,gps,svetilka,skener,način napajanja,freeformhang,vibriranje,hotspot,sinh.,brezžična moč,nfc,dolbyatoms zvok,pc način,uredi,vožnja,delo</string>
+     <string name="miui_rhombus_clock_date">dd MM</string>
      <string name="miui_ringer_count_down">Odštevanje</string>
      <string name="miui_ringer_standard">Tiho</string>
      <string name="miui_ringer_standard_description">Utišaj melodije zvonjenja za dohodne klice in obvestila</string>
      <string name="miui_ringer_total">Ne moti</string>
      <string name="miui_ringer_total_description">Utišaj zvoke in izključi vibracijo za vse razen alarma</string>
      <string name="miui_screen_rotation_freeze_message">Samod. rotacija onemogočena.</string>
+     <string name="miui_smart_frame_clock_date">dd/MM</string>
      <string name="miui_snooze_always_float">"Ne skrivaj"</string>
      <string name="miui_snooze_cancel">Prekliči</string>
      <string name="miui_snooze_default_time">Za %d min</string>
@@ -2404,6 +2452,9 @@ Povezani ste tudi z omrežjem VPN, ki lahko nadzira vašo omrežno dejavnost."</
      <string name="multi_face_list">Obraz</string>
      <string name="multi_face_name_prefix">"Obraz "</string>
      <string name="multi_face_number_reach_limit">"Ne morete dodati več kot 2 obraza"</string>
+     <string name="multiwin_closewindow">Zapri okno</string>
+     <string name="multiwin_newwindow">Novo okno</string>
+     <string name="multiwin_windowcontrol">Nadzorna vrstica okna</string>
      <string name="music_controls_no_title">Brez naslova</string>
      <string name="nav_bar">Vrstica za krmarjenje</string>
      <string name="nav_bar_default">(privzeto)</string>
@@ -2554,6 +2605,7 @@ Povezani ste tudi z omrežjem VPN, ki lahko nadzira vašo omrežno dejavnost."</
      <string name="notification_section_header_gentle">Tiha obvestila</string>
      <string name="notification_section_header_incoming">Novo</string>
      <string name="notification_silence_title">Tiho</string>
+     <string name="notification_status_bar">Obvestila &amp; vrstica obvestil</string>
      <string name="notification_storage_float">Zunanji pomnilnik</string>
      <string name="notification_summary_message_format">%1$s: %2$s</string>
      <string name="notification_tap_again">Tapni ponovno za odpiranje</string>
@@ -2798,7 +2850,13 @@ Povezani ste tudi z omrežjem VPN, ki lahko nadzira vašo omrežno dejavnost."</
      <string name="quick_controls_subtitle">Dodajanje kontrol za povezane naprave</string>
      <string name="quick_controls_title">Kontrole naprave</string>
      <string name="quick_settings">Hitre nastavitve</string>
+     <string name="quick_settings_airplane_state_change_message_off">Letalski način je izklopljen</string>
+     <string name="quick_settings_airplane_state_change_message_on">Letalski način je vklopljen</string>
+     <string name="quick_settings_auto_rotate_state_change_message_off">Samodejni obrat je izklopljen</string>
+     <string name="quick_settings_auto_rotate_state_change_message_on">Samodejni obrat je vklopljen</string>
      <string name="quick_settings_autobrightness_label">Samod. svetlost</string>
+     <string name="quick_settings_autobrightness_state_change_message_off">Samodejna svetlost je izklopljena</string>
+     <string name="quick_settings_autobrightness_state_change_message_on">Samodejna svetlost je vklopljena</string>
      <string name="quick_settings_batterysaver_label">Varčevanje baterije</string>
      <string name="quick_settings_bluetooth_connected_tip">Uspešno vzpostavljena povezava prek Bluetooth</string>
      <string name="quick_settings_bluetooth_detail_empty_text">Ni dostopnih seznanjenih naprav</string>
@@ -2815,6 +2873,8 @@ Povezani ste tudi z omrežjem VPN, ki lahko nadzira vašo omrežno dejavnost."</
      <string name="quick_settings_brightness_dialog_auto_brightness_label">SAMODEJNO</string>
      <string name="quick_settings_brightness_dialog_title">Svetlost</string>
      <string name="quick_settings_brightness_label">Svetlost</string>
+     <string name="quick_settings_bt_state_change_message_off">Bluetooth je izključen</string>
+     <string name="quick_settings_bt_state_change_message_on">Bluetooth je vključen</string>
      <string name="quick_settings_camera_label">Dostop do fotoaparata</string>
      <string name="quick_settings_camera_mic_available">Na voljo</string>
      <string name="quick_settings_camera_mic_blocked">Blokirano</string>
@@ -2837,6 +2897,8 @@ Povezani ste tudi z omrežjem VPN, ki lahko nadzira vašo omrežno dejavnost."</
      <string name="quick_settings_cellular_detail_remaining_data">Preostala količina podatkov</string>
      <string name="quick_settings_cellular_detail_title">Prenos podatkov v mobilnem omrežju</string>
      <string name="quick_settings_cellular_detail_unable_change">"Ne morem nastaviti med klicem"</string>
+     <string name="quick_settings_cellular_state_change_message_off">Mobilni podatki so izklopljeni</string>
+     <string name="quick_settings_cellular_state_change_message_on">Mobilni podatki so vklopljeni</string>
      <string name="quick_settings_close_user_panel">Zapri</string>
      <string name="quick_settings_color_correction_label">Barvna korekcija</string>
      <string name="quick_settings_color_space_label">Način popravljanja barv</string>
@@ -2876,6 +2938,8 @@ Povezani ste tudi z omrežjem VPN, ki lahko nadzira vašo omrežno dejavnost."</
      <string name="quick_settings_dnd_label">Ne moti</string>
      <string name="quick_settings_dnd_none_label">Popolna tišina</string>
      <string name="quick_settings_dnd_priority_label">Samo prednostno</string>
+     <string name="quick_settings_dnd_state_change_message_off">Ne moti je izklopljeno</string>
+     <string name="quick_settings_dnd_state_change_message_on">Ne moti je vklopljeno</string>
      <string name="quick_settings_done">Končano</string>
      <string name="quick_settings_drivemode_label">Samod. način</string>
      <string name="quick_settings_dual_location_label">Dvojni GPS</string>
@@ -2884,6 +2948,8 @@ Povezani ste tudi z omrežjem VPN, ki lahko nadzira vašo omrežno dejavnost."</
      <string name="quick_settings_financed_disclosure_named_management">To napravo zagotavlja %s.</string>
      <string name="quick_settings_flashlight_camera_in_use">Uporablja se kamera</string>
      <string name="quick_settings_flashlight_label">Svetilka</string>
+     <string name="quick_settings_flashlight_state_change_message_off">Svetilka je izklopljena</string>
+     <string name="quick_settings_flashlight_state_change_message_on">Svetilka je vklopljena</string>
      <string name="quick_settings_font_scaling_label">Velikost pisave</string>
      <string name="quick_settings_googlehome_label">Google domov</string>
      <string name="quick_settings_googlepay_label">Google plačilo</string>
@@ -2893,6 +2959,8 @@ Povezani ste tudi z omrežjem VPN, ki lahko nadzira vašo omrežno dejavnost."</
      <string name="quick_settings_hotspot_secondary_label_data_saver_enabled">Varčevanje podat. vklj.</string>
      <string name="quick_settings_hotspot_secondary_label_num_devices">{count, plural, =1 {# naprava} other {# naprav} }</string>
      <string name="quick_settings_hotspot_secondary_label_transient">Vklop…</string>
+     <string name="quick_settings_hotspot_state_change_message_off">Hotspot je izklopljen</string>
+     <string name="quick_settings_hotspot_state_change_message_on">Hotspot je vklopljen</string>
      <string name="quick_settings_ime_label">Način vnosa</string>
      <string name="quick_settings_intelligent_dual_sim_accelerate_summary">Za povečanje hitrosti povezave uporabite mobilne podatke sekundarne kartice SIM</string>
      <string name="quick_settings_intelligent_dual_sim_accelerate_title">Pametna dvojna kartica SIM</string>
@@ -2900,6 +2968,8 @@ Povezani ste tudi z omrežjem VPN, ki lahko nadzira vašo omrežno dejavnost."</
      <string name="quick_settings_inversion_label">Obrni barve</string>
      <string name="quick_settings_location_label">Lokacija</string>
      <string name="quick_settings_location_off_label">Lokacija izklopljena</string>
+     <string name="quick_settings_location_state_change_message_off">Dostop do lokacije je izklopljen</string>
+     <string name="quick_settings_location_state_change_message_on">Dostop do lokacije je vklopljen</string>
      <string name="quick_settings_low_battery_toast_text">"Ne morem uporabiti svetilke. Baterija je prenizka."</string>
      <string name="quick_settings_media_device_label">Predstavnostna naprava</string>
      <string name="quick_settings_mic_label">Dostop do mikrofona</string>
@@ -2911,27 +2981,39 @@ Povezani ste tudi z omrežjem VPN, ki lahko nadzira vašo omrežno dejavnost."</
      <string name="quick_settings_more_settings">Več nastavitev</string>
      <string name="quick_settings_more_user_settings">Uporabniške nastavitve</string>
      <string name="quick_settings_mute_label">Utišaj</string>
+     <string name="quick_settings_mute_state_change_message_off">Tihi način je izklopljen</string>
+     <string name="quick_settings_mute_state_change_message_on">Tihi način je vklopljen</string>
      <string name="quick_settings_networks_available">Omrežja so na voljo</string>
      <string name="quick_settings_networks_unavailable">Omrežja niso na voljo</string>
      <string name="quick_settings_nfc_label">NFC</string>
      <string name="quick_settings_nfc_off">Tehnologija NFC je onemogočena</string>
      <string name="quick_settings_nfc_on">Tehnologija NFC je omogočena</string>
+     <string name="quick_settings_nfc_state_change_message_off">NFC je izklopljen</string>
+     <string name="quick_settings_nfc_state_change_message_on">NFC je vklopljen</string>
      <string name="quick_settings_night_display_label">Nočna svetloba</string>
      <string name="quick_settings_night_secondary_label_on_at">Vklop ob %s</string>
      <string name="quick_settings_night_secondary_label_on_at_sunset">Ob sončnem zahodu</string>
      <string name="quick_settings_night_secondary_label_until_sunrise">Do sončnega vzhoda</string>
+     <string name="quick_settings_night_state_change_message_off">Temni način je izklopljen</string>
+     <string name="quick_settings_night_state_change_message_on">Temni način je vklopljen</string>
      <string name="quick_settings_nightmode_label">Temni način</string>
      <string name="quick_settings_notifications_label">Obvestila</string>
      <string name="quick_settings_onehanded_label">Enoročni način</string>
+     <string name="quick_settings_paper_state_change_message_off">Način branja je izklopljen</string>
+     <string name="quick_settings_paper_state_change_message_on">Način branja je vklopljen</string>
      <string name="quick_settings_papermode_label">Način branja</string>
      <string name="quick_settings_powermode_label">Zmogljivost</string>
-     <string name="quick_settings_quietmode_label">DND</string>
+     <string name="quick_settings_powersaver_state_change_message_off">Varčevanje z baterijo je izklopljeno</string>
+     <string name="quick_settings_powersaver_state_change_message_on">Varčevanje z baterijo je vklopljeno</string>
+     <string name="quick_settings_quietmode_label">Ne moti</string>
      <string name="quick_settings_reset_confirmation_button">Skrij</string>
      <string name="quick_settings_reset_confirmation_message">Znova se bo pojavila, ko jo naslednjič vklopite v nastavitvah.</string>
      <string name="quick_settings_reset_confirmation_title">Želite skriti %1$s?</string>
      <string name="quick_settings_rotation_locked_label">Sukanje je zaklenjeno</string>
      <string name="quick_settings_rotation_locked_landscape_label">Ležeče</string>
      <string name="quick_settings_rotation_locked_portrait_label">Pokončno</string>
+     <string name="quick_settings_rotation_state_change_message_off">Orientacija zaslona je odklenjena</string>
+     <string name="quick_settings_rotation_state_change_message_on">Orientacija zaslona je zaklenjena</string>
      <string name="quick_settings_rotation_unlocked_label">Samodejno sukanje</string>
      <string name="quick_settings_rotationlock_label">Zakleni postavitev</string>
      <string name="quick_settings_rssi_emergency_only">Le klici v sili</string>
@@ -2951,11 +3033,16 @@ Povezani ste tudi z omrežjem VPN, ki lahko nadzira vašo omrežno dejavnost."</
      <string name="quick_settings_secondary_label_until">Do %s</string>
      <string name="quick_settings_settings_label">Nastavitve</string>
      <string name="quick_settings_sim_disabled">" (Onemogočeno)"</string>
+     <string name="quick_settings_state_change_message_off">%1$s je izključen</string>
+     <string name="quick_settings_state_change_message_on">%1$s je vključen</string>
      <string name="quick_settings_state_saved">Shranjeno</string>
      <string name="quick_settings_state_wifi_select_nearby_ap">Izberite omrežja WiFi v bližini</string>
      <string name="quick_settings_state_wlan_select_nearby_ap">Izberite omrežja WiFi v bližini</string>
      <string name="quick_settings_sync_label">Sinhr.</string>
+     <string name="quick_settings_sync_state_change_message_off">Sinhronizacija je izklopljena</string>
+     <string name="quick_settings_sync_state_change_message_on">Sinhronizacija je vklopljena</string>
      <string name="quick_settings_tethering_label">Splet prek mobilne naprave</string>
+     <string name="quick_settings_tiles">privzeto</string>
      <string name="quick_settings_time_label">Čas</string>
      <string name="quick_settings_toast_drag_to_enable_custom_tile">Za dodajanje stvari jo tapnite in podržite, potem pa jo odvlecite na zgornji del plošče.</string>
      <string name="quick_settings_ui_mode_night_label">Temna tema</string>
@@ -2963,6 +3050,8 @@ Povezani ste tudi z omrežjem VPN, ki lahko nadzira vašo omrežno dejavnost."</
      <string name="quick_settings_user_new_user">Nov uporabnik</string>
      <string name="quick_settings_user_title">Uporabnik</string>
      <string name="quick_settings_vibrate_label">Vibracija</string>
+     <string name="quick_settings_vibrate_state_change_message_off">Vibriranje je izklopljeno</string>
+     <string name="quick_settings_vibrate_state_change_message_on">Vibriranje je vklopljeno</string>
      <string name="quick_settings_vowifi_label">WiFi klici</string>
      <string name="quick_settings_vowifi_sim1_label">WiFi klici SIM1</string>
      <string name="quick_settings_vowifi_sim2_label">WiFi klici SIM2</string>
@@ -2981,10 +3070,15 @@ Povezani ste tudi z omrežjem VPN, ki lahko nadzira vašo omrežno dejavnost."</
      <string name="quick_settings_wifi_off_label">WiFi izklopljen</string>
      <string name="quick_settings_wifi_on_label">WiFi je vklopljen.</string>
      <string name="quick_settings_wifi_secondary_label_transient">Vklop…</string>
+     <string name="quick_settings_wifi_state_change_message_off">WiFi je izklopljen</string>
+     <string name="quick_settings_wifi_state_change_message_on">WiFi je vklopljen</string>
      <string name="quick_settings_wireless_label">Obrnjeno brezžično polnjenje</string>
      <string name="quick_settings_wlan_is_off">WiFi izključen</string>
+     <string name="quick_settings_wlan_state_change_message_off">WiFi je izklopljen</string>
+     <string name="quick_settings_wlan_state_change_message_on">WiFi je vklopljen</string>
      <string name="quick_settings_work_mode_label">Način za delo</string>
      <string name="quick_step_accessibility_toggle_overview">Vklop/izklop pregleda</string>
+     <string name="rain_probability_desc">Možnost padavin: %s</string>
      <string name="rapid_charge_mode_tip">Hitro polnjenje</string>
      <string name="rear_display_accessibility_folded_animation">Razpiranje zložljive naprave</string>
      <string name="rear_display_accessibility_unfolded_animation">Obračanje zložljive naprave</string>
@@ -3262,6 +3356,7 @@ Povezani ste tudi z omrežjem VPN, ki lahko nadzira vašo omrežno dejavnost."</
      <string name="show_touches_summary">Prikaz vizualnih povratnih informacij za dotike</string>
      <string name="shut_down_password_forget_password_suggesstion_one_content"><Data>Pritisnite in držite &lt;font color=#e6e6e6>[Vklop]&lt;/font> in &lt;font color=#e6e6e6>[Glasnost +]&lt;/font> gumba dokler ne visite &lt;img src=\"\">.</Data></string>
      <string name="shut_down_password_forget_password_suggesstion_two_content"><Data>Izberi &lt;font color=#e6e6e6>[Izbriši podatke]&lt;/font> in tapnite &lt;font color=#e6e6e6>[Ponovni zagon]&lt;/font> potem.</Data></string>
+     <string name="sim_lock_bouncer_hint_msg">SIM kartica je zaklenjena. Zamenjajte jo ali vnesite geslo za odklepanje.</string>
      <string name="sim_state_locked_dialog_title">Neveljavna SIM kartica</string>
      <string name="sim_state_locked_puk_dialog_message">"Napačno kodo PUK ste vnesli vsaj %d krat. Vaša kartica SIM ni več ni veljavna. Zamenjajte to kartico SIM z drugo."</string>
      <string name="simulate_color_space">Simul. barvnega prostora</string>
@@ -3283,6 +3378,7 @@ Povezani ste tudi z omrežjem VPN, ki lahko nadzira vašo omrežno dejavnost."</
      <string name="snooze_option_30_min">30 minut</string>
      <string name="snooze_undo">Razveljavi</string>
      <string name="snoozed_for_time">Odloženo na %1$s</string>
+     <string name="somatosensory_temperature_format">Občutek kot %s°</string>
      <string name="sos_status_bar_summary">Tapni za izhod</string>
      <string name="sos_status_bar_title">SOS</string>
      <string name="sound_settings">Zvok &amp; vibriranje</string>
@@ -3376,6 +3472,8 @@ morda nadzira"</string>
      <string name="stream_voice_call">Klic</string>
      <string name="strict_mode">Strog način je omogočen</string>
      <string name="strict_mode_summary">Osveži zaslon pri dolgih oper. progr. v gl. niti</string>
+     <string name="strong_toast_charging">Polnjenje</string>
+     <string name="strong_toast_quick_charging">Hitro polnjenje</string>
      <string name="structure_face_data_delete_fail">"Ne morem izbrisati 3D podatke obraza. Poskusite ponovno."</string>
      <string name="structure_face_data_input_down">Spustite glavo</string>
      <string name="structure_face_data_input_error_away_screen">Malo oddaljite telefon od vašega obraza</string>
@@ -3436,6 +3534,11 @@ morda nadzira"</string>
      <string name="sunday">Nedelja</string>
      <string name="sunday_short">Ned</string>
      <string name="sunday_shortest">N</string>
+     <string name="sunrise_time_format">Sončni vzhod %s</string>
+     <string name="sunrise_time_format_desc">Čas sončnega vzhoda: %s</string>
+     <string name="sunrise_time_format_tomorrow_desc">"Jutrišnji sončni vzhod: %s"</string>
+     <string name="sunset_time_format">Sončni zahod %s</string>
+     <string name="sunset_time_format_desc">Čas sončnega zahoda: %s</string>
      <string name="switch_bar_off">Izključeno</string>
      <string name="switch_bar_on">Vključeno</string>
      <string name="switch_system_user">Nazaj v Prvi prostor</string>
@@ -3683,7 +3786,8 @@ Vsak uporabnik lahko posodobi aplikacije za vse druge uporabnike."</string>
      <string name="user_switch_to_user">Preklop na račun %s</string>
      <string name="using_camera">Ta aplikacija dostopa do kamere</string>
      <string name="using_camera_and_microphone">Ta aplikacija dostopa do kamere in mikrofona</string>
-     <string name="using_microphone">This app is accessing microphone</string>
+     <string name="using_microphone">Ta aplikacija dostopa do mikrofona</string>
+     <string name="uvi_format_desc">Ultravijolični indeks: %1$s, %2$s</string>
      <string name="v7_preference_off">IZKLJUČENO</string>
      <string name="v7_preference_on">VKLJUČENO</string>
      <string name="verify_apps_over_usb_summary">Preveri, ali so aplikacije, nameščene preko ADB/ADT škodljive.</string>
@@ -3702,7 +3806,7 @@ Vsak uporabnik lahko posodobi aplikacije za vse druge uporabnike."</string>
      <string name="volume_odi_captions_hint_disable">onemogoči</string>
      <string name="volume_odi_captions_hint_enable">omogoči</string>
      <string name="volume_odi_captions_tip">Sam. podnapisi predstavnosti</string>
-     <string name="volume_panel_dialog_settings_button">Settings</string>
+     <string name="volume_panel_dialog_settings_button">Nastavitve</string>
      <string name="volume_ringer_change">Dotaknite se, če želite spremeniti način zvonjenja.</string>
      <string name="volume_ringer_hint_mute">izklop zvoka</string>
      <string name="volume_ringer_hint_unmute">vklop zvoka</string>
@@ -3767,6 +3871,7 @@ Vsak uporabnik lahko posodobi aplikacije za vse druge uporabnike."</string>
      <string name="wapi_psk_type_ascii">ASCII</string>
      <string name="wapi_psk_type_hex">Hexadecimalno</string>
      <string name="wapi_yes">da</string>
+     <string name="weather_no_data">Ni vremenskih podatkov</string>
      <string name="weather_publish_time">Posodobljeno %1$s</string>
      <string name="wednesday">Sreda</string>
      <string name="wednesday_short">Sre</string>
@@ -3953,6 +4058,19 @@ Shramba certifikatov mogoče ni omogočena"</string>
      <string name="wifitrackerlib_wifi_standard_unknown">Neznano</string>
      <string name="wifitrackerlib_wifi_unmetered_label">Z neomejenim prenosom podatkov</string>
      <string name="wifitrackerlib_wifi_wont_autoconnect_for_now">Vmesnik WiFi trenutno ne bo samodejno vzpostavil povezave.</string>
+     <string name="wind_direction_0">S veter</string>
+     <string name="wind_direction_1">SV veter</string>
+     <string name="wind_direction_1_f">SV veter</string>
+     <string name="wind_direction_2">V veter</string>
+     <string name="wind_direction_3">JV veter</string>
+     <string name="wind_direction_3_f">JV veter</string>
+     <string name="wind_direction_4">J veter</string>
+     <string name="wind_direction_5">JZ veter</string>
+     <string name="wind_direction_5_f">JZ veter</string>
+     <string name="wind_direction_6">Z veter</string>
+     <string name="wind_direction_7">SZ veter</string>
+     <string name="wind_direction_7_f">SZ veter</string>
+     <string name="wind_format">%1$s | Nivo %2$s</string>
      <string name="window_animation_scale_title">Merilo animacije okna</string>
      <string name="window_blurs">Dovoli zameglitve na ravni okna</string>
      <string name="wireless_change_to_ac_charging">Zamenjano na polnjenje z kablom</string>

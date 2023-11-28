@@ -61,6 +61,50 @@
         <item quantity="other">%d let</item>
         <item quantity="one">%d leto</item>
      </plurals>
+     <plurals name="ai_create_image_queue">
+        <item quantity="other">%1d oseb pred vami</item>
+        <item quantity="one">%1d oseba pred vami</item>
+     </plurals>
+     <plurals name="ai_create_remain_time_hour">
+        <item quantity="other">Čas čakanja: %s ur</item>
+        <item quantity="one">Čas čakanja: %s ura</item>
+     </plurals>
+     <plurals name="ai_create_remain_time_minute">
+        <item quantity="other">Čas čakanja: %s min</item>
+        <item quantity="one">Čas čakanja: %s min</item>
+     </plurals>
+     <plurals name="ai_creation_wait_message_time">
+        <item quantity="other">Ustvarjanje… | Čas čakanja: %d sek</item>
+        <item quantity="one">Ustvarjanje… | Čas čakanja: %d sek</item>
+     </plurals>
+     <plurals name="ai_creation_wait_queue">
+        <item quantity="other">Ustvarjanje… | %d oseb pred vami</item>
+        <item quantity="one">Ustvarjanje… | %d oseba pred vami</item>
+     </plurals>
+     <plurals name="ai_creation_wait_time_minute">
+        <item quantity="other">Čas čakanja: %d min</item>
+        <item quantity="one">Čas čakanja: %d min</item>
+     </plurals>
+     <plurals name="ai_enhance_bar_waiting">
+        <item quantity="other">Ustvarjanje… | %d sek ostalo</item>
+        <item quantity="one">Ustvarjanje… | %d sek ostalo</item>
+     </plurals>
+     <plurals name="ai_hour">
+        <item quantity="other">%s ur</item>
+        <item quantity="one">%s ura</item>
+     </plurals>
+     <plurals name="ai_image_over_limit_msg">
+        <item quantity="other">Ena oseba lahko ustvari do %d slik AI.</item>
+        <item quantity="one">Ena oseba lahko ustvari do %d sliko AI.</item>
+     </plurals>
+     <plurals name="ai_minute">
+        <item quantity="other">%d min</item>
+        <item quantity="one">%d min</item>
+     </plurals>
+     <plurals name="ai_select_photo_time_count">
+        <item quantity="other">Izbiranje fotografij (še %d sek)…</item>
+        <item quantity="one">Izbiranje fotografij (še %d sek)…</item>
+     </plurals>
      <plurals name="album_already_share_user_count">
         <item quantity="other">Deljeno z %d osebami</item>
         <item quantity="one">Deljeno z %d osebo</item>
@@ -459,6 +503,10 @@
      <plurals name="search_feedback_done_mark_false_positive">
         <item quantity="other">Odstranjeno %1$d fotografij iz \"%2$s\".</item>
         <item quantity="one">odstranjen %1$d fotografija iz \"%2$s\"</item>
+     </plurals>
+     <plurals name="search_title_ai">
+        <item quantity="other">Najdeno %d stvari</item>
+        <item quantity="one">Najdena %d stvar</item>
      </plurals>
      <plurals name="send_apk_dialog_desc">
         <item quantity="other">%2$d namest. paketov (%3$s) od %1$s</item>
