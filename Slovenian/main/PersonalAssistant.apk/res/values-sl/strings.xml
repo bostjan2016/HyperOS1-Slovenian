@@ -1415,6 +1415,7 @@ Dodajte pripomočke da začnete."</string>
      <string name="pa_setting_app_usage_auth_dialog_message">"Ne boste mogli uporabljati \"Predlogi za aplikacije\" pripomočka če izklopite to storitev. Vseeno izklopim?"</string>
      <string name="pa_setting_app_usage_auth_dialog_title">Pozor</string>
      <string name="pa_setting_bugreport">Povratne informacije</string>
+     <string name="pa_setting_new_simplify_title_bar">Meni aplikacij</string>
      <string name="pa_setting_perm_empty">Tu ni ničesar</string>
      <string name="pa_setting_personalized_recommenddation_swicth_summary">Pridobite priporočila za pripomočke na podlagi vaših zanimanj</string>
      <string name="pa_setting_personalized_recommenddation_swicth_title">Prilagojena priporočila</string>
@@ -1491,7 +1492,10 @@ Dodajte pripomočke da začnete."</string>
      <string name="pa_vertical_right">Navpična postavitev. Desno poravnano.</string>
      <string name="pa_widget_advert_loading_dialog_message">Delam…</string>
      <string name="pa_widget_menu_edit">Uredi</string>
+     <string name="pa_widget_menu_edit_card_in_stack">Uredi \"%s\"</string>
+     <string name="pa_widget_menu_edit_stack">Uredi skupino</string>
      <string name="pa_widget_menu_remove">Odstrani</string>
+     <string name="pa_widget_menu_remove_card_in_stack">Odstrani \"%s\"</string>
      <string name="pa_widget_menu_replace">Zamenjaj</string>
      <string name="pa_widget_need_download_dialog_cancel">Prekliči</string>
      <string name="pa_widget_need_download_dialog_confirm">V redu</string>

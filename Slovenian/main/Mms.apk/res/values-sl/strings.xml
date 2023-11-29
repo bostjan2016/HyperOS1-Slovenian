@@ -63,6 +63,7 @@ Poskusite znova."</string>
 dodana med blokirane"</string>
      <string name="add_to_block_by_tag_failed">"Sporočil, ki vsebujejo \"%s\" ni bilo mogoče dodati na seznam blokiranih.
 Poskusite znova."</string>
+     <string name="add_to_block_cta_failed">Varnosti dodelite zahtevana dovoljenja za dodajanje stvari na seznam blokiranih</string>
      <string name="add_to_browser_favorite_failed">Ni uspelo</string>
      <string name="add_to_browser_favorite_success">Uspelo</string>
      <string name="add_video">Dodaj video posnetek</string>
@@ -667,6 +668,10 @@ Preverite SIM kartico."</string>
      <string name="miuix_appcompat_select_item">Izberi stvari</string>
      <string name="miuix_indexer_collect">Zbirke</string>
      <string name="miuix_indexer_selected">Izbrano %s</string>
+     <string name="miuix_item_view_role_description">Zavihek</string>
+     <string name="miuix_navigator_content_switch_description">Pokaži stransko vrstico</string>
+     <string name="miuix_navigator_multiple_choice">Izberi</string>
+     <string name="miuix_navigator_navigator_switch_description">Skrij stransko vrstico</string>
      <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povleci za osvežitev</string>
      <string name="miuix_sbl_tracking_progress_labe_refreshed">Končano</string>
      <string name="miuix_sbl_tracking_progress_labe_refreshing">Osveževanje</string>
@@ -1283,6 +1288,7 @@ Oglejte si priporočene!"</string>
      <string name="rcs_send_rms_remind_desp">5G sporočila je storitev ponujena od China Mobile. Lahko jo izklopite v nastavitvah.</string>
      <string name="rcs_send_rms_remind_title">Pošiljaj sporočila z 5G sporočila</string>
      <string name="rcs_service_agreement">Pogoji uporabe</string>
+     <string name="rcs_service_clear_all">počisti vse</string>
      <string name="rcs_setting">Nastavitve 5G sporočila</string>
      <string name="rcs_setting_tips">Lahko zamenjate alternativne načine sporočil v nastavitvah.</string>
      <string name="rcs_silence_message">Obvestila o tihem sporočilu</string>

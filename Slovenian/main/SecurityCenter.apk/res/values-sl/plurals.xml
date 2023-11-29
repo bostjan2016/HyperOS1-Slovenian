@@ -742,6 +742,10 @@ Dobite %d-dnevni brezplačni preizkus!"</item>
         <item quantity="other">" min"</item>
         <item quantity="one">" min"</item>
      </plurals>
+     <plurals name="pc_can_be_optimize_numbers">
+        <item quantity="other">%d stvari</item>
+        <item quantity="one">%d stvar</item>
+     </plurals>
      <plurals name="pc_extreme_mode_count_down_title">
         <item quantity="other">Vaša naprava je prazna. Vstop v način mirovanja čez %1$d sekund.</item>
         <item quantity="one">Vaša naprava je prazna. Vstop v način mirovanja čez %1$d sekundo.</item>
@@ -805,6 +809,294 @@ Dobite %d-dnevni brezplačni preizkus!"</item>
      <plurals name="people_million">
         <item quantity="other">Preneslo %1$d oseb</item>
         <item quantity="one">Prenesla %1$d oseba</item>
+     </plurals>
+     <plurals name="permission_usage_allow_activity_recognization">
+        <item quantity="other">%1$s | Ta aplikacija je %2$d-krat dostopala do podatkov o vaši vadbi</item>
+        <item quantity="one">%1$s | Ta aplikacija je %2$d-krat dostopala do podatkov o vaši vadbi</item>
+     </plurals>
+     <plurals name="permission_usage_allow_autostart">
+        <item quantity="other">%1$s | Ta aplikacija se je samodejno zagnala %2$d-krat</item>
+        <item quantity="one">%1$s | Ta aplikacija se je samodejno zagnala %2$d-krat</item>
+     </plurals>
+     <plurals name="permission_usage_allow_body_sensor">
+        <item quantity="other">%1$s | Ta aplikacija je %2$d-krat dostopala do telesnih senzorjev</item>
+        <item quantity="one">%1$s | Ta aplikacija je %2$d-krat dostopala do telesnih senzorjev</item>
+     </plurals>
+     <plurals name="permission_usage_allow_call_phone">
+        <item quantity="other">%1$s | Ta aplikacija je opravila telefonske klice %2$d-krat</item>
+        <item quantity="one">%1$s | Ta aplikacija je opravila telefonske klice %2$d-krat</item>
+     </plurals>
+     <plurals name="permission_usage_allow_camera">
+        <item quantity="other">%1$s | Ta aplikacija je %2$d-krat dostopala do kamere</item>
+        <item quantity="one">%1$s | Ta aplikacija je %2$d-krat dostopala do kamere</item>
+     </plurals>
+     <plurals name="permission_usage_allow_clipboard">
+        <item quantity="other">%1$s | Ta aplikacija je %2$d-krat dostopala do odložišča</item>
+        <item quantity="one">%1$s | Ta aplikacija je %2$d-krat dostopala do odložišča</item>
+     </plurals>
+     <plurals name="permission_usage_allow_delete_pic">
+        <item quantity="other">%1$s | Ta aplikacija je izbrisala fotografije iz galerije %2$d-krat</item>
+        <item quantity="one">%1$s | Ta aplikacija je izbrisala fotografije iz galerije %2$d-krat</item>
+     </plurals>
+     <plurals name="permission_usage_allow_device_sensor">
+        <item quantity="other">%1$s | Ta aplikacija je %2$d-krat dostopala do gibanja in usmerjenosti naprave</item>
+        <item quantity="one">%1$s | Ta aplikacija je %2$d-krat dostopala do gibanja in usmerjenosti naprave</item>
+     </plurals>
+     <plurals name="permission_usage_allow_files">
+        <item quantity="other">%1$s | Ta aplikacija je %2$d-krat dostopala do datotek in dokumentov</item>
+        <item quantity="one">%1$s | Ta aplikacija je %2$d-krat dostopala do datotek in dokumentov</item>
+     </plurals>
+     <plurals name="permission_usage_allow_get_installed">
+        <item quantity="other">%1$s | Ta aplikacija je %2$d-krat dostopala do seznama aplikacij, nameščenih v tej napravi</item>
+        <item quantity="one">%1$s | Ta aplikacija je %2$d-krat dostopala do seznama aplikacij, nameščenih v tej napravi</item>
+     </plurals>
+     <plurals name="permission_usage_allow_get_number">
+        <item quantity="other">"%1$s| Ta aplikacija je %2$d-krat dostopala do telefonske številke te naprave"</item>
+        <item quantity="one">"%1$s | Ta aplikacija je %2$d-krat dostopala do telefonske številke te naprave"</item>
+     </plurals>
+     <plurals name="permission_usage_allow_get_sms">
+        <item quantity="other">%1$s | Ta aplikacija je brala SMS %2$d-krat</item>
+        <item quantity="one">%1$s | Ta aplikacija je brala SMS %2$d-krat</item>
+     </plurals>
+     <plurals name="permission_usage_allow_location">
+        <item quantity="other">%1$s | Ta aplikacija je %2$d-krat dostopala do vaše lokacije</item>
+        <item quantity="one">%1$s | Ta aplikacija je %2$d-krat dostopala do vaše lokacije</item>
+     </plurals>
+     <plurals name="permission_usage_allow_media_aural">
+        <item quantity="other">%1$s | Ta aplikacija je %2$d-krat dostopala do glasbe in zvoka</item>
+        <item quantity="one">%1$s | Ta aplikacija je %2$d-krat dostopala do glasbe in zvoka</item>
+     </plurals>
+     <plurals name="permission_usage_allow_media_visual">
+        <item quantity="other">%1$s | Ta aplikacija je %2$d-krat dostopala do fotografij in videoposnetkov</item>
+        <item quantity="one">%1$s | Ta aplikacija je %2$d-krat dostopala do fotografij in videoposnetkov</item>
+     </plurals>
+     <plurals name="permission_usage_allow_media_volume">
+        <item quantity="other">%1$s | Ta aplikacija je prilagodila glasnost predstavnosti %2$d-krat</item>
+        <item quantity="one">%1$s | Ta aplikacija je prilagodila glasnost predstavnosti %2$d-krat</item>
+     </plurals>
+     <plurals name="permission_usage_allow_mic">
+        <item quantity="other">%1$s | Ta aplikacija je %2$d-krat dostopala do mikrofona</item>
+        <item quantity="one">%1$s | Ta aplikacija je %2$d-krat dostopala do mikrofona</item>
+     </plurals>
+     <plurals name="permission_usage_allow_nearby_device">
+        <item quantity="other">%1$s | Ta aplikacija je %2$d-krat dostopala do seznama naprav v bližini</item>
+        <item quantity="one">%1$s | Ta aplikacija je %2$d-krat dostopala do seznama naprav v bližini</item>
+     </plurals>
+     <plurals name="permission_usage_allow_perm">
+        <item quantity="other">%1$s | Dostopano %2$d-krat</item>
+        <item quantity="one">%1$s | Dostopano %2$d-krat</item>
+     </plurals>
+     <plurals name="permission_usage_allow_phone_state">
+        <item quantity="other">"%1$s| Ta aplikacija je %2$d-krat dostopala do stanja klica te naprave"</item>
+        <item quantity="one">"%1$s| Ta aplikacija je %2$d-krat dostopala do stanja klica te naprave"</item>
+     </plurals>
+     <plurals name="permission_usage_allow_r_calendar">
+        <item quantity="other">%1$s | Ta aplikacija je %2$d-krat dostopala do koledarja</item>
+        <item quantity="one">%1$s | Ta aplikacija je %2$d-krat dostopala do koledarja</item>
+     </plurals>
+     <plurals name="permission_usage_allow_r_calllog">
+        <item quantity="other">%1$s | Ta aplikacija je %2$d-krat dostopala do vaše zgodovine klicev</item>
+        <item quantity="one">%1$s | Ta aplikacija je %2$d-krat dostopala do vaše zgodovine klicev</item>
+     </plurals>
+     <plurals name="permission_usage_allow_r_contacts">
+        <item quantity="other">%1$s | Ta aplikacija je %2$d-krat dostopala do vaših stikov</item>
+        <item quantity="one">%1$s | Ta aplikacija je %2$d-krat dostopala do vaših stikov</item>
+     </plurals>
+     <plurals name="permission_usage_allow_receive_sms">
+        <item quantity="other">%1$s | Ta aplikacija je prejela SMS %2$d-krat</item>
+        <item quantity="one">%1$s | Ta aplikacija je prejela SMS %2$d-krat</item>
+     </plurals>
+     <plurals name="permission_usage_allow_send_sms">
+        <item quantity="other">%1$s | Ta aplikacija je poslala SMS %2$d-krat</item>
+        <item quantity="one">%1$s | Ta aplikacija je poslala SMS %2$d-krat</item>
+     </plurals>
+     <plurals name="permission_usage_allow_storage">
+        <item quantity="other">%1$s｜Dostopano do fotografij, videoposnetkov, zvoka in datotek %2$d-krat</item>
+        <item quantity="one">%1$s｜Dostopano do fotografij, videoposnetkov, zvoka in datotek %2$d-krat</item>
+     </plurals>
+     <plurals name="permission_usage_allow_w_calendar">
+        <item quantity="other">%1$s | Ta aplikacija je %2$d-krat uredila koledar</item>
+        <item quantity="one">%1$s | Ta aplikacija je %2$d-krat uredila koledar</item>
+     </plurals>
+     <plurals name="permission_usage_allow_w_calllog">
+        <item quantity="other">%1$s| Ta aplikacija je %2$d-krat uredila vašo zgodovino klicev</item>
+        <item quantity="one">%1$s| Ta aplikacija je %2$d-krat uredila vašo zgodovino klicev</item>
+     </plurals>
+     <plurals name="permission_usage_allow_w_contacts">
+        <item quantity="other">%1$s | Ta aplikacija je %2$d-krat uredila vaše stike</item>
+        <item quantity="one">%1$s | Ta aplikacija je %2$d-krat uredila vaše stike</item>
+     </plurals>
+     <plurals name="permission_usage_allow_wake_path">
+        <item quantity="other">%1$s | Ta aplikacija se je samodejno zagnala %2$s %3$d-krat</item>
+        <item quantity="one">%1$s | Ta aplikacija se je samodejno zagnala %2$s %3$d-krat</item>
+     </plurals>
+     <plurals name="permission_usage_allow_wakepath">
+        <item quantity="other">%1$s | Dovoljeno %2$d-krat</item>
+        <item quantity="one">%1$s | Dovoljeno %2$d-krat</item>
+     </plurals>
+     <plurals name="permission_usage_delete_pic_more">
+        <item quantity="other">%1$s | Izbrisane fotografije iz galerije %2$d-krat</item>
+        <item quantity="one">%1$s | Izbrisane fotografije iz galerije %2$d-krat</item>
+     </plurals>
+     <plurals name="permission_usage_deny_activity_recognization">
+        <item quantity="other">%1$s | Tej aplikaciji je bil zavrnjen dostop do podatkov o vaši vadbi %2$d-krat</item>
+        <item quantity="one">%1$s | Tej aplikaciji je bil zavrnjen dostop do podatkov o vaši vadbi %2$d-krat</item>
+     </plurals>
+     <plurals name="permission_usage_deny_autostart">
+        <item quantity="other">%1$s | Tej aplikaciji je bil zavrnjen samodejni zagon %2$d-krat</item>
+        <item quantity="one">%1$s | Tej aplikaciji je bil zavrnjen samodejni zagon %2$d-krat</item>
+     </plurals>
+     <plurals name="permission_usage_deny_body_sensor">
+        <item quantity="other">%1$s | Tej aplikaciji je bil zavrnjen dostop do telesnih senzorjev %2$d-krat</item>
+        <item quantity="one">%1$s | Tej aplikaciji je bil zavrnjen dostop do telesnih senzorjev %2$d-krat</item>
+     </plurals>
+     <plurals name="permission_usage_deny_call_phone">
+        <item quantity="other">%1$s | Tej aplikaciji je bilo zavrnjeno opravljanje klicev %2$d-krat</item>
+        <item quantity="one">%1$s | Tej aplikaciji je bilo zavrnjeno opravljanje klicev %2$d-krat</item>
+     </plurals>
+     <plurals name="permission_usage_deny_camera">
+        <item quantity="other">%1$s | Tej aplikaciji je bil zavrnjen dostop do kamere %2$d-krat</item>
+        <item quantity="one">%1$s | Tej aplikaciji je bil zavrnjen dostop do kamere %2$d-krat</item>
+     </plurals>
+     <plurals name="permission_usage_deny_clipboard">
+        <item quantity="other">%1$s | Tej aplikaciji je bil zavrnjen dostop do odložišča %2$d-krat</item>
+        <item quantity="one">%1$s | Tej aplikaciji je bil zavrnjen dostop do odložišča %2$d-krat</item>
+     </plurals>
+     <plurals name="permission_usage_deny_delete_pic">
+        <item quantity="other">%1$s | Tej aplikaciji je bilo %2$d-krat zavrnjeno brisanje fotografij iz galerije</item>
+        <item quantity="one">%1$s | Tej aplikaciji je bilo %2$d-krat zavrnjeno brisanje fotografij iz galerije</item>
+     </plurals>
+     <plurals name="permission_usage_deny_device_sensor">
+        <item quantity="other">%1$s | Tej aplikaciji je bil %2$d-krat zavrnjen dostop do gibanja in usmerjenosti naprave</item>
+        <item quantity="one">%1$s | Tej aplikaciji je bil %2$d-krat zavrnjen dostop do gibanja in usmerjenosti naprave</item>
+     </plurals>
+     <plurals name="permission_usage_deny_files">
+        <item quantity="other">%1$s | Tej aplikaciji je bil zavrnjen dostop do datotek in dokumentov %2$d-krat</item>
+        <item quantity="one">%1$s | Tej aplikaciji je bil zavrnjen dostop do datotek in dokumentov %2$d-krat</item>
+     </plurals>
+     <plurals name="permission_usage_deny_get_installed">
+        <item quantity="other">%1$s | Tej aplikaciji je %2$d-krat zavrnjen dostop do seznama aplikacij, nameščenih v tej napravi</item>
+        <item quantity="one">%1$s | Tej aplikaciji je %2$d-krat zavrnjen dostop do seznama aplikacij, nameščenih v tej napravi</item>
+     </plurals>
+     <plurals name="permission_usage_deny_get_number">
+        <item quantity="other">"%1$s | Tej aplikaciji je bil zavrnjen dostop do telefonske številke te naprave %2$d-krat"</item>
+        <item quantity="one">"%1$s | Tej aplikaciji je bil zavrnjen dostop do telefonske številke te naprave %2$d-krat"</item>
+     </plurals>
+     <plurals name="permission_usage_deny_get_sms">
+        <item quantity="other">%1$s | Tej aplikaciji je %2$d-krat zavrnjeno branje sporočil SMS</item>
+        <item quantity="one">%1$s | Tej aplikaciji je %2$d-krat zavrnjeno branje sporočil SMS</item>
+     </plurals>
+     <plurals name="permission_usage_deny_location">
+        <item quantity="other">%1$s | Tej aplikaciji je bil zavrnjen dostop do vaše lokacije %2$d-krat</item>
+        <item quantity="one">%1$s | Tej aplikaciji je bil zavrnjen dostop do vaše lokacije %2$d-krat</item>
+     </plurals>
+     <plurals name="permission_usage_deny_media_aural">
+        <item quantity="other">%1$s | Tej aplikaciji je bil zavrnjen dostop do glasbe in zvoka %2$d-krat</item>
+        <item quantity="one">%1$s | Tej aplikaciji je bil zavrnjen dostop do glasbe in zvoka %2$d-krat</item>
+     </plurals>
+     <plurals name="permission_usage_deny_media_visual">
+        <item quantity="other">%1$s | Tej aplikaciji je bil %2$d-krat zavrnjen dostop do fotografij in videoposnetkov</item>
+        <item quantity="one">%1$s | Tej aplikaciji je bil %2$d-krat zavrnjen dostop do fotografij in videoposnetkov</item>
+     </plurals>
+     <plurals name="permission_usage_deny_media_volume">
+        <item quantity="other">%1$s | Tej aplikaciji %2$d-krat ni bilo dovoljeno prilagoditi glasnosti predstavnosti</item>
+        <item quantity="one">%1$s | Tej aplikaciji %2$d-krat ni bilo dovoljeno prilagoditi glasnosti predstavnosti</item>
+     </plurals>
+     <plurals name="permission_usage_deny_mic">
+        <item quantity="other">%1$s | Tej aplikaciji je bil zavrnjen dostop do mikrofona %2$d-krat</item>
+        <item quantity="one">%1$s | Tej aplikaciji je bil zavrnjen dostop do mikrofona %2$d-krat</item>
+     </plurals>
+     <plurals name="permission_usage_deny_nearby_device">
+        <item quantity="other">%1$s | Tej aplikaciji je bil %2$d-krat zavrnjen dostop do seznama naprav v bližini</item>
+        <item quantity="one">%1$s | Tej aplikaciji je bil %2$d-krat zavrnjen dostop do seznama naprav v bližini</item>
+     </plurals>
+     <plurals name="permission_usage_deny_perm">
+        <item quantity="other">%1$s | Dostop zavrnjen %2$d-krat</item>
+        <item quantity="one">%1$s | Dostop zavrnjen %2$d-krat</item>
+     </plurals>
+     <plurals name="permission_usage_deny_phone_state">
+        <item quantity="other">"%1$s | Tej aplikaciji je bil zavrnjen dostop do stanja klica te naprave %2$d-krat"</item>
+        <item quantity="one">"%1$s | Tej aplikaciji je bil zavrnjen dostop do stanja klica te naprave %2$d-krat"</item>
+     </plurals>
+     <plurals name="permission_usage_deny_r_calendar">
+        <item quantity="other">%1$s | Tej aplikaciji je bil %2$d-krat zavrnjen dostop do koledarja</item>
+        <item quantity="one">%1$s | Tej aplikaciji je bil %2$d-krat zavrnjen dostop do koledarja</item>
+     </plurals>
+     <plurals name="permission_usage_deny_r_calllog">
+        <item quantity="other">%1$s | Tej aplikaciji je bil zavrnjen dostop do vaše zgodovine klicev %2$d-krat</item>
+        <item quantity="one">%1$s | Tej aplikaciji je bil zavrnjen dostop do vaše zgodovine klicev %2$d-krat</item>
+     </plurals>
+     <plurals name="permission_usage_deny_r_contacts">
+        <item quantity="other">%1$s | Tej aplikaciji je bil zavrnjen dostop do vaših stikov %2$d-krat</item>
+        <item quantity="one">%1$s | Tej aplikaciji je bil zavrnjen dostop do vaših stikov %2$d-krat</item>
+     </plurals>
+     <plurals name="permission_usage_deny_receive_sms">
+        <item quantity="other">%1$s | Tej aplikaciji je bilo zavrnjeno prejemanje sporočil SMS %2$d-krat</item>
+        <item quantity="one">%1$s | Tej aplikaciji je bilo zavrnjeno prejemanje sporočil SMS %2$d-krat</item>
+     </plurals>
+     <plurals name="permission_usage_deny_send_sms">
+        <item quantity="other">%1$s | Tej aplikaciji je bilo pošiljanje prejemanje sporočil SMS %2$d-krat</item>
+        <item quantity="one">%1$s | Tej aplikaciji je bilo pošiljanje prejemanje sporočil SMS %2$d-krat</item>
+     </plurals>
+     <plurals name="permission_usage_deny_storage">
+        <item quantity="other">"%1$s｜Dostop do fotografij, videoposnetkov, zvoka in datotek %2$d-krat ni bil dovoljen"</item>
+        <item quantity="one">"%1$s｜Dostop do fotografij, videoposnetkov, zvoka in datotek %2$d-krat ni bil dovoljen"</item>
+     </plurals>
+     <plurals name="permission_usage_deny_w_calendar">
+        <item quantity="other">%1$s | Tej aplikaciji je bilo %2$d-krat zavrnjeno urejanje koledarja</item>
+        <item quantity="one">%1$s | Tej aplikaciji je bilo %2$d-krat zavrnjeno urejanje koledarja</item>
+     </plurals>
+     <plurals name="permission_usage_deny_w_calllog">
+        <item quantity="other">%1$s | Tej aplikaciji je bilo %2$d-krat zavrnjeno urejanje vaše zgodovine klicev</item>
+        <item quantity="one">%1$s | Tej aplikaciji je bilo %2$d-krat zavrnjeno urejanje vaše zgodovine klicev</item>
+     </plurals>
+     <plurals name="permission_usage_deny_w_contacts">
+        <item quantity="other">%1$s | Tej aplikaciji je bilo %2$d-krat zavrnjeno urejanje vaših stikov</item>
+        <item quantity="one">%1$s | Tej aplikaciji je bilo %2$d-krat zavrnjeno urejanje vaših stikov</item>
+     </plurals>
+     <plurals name="permission_usage_deny_wake_path">
+        <item quantity="other">%1$s | Tej aplikaciji je bil zavrnjen samodejni zagon %2$s %3$d-krat</item>
+        <item quantity="one">%1$s | Tej aplikaciji je bil zavrnjen samodejni zagon %2$s %3$d-krat</item>
+     </plurals>
+     <plurals name="permission_usage_deny_wakepath">
+        <item quantity="other">%1$s | Zavrnjeno %2$d-krat</item>
+        <item quantity="one">%1$s | Zavrnjeno %2$d-krat</item>
+     </plurals>
+     <plurals name="permission_usage_projection_screen">
+        <item quantity="other">%1$s｜Dostop do ali posneta vsebina zaslona %2$d-krat</item>
+        <item quantity="one">%1$s｜Dostop do ali posneta vsebina zaslona %2$d-krat</item>
+     </plurals>
+     <plurals name="permission_usage_recent_day">
+        <item quantity="other">pred %1$d dni</item>
+        <item quantity="one">pred %1$d dnevom</item>
+     </plurals>
+     <plurals name="permission_usage_terminal_camera">
+        <item quantity="other">"%1$s | Ta aplikacija je %2$d-krat uporabila fotoaparat te naprave"</item>
+        <item quantity="one">"%1$s | Ta aplikacija je %2$d-krat uporabila fotoaparat te naprave"</item>
+     </plurals>
+     <plurals name="permission_usage_terminal_screen">
+        <item quantity="other">"%1$s | Ta aplikacija je %2$d-krat uporabila zaslon te naprave"</item>
+        <item quantity="one">"%1$s | Ta aplikacija je %2$d-krat uporabila zaslon te naprave"</item>
+     </plurals>
+     <plurals name="permission_usage_virtual_calllog_more">
+        <item quantity="other">%1$s | Ta aplikacija je %2$d-krat vrnila prazen zapis klica</item>
+        <item quantity="one">%1$s | Ta aplikacija je %2$d-krat vrnila prazen zapis klica</item>
+     </plurals>
+     <plurals name="permission_usage_virtual_common_more">
+        <item quantity="other">%1$s | Ta aplikacija je %2$d-krat vrnila prazno sporočilo</item>
+        <item quantity="one">%1$s | Ta aplikacija je %2$d-krat vrnila prazno sporočilo</item>
+     </plurals>
+     <plurals name="permission_usage_virtual_contacts_more">
+        <item quantity="other">%1$s | Ta aplikacija je %2$d-krat vrnila prazen stik</item>
+        <item quantity="one">%1$s | Ta aplikacija je %2$d-krat vrnila prazen stik</item>
+     </plurals>
+     <plurals name="permission_usage_virtual_phone_state_more">
+        <item quantity="other">%1$s | Ta aplikacija je %2$d-krat vrnila prazno stanje klica</item>
+        <item quantity="one">%1$s | Ta aplikacija je %2$d-krat vrnila prazno stanje klica</item>
+     </plurals>
+     <plurals name="permission_usage_virtual_sms_more">
+        <item quantity="other">%1$s | Ta aplikacija je vrnila prazen SMS %2$d-krat</item>
+        <item quantity="one">%1$s | Ta aplikacija je vrnila prazen SMS %2$d-krat</item>
      </plurals>
      <plurals name="power_20s_shutdown">
         <item quantity="other">Naprava se bo izključila čez %d sekund</item>
@@ -933,6 +1225,10 @@ Dobite %d-dnevni brezplačni preizkus!"</item>
      <plurals name="pp_times">
         <item quantity="other">%s krat</item>
         <item quantity="one">%s krat</item>
+     </plurals>
+     <plurals name="ppermission_usage_virtual_calendar_more">
+        <item quantity="other">%1$s | Ta aplikacija je vrnila prazen koledarski dogodek %2$d-krat</item>
+        <item quantity="one">%1$s | Ta aplikacija je vrnila prazen koledarski dogodek %2$d-krat</item>
      </plurals>
      <plurals name="privacy_apps_disable_header_title">
         <item quantity="other">"%d ikon aplikacij je skrito"</item>
@@ -1167,6 +1463,10 @@ Ustavite se!"</item>
      <plurals name="virus_clear_dialog_content">
         <item quantity="other">Izbrišem %d izbranih aplikacij?</item>
         <item quantity="one">Izbrišem %d izbrano aplikacijo?</item>
+     </plurals>
+     <plurals name="wakepath_allow_start_app_count">
+        <item quantity="other">%s aplikacij</item>
+        <item quantity="one">%s aplikacija</item>
      </plurals>
      <plurals name="white_list_risk_app_header">
         <item quantity="other">Nevarne aplikacije: %d</item>

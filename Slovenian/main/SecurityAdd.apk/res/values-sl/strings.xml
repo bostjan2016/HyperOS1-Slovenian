@@ -227,6 +227,8 @@
      <string name="gb_gpu_dialog_button_countdown">Razumem (%s)</string>
      <string name="gb_gpu_dialog_message">Trenutne nastavitve GPU za \"%s\". Znova zaženite igro, da uporabite nastavitve.</string>
      <string name="gb_gpu_dialog_titile">GPU nastavitve</string>
+     <string name="gb_gpu_pannel_touch_ctl_dialog_message">"Nadzor na dotik je posodobljen. Zdaj lahko med igranjem iger najdete povezane storitve v Bližnjice za igre > Izboljšane kontrole na dotik."</string>
+     <string name="gb_gpu_pannel_touch_ctl_dialog_title">Nove kontrole na dotik</string>
      <string name="gb_gpu_rader_graph">Kvaliteta slike</string>
      <string name="gb_gpu_rader_maxfps">Najvišja hitrost sličic</string>
      <string name="gb_gpu_rader_remain">Zmogljivost</string>
@@ -243,10 +245,15 @@
      <string name="gb_gputuner_lod_deviation">Mipmap LOD pristranskost</string>
      <string name="gb_gputuner_multi_render">Večnitno upodabljanje</string>
      <string name="gb_not_support_on_device">"Te aplikacije ni mogoče uporabljati na zunanjem zaslonu"</string>
+     <string name="gb_pannel_control_frame_rate_dialog_message">Če želite uporabljati to storitev v nastavitvah spremenite ločljivost zaslona na WQHD+.</string>
+     <string name="gb_pannel_control_frame_rate_dialog_positive">Nastavitve</string>
+     <string name="gb_pannel_control_frame_rate_dialog_title">Spremeni ločljivost zaslona</string>
      <string name="gb_pannel_control_mode_balance">Uravnoteženo</string>
      <string name="gb_pannel_control_mode_custom">Po meri</string>
+     <string name="gb_pannel_control_mode_frame_rate">Prioriteta hitrost sličic</string>
      <string name="gb_pannel_control_mode_high_quality">Visoka kvaliteta</string>
      <string name="gb_pannel_control_mode_normal">Privzeto</string>
+     <string name="gb_pannel_control_mode_picture">Prednost slike</string>
      <string name="gb_pannel_control_mode_power_saving">Varčevanje energije</string>
      <string name="gb_web_panel_failure_retry">"Ne morem naložiti."Poskusite znova.</string>
      <string name="gb_web_panel_game_loading">Delam…</string>
@@ -285,6 +292,7 @@
      <string name="intro_improve">Pohitritev iger na nivoju sistema za gladko igranje</string>
      <string name="intro_skip">Preskoči</string>
      <string name="loading">Nalagam…</string>
+     <string name="lucky_back">Nazaj na Rdeči paketni pomočnik</string>
      <string name="lucky_result_title">Rdeče kuverte</string>
      <string name="main_toolbar_purchase">Doplačilo</string>
      <string name="man_add_application">Dodajte ročno samod. zagon aplikacije</string>

@@ -33,6 +33,8 @@
      <string name="activate_esim_tips">"Ne morem aktivirati. Poskusite ponovno."</string>
      <string name="activating_esim_tips">Aktiviranje…</string>
      <string name="address_dialing_introduction">S to aplikacijo lahko kličete, si ogledate zgodovino klicev in upravljate stike.</string>
+     <string name="after_sales_support">Poprodajna podpora</string>
+     <string name="after_sales_support_introduction">Ta storitev vam omogoča, da dobite podporo in pomoč glede kupljenih naprav.</string>
      <string name="afternoon">Večer</string>
      <string name="agree">Strinjam se</string>
      <string name="agree_and_next">Strinjam se</string>
@@ -55,6 +57,7 @@
      <string name="app_name">Določila</string>
      <string name="application_package_introduction">Ta aplikacija se uporablja za nameščanje aplikacij drugih proizvajalcev, vključno s storitvami skeniranja pred namestitvijo in priporočili storitev po namestitvi.</string>
      <string name="application_permissions">Dovoljenja aplikacije</string>
+     <string name="authority_introduction">Upravitelj dovoljenj je osnovna storitev, ki vam omogoča upravljanje dovoljenj aplikacij v tej napravi.</string>
      <string name="back">Nazaj</string>
      <string name="backup_introduction">S to aplikacijo lahko varnostno kopirate in obnovite stvari v napravi.</string>
      <string name="bluetooth_introduction">Bluetooth uporablja sistem za brezžično komunikacijo. Za normalno delovanje Bluetooth potrebuje naslednja dovoljenja:</string>
@@ -101,10 +104,12 @@
      <string name="data_traffic_enable_dialog_title">"Če niste povezani z WiFi bo naprava uporabila mobilne podatke. To lahko povzroči stroške."</string>
      <string name="date_picker_lunar">Kitajski tradicionalni koledar</string>
      <string name="date_time_picker_dialog_title">Nastavi datum in čas</string>
+     <string name="default_font">Privzeto</string>
      <string name="desc_extra_fingerprint" />
      <string name="desc_extra_international_fingerprint" />
      <string name="desc_fingerprint">Uporabite prstni odtis za odklepanje naprave, potrjevanje Mi Pay transakcij, ali za prijavo v aplikacije in storitve.</string>
      <string name="desc_international_fingerprint">Uporabite prstni odtis za odklepanje naprave ali za prijavo v aplikacije in storitve.</string>
+     <string name="device_information_usage_desc">Ta storitev vam omogoča ogled informacij o napravi, povezavo naprave z omrežji in nastavitev njenih funkcij.</string>
      <string name="diagnose_report">Pošljite diagnostične podatke da boste locirali in analizirali probleme sistema in izboljšali uporabniško izkušnjo. Ti podatki lahko vsebujejo osebne podatke (npr. IP, lokacijo itd.)</string>
      <string name="disageement_abnormal_download">"Če se ne strinjate z dovoljenji ali deljenjem in pošiljanjem vaših osebnih podatkov, ne boste mogli uporabljati te storitve."</string>
      <string name="disagree">Prekliči</string>
@@ -121,6 +126,7 @@
      <string name="disagreement_location_service_abnormal">"Če se ne strinjate z dodelitvijo teh dovoljenj, ne boste mogli uporabljati lokacijskih storitev. Lokacijske storitve lahko kadar koli vklopite ali izklopite v Nastavitve > Zaščita zasebnosti."</string>
      <string name="disagreement_mi_account_abnormal">"Če se ne strinjate s podelitvijo teh dovoljenj, ne boste mogli uporabljati storitev Mi račun. Storitve Mi račun lahko kadar koli vklopite ali izklopite v Nastavitve > Mi račun."</string>
      <string name="disagreement_service_not_working_properly">"Če se ne strinjate s podelitvijo teh dovoljenj, te aplikacije ne boste mogli uporabljati."</string>
+     <string name="disagreement_service_not_working_properly_settings">"Če se ne strinjate z odobritvijo teh dovoljenj, ta storitev ne bo mogla normalno delovati."</string>
      <string name="disagreement_terminate_bluetooth">"Če teh dovoljenj ne želite odobriti, ne boste mogli uporabljati Bluetooth. Bluetooth lahko vklopite in izklopite ter dodate naprave v nastavitvah."</string>
      <string name="disagreement_terminate_miuidaemon">"Če se ne strinjate s temi dovoljenji ali če delite in naložite svoje osebne podatke, te storitve ne boste mogli uporabljati. V takšnih primerih se lahko odločite, da ne boste uporabljali te storitve, ali omejite dovoljenja v nastavitvah. Upoštevajte, da bomo dovoljenja uporabili šele, ko začnete prenašati podatke iz naprave, ko je njen zaslon poškodovan."</string>
      <string name="disagreement_terminate_service">"Če se ne strinjate z dovoljenji ali deljenjem in pošiljanjem vaših osebnih podatkov, ne boste mogli uporabljati te storitve. Lahko jo odstranite, se odjavite ali ji omejite dovoljenja v Nastavitvah."</string>
@@ -190,12 +196,18 @@
      <string name="fmt_weekday_timezone">W z</string>
      <string name="font_hint_large">Privzeta velikost teksta</string>
      <string name="font_hint_normal">Povečaj velikost teksta</string>
+     <string name="font_settings_sub_title">Izberi sistemsko pisavo</string>
+     <string name="font_settings_title">Nastavitve pisave</string>
+     <string name="font_use_case_text_example">Telo</string>
+     <string name="font_use_case_title_example">Naslov</string>
      <string name="framework_introduction">Mi Services Framework vam omogoča uporabo Mi Računa, Mi Push, Analitika in MIUI BI.</string>
      <string name="framwork_base_service">Za nudenje teh storitev Mi Services Framework (Mi Račun, Mi Push, Analitika, MIUI BI) potrebuje povezavo s spletom, dostop do št. telefona, IMEI in IMSI in sprejem pojavnih obvestil.</string>
      <string name="friday">Petek</string>
      <string name="friday_short">Pet</string>
      <string name="friday_shortest">P</string>
      <string name="game_introduction">Dodatek za igre vam omogoča prijavo, naročanje, plačevanje, uporabo kuponov in sodelovanje v reklamnih dogodkih.</string>
+     <string name="get_imei_information">Dostop do IMEI</string>
+     <string name="get_imei_information_settings">Dostop do edinstveni identifikator naprave (IMEI)</string>
      <string name="google_service_introduction">Za normalno delovanje Google Play potrebuje povezavo s spletom, dostop do lokacije, snemanje zvokov, klicanje, dostop do dogodkov koledarja, zgodovine klicev, senzorjev, shrambe, kamere, informacij o napravi in računih.</string>
      <string name="home_settings_miui_home">Klasično</string>
      <string name="home_settings_poco_launcher">Predal za aplikacije</string>
@@ -269,6 +281,7 @@ Storitve se lahko spreminjajo. Nekatere od zgornjih storitev morda niso na voljo
      <string name="miui14_start_up_slogan">Pripravljeno. Enakomerno. Živo.</string>
      <string name="miui_privacy_policy_no_network">"Niste povezani s spletom. Poglejte Pravila o zasebnosti na %s."</string>
      <string name="miui_provision">Začetna nastavitev</string>
+     <string name="miui_settings">Nastavitve</string>
      <string name="miui_terms_no_network">"Niste povezani s spletom. Poglejte Pogoje uporabe na %s"</string>
      <string name="miuix_access_state_desc">Izbrano</string>
      <string name="miuix_alphabet_indexer_name">Vrstica za iskanje</string>
@@ -408,6 +421,8 @@ To storitev lahko nadzorujete v Nastavitve > Gesla &amp; varnost > Zasebnost > S
      <string name="permission_account">Dostop do računov v napravi:</string>
      <string name="permission_account_introduction">Za prijavo z uporabo Mi Računa</string>
      <string name="permission_application_package_introduction">Za dostop do shrambe zaradi analize in pregleda namestitvenih paketov</string>
+     <string name="permission_authority_describe">Dostop do seznama aplikacij, nameščenih v tej napravi</string>
+     <string name="permission_authority_describe_applist_summary">Za upravljanje dovoljenj aplikacij</string>
      <string name="permission_backup">Dostop do shrambe</string>
      <string name="permission_backup_introduction">Za dostop in shranjevanje varnostnih kopij v vaši napravi</string>
      <string name="permission_call_records">Dostop do zgodovine klicev:</string>
@@ -434,6 +449,8 @@ To storitev lahko nadzorujete v Nastavitve > Gesla &amp; varnost > Zasebnost > S
      <string name="permission_download_introduction">Za predhranjenje prenešenih stvari in shranjevanje v napravo</string>
      <string name="permission_enable_disable_bluetooth_summary">Za iskanje naprav v bližini za povezavo in prenos podatkov</string>
      <string name="permission_fast_pairing">Če želite najti naprave v bližini, se mora Mi Link povezati s spletom in zahtevati naslednja dovoljenja:</string>
+     <string name="permission_get_imei_information_summary">Za prepoznavanje časa aktivacije naprave</string>
+     <string name="permission_get_imei_information_summary_settings">Za prikaz informacij o napravi in specifikacij</string>
      <string name="permission_imei_service">Za dostop do IMEI za nudenje storitev povezanih z vašo napravo</string>
      <string name="permission_interaction_introduction">Za shranjevanje fotografij in videoposnetkov v napravo</string>
      <string name="permission_location">Dostop do podatkov o lokaciji:</string>
@@ -449,6 +466,8 @@ To storitev lahko nadzorujete v Nastavitve > Gesla &amp; varnost > Zasebnost > S
      <string name="permission_make_a_call">Klicanje</string>
      <string name="permission_make_a_call_fast_application_summary">Za omogočanje hitrih aplikacij za klicanje;</string>
      <string name="permission_message_introduction">Za pošiljanje sporočil blokiranim stikom</string>
+     <string name="permission_number">Dostop do telefonske številke</string>
+     <string name="permission_number_introduction">Za vzpostavitev Bluetooth povezave z avtomobilskimi sistemi in Bluetooth slušalkami</string>
      <string name="permission_phone_imei_device">Za dostop do IMEI zaradi prepoznavanja naprave</string>
      <string name="permission_phone_network">Za dostop do vrste omrežja zaradi optimizacije in prilagoditve stvari za prenos</string>
      <string name="permission_phone_service">Dostop do št. telefona, IMEI in IMSI:</string>
@@ -456,6 +475,8 @@ To storitev lahko nadzorujete v Nastavitve > Gesla &amp; varnost > Zasebnost > S
      <string name="permission_photo_video">Snemanje fotografij in videoposnetkov:</string>
      <string name="permission_photo_video_introduction">Za snemanje fotografij, snemanje videoposnetkov in uporabo bliskavice</string>
      <string name="permission_picture_introduction">Za shranjevanje, urejanje in sinhronizacijo fotografij in videoposnetkov</string>
+     <string name="permission_qualcomm_describe_summary">Za dinamično dodeljevanje sistemskih virov različnim aplikacijam in organiziranje njihovih delovnih procesov</string>
+     <string name="permission_quality_describe_summary">Za zbiranje informacij o zrušitvah aplikacij</string>
      <string name="permission_read_app_list">Dostop do seznama aplikacij, nameščenih v tej napravi</string>
      <string name="permission_read_application_list_summary">Za posodobitev prenesenih aplikacij in potrditev podatkov o aplikacijah, ki jih uporablja namestitveni paket.</string>
      <string name="permission_read_call_records">Urejanje zgodovine klicev:</string>
@@ -493,6 +514,10 @@ To storitev lahko nadzorujete v Nastavitve > Gesla &amp; varnost > Zasebnost > S
      <string name="permission_recording_introduction">Za snemanje zvoka med snemanjem videoposnetkov</string>
      <string name="permission_screen_shoot_introduction">Za dostop in shranjevanje posnetkov zaslona</string>
      <string name="permission_send_message">Pošiljanje SMS-ov</string>
+     <string name="permission_uniquely_identifiable_information">Dostop do edinstvenih identifikatorjev te naprave</string>
+     <string name="permission_uniquely_identifiable_information_summary">Dostop do naslova MAC in OAID naprave za odkrivanje, povezovanje in komunikacijo z drugimi napravami</string>
+     <string name="permission_use_bluetooth">Uporaba Bluetooth</string>
+     <string name="permission_use_bluetooth_summary">Za odkrivanje, povezovanje in komunikacijo z napravami v bližini</string>
      <string name="permission_use_camera">Dostop do kamere</string>
      <string name="permission_use_camera_camera_summary">Za fotografiranje, snemanje videoposnetkov in uporabo bliskavice;</string>
      <string name="permission_use_camera_desktop_summary">Za določitev, ali podpira funkcijo svetilke;</string>
@@ -502,11 +527,14 @@ To storitev lahko nadzorujete v Nastavitve > Gesla &amp; varnost > Zasebnost > S
      <string name="permission_use_microphone_camera_summary">Za snemanje zvoka med snemanjem videa;</string>
      <string name="permission_use_microphone_desktop_summary">Za prikaz stanja snemanja.</string>
      <string name="permission_use_microphone_fast_application_summary">Omogoča hitrim aplikacijam dostop do mikrofona;</string>
+     <string name="permission_use_wlan">Uporaba WiFi</string>
+     <string name="permission_use_wlan_summary">Za odkrivanje, povezovanje in komunikacijo z napravami v bližini</string>
      <string name="permission_user_record_introduction">Za snemanje zvoka</string>
      <string name="permission_virusscan_introduction">Za iskanje virusov in optimizacijo vaše naprave</string>
      <string name="permission_write_device_store">Shranjevanje v pomnilnik</string>
      <string name="permission_write_device_store_summary">Za predpomnjenje prenesenih izvornih konfiguracijskih datotek.</string>
      <string name="permission_xunlei_introduction">Za prijavo in urejanje sistemskih računov zaradi nudenja Xunlei storitev</string>
+     <string name="phone_service_introduction">Telefon je osnovna storitev, ki vaši napravi omogoča klicanje, pošiljanje in prejemanje sporočil ter povezovanje z omrežjem.</string>
      <string name="pm">pop.</string>
      <string name="poco_agree_terms_other">(Vključno POCO zaganjalnik Pravila o zasebnosti in Pogoji uporabe)</string>
      <string name="poco_launcher_privacy_policy">POCO Launcher Pravila o zasebnosti</string>
@@ -531,10 +559,15 @@ To storitev lahko nadzorujete v Nastavitve > Gesla &amp; varnost > Zasebnost > S
      <string name="provision_inputmethod_policy_description1">Pravila o zasebnosti</string>
      <string name="provision_next">Naprej</string>
      <string name="provision_skip_underline">Preskoči</string>
+     <string name="recommended_font_mark">Priporočeno</string>
      <string name="recorder_introduction">Aplikacijo lahko uporabite za snemanje zvoka in shranjevanje posnetkov na Mi Cloud.</string>
      <string name="refuse_cookie">Zavrni piškotke</string>
      <string name="require_authority_list_statement">Za normalno delovanje ta storitev zahteva naslednja dovoljenja:</string>
      <string name="require_authority_statement">Da vam lahko ponudimo osnovne storitve morate odobriti naslednja dovoljenja za zbiranje vaših osebnih podatkov:</string>
+     <string name="require_base_authority_statement">"Za zagotavljanje osnovnih storitev so potrebna naslednja dovoljenja:
+\u0009\u0009\u0009Dostop do IMEI in IMSI"</string>
+     <string name="require_basic_applist_and_authority_statement">Za zagotavljanje osnovnih storitev so potrebna naslednja dovoljenja:</string>
+     <string name="require_device_information_statement">Za zagotavljanje osnovnih storitev so potrebna naslednja dovoljenja:</string>
      <string name="require_miuidaemon_authority_statement">Če želite, da vam omogočimo to storitev, morate podeliti naslednja dovoljenja, da bomo lahko zbirali vaše osebne podatke:</string>
      <string name="require_network_and_authority_statement">Za normalno delovanje se mora ta storitev povezati na splet in zahteva naslednja dovoljenja:</string>
      <string name="require_network_authority_statement">Da vam lahko ponudimo osnovne storitve se morate povezati na splet in odobriti naslednja dovoljenja za zbiranje vaših osebnih podatkov:</string>
@@ -546,6 +579,7 @@ To storitev lahko nadzorujete v Nastavitve > Gesla &amp; varnost > Zasebnost > S
      <string name="search_menu_title">Išči</string>
      <string name="security_introduction">S to aplikacijo lahko očistite smeti iz naprave, najdete in onemogočite viruse, optimizirate zmogljivost iger, varčujete z baterijo, urejate aplikacije, dovoljenja in še več.</string>
      <string name="security_mobile_account_introduction">Za prijavo in upravljanje sistemskih računov</string>
+     <string name="select_font_modele_tips">V Temah lahko vedno izberete novo pisavo</string>
      <string name="send">Pošlji</string>
      <string name="service_agreement">"Prebral sem in se strinjam."</string>
      <string name="service_company_adjust_content">Omrežne storitve Xunlei Pogoji uporabe</string>
@@ -557,6 +591,7 @@ To storitev lahko nadzorujete v Nastavitve > Gesla &amp; varnost > Zasebnost > S
      <string name="service_name_address_dialing">Stiki in telefon</string>
      <string name="service_name_album">Galerija</string>
      <string name="service_name_application_package">Orodje za namestitev paketa</string>
+     <string name="service_name_authority">Upravitelj dovoljenj</string>
      <string name="service_name_backup">Var. kopije</string>
      <string name="service_name_bluetooth">Bluetooth</string>
      <string name="service_name_calculator">Kalkulator</string>
@@ -575,6 +610,7 @@ To storitev lahko nadzorujete v Nastavitve > Gesla &amp; varnost > Zasebnost > S
      <string name="service_name_lockscreen">Wallpaper Carousel</string>
      <string name="service_name_message">Sporočila</string>
      <string name="service_name_note">Beležke</string>
+     <string name="service_name_phone_service">Telefon</string>
      <string name="service_name_recorder">Snemalnik</string>
      <string name="service_name_screen_recording">Snemalnik zaslona</string>
      <string name="service_name_security">Varnost</string>
@@ -584,7 +620,7 @@ To storitev lahko nadzorujete v Nastavitve > Gesla &amp; varnost > Zasebnost > S
      <string name="service_policy_adjust_content">Xunlei Pravila o zasebnosti</string>
      <string name="service_policy_download"><Data>Omrežne storitve Xunlei &lt;a href=%1$s>Xunlei Pravila o zasebnosti&lt;/a > in &lt;a href=%1$s>Omrežne storitve Xunlei Pogoji uporabe&lt;/a > pred uporabo.</Data></string>
      <string name="service_privacy_index">Pravila o zasebnosti</string>
-     <string name="service_security_over_r"><Data>Preberite in se strinjajte z &lt;a href=%1$s>Pravila o zasebnosti&lt;/a>.&lt;br/>&lt;br/>V skladu z Android &lt;xliff:g id=version_number example=11>%2$d&lt;/xliff:g> standardi bo enkratno dovoljenje v določenem časovnem obdobju umaknjeno (okoli &lt;xliff:g example=5 sekund id=short>%3$s&lt;/xliff:g>) after the corresponding app stops running. If you open the app during this short period of time, the permission will be withdrawn then.</Data></string>
+     <string name="service_security_over_r"><Data>Preberite in se strinjajte z &lt;a href=%1$s>Pravila o zasebnosti&lt;/a ></Data></string>
      <string name="service_sim_activation">Aktiviranje kartice SIM</string>
      <string name="servicestate_title">Izjava o osnovnih storitvah</string>
      <string name="setting_locale">Nastavljanje regije…</string>
@@ -624,6 +660,8 @@ To storitev lahko nadzorujete v Nastavitve > Gesla &amp; varnost > Zasebnost > S
      <string name="sunday_shortest">N</string>
      <string name="switch_network">Preklop omrežja</string>
      <string name="system_navigation_mode">Način navigacije s sistemom</string>
+     <string name="system_update_statement">Za izvedbo posodobitve sistema moramo zbrati IMEI naprave, IMSI naprave, identifikatorje naprave (OAID in šifriran ID Android), račun Xiaomi, proizvajalca naprave, model naprave, operaterja omrežja, pomnilnik naprave, različico operacijskega sistema, regijo, jezik, povezljivost, vrsto omrežja in naslov IP.</string>
+     <string name="system_update_title">Sistemske posodobitve</string>
      <string name="systemdesktop_introduction">Storitveni vtičnik za domači zaslon ponuja osnovne funkcije, kot so začetni zaslon, sistemski uporabniški vmesnik in posnetki zaslona.</string>
      <string name="term_condition_detail">"Vsak dan prejmite osupljive slike in vznemirljive zgodbe na zaklenjeni zaslon. Ta storitev ne bo uporabljala vaših podatkov za prilagajanje brez vašega soglasja. Preberite in se strinjajte s ponudniki vsebine tretjih oseb &lt;a href =%1$s>Pravila o zasebnosti&lt;/a> in &lt;a href =%2$s>Pogoji uporabe&lt;/a> pred uporabo."</string>
      <string name="terms_of_use">Pogoji in pravila</string>
@@ -661,6 +699,7 @@ Pred uporabo MIUI se morate strinjati z Pogoji uporabe in Pravila o zasebnosti.
      <string name="terms_of_use_label_simcard">Storitve aktiviranja Mi SIM</string>
      <string name="terms_of_use_label_smart_service">pametne storitve</string>
      <string name="terms_of_use_label_statistics">Statistike</string>
+     <string name="terms_of_use_label_system_quality_monitoring">Spremljanje kakovosti sistema</string>
      <string name="terms_of_use_label_systemhelper">Storitev samoregistriranja</string>
      <string name="terms_of_use_label_translation">Storitev prevajanja</string>
      <string name="terms_of_use_label_unionplay_security">UnionPay TSM Secure Element (različica Xiaomi)</string>

@@ -75,6 +75,9 @@
      <string name="feedback_tip_title">Povratne informacije o kategorijah obvestil</string>
      <string name="float_notification_snooze_strategy">Začasno skrij</string>
      <string name="float_notification_snooze_summary">Povlecite navzgor po plavajočem obvestilu, da začasno skrijete prihajajoča</string>
+     <string name="float_notification_snooze_summary_1_min">Povlecite navzgor po plavajočem obvestilu, da skrijete prihajajoča za %d minuto</string>
+     <string name="float_notification_snooze_summary_always_float">Vedno prikaži plavajoča obvestila</string>
+     <string name="float_notification_snooze_summary_until_unlock">Povlecite navzgor po plavajočem obvestilu, da skrijete prihajajoča, dokler se naprava ne zaklene</string>
      <string name="float_notifications">Plavajoča obvestila</string>
      <string name="float_notifications_short">Plavajoče</string>
      <string name="fmt_date">D</string>
@@ -174,6 +177,7 @@
      <string name="miuix_appcompat_delete_description">Izbriši</string>
      <string name="miuix_appcompat_deselect_all">Prekliči vse</string>
      <string name="miuix_appcompat_deselect_all_description">Prekliči vse</string>
+     <string name="miuix_appcompat_edit">Uredi</string>
      <string name="miuix_appcompat_search_action_mode_cancel">Prekliči</string>
      <string name="miuix_appcompat_search_input_description">Išči</string>
      <string name="miuix_appcompat_select_all">Izberi vse</string>

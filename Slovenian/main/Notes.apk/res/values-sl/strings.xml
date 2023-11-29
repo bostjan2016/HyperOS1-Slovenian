@@ -531,6 +531,10 @@ Tapnite + da napravite mapo"</string>
      <string name="miuix_appcompat_select_item">Izberi stvari</string>
      <string name="miuix_indexer_collect">Zbirke</string>
      <string name="miuix_indexer_selected">Izbrano %s</string>
+     <string name="miuix_item_view_role_description">Zavihek</string>
+     <string name="miuix_navigator_content_switch_description">Pokaži stransko vrstico</string>
+     <string name="miuix_navigator_multiple_choice">Izberi</string>
+     <string name="miuix_navigator_navigator_switch_description">Skrij stransko vrstico</string>
      <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povleci za osvežitev</string>
      <string name="miuix_sbl_tracking_progress_labe_refreshed">Končano</string>
      <string name="miuix_sbl_tracking_progress_labe_refreshing">Osveževanje</string>
@@ -1045,6 +1049,8 @@ Dovolite aplikaciji Beležke snemanje zvoka."</string>
      <string name="toolbar_theme_description">Izberite temo</string>
      <string name="toolbar_undo_description">Razveljavi</string>
      <string name="toolbar_voice_description">Glas</string>
+     <string name="toolbar_voice_done_description">Ustavi</string>
+     <string name="toolbar_voice_mark_description">Označi</string>
      <string name="trash_folder_name">Smeti</string>
      <string name="trash_folder_reminder">Izbrisane beležke bodo trajno odstranjene čez %1$d dni.</string>
      <string name="trash_folder_reminder_new">Beležke se hranijo v košu %d dni, preden se trajno izbrišejo</string>
