@@ -1,5 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+     <string name="UVI_level_0">Slabo</string>
+     <string name="UVI_level_1">Zmerno</string>
+     <string name="UVI_level_2">Močno</string>
+     <string name="UVI_level_3">Zelo močno</string>
+     <string name="UVI_level_4">Nevarno</string>
      <string name="abc_action_bar_home_description">Pojdi na začetno</string>
      <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
      <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
@@ -121,6 +126,7 @@ Teme bodo odkrile katere aplikacije uporabljate in prikazale transparentna ozadj
      <string name="apply_wallpaper_warning_use_super_wallpaper">"Trenutno uporabljate Super ozadje. Če izberete novo ozadje, bo uporabljeno na domačem in zaklenjenem zaslonu. Uporabim?"</string>
      <string name="apply_warning_get_device_dialog_message">Če želite uporabljati preneseno vsebino, najprej omogočite tej storitvi dostop do ID-ja vaše naprave. To dovoljenje lahko dodelite v Nastavitve > Zasebnost.</string>
      <string name="apply_warning_tip_get_device_status">Najprej dovolite tej aplikaciji dostop do ID-ja vaše naprave v Profil> Nastavitve.</string>
+     <string name="aqi_format_desc">Indeks kakovosti zraka: %s</string>
      <string name="audio_duration_minutes_format">%1$d min</string>
      <string name="audio_duration_seconds_format">%1$d sek.</string>
      <string name="audition_ringtone">Predvajaj</string>
@@ -510,6 +516,22 @@ Teme bodo odkrile katere aplikacije uporabljate in prikazale transparentna ozadj
      <string name="forcetouch_featured">Izpostavljeni</string>
      <string name="forcetouch_free_themes">Brezplačne teme</string>
      <string name="forcetouch_offline">Izvenmrežno</string>
+     <string name="format_day_desc">Dan v mesecu: %s</string>
+     <string name="format_day_week_desc">Dan v mesecu: %1$s, %2$s</string>
+     <string name="format_full_day_of_week">EEEE</string>
+     <string name="format_full_month_of_year">MMMM</string>
+     <string name="format_hour_minute">%1$s:%2$s</string>
+     <string name="format_lunar_calendar_month_day_desc">Datum po tradicionalnem kitajskem koledarju: %s</string>
+     <string name="format_month_day_lunar_calendar_month_day_desc">%1$s %2$s, datum po tradicionalnem kitajskem koledarju: %3$s, praznik: %4$s</string>
+     <string name="format_month_day_style1">dd.MM.</string>
+     <string name="format_month_day_style2">d/M</string>
+     <string name="format_month_day_week">dd.MM, EEE</string>
+     <string name="format_month_day_week_desc">%1$s %2$s, %3$s</string>
+     <string name="format_month_day_week_lunar_calendar_month_day_desc">%1$s %2$s, %3$s, datum po tradicionalnem kitajskem koledarju: %4$s</string>
+     <string name="format_month_day_week_solar_desc">%1$s %2$s, %3$s, praznik: %4$s</string>
+     <string name="format_solar_lunar_calendar_month_day_desc">Praznik: %1$s, datum po tradicionalnem kitajskem koledarju: %2$s</string>
+     <string name="format_week_day_style1">EE d</string>
+     <string name="format_week_day_style1_desc">%1$s, dan v mesecu: %2$s</string>
      <string name="friday">Petek</string>
      <string name="friday_short">Pet</string>
      <string name="friday_shortest">P</string>
@@ -559,6 +581,14 @@ Teme bodo odkrile katere aplikacije uporabljate in prikazale transparentna ozadj
      <string name="has_mamual_hide_theme">Skrito</string>
      <string name="has_mamual_hide_wallpaper">Skrito</string>
      <string name="head_portraits">Fotografija profila</string>
+     <string name="health_chart_calories_unit">Kalorije</string>
+     <string name="health_chart_sleep_time_good">Zadostno</string>
+     <string name="health_chart_sleep_time_low">Nezadostno</string>
+     <string name="health_chart_sleep_time_normal">Normalno</string>
+     <string name="health_chart_sleep_time_very_good">Dobro</string>
+     <string name="health_chart_step_count_unit">Korakov</string>
+     <string name="health_no_data">Ni zdravstvenih podatkov</string>
+     <string name="health_sleep_desc">Trajanje spanja %1$s, kakovost spanja: %2$s</string>
      <string name="hide_free">Skrij brezplačne stvari</string>
      <string name="hide_free_aod">"Ne kaži brezplačne teme"</string>
      <string name="hide_free_font">Skrij brezplačne fonte</string>
@@ -583,6 +613,7 @@ Teme bodo odkrile katere aplikacije uporabljate in prikazale transparentna ozadj
      <string name="home_apply_failured">"Ne morem nastaviti ozadje zač. zaslona"</string>
      <string name="home_apply_success">Ozadje zač. zaslona nastavljeno</string>
      <string name="home_daily">Dnevno ozadje</string>
+     <string name="humidity_format">Vlažnost %s</string>
      <string name="i_know">Razumem</string>
      <string name="icon_content_description">Pogovorno okno</string>
      <string name="icon_pad_setting_find_more_title">Več ikon</string>
@@ -664,6 +695,8 @@ Tapnite za izklop."</string>
      <string name="local_photos">Lokalne fotografije</string>
      <string name="local_resouce_creator_name">Razvijalec: %1$s</string>
      <string name="lock_screen_apply">Nastavi za Zakl. zaslon</string>
+     <string name="lock_screen_keyguard_guide_popup">Oglejte si povsem nove, prilagojene storitve in dizajn zaklenjenega zaslona</string>
+     <string name="lock_screen_keyguard_tip_title">Povsem nov prilagojen zaklenjeni zaslon</string>
      <string name="lockscreen_apply_failured">"Ne morem nastaviti ozadje zakl. zaslona"</string>
      <string name="lockscreen_apply_failured_but_home_apply_success">"Slika ozadja zač. zaslona nastavljena, ne morem pa nastaviti slike ozadja zakl. zaslona"</string>
      <string name="lockscreen_apply_success">Slika ozadja zakl. zaslona nastavljena</string>
@@ -674,6 +707,7 @@ Tapnite za izklop."</string>
      <string name="lockscreen_magazine_system_subscribe">%1$s ozadij</string>
      <string name="lockscreen_magazine_system_title">Izvenmrežno</string>
      <string name="lockscreen_magazine_title">Wallpaper Carousel</string>
+     <string name="lockscreen_tip_content">Za začetek urejanja pritisnite in držite zaklenjen zaslon. Naj bo resnično vaš s popolnoma novimi možnostmi prilagajanja in predlogami.</string>
      <string name="lockscreen_wallpaper">Zaklenjen zaslon</string>
      <string name="lockstyle_personal_settings">Prilagodi</string>
      <string name="login_theme">Prijavite se v Teme</string>
@@ -715,6 +749,12 @@ dd.MM"</string>
 dd.MM"</string>
      <string name="miui_lock_screen_large_date_12">"EEE
 dd.MM"</string>
+     <string name="miui_magazine_c_clock_style2_date">dd/MM EE</string>
+     <string name="miui_magazine_c_clock_style2_date_content_description">EEEE, dd/MM</string>
+     <string name="miui_magazine_clock_date">dd/MM</string>
+     <string name="miui_magazine_clock_date_content_description">dd/MM</string>
+     <string name="miui_rhombus_clock_date">dd/MM</string>
+     <string name="miui_smart_frame_clock_date">dd/MM</string>
      <string name="miui_vertical_time_format_12">"hh
 mm"</string>
      <string name="miui_vertical_time_format_24">"HH
@@ -942,6 +982,7 @@ Ogled in uporaba stvari, ki ste jih kupili ali dodali med priljubljene."</string
      <string name="personalize_default_font">Privzeti font</string>
      <string name="personalize_fingerprint_style_title">Prstni odtis</string>
      <string name="personalize_icon_title">Ikone</string>
+     <string name="personalize_item_more_setting">Dodatne nastavitve</string>
      <string name="personalize_notify_ringtone_title">Obvestila</string>
      <string name="personalize_notify_style_title">Učinki</string>
      <string name="personalize_recommend_switch_desc">Prejemajte prilagojena priporočila glede vsebine na podlagi ID-ja naprave</string>
@@ -1099,6 +1140,7 @@ You can grant this permission in Settings > Zasebnost."</string>
      <string name="purchased_list_current">Optimizirane teme</string>
      <string name="purchased_list_format">Kupljeno %1$s</string>
      <string name="purchased_list_legacy">Stare teme</string>
+     <string name="rain_probability_desc">Možnost padavin: %s</string>
      <string name="read_and_agree_account_privacy"><Data>"Prebral sem in se strinjam z Mi račun &lt;font color=\"#37A5FF\">&lt;a href=\"%3$s\">Pogoji uporabe&lt;/a>&lt;/font> in &lt;font color=\"#37A5FF\">&lt;a href=\"%4$s\">Pravila o zasebnosti&lt;/a>&lt;/font>."</Data></string>
      <string name="recently_used">Nedavno uporabljeno</string>
      <string name="recommend_trigger">Prilagojena priporočila</string>
@@ -1350,6 +1392,10 @@ You can grant this permission in Settings > Zasebnost."</string>
      <string name="resource_waiting_download">Čakanje…</string>
      <string name="resource_waiting_pause">Premor</string>
      <string name="resource_wallpaper_download">Prenesi sliko ozadja</string>
+     <string name="restore_default_change_wallpaper_when_special_lockscreen">"Trenutno uporabljate predlogo zaklenjenega zaslona. Če nadaljujete, bo vaš zaklenjeni zaslon ponastavljen na privzeto, ozadja domačega in zaklenjenega zaslona pa bodo zamenjana. Uporabim?"</string>
+     <string name="restore_default_lock_style_apply_superwallpaper">"Ta predloga zaklenjenega zaslona ne podpira Super ozadij. Po uporabi se bo vaš zaklenjeni zaslon povrnil na privzeto, ozadja domačega in zaklenjenega zaslona pa bodo zamenjana. Uporabim?"</string>
+     <string name="restore_default_lockscreen_when_special_lock_style">"Trenutno uporabljate predlogo zaklenjenega zaslona. Če nadaljujete, bo vaš zaklenjeni zaslon ponastavljen na privzeto. Uporabim?"</string>
+     <string name="restore_history_lock_screen_when_apply_theme">"Trenutno uporabljate temo tretje osebe. Če spremenite ozadje zaklenjenega zaslona, se lahko ura na zaklenjenem zaslonu povrne na privzeto. Uporabim?"</string>
      <string name="restore_home_icon_text">Dodajte bližnjico na začetni zaslon</string>
      <string name="restore_icon_later">V nastavitvah lahko znova dodate bližnjico na začetni zaslon</string>
      <string name="ringtone_confirm_dialog_message">"To zvonjenje je dokaj dolgo. Ga uporabim?"</string>
@@ -1406,6 +1452,7 @@ You can grant this permission in Settings > Zasebnost."</string>
      <string name="share_content_text_first_theme">Preverite! \"%1$s\" tema daje vašemu telefonu popolnoma novo podobo.</string>
      <string name="share_content_text_first_wallpaper">Preverite! \"%1$s\" ozadje daje vašemu telefonu popolnoma novo podobo.</string>
      <string name="share_content_text_second">" Najdite lastni stil v %1$s!"</string>
+     <string name="share_content_topic">\#Xiaomi Teme#</string>
      <string name="share_copy_theme_url">Kopiraj URL teme</string>
      <string name="share_copy_url_success">Uspešno kopirano</string>
      <string name="share_copy_wallpaper_url">Kopiraj URL slike ozadja</string>
@@ -1449,6 +1496,11 @@ You can grant this permission in Settings > Zasebnost."</string>
      <string name="sunday">Nedelja</string>
      <string name="sunday_short">Ned</string>
      <string name="sunday_shortest">N</string>
+     <string name="sunrise_time_format">Sončni vzhod %s</string>
+     <string name="sunrise_time_format_desc">Čas sončnega vzhoda: %s</string>
+     <string name="sunrise_time_format_tomorrow_desc">"Čas sončnega vzhoda jutri: %s"</string>
+     <string name="sunset_time_format">Sončni zahod %s</string>
+     <string name="sunset_time_format_desc">Čas sončnega zahoda: %s</string>
      <string name="super_wallpaper">Super Slika ozadja</string>
      <string name="super_wallpaper_dialog_content">Varčevanje z baterijo bo izklopilo dinamične funkcije ozadij.</string>
      <string name="super_wallpaper_download_progress">%1$d%%</string>
@@ -1675,6 +1727,7 @@ Pojdite v Teme&gt; Moj račun &gt; Beta storitve za več opcij."</string>
      <string name="using_theme_next_automatic_update_summary">Samodejno posodobi prenešene teme preko WiFi ko je naprava zaklenjena</string>
      <string name="using_theme_show_ad">Priporočila</string>
      <string name="using_wallpaper_personal">Izbor prilagojenih ozadij</string>
+     <string name="uvi_format_desc">Ultravijolični indeks: %1$s, %2$s</string>
      <string name="v7_preference_off">IZKLJUČENO</string>
      <string name="v7_preference_on">VKLJUČENO</string>
      <string name="version_update">Preveri za posodobitve</string>
@@ -1736,6 +1789,7 @@ Pojdite v Teme&gt; Moj račun &gt; Beta storitve za več opcij."</string>
      <string name="wallpaper_loop_title">Diaprojekcija ozadja</string>
      <string name="wallpaper_loop_title_desk_wallpaper">Diaprojekcija ozadja zač. zaslona</string>
      <string name="wallpaper_loop_title_lock_walpaper">Diaprojekcija ozadja zakl. zaslona</string>
+     <string name="wallpaper_magic_mode_preview_tip">Predogled zaklenjenega zaslona</string>
      <string name="wallpaper_no_favorite">Tu še ni ničesar.</string>
      <string name="wallpaper_no_record">Tu še ni ničesar.</string>
      <string name="wallpaper_online">Online ozadja</string>
@@ -1786,6 +1840,7 @@ Pojdite v Teme&gt; Moj račun &gt; Beta storitve za več opcij."</string>
      <string name="warning_miui_optimization_closed_dialog_message">"Kaže da niste vklopili optimizacije MIUI. Brez nje ta tema ne bo delovala pravilno, ko jo uporabite. Vseeno jo lahko uporabite ali vklopite optimizacijo MIUI v nastavitvah."</string>
      <string name="warning_miui_optimization_closed_dialog_title">Pozor</string>
      <string name="warning_subscribe_wallpaper_group_content">"Vklopili ste diaprojekcijo na začetnem zaslonu. %1$s bo uporabljeno na vašem začetnem zaslonu."</string>
+     <string name="weather_no_data">Ni vremenskih podatkov</string>
      <string name="wechat_not_found">Najprej namestite WeChat</string>
      <string name="wednesday">Sreda</string>
      <string name="wednesday_short">Sre</string>
@@ -1795,6 +1850,19 @@ Pojdite v Teme&gt; Moj račun &gt; Beta storitve za več opcij."</string>
      <string name="wifi_check_confirm">Potrdi</string>
      <string name="wifi_check_message">Uporabim mob. podatke za prenos posodobitve?</string>
      <string name="wifi_check_tip">"Ne kaži več"</string>
+     <string name="wind_direction_0">S veter</string>
+     <string name="wind_direction_1">SV veter</string>
+     <string name="wind_direction_1_f">SV veter</string>
+     <string name="wind_direction_2">V veter</string>
+     <string name="wind_direction_3">JV veter</string>
+     <string name="wind_direction_3_f">JV veter</string>
+     <string name="wind_direction_4">J veter</string>
+     <string name="wind_direction_5">JZ veter</string>
+     <string name="wind_direction_5_f">JZ veter</string>
+     <string name="wind_direction_6">Z veter</string>
+     <string name="wind_direction_7">SZ veter</string>
+     <string name="wind_direction_7_f">SZ veter</string>
+     <string name="wind_format">%1$s | Stopnja %2$s</string>
      <string name="xiaoai_speech_not_installed_download">Prenesi</string>
      <string name="xiaoai_speech_not_installed_message">Prenesite in namestite Mi AI glasovni pomočnik za nadaljevanje.</string>
      <string name="xiaoai_speech_not_installed_title">"Mi AI glasovni pomočnik ni nameščen."</string>

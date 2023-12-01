@@ -92,6 +92,10 @@
         <item quantity="other">"Ne morem vrniti %d stvari zaradi neznane napake."</item>
         <item quantity="one">"Ne morem vrniti %d stvar zaradi neznane napake."</item>
      </plurals>
+     <plurals name="search_all_records_hint">
+        <item quantity="other">%d posnetkov</item>
+        <item quantity="one">%d posnetek</item>
+     </plurals>
      <plurals name="search_alll_records_hint">
         <item quantity="other">%d posnetkov</item>
         <item quantity="one">%d posnetek</item>

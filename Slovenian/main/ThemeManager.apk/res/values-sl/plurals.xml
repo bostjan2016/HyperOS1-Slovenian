@@ -69,6 +69,10 @@
         <item quantity="other">Posodabljanje %1$d tem</item>
         <item quantity="one">Posodabljanje %1$d teme</item>
      </plurals>
+     <plurals name="atmospheric_pressure_desc">
+        <item quantity="other">Atmosferski tlak: %s hektopaskalov</item>
+        <item quantity="one">Atmosferski tlak: %s hektopaskal</item>
+     </plurals>
      <plurals name="de_author_fans_amount">
         <item quantity="other">%1$d ljubiteljev</item>
         <item quantity="one">%1$d ljubitelj</item>
@@ -115,6 +119,54 @@
      </plurals>
      <plurals name="half_hour_ago">
         <item quantity="other">Pred pol ure</item>
+     </plurals>
+     <plurals name="health_chart_calories_burned_schedule_format_desc">
+        <item quantity="other">Porabljenih %1$s kalorij</item>
+        <item quantity="one">Porabljena %1$s kalorija</item>
+     </plurals>
+     <plurals name="health_chart_calories_goal_schedule_format_desc">
+        <item quantity="other">Cilj kalorij: %1$s kalorij</item>
+        <item quantity="one">Cilj kalorij: %1$s kalorija</item>
+     </plurals>
+     <plurals name="health_chart_calories_schedule_format">
+        <item quantity="other">%1$s/%2$s kcal</item>
+        <item quantity="one">%1$s/%2$s kcal</item>
+     </plurals>
+     <plurals name="health_chart_sport_time_current_schedule_format_desc">
+        <item quantity="other">Čas aktivnosti: %1$s minut</item>
+        <item quantity="one">Čas aktivnosti: %1$s minuta</item>
+     </plurals>
+     <plurals name="health_chart_sport_time_goal_schedule_format_desc">
+        <item quantity="other">Cilj aktivnosti: %1$s minut</item>
+        <item quantity="one">Cilj aktivnosti: %1$s minuta</item>
+     </plurals>
+     <plurals name="health_chart_sport_time_schedule_format">
+        <item quantity="other">%1$s/%2$s min</item>
+        <item quantity="one">%1$s/%2$s min</item>
+     </plurals>
+     <plurals name="health_chart_stand_count_schedule_format_desc">
+        <item quantity="other">Vstali v %1$s urah</item>
+        <item quantity="one">Vstali v %1$s uri</item>
+     </plurals>
+     <plurals name="health_chart_stand_goal_schedule_format_desc">
+        <item quantity="other">Cilj stanja: %1$s ur</item>
+        <item quantity="one">Cilj stanja: %1$s ura</item>
+     </plurals>
+     <plurals name="health_chart_stand_schedule_format">
+        <item quantity="other">%1$s/%2$s ur</item>
+        <item quantity="one">%1$s/%2$s ura</item>
+     </plurals>
+     <plurals name="health_chart_step_count_current_schedule_format_desc">
+        <item quantity="other">Trenutno število korakov: %1$s korakov</item>
+        <item quantity="one">Trenutno število korakov: %1$s korak</item>
+     </plurals>
+     <plurals name="health_chart_step_count_goal_schedule_format_desc">
+        <item quantity="other">Cilj korakov: %1$s korakov</item>
+        <item quantity="one">Cilj korakov: %1$s korak</item>
+     </plurals>
+     <plurals name="health_chart_step_count_schedule_format">
+        <item quantity="other">%1$s/%2$s korakov</item>
+        <item quantity="one">%1$s/%2$s korak</item>
      </plurals>
      <plurals name="icon_batch_has_update_text">
         <item quantity="other">Na voljo posodobitev za %1$d ikon</item>
@@ -219,5 +271,9 @@
      <plurals name="wallpaper_staggered_item_text">
         <item quantity="other">%1$s | %2$d slik</item>
         <item quantity="one">%1$s | %2$d slika</item>
+     </plurals>
+     <plurals name="weather_temperature_desc">
+        <item quantity="other">Temperatura: %1$s stopinj, %2$s</item>
+        <item quantity="one">Temperatura: %1$s stopinja, %2$s</item>
      </plurals>
 </resources>

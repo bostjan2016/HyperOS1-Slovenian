@@ -301,6 +301,12 @@
         <item>Odstotek (zraven ikone)</item>
         <item>Črta na vrhu</item>
      </string-array>
+     <string-array name="battery_indicator_style_summaries">
+        <item>Grafično</item>
+        <item>Odstotek (v ikoni)</item>
+        <item>Odstotek (zraven ikone)</item>
+        <item>Vrstica napredka</item>
+     </string-array>
      <string-array name="battery_labels">
         <item>0%</item>
         <item>50%</item>

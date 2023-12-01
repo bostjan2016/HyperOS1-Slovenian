@@ -785,6 +785,7 @@ Avdio"</string>
      <string name="character_counter_content_description">Število vnesenih znakov je %1$d od %2$d</string>
      <string name="character_counter_overflowed_content_description">Omejitev števila znakov je presegla %1$d od %2$d</string>
      <string name="charge_length_format">Pred %1$s</string>
+     <string name="checkbox_do_not_show_again">"Ne kaži več"</string>
      <string name="china_mobile_palm_category">Storitve operaterja</string>
      <string name="china_mobile_palm_title">CMCC Online Storitve</string>
      <string name="choose_network_title">Izberite omrežje</string>
@@ -856,6 +857,7 @@ Avdio"</string>
      <string name="close">Zapri</string>
      <string name="close_dialog">V redu</string>
      <string name="close_profile">Izklopi</string>
+     <string name="close_smart_dual_sim">Prekliči</string>
      <string name="close_volte">Izključi VoLTE</string>
      <string name="cloud_antispam_title">Prepoznaj neznane številke</string>
      <string name="cloud_sim_enabled_dual_4g_summary">"Ne morete izključiti Dual 4G ko uporabljate Mi gostovanje"</string>
@@ -871,6 +873,7 @@ Avdio"</string>
      <string name="confirm_enable_oem_unlock_text">OPOZORILO: opravila za zaščito naprave ne bodo delovala na tej napravi dokler je ta nastavitev omogočena.</string>
      <string name="confirm_enable_oem_unlock_title">Ali želite dovoliti OEM odklepanje?</string>
      <string name="confirm_password_label">Potrdite novo geslo</string>
+     <string name="confirm_phone_number">Potrdite telefonske številke</string>
      <string name="confirm_pin2_label">Potrdite novo PIN%d</string>
      <string name="confirm_pin_label">Potrdite novo PIN</string>
      <string name="connect_disconnect_vibrate_none">Brez</string>
@@ -1181,6 +1184,10 @@ Deaktiviram eSIM?"</string>
      <string name="empty_alert">Polje %s je obvezno in ne sme biti prazno.</string>
      <string name="empty_networks_list">Najdeno ni bilo nobeno omrežje.</string>
      <string name="enable">Omogoči</string>
+     <string name="enable_2g_dialog_title">Pozor</string>
+     <string name="enable_2g_dialog_warn_message">"Če izklopite 2G in ste na območju, kjer je 2G edino razpoložljivo omrežje, ne boste mogli opraviti klicev v sili ali drugih klicev. Vseeno izklopim?"</string>
+     <string name="enable_2g_summary">Omrežja 2G so manj varna, vendar lahko na nekaterih lokacijah izboljšajo kakovost povezave</string>
+     <string name="enable_2g_title">Dovoli uporabo 2G</string>
      <string name="enable_adb">Odpravljanje napak preko USB</string>
      <string name="enable_adb_summary">Odpravljanje napak z priključenim USB</string>
      <string name="enable_adb_wireless">Brezžično odpravljanje napak</string>
@@ -2190,6 +2197,7 @@ Uporabljeno bo prednostno omrežje."</string>
      <string name="no_change">Ni bilo nobenih sprememb</string>
      <string name="no_checked_network">"Ne boste se mogli povezati z mobilnim omrežjem in klicati. Izberem drugo omrežje?"</string>
      <string name="no_data">Ni podatkov</string>
+     <string name="no_ims_service_notification_content">Za rešitev te težave se obrnite na svojega ponudnika storitev.</string>
      <string name="no_internet_available">Za vzpostavitev spletnega klica rabite spletno povezavo</string>
      <string name="no_internet_available_title">Ni spletne povezave</string>
      <string name="no_mobile_data">Mobilni podatki niso na voljo</string>
@@ -2294,6 +2302,7 @@ Kontaktirajte vašega operaterja."</string>
      <string name="onscreenVideoCallText">Videoklic</string>
      <string name="opconfig_info">Pokaži OpConfig info</string>
      <string name="open_miui">Odpri</string>
+     <string name="open_smart_dual_sim">Vklopi</string>
      <string name="opened_dual_4g_confirm_prompt">Kaže da imate samo 4G SIM kartico. Dvojni 4G je samodejno vključen.</string>
      <string name="opened_dual_4g_confirm_prompt_with_sim">Samo SIM %1$s podpira 4G. Da boste sigurni da vaša SIM kartica dela normalno, je dvojni 4G vključen.</string>
      <string name="operation_successfully">Uspelo je!</string>
@@ -2662,6 +2671,7 @@ Vaš telefon bo samodejno zaklenjen po ponovnem napačnem vnosu"</string>
      <string name="prompt_to_suggest_no_call_service_notification_content">"Ne morem klicati in sprejemati klice. VoLTE storitev je izključena za vašo SIM kartico (China Telecom)."</string>
      <string name="prompt_to_suggest_no_call_service_notification_content2">"Ne morem klicati in sprejemati klice. VoLTE storitev je izključena za %d SIM kartico (China Telecom)."</string>
      <string name="prompt_to_suggest_no_call_service_notification_title">"Ne morem klicati in sprejemati klice"</string>
+     <string name="prompt_to_suggest_no_ims_service_notification_title">"Ne morem uporabiti VoLTE storitve"</string>
      <string name="prompt_to_suggest_to_open_volte_from_operator">"Ne morem klicati. Kontaktirajte China Telecom za vklop VoLTE."</string>
      <string name="prompt_to_suggest_to_open_volte_from_operator2">"SIM %d ne more klicati. Kontaktirajte China Telecom za vklop VoLTE."</string>
      <string name="prompt_to_turnoff_volte_when_failed">"VoLTE storitve niso dosegljive. Izključite VoLTE za klicanje."</string>
@@ -3114,6 +3124,8 @@ Potrdite privzeto nastavitev računa za klicanje."</string>
      <string name="slot">Reža</string>
      <string name="smart_divert_summary">CFNRc nastavitve</string>
      <string name="smart_divert_title">Smart-Divert</string>
+     <string name="smart_dual_sim_available_message">Vklopite Pametna dvojna SIM, da izboljšate kakovost video klicev. Vklopim?</string>
+     <string name="smart_dual_sim_available_title">Pametna dvojna SIM</string>
      <string name="smart_dual_sim_prompt">Vaša naprava se bo povezala z mobilnim podatkovnim omrežjem s pomočjo sekundarne kartice SIM, ko bo trenutna povezava slaba. To lahko ustvari dodatne stroške podatkov. Za podrobnosti o vašem podatkovnem načrtu se obrnite na svojega operaterja.</string>
      <string name="smart_dual_sim_prompt_ok">Nastavitve</string>
      <string name="smart_dual_sim_prompt_title">Opozorilo porabe podatkov (SIM %s)</string>
@@ -3513,6 +3525,8 @@ Naprava nima slušalk. Za klicanje lahko uporabite prostoročni način ali pa sl
      <string name="volte_provision_text">VoLTE klici ponujajo boljšo kvaliteto od navadnih klicev. Pošljem aktivacijski SMS?</string>
      <string name="volte_provision_title">Aktiviraj VoLTE klice</string>
      <string name="volte_provisioned_switch_string">VoLTE omogočen</string>
+     <string name="volte_switch_globalization_prompt">To mobilno omrežje ni bilo preverjeno za VoLTE v tej napravi. Vklop te storitve lahko vpliva na življenjsko dobo baterije, klice, sporočila, glasovno pošto in porabo mobilnih podatkov.</string>
+     <string name="volte_switch_globalization_prompt_title">Pozor</string>
      <string name="volte_switch_not_support_summary">"VoLTE klici niso podprti za mobilne podatke SIM kartice."</string>
      <string name="volte_switch_not_support_summary2">"VoLTE klici niso podprti s strani operaterja."</string>
      <string name="volte_switch_summary">Uporabi VoLTE za izboljšanje kvalitete govornih klicev</string>

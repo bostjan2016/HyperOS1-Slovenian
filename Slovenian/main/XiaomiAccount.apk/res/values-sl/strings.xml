@@ -281,6 +281,7 @@ Pošljite to kodo našemu tehniku."</string>
      <string name="download_file">Prenos %s…</string>
      <string name="dropdown_menu">Spustni meni</string>
      <string name="early_morning">Jutro</string>
+     <string name="empty_device_list">Tu ni ničesar</string>
      <string name="empty_device_list_notice">Ni naprave</string>
      <string name="enable">Nastavitve</string>
      <string name="ep_unsupported">Ne morem se prijaviti v Mi Račun na vaši napravi</string>
@@ -1225,6 +1226,8 @@ Pošljite to kodo našemu tehniku."</string>
      <string name="user_agreement_must_permission_msg">Obvezna dovoljenja (uporabljajo se za osnovne funkcije in storitve te aplikacije)</string>
      <string name="user_agreement_network_permission_msg">Povezati se moramo s spletom, da vam lahko zagotovimo potrebne storitve.</string>
      <string name="user_agreement_permission_summary_msg">Račun Xiaomi vam omogoča dostop do vseh storitev, ki jih nudi Xiaomi. Ta aplikacija se mora povezati s spletom in za normalno delovanje potrebuje naslednja dovoljenja:</string>
+     <string name="user_agreement_read_phone_permission_desc">Za prijavo s telefonsko številko</string>
+     <string name="user_agreement_read_phone_permission_title">Branje telefonskih številk</string>
      <string name="user_agreement_use_account_msg">Račun Xiaomi vam omogoča dostop do vseh storitev, ki jih ponuja Xiaomi.</string>
      <string name="user_agreement_wifi_permission_title">Vklopite in izklopite WiFi</string>
      <string name="user_agreement_wlan_permission_desc">Za preverjanje varnostnih težav v prijavnem okolju</string>

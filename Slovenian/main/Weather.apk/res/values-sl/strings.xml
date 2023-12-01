@@ -101,6 +101,7 @@
      <string name="aqi_first_sub_desc_no_locate">Povp. AQI ob %1$s</string>
      <string name="aqi_publish_source">Posodobljeno ob %1$s z CNEMC</string>
      <string name="aqi_publish_time">Posodobljeno %1$s</string>
+     <string name="aqi_quality_ambient_air_quality">Kakovost zraka v bližini</string>
      <string name="aqi_quality_co_desc">Ogljikov monoksid</string>
      <string name="aqi_quality_detail_15_days">15-dnevna napoved</string>
      <string name="aqi_quality_detail_24_hours">24-urna napoved</string>
@@ -757,7 +758,7 @@ Tapnite zaslon da boste ročno dodali ali zamenjali lokacijo"</string>
      <string name="weather_aqi_full_air_quality_forcast">Napoved kakovosti zraka</string>
      <string name="weather_introduce">Zmeraj z vami.</string>
      <string name="weather_main_aqi_desc">Kvaliteta zraka</string>
-     <string name="weather_main_minute_hour">%d-urna verjetnost padavin</string>
+     <string name="weather_main_minute_hour">2-urna verjetnost padavin</string>
      <string name="weather_main_speak_tips">Kliknite, če želite glas oddajati</string>
      <string name="weather_more_air_quality">Več o kakovosti zraka</string>
      <string name="weather_permission_agree">Sprejmem</string>
