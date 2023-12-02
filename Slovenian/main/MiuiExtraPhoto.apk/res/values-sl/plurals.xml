@@ -56,4 +56,12 @@
         <item quantity="other">pred %d min</item>
         <item quantity="one">pred 1 minuto</item>
      </plurals>
+     <plurals name="talkback_selection_denominator">
+        <item quantity="other">%1$d stvari skupaj</item>
+        <item quantity="one">%1$d stvar skupaj</item>
+     </plurals>
+     <plurals name="talkback_selection_numerator">
+        <item quantity="other">Izbrano %1$d stvari</item>
+        <item quantity="one">Izbrana %1$d stvar</item>
+     </plurals>
 </resources>

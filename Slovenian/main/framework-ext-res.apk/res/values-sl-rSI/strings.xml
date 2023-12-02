@@ -697,6 +697,7 @@ da uporabite sprednjo kamero"</string>
      <string name="voice_button_action_up">Pritisni za pogovor</string>
      <string name="voice_input_error_network">"Ne morem se povezati na omrežje. Preverite mrežne nastavitve in poskusite ponovno."</string>
      <string name="voice_input_error_other">Prišlo je do napake. Počakajte minuto ali dve in poskusite ponovno.</string>
+     <string name="wallpaper_floral_arrangement_title">Cvetlični aranžma</string>
      <string name="wallpaper_geometrically_irregular_title">Abstraktna geometrija</string>
      <string name="wallpaper_group_black_gobi_title">Puščava Gobi</string>
      <string name="wallpaper_group_black_white_title">Črno in belo</string>

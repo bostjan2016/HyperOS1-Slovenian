@@ -1760,6 +1760,10 @@ Preverite %s1 nastavitve omrežja %s2 in poskusite ponovno."</string>
      <string name="news_load_failed">Tapnite za ponovni poskus</string>
      <string name="news_loading">Nalaganje…</string>
      <string name="news_native_see_all">Celoten članek</string>
+     <string name="news_video_history">Zgodovina</string>
+     <string name="news_video_history_empty">Tukaj ni ničesar</string>
+     <string name="news_video_invisible_item">"Tega videa ni mogoče videti"</string>
+     <string name="news_video_no_more_videos">"To je za zdaj vse"</string>
      <string name="next">Naprej</string>
      <string name="next_button_label">Naprej</string>
      <string name="nf_choose_reason">Opišite težavo</string>
@@ -2931,6 +2935,9 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
      <string name="video_downloader_retry">Poskusite ponovno</string>
      <string name="video_downloading_group">Prenašanje</string>
      <string name="video_edit">Uredi</string>
+     <string name="video_feedback_description">Podatke, ki jih vnesete zgoraj, zbiramo in uporabljamo za izboljšanje vaše uporabniške izkušnje. Če želite izvedeti več o tem, kako zbiramo in obdelujemo vaše osebne podatke, glejte Pravila o zasebnosti.</string>
+     <string name="video_feedback_description_title">Ti podatki bodo uporabljeni samo za priporočila vsebine</string>
+     <string name="video_feedback_not_sumbit_toast">Pred oddajo izberite odgovor</string>
      <string name="video_float_window_text">Pop-up videoposnetek</string>
      <string name="video_fragment_name_collections">Priljubljeno</string>
      <string name="video_fragment_name_download">Izvenmrežni video</string>

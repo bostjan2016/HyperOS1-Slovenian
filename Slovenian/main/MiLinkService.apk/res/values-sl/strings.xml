@@ -376,6 +376,7 @@ vaših naprav?"</string>
      <string name="connect_settings_summary"><Data>Samodejno odkrijte naprave v bližini, vpisane v vaš račun Xiaomi, in jih povežite med seboj za izvajanje različnih nalog v več napravah. &lt;a href=%1$s>Več o tem&lt;/a></Data></string>
      <string name="connect_settings_summary_connection_service">Dovolite svojim napravam brezžično interakcijo med seboj</string>
      <string name="connect_settings_summary_corp_phone">Sprejmite klice na bližnjih tablicah ali računalnikih, prijavljenih v vaš račun Xiaomi</string>
+     <string name="connect_settings_summary_hyper_mind">Samodejno prilagajanje bližnjih naprav vašim potrebam glede na vaše vzorce uporabe. To storitev poganja Mi AI.</string>
      <string name="connect_settings_summary_relay_app">Nadaljevanje opravil v isti aplikaciji v drugi napravi</string>
      <string name="connect_settings_summary_share_clipboard">Prilepite besedilo in slike v druge naprave v %d minutah po kopiranju v to napravo</string>
      <string name="connect_settings_summary_share_launcher_pad">Oglejte si začetne zaslone bližnjih telefonov in jih uporabljajte, prijavljeni v vaš račun Xiaomi</string>
@@ -663,6 +664,10 @@ Mobilno napravo in zunanji monitor (npr. Televizor) priključite v isto omrežje
      <string name="help_page_text_55_global">"Če se ne morete povezati z omrežjem, se prepričajte, da vaš zunanji monitor podpira funkcijo Miracast in da je vklopljen. Pri nekaterih modelih se ta funkcija imenuje brezžični zaslon, zrcaljenje zaslona ali več zaslonov. Oglejte si spodnje informacije, če želite izvedeti, kako vklopite Miracast.
 %1$d. Če naletite na kakršne koli težave, jih lahko prijavite z aplikacijo \ "Storitve in povratne informacije \"."</string>
      <string name="help_page_text_end">"Če blagovna znamka vaše naprave ni navedena tukaj, se obrnite na proizvajalca da izveste več o funkcionalnosti predvajanja."</string>
+     <string name="hyper_mind_close_warning">Pozor</string>
+     <string name="hyper_mind_close_warning_checkbox">"Ne kaži več"</string>
+     <string name="hyper_mind_close_warning_content">Ko ga izklopite, HyperMind ne bo več zbiral podatkov in se učil vaših vzorcev uporabe. Če morate izbrisati že zbrane podatke, &lt;a href=%1$s>tapnite tu&lt;/a>.</string>
+     <string name="hyper_mind_close_warning_ok">Razumem</string>
      <string name="icon_content_description">Pogovorno okno</string>
      <string name="invisible_mode_dialog_content">"Ne morete uporabiti predvajanja, ko ste brez beleženja zgodovine. Najprej izklopite način brez beleženja zgodovine."</string>
      <string name="invisible_mode_dialog_content_audio_relay">"Predvajanja ni mogoče prenesti, ko ste brez beleženja zgodovine. Najprej izklopite način brez beleženja zgodovine."</string>
@@ -675,6 +680,7 @@ Mobilno napravo in zunanji monitor (npr. Televizor) priključite v isto omrežje
      <string name="km_synergy_error_china">"Povezava je potekla. Preverite, ali sta Bluetooth in WiFi vklopljena na obeh napravah in sta v dosegu povezave."</string>
      <string name="label">Oznaka</string>
      <string name="material_clock_toggle_content_description">Izberite dop. ali pop.</string>
+     <string name="material_hour_24h_suffix">%1$s ur</string>
      <string name="material_hour_selection">Izberite uro</string>
      <string name="material_hour_suffix">"%1$s"</string>
      <string name="material_minute_selection">Izberite minute</string>
@@ -836,6 +842,7 @@ Mobilno napravo in zunanji monitor (npr. Televizor) priključite v isto omrežje
      <string name="mtrl_picker_invalid_format_example">Primer: %1$s</string>
      <string name="mtrl_picker_invalid_format_use">Uporabi: %1$s</string>
      <string name="mtrl_picker_invalid_range">Napačen razpon.</string>
+     <string name="mtrl_picker_navigate_to_current_year_description">Pomik na trenutno leto %1$d</string>
      <string name="mtrl_picker_navigate_to_year_description">Navigacija do leta %1$d</string>
      <string name="mtrl_picker_out_of_range">Izven razpona: %1$s</string>
      <string name="mtrl_picker_range_header_only_end_selected">Začetni datum – %1$s</string>
@@ -1079,6 +1086,7 @@ Pred predvajanjem iger se prepričajte, da ste vklopili Game Turbo."</string>
      <string name="status_bar_fail">"Ni bilo mogoče vzpostaviti povezave"</string>
      <string name="status_bar_in_casting">Predvajanje</string>
      <string name="status_bar_in_casting_long">Kliknite za razširitev dodatnih storitev</string>
+     <string name="status_bar_loading">Povezovanje…</string>
      <string name="status_bar_success">Povezano</string>
      <string name="sunday">Nedelja</string>
      <string name="sunday_short">Ned</string>

@@ -1494,6 +1494,10 @@ Dodajte pripomočke da začnete."</string>
      <string name="pa_widget_menu_edit">Uredi</string>
      <string name="pa_widget_menu_edit_card_in_stack">Uredi \"%s\"</string>
      <string name="pa_widget_menu_edit_stack">Uredi skupino</string>
+     <string name="pa_widget_menu_improve_edit">Uredi</string>
+     <string name="pa_widget_menu_improve_remove">Odstrani</string>
+     <string name="pa_widget_menu_improve_remove_card_in_stack">Odstrani \"%s\"</string>
+     <string name="pa_widget_menu_improve_replace">Zamenjaj</string>
      <string name="pa_widget_menu_remove">Odstrani</string>
      <string name="pa_widget_menu_remove_card_in_stack">Odstrani \"%s\"</string>
      <string name="pa_widget_menu_replace">Zamenjaj</string>

@@ -1020,6 +1020,7 @@ Izboljšana varnost."</string>
      <string name="switch_screen_button_order">Zamenjaj mesta tipk</string>
      <string name="switch_screen_button_order_desc">Zamenjaj mesta tipk Nazaj in Meni</string>
      <string name="system_shortcuts_edit">Uredi</string>
+     <string name="system_shortcuts_icon_remove">Odstrani</string>
      <string name="system_shortcuts_more_operation">Informacije o aplikaciji</string>
      <string name="system_shortcuts_remove">Odstrani</string>
      <string name="system_text">Sistem</string>
