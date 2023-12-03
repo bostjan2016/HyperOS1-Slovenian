@@ -84,8 +84,6 @@ nastavitev in aplikacij"</string>
      <string name="backup_hint_onpad">Ne izključite naprave</string>
      <string name="backup_hint_pad">Naprava naj bo vklopljena</string>
      <string name="backup_is_running">Izdelava var. kopije naprave</string>
-     <string name="backup_items_app_tailer">" x podatki aplikacij"</string>
-     <string name="backup_items_sysdata_tailer">Sistemski podatki</string>
      <string name="backup_new">Novo:</string>
      <string name="backup_notice_content">"Vaše varnostne kopije ne bodo šifrirane, kar pomeni, da lahko do njih dostopajo ali jih spreminjajo aplikacije tretjih oseb. Pojavijo se lahko tudi druga varnostna tveganja. Prepričajte se, da varnostno kopirane elemente hranite v dobro zaščitenem okolju."</string>
      <string name="backup_notice_title">Pozor</string>
@@ -363,10 +361,6 @@ Ne menjajte ali preimenujte datotek var. kopije."</string>
      <string name="icon_content_description">Pogovorno okno</string>
      <string name="import_again">Ponovno uvozi</string>
      <string name="import_data_from_icloud">Uvozi podatke iz iClouda</string>
-     <string name="import_from_xiaomi_account_hint1">"1.\u0009Prenesi Mi Talk in se prijavi.
-  \u0009http://www.miliao.com 
-
-  2.\u0009Pojdi na Mi Talk nastavitve in izberi ”Varnostno kopiraj stike na Mi račun”"</string>
      <string name="import_from_xiaomi_account_hint2">Če že imate varnostno kopijo, tapni Naprej.</string>
      <string name="import_from_xiaomi_account_hint_title">Uporabi Mi Talk za varnostno kopiranje stikov iz vaših naprav.</string>
      <string name="import_tip_summary">Zaradi problemov z kompatibilnostjo lahko prenašate samo delne podatke iz iOS naprave. Napravite var. kopijo na iCloud pred začetkom prenosa.</string>
@@ -395,7 +389,6 @@ Ne menjajte ali preimenujte datotek var. kopije."</string>
      <string name="local_main_backup">Lokalne var. kopije</string>
      <string name="local_main_backup_and_restore">Na tej napravi</string>
      <string name="local_main_backup_detail_title">Nastavitve sistema, podatki računa in aplikacij</string>
-     <string name="local_main_backup_manage_null">%s</string>
      <string name="local_main_backup_manager">Urejanje lokalnih var. kopij</string>
      <string name="local_main_backup_manager_title">Urejanje var. kopij</string>
      <string name="local_main_backup_settings">Nastavitve lokalne var. kopije</string>
@@ -421,7 +414,7 @@ Ne menjajte ali preimenujte datotek var. kopije."</string>
      <string name="login_failed">Ne morem se prijaviti. Poskusite ponovno.</string>
      <string name="logining">Prijava…</string>
      <string name="material_clock_toggle_content_description">Izberite dop. ali pop.</string>
-     <string name="material_hour_selection">Izberite hour</string>
+     <string name="material_hour_selection">Izberite uro</string>
      <string name="material_hour_suffix">"%1$s"</string>
      <string name="material_minute_selection">Izberite minute</string>
      <string name="material_minute_suffix">%1$s minut</string>
@@ -509,12 +502,10 @@ Ne menjajte ali preimenujte datotek var. kopije."</string>
      <string name="mtrl_badge_numberless_content_description">Novo obvestilo</string>
      <string name="mtrl_chip_close_icon_content_description">Odstrani %1$s</string>
      <string name="mtrl_exceed_max_badge_number_content_description">Več kot %1$d novih obvestil</string>
-     <string name="mtrl_exceed_max_badge_number_suffix">%1$d%2$s</string>
      <string name="mtrl_picker_a11y_next_month">Zamenjaj na naslednji mesec</string>
      <string name="mtrl_picker_a11y_prev_month">Zamenjaj na prejšnji mesec</string>
      <string name="mtrl_picker_announce_current_selection">Trenutni izbor: %1$s</string>
      <string name="mtrl_picker_confirm">V redu</string>
-     <string name="mtrl_picker_date_header_selected">%1$s</string>
      <string name="mtrl_picker_date_header_title">Izberite datum</string>
      <string name="mtrl_picker_date_header_unselected">Izberite datum</string>
      <string name="mtrl_picker_day_of_week_column_header">Stolpec dni: %1$s</string>
@@ -526,7 +517,6 @@ Ne menjajte ali preimenujte datotek var. kopije."</string>
      <string name="mtrl_picker_out_of_range">Izven razpona: %1$s</string>
      <string name="mtrl_picker_range_header_only_end_selected">Začetni datum – %1$s</string>
      <string name="mtrl_picker_range_header_only_start_selected">%1$s – Končni datum</string>
-     <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
      <string name="mtrl_picker_range_header_title">Izberite razpon datuma</string>
      <string name="mtrl_picker_range_header_unselected">Začetni datum - Končni datum</string>
      <string name="mtrl_picker_save">Shrani</string>
@@ -540,7 +530,7 @@ Ne menjajte ali preimenujte datotek var. kopije."</string>
      <string name="mtrl_picker_toggle_to_day_selection">Tapnite za prehod na izbiro dni</string>
      <string name="mtrl_picker_toggle_to_text_input_mode">Prestavite na način vnosa teksta</string>
      <string name="mtrl_picker_toggle_to_year_selection">Tapnite za prehod na izbiro leta</string>
-     <string name="mtrl_timepicker_confirm">OK</string>
+     <string name="mtrl_timepicker_confirm">V redu</string>
      <string name="multi_select_title">Izbrano: %1$s</string>
      <string name="multi_user_mode_backup_message">"Ne morem uporabiti var. kopijo v večuporabniškem načinu. Izključite večuporabniški način za nadaljevanje."</string>
      <string name="multi_user_mode_dialog_message">"Ne morem uporabljati Mi Mover v načinu dela Gost. Izključite večuporabniški način za nadaljevanje."</string>
@@ -548,7 +538,7 @@ Ne menjajte ali preimenujte datotek var. kopije."</string>
      <string name="name_password_not_consistent">Napačno uporabniško ime ali geslo</string>
      <string name="never">Nikoli</string>
      <string name="new_backup">Izdelaj var. kopijo</string>
-     <string name="new_britem_audio">Avdio</string>
+     <string name="new_britem_audio">Zvok</string>
      <string name="new_britem_doc">Datoteke</string>
      <string name="new_britem_other">Ostalo</string>
      <string name="new_britem_pic">Slike</string>
@@ -702,7 +692,6 @@ Ne menjajte ali preimenujte datotek var. kopije."</string>
      <string name="permission_write_storage">Shranjevanje stvari v shrambo</string>
      <string name="permission_write_storage_pad">Shranjevanje stvari v shrambo</string>
      <string name="phone_title">Nastavitve telefona</string>
-     <string name="platform_chooser_item_android">Uvozi iz naprave Android</string>
      <string name="platform_chooser_item_android_mi">Mi Telefon</string>
      <string name="platform_chooser_item_android_others">Ostale znamke</string>
      <string name="platform_chooser_item_ios">Uvozi iz naprave Apple</string>
@@ -783,13 +772,6 @@ Osvobodite najmanj %s"</string>
      <string name="send">Pošlji</string>
      <string name="service_stoped">Storitev je zaustavljena</string>
      <string name="settings_summary">Nastavitve telefona in sporočil</string>
-     <string name="size_byte">B</string>
-     <string name="size_giga_byte">GB</string>
-     <string name="size_kilo_byte">KB</string>
-     <string name="size_mega_byte">MB</string>
-     <string name="size_peta_byte">PB</string>
-     <string name="size_suffix">%1$s%2$s</string>
-     <string name="size_tera_byte">TB</string>
      <string name="sms_title">Sporočanje</string>
      <string name="soft_ap_create_failed">"Ne morem napraviti hotspot"</string>
      <string name="soft_ap_creating">Izdelava hotspota…</string>
@@ -846,9 +828,8 @@ Osvobodite najmanj %s"</string>
      <string name="time_picker_label_minute">M</string>
      <string name="today">Danes</string>
      <string name="tomorrow">Jutri</string>
-     <string name="total_size">, %s</string>
      <string name="trans_backingup">Izdelava var. kopije …</string>
-     <string name="trans_backingup_no_items">Sinhr. …</string>
+     <string name="trans_backingup_no_items">Sinhroniziranje…</string>
      <string name="trans_button_cancel">Prekliči</string>
      <string name="trans_button_exit">Izhod</string>
      <string name="trans_button_stay">Ostani</string>
@@ -857,7 +838,6 @@ Osvobodite najmanj %s"</string>
      <string name="trans_calculating_media_description">Medijske datoteke</string>
      <string name="trans_calculating_tip">Izračun %s…</string>
      <string name="trans_cancel_confirm">Prenos poteka, ustavim zdaj?</string>
-     <string name="trans_cancel_dialog_survey_title">Zakaj ste prekinili prenos?</string>
      <string name="trans_cancel_selection_message">Če zapustite Mi Mover bo prenos prekinjen. Počakajte do konca prenosa.</string>
      <string name="trans_cancel_selection_title">Ostani v Mi Mover</string>
      <string name="trans_cancelling">Preklic…</string>
@@ -948,7 +928,6 @@ da prenesete in namestite Mi Mover."</string>
      <string name="trans_intro_question_8">"%d. Zakaj ni poslana celotna zgodovina WeChat?"</string>
      <string name="trans_intro_question_9">"%d. Katere nastavitve ni mogoče poslati?"</string>
      <string name="trans_intro_question_9_market">%d. Povratne inf.</string>
-     <string name="trans_intro_title">FAQ</string>
      <string name="trans_intro_title_account">Računi in gesla:</string>
      <string name="trans_intro_title_gms">Podatki, ki jih ustvarijo Googlove aplikacije:</string>
      <string name="trans_intro_title_multiapp">Podatki Dvojnih aplikacij:</string>
@@ -962,7 +941,6 @@ da prenesete in namestite Mi Mover."</string>
  Osvobodite prostor za shranjevanje ali prenesite samo važne stvari."</string>
      <string name="trans_old_phone_low_space_msg">"Mi Mover potebuje prostor za shranjevanje za pakiranje prenešenih podatkov, ki ga na stari napravi ni dovolj. Osvobodite prostor v \"Varnost\" ali prenesite samo važne stvari."</string>
      <string name="trans_old_phone_low_space_title">Ni dovolj prostora</string>
-     <string name="trans_one_key_migrate">Mi Mover</string>
      <string name="trans_open_camera_failed_message">Ponovno zaženite napravo ali preverite če je Mi Mover-ju dovoljeno uporabiti &lt;b&gt;Kamero&lt;/b&gt;.</string>
      <string name="trans_open_camera_failed_title">"Ne morem se povezati s kamero"</string>
      <string name="trans_open_location_button">Vključi</string>
@@ -996,7 +974,7 @@ Nato pritisnite "Ponovno poveži" in skenirajte QR kodo."</string>
      <string name="trans_progress_subdescript_waiting">Čakanje na sprejem %s</string>
      <string name="trans_receiver">"Sem prejemnik"</string>
      <string name="trans_receiver_time_remained">"%s preostalo.
-     Ne izključite WiFi.
+     Ne izključite WiFi Hotspot.
     Imejte obe napravi blizu skupaj."</string>
      <string name="trans_receiving_completed">Uspešno prejeto</string>
      <string name="trans_restoring">Vračanje…</string>
@@ -1052,8 +1030,6 @@ Vam je všeč Mi Mover?"</string>
      <string name="tuesday">Torek</string>
      <string name="tuesday_short">Tor</string>
      <string name="tuesday_shortest">T</string>
-     <string name="unit_byte">B</string>
-     <string name="unit_piece">" stvari"</string>
      <string name="unknown_hint">Neznano</string>
      <string name="usb_backup_select_data_too_large">"Izbrane datoteke so velike. Preverite ali ima USB naprava dovolj prostora.
 Prenesite samo važne stvari."</string>
@@ -1083,14 +1059,5 @@ Ne zaprite te strani dokler se povezava ne vzpostavi."</string>
      <string name="wednesday_short">Sre</string>
      <string name="wednesday_shortest">S</string>
      <string name="wifi_title">WiFi nastavitve</string>
-     <string name="xiaomi_connect_download_manager_fail">"Ne morem začeti s prenosom. Preverite ali upravitelj prenosov deluje normalno."</string>
-     <string name="xiaomi_external_storage_unavailable">Shramba ni na voljo, preverite SD kartico.</string>
-     <string name="xiaomi_router">Mi Router</string>
-     <string name="xiaomi_router_location">Mi Router %s</string>
-     <string name="xiaomi_update_dialog_message">"Predstavljamo verzijo %1$s 
-  Velikost: %2$s"</string>
-     <string name="xiaomi_update_dialog_message_diff">"Predstavljamo verzijo %1$s  
-  Velikost Delta posodobitve: %2$s"</string>
-     <string name="xiaomi_update_dialog_title">Na voljo je posodobitev!</string>
      <string name="yesterday">Včeraj</string>
 </resources>

@@ -7,7 +7,6 @@
 Če varnostnega kopiranja niste zahtevali ne dovolite nadaljevanja postopka."</string>
   <string name="backup_confirm_title">Polna varnostna kopija</string>
   <string name="backup_enc_password_optional">Če želite šifrirati vse varnostno kopirane podatke vnesite geslo:</string>
-  <string name="backup_enc_password_required">Vaša naprava je šifrirana zato morate šifrirati varnostno kopirane podatke. Vnesite geslo:</string>
   <string name="backup_enc_password_text">Vnesite geslo za šifriranje podatkov popolnega varnostnega kopiranja. Če to pustite prazno bo uporabljeno trenutno geslo za varnostno kopiranje:</string>
   <string name="current_password_text">Vnesite trenutno geslo za varnostno kopiranje:</string>
   <string name="deny_backup_button_label">Brez varnostnega kopiranja</string>
