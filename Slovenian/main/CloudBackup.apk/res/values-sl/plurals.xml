@@ -29,17 +29,9 @@
         <item quantity="other">pred %d min</item>
         <item quantity="one">pred %d min</item>
      </plurals>
-     <plurals name="backup_action_long_time_not_auto_backup_content">
-        <item quantity="other">"%s tednov niste varnostno kopirali svojih stvari. Tapnite, če želite videti, kako vklopite samodejno varnostno kopiranje."</item>
-        <item quantity="one">"%s teden niste varnostno kopirali svojih stvari. Tapnite, če želite videti, kako vklopite samodejno varnostno kopiranje."</item>
-     </plurals>
      <plurals name="backup_action_long_time_not_backup_content">
         <item quantity="other">"Kaže da niste varnostno kopirali stvari %s tednov. Ustvarite varnostne kopije, da ne izgubite ničesar pomembnega."</item>
         <item quantity="one">"Kaže da niste varnostno kopirali stvari %s teden. Ustvarite varnostne kopije, da ne izgubite ničesar pomembnega."</item>
-     </plurals>
-     <plurals name="cloud_backup_detail_frequence_day">
-        <item quantity="other">Napravi var. kopijo vsakih %d dni</item>
-        <item quantity="one">Napravi var. kopijo vsak dan</item>
      </plurals>
      <plurals name="cloud_backup_detail_manage_summary">
         <item quantity="other">%1$s varnostnih kopij (%2$s)</item>
@@ -71,22 +63,6 @@
      <plurals name="num_minutes_ago">
         <item quantity="other">pred %d min</item>
         <item quantity="one">pred 1 minuto</item>
-     </plurals>
-     <plurals name="restore_app_order_installed">
-        <item quantity="other">%d aplik. na tej napravi</item>
-        <item quantity="one">%d aplik. na tej napravi</item>
-     </plurals>
-     <plurals name="restore_app_order_normal">
-        <item quantity="other">Aplikacije normalne pomembnosti: %d items</item>
-        <item quantity="one">Aplikacija normalne pomembnosti: %d item</item>
-     </plurals>
-     <plurals name="restore_app_order_prior">
-        <item quantity="other">Aplikacije visoke pomembnosti: %d</item>
-        <item quantity="one">Aplikacija visoke pomembnosti: %d</item>
-     </plurals>
-     <plurals name="restoring_file_tile">
-        <item quantity="other">Vračanje datotek: %d</item>
-        <item quantity="one">Vračanje %d datoteke</item>
      </plurals>
      <plurals name="session_starting_app_count_backup_text">
         <item quantity="other">Var. kopirano %d aplikacij</item>

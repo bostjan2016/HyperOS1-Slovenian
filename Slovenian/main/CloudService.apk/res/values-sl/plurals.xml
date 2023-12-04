@@ -29,10 +29,6 @@
         <item quantity="other">pred %d min</item>
         <item quantity="one">pred %d min</item>
      </plurals>
-     <plurals name="cloud_space_full_gallery_notification_content_title">
-        <item quantity="other">"Ne morem sinhronizirati stvari: %s"</item>
-        <item quantity="one">"Ne morem sinhronizirati %s stvar"</item>
-     </plurals>
      <plurals name="cloud_storage_full_upgrade_text">
         <item quantity="other">"Premalo prostora. %d fotografij ni bilo mogoče sinhronizirati."</item>
         <item quantity="one">"Premalo prostora. %d fotografije ni bilo mogoče sinhronizirati."</item>
@@ -65,10 +61,6 @@
         <item quantity="other">Sporočil: %d</item>
         <item quantity="one">Sporočilo: %d</item>
      </plurals>
-     <plurals name="dirty_music_count">
-        <item quantity="other">%d pesmi</item>
-        <item quantity="one">%d pesem</item>
-     </plurals>
      <plurals name="dirty_note_count">
         <item quantity="other">Opomnikov: %d</item>
         <item quantity="one">Opomnik: %d</item>
@@ -88,10 +80,6 @@
      <plurals name="dirty_recorder_count">
         <item quantity="other">%d zapisov</item>
         <item quantity="one">%d zapis</item>
-     </plurals>
-     <plurals name="dirty_secretphoto_count">
-        <item quantity="other">"%d skritih fotografij ni sinhronizirano. Odjavite se ko bodo vse stvari sinhronizirane da jih obdržite; drugače se bodo izbrisale."</item>
-        <item quantity="one">"%d skrita fotografija ni sinhronizirana. Odjavite se ko bodo vse stvari sinhronizirane da jih obdržite; drugače se bodo izbrisale."</item>
      </plurals>
      <plurals name="dirty_wlan_count">
         <item quantity="other">%d WiFi omrežja</item>
@@ -145,10 +133,6 @@
         <item quantity="other">Stvari ki čakajo na sinhr.: %d</item>
         <item quantity="one">Stvar ki čaka na sinhr.: %d</item>
      </plurals>
-     <plurals name="items_waiting_to_sync">
-        <item quantity="other">%d stvari čakajo na sinhr.</item>
-        <item quantity="one">%d stvar čaka na sinhr.</item>
-     </plurals>
      <plurals name="last_sync_time_hours_ago">
         <item quantity="other">pred %s ur</item>
         <item quantity="one">pred %s uro</item>
@@ -187,10 +171,6 @@
      <plurals name="share_sdk_invitation_some_people_accepted">
         <item quantity="other">Klic je sprejelo %d oseb</item>
         <item quantity="one">Klic je sprejela %d oseba</item>
-     </plurals>
-     <plurals name="sync_items_close">
-        <item quantity="other">%d je izključeno</item>
-        <item quantity="one">%d je izključena</item>
      </plurals>
      <plurals name="time_format_day">
         <item quantity="other">%1$s dni</item>

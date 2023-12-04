@@ -28,8 +28,6 @@
      <string name="abc_shareactionprovider_share_with_application">Skupna raba z drugimi preko %s</string>
      <string name="abc_toolbar_collapse_description">Strni</string>
      <string name="about_to_recover">Samo trenutek…</string>
-     <string name="access_denied_info">Preveč poskusov. Počakajte minuto ali dve in poskusite znova.</string>
-     <string name="account_error">Napaka računa</string>
      <string name="actionbar_button_up_description">Nazaj</string>
      <string name="afternoon">Večer</string>
      <string name="am">dop.</string>
@@ -46,7 +44,6 @@
      <string name="backup_action_buy_cloud_space">Nabavite več prostora za shranjevanje</string>
      <string name="backup_action_check_network">Preverite omrežne nastavitve</string>
      <string name="backup_action_clean_disk_space">Osvobodite prostor</string>
-     <string name="backup_action_long_time_not_auto_backup_title">Varnostno kopirajte svoje stvari</string>
      <string name="backup_action_long_time_not_backup_action">Var. kopiraj</string>
      <string name="backup_action_long_time_not_backup_title">Ni nedavnih kopij</string>
      <string name="backup_action_no_space_with_wechat_off_content">Ni dovolj prostora za shranjevanje v oblaku za varnostno kopiranje stvari iz te naprave. Dotaknite se za ogled možnosti shranjevanja v oblaku, ki so vam na voljo.</string>
@@ -54,8 +51,6 @@
      <string name="backup_action_no_space_with_wechat_on_content">Ni dovolj prostora za shranjevanje v oblaku za varnostno kopiranje podatkov WeChat. Nadgradite svoj načrt shranjevanja za varnostno kopiranje stvari.</string>
      <string name="backup_action_no_space_with_wechat_on_title">"Podatkov WeChat ni bilo mogoče varnostno kopirati"</string>
      <string name="backup_action_retry_now">Poskusi ponovno</string>
-     <string name="backup_fail">"Ne morem izdelati var. kopije"</string>
-     <string name="backup_fail_wifi_needed">"Za izdelavo var. kopije je potreben WiFi."</string>
      <string name="backup_failed_reason_app_data_error">"Podatkov WeChat ni bilo mogoče varnostno kopirati"</string>
      <string name="backup_failed_reason_app_usage_denied">Dodelite potrebna dovoljenja za varnostno kopiranje stvari</string>
      <string name="backup_failed_reason_cloud_space_not_enough">Ni dovolj prostora za shranjevanje v Mi Cloudu. Nadgradite svoj plan ali osvobodite prostor za shranjevanje.</string>
@@ -64,7 +59,6 @@
      <string name="backup_failed_reason_network_error">Počakajte minuto ali dve in poskusite znova.</string>
      <string name="backup_finished_notification_content">Shranjene so aplikacije zač.zaslona, sistemske nastavitve itd.</string>
      <string name="backup_now">Napravi var. kopijo zdaj</string>
-     <string name="backup_progress_percent_unit">%</string>
      <string name="backup_remind_buy_cloud_space">Nadgradite svoj plan za cloud shrambo</string>
      <string name="backup_remind_clean_disk_space">Osvobodite prostor za shranjevanje</string>
      <string name="backup_remind_cloud_space_cost">Velikost var. kopije: %s</string>
@@ -102,7 +96,6 @@ Poskusite ponovno"</string>
      <string name="can_not_backup_in_lite_mode">"Ne morem napraviti var. kopije v Lite načinu"</string>
      <string name="can_not_restore_in_lite_mode">"Ne morem povrniti var. kopije v Lite načinu"</string>
      <string name="cancel_backup">Preklic var. kopije…</string>
-     <string name="cancel_recover_settings">Prekliči</string>
      <string name="cancel_restore">Preklic…</string>
      <string name="cancel_restore_home">Preklic…</string>
      <string name="clearable_edittext_clear_description">Očisti</string>
@@ -115,7 +108,6 @@ Poskusite ponovno"</string>
      <string name="cloud_app_no_data">Ne najdem var. kopij</string>
      <string name="cloud_app_no_network">"Ne morem se povezati na omrežje"</string>
      <string name="cloud_app_other_devices">Ostale naprave</string>
-     <string name="cloud_app_restore_app_and_data">Nastavite svojo napravo</string>
      <string name="cloud_app_restore_data">Osebni podatki in predhodno nameščene aplikacije se bodo samodejno prikazale v vaši napravi</string>
      <string name="cloud_app_restore_error">"Ne morem obnoviti"</string>
      <string name="cloud_app_restore_success">Aplikacije obnovljene</string>
@@ -136,7 +128,6 @@ Opomba: Podatki za nameščene aplikacije ne bodo shranjeni na Mi Cloud."</strin
      <string name="cloud_back_up_frequence_choice_title">Urnik varnostnega kopiranja</string>
      <string name="cloud_back_up_frequence_long">Vsakih %d dni</string>
      <string name="cloud_back_up_frequence_short">Vsak dan</string>
-     <string name="cloud_back_up_no_network_warn">"Ne morem se povezati na WiFi"</string>
      <string name="cloud_back_up_ok_btn">V redu</string>
      <string name="cloud_back_up_opening">Samo trenutek…</string>
      <string name="cloud_back_up_subscribe_vip_confirm">Nadgradi</string>
@@ -172,24 +163,17 @@ Opomba: Podatki za nameščene aplikacije ne bodo shranjeni na Mi Cloud."</strin
      <string name="cloud_backup_rw_storage_summary">Za varnostno kopiranje postavitve začetnega zaslona, podatkov aplikacij in nastavitev aplikacij v oblaku</string>
      <string name="cloud_backup_rw_storage_title">Dostop do pomnilnika</string>
      <string name="cloud_backup_select_recover">Izberite var. kopijo iz Mi Clouda</string>
-     <string name="cloud_backup_title">Mi Cloud var. kopije</string>
      <string name="cloud_restore_from_other_device">"Ustavim obnovitev %s in izbrišem to var. kopijo? Tega ne morem več obnoviti."</string>
      <string name="cloud_restore_task">Obnovitev…</string>
      <string name="cloud_task_in_process">"Ustavim %s in izbrišem to var. kopijo? Tega ne morete več obnoviti."</string>
-     <string name="collect_diagnosis_log">Zberi poročila diagnoze</string>
-     <string name="confirm_cancel_restore_negative">Prekini</string>
-     <string name="confirm_cancel_restore_positive">Nadaljuj</string>
-     <string name="confirm_cancel_restore_title">Prekličem povrnitev?</string>
      <string name="confirm_restore">Obnovi</string>
      <string name="confirm_restore_app_data">WeChat je že nameščen v tej napravi. Podatkov WeChat ni mogoče obnoviti</string>
-     <string name="confirm_restore_app_data_summary">Kaže, da je WeChat že ustvaril podatke o tej napravi. Ali jo želite prepisati s podatki iz varnostne kopije?</string>
      <string name="confirm_restore_summary">Začetni zaslon se bo ponovno zagnal in var. kopija aplikacij bo samodejno prenešena</string>
      <string name="confirm_restore_title">Obnovi</string>
      <string name="copy">Kopiraj</string>
      <string name="cta_dialog_all_purpose">"Dobrodošli v varnostnem kopiranju v oblaku! S to aplikacijo lahko varnostno kopirate postavitev začetnega zaslona, aplikacije, sistemske nastavitve in podatke WeChat v oblak. Prepričajte se, da uporabljate najnovejšo različico, da boste lahko izkoristili vse naše storitve."</string>
      <string name="cta_dialog_permission_description_get_installed_apps">Za varnostno kopiranje in obnavljanje aplikacij</string>
      <string name="cta_dialog_permission_description_storage">Za varnostno kopiranje in obnavljanje stvari</string>
-     <string name="custom_progress">Stvari: %d</string>
      <string name="customization"><u>Prilagodi</u></string>
      <string name="date_format">HH:mm:ss dd.MM.yyyy</string>
      <string name="date_picker_lunar">Kitajski tradicionalni koledar</string>
@@ -198,23 +182,12 @@ Opomba: Podatki za nameščene aplikacije ne bodo shranjeni na Mi Cloud."</strin
      <string name="desktop_downloading">Prenašam</string>
      <string name="desktop_failed">Napaka</string>
      <string name="desktop_installing">Nameščam</string>
-     <string name="desktop_recovering">Obnavljam</string>
      <string name="desktop_wait_network">Čakanje…</string>
      <string name="desktop_waiting">Čakam</string>
-     <string name="device_corrupt">Mi Telefon (podatki so poškodovani)</string>
      <string name="device_delete_prompt">Izbrišem varnostno kopijo za %s?</string>
-     <string name="device_xiaomi">Mi Telefon</string>
-     <string name="diagnosis_log_send_failed">Pošiljanje poročila diagnoze ni uspelo.</string>
-     <string name="diagnosis_log_sent_format">"Pošiljanje poročila diagnoze je uspelo.
-ID:%s
-Prosimo, pošljite to kodo tehniku."</string>
      <string name="dialog_app_usage_consent_message">Ta storitev mora dostopati do podatkov o uporabi aplikacij, da lahko oceni velikost varnostnih kopij WeChat.</string>
      <string name="dialog_app_usage_consent_title">Dovoli dostop do podatkov o uporabi aplikacije</string>
      <string name="dialog_app_usage_denied">Dajte varnostnemu kopiranju dovoljenje »Dostop do uporabe« v nastavitvah, da boste lahko varnostno kopirali stvari..</string>
-     <string name="dialog_auto_backup_condition_normal_content">Da boste lahko redno samodejno varnostno kopirali vse pomembne stvari se prepričajte, da imate dovolj prostora za shranjevanje v oblaku in da je ta naprava zaklenjena, ima več kot %s baterije in je ponoči povezana v WiFi. Kadar koli lahko varnostno kopirate tudi ročno.</string>
-     <string name="dialog_auto_backup_condition_normal_content_china">Da boste lahko redno samodejno varnostno kopirali vse pomembne stvari se prepričajte, da imate dovolj prostora za shranjevanje v oblaku in da je ta naprava zaklenjena, ima več kot %s baterije in je ponoči povezana v WiFi. Kadar koli lahko varnostno kopirate tudi ročno.</string>
-     <string name="dialog_auto_backup_condition_normal_positive">Razumem</string>
-     <string name="dialog_auto_backup_condition_normal_title">Varnostno kopirajte svoje stvari</string>
      <string name="dialog_backup_failed">"Varnostne kopije ni bilo mogoče narediti"</string>
      <string name="dialog_btn_cancel_backup">Prekliči</string>
      <string name="dialog_btn_confirm2">Razumem</string>
@@ -261,7 +234,6 @@ Prosimo, pošljite to kodo tehniku."</string>
      <string name="doing_calc_backup_data_size">Izračunavanje velikosti…</string>
      <string name="doing_restore_home">Obnavljanje zač. zaslona in nastavitev…</string>
      <string name="done_remove">Uspešno odstranjeno</string>
-     <string name="download_home_data">Prenos nastavitev zač. zaslona…</string>
      <string name="download_meta_again">"Ne morem naložiti var. kopije, poskusite ponovno."</string>
      <string name="download_meta_failed">Ne morem naložiti podatke.</string>
      <string name="download_settings">Prenos nastavitev začetnega zaslona %s%%</string>
@@ -333,7 +305,6 @@ Prosimo, pošljite to kodo tehniku."</string>
      <string name="friday_shortest">P</string>
      <string name="get_device_id_error">"Ne morem dobiti ID naprave"</string>
      <string name="help_and_feedback">Pomoč in povratne inf.</string>
-     <string name="hint_restore_cross_space">Postavitev začetnega zaslona je morda napačno prikazana, če elemente prenašate med presledki.</string>
      <string name="hint_restore_wechat_data">Opomba: Podatkov WeChat v nekaterih primerih morda ne bo mogoče obnoviti zaradi težav z združljivostjo.</string>
      <string name="home_hint_global_launcher">Poco zaganjalnik</string>
      <string name="home_hint_other_launcher">Ostali zaganjalniki</string>
@@ -344,7 +315,6 @@ Prosimo, pošljite to kodo tehniku."</string>
      <string name="loading_progress_num">Naloženo %s%%</string>
      <string name="loading_user_backup">Nalaganje uporabniških var. kopij…</string>
      <string name="managespace_delete_backup">Izbriši</string>
-     <string name="managespace_total_space">Skupni prostor: %s</string>
      <string name="manual_request_notification_permission_dialog_negative_button">Zapri</string>
      <string name="manual_request_notification_permission_dialog_positive_button">Nastavitve</string>
      <string name="manual_request_permissions_dialog_description">"Če ne dodelite dovoljenj za \"%s\", ne boste prejeli pravočasnih obvestil o neuspešnih varnostnih kopijah in drugih pomembnih dejanjih. To dovoljenje lahko podelite v nastavitvah."</string>
@@ -354,7 +324,6 @@ Prosimo, pošljite to kodo tehniku."</string>
      <string name="menu_item_sort_name">Ime</string>
      <string name="menu_item_sort_size">Velikost</string>
      <string name="midnight">Noč</string>
-     <string name="miui_device_name">Android</string>
      <string name="miuix_access_state_desc">Izbrano</string>
      <string name="miuix_alphabet_indexer_name">Vrstica za iskanje</string>
      <string name="miuix_appcompat_action_mode_deselect_all">Prekliči vse</string>
@@ -428,10 +397,7 @@ Prosimo, pošljite to kodo tehniku."</string>
      <string name="msg_restore_start_with_metered_network">"Če obnovite to varnostno kopijo, se bo vaš začetni zaslon ponastavil, vaše aplikacije pa bodo samodejno prenesene in nameščene.&lt;br />&lt;b>&lt;font color='red'>Velikost varnostne kopije: %s&lt;/font>&lt;/b>"</string>
      <string name="msg_restore_with_metered_network_hint">Če boste nadaljevali z vračanjem teh stvari bodo za prenos uporabljeni mobilni podatki.</string>
      <string name="msg_restore_with_metered_network_pattern">"&lt;font color='red'&gt;&lt;b&gt;%s&lt;/b&gt;&lt;/font&gt; datotek bo prenešeno."</string>
-     <string name="name_model">"%1$s %2$s"</string>
      <string name="network_error">Povežite se na omrežje</string>
-     <string name="network_error_info">Prišlo je do omrežne napake. Preverite omrežne nastavitve in poskusite znova.</string>
-     <string name="network_timeout_info">"Ni bilo mogoče vzpostaviti povezave z omrežjem. Poskusite ponovno."</string>
      <string name="night">Večer</string>
      <string name="no_account">Niste prijavljeni v Mi Račun.</string>
      <string name="no_backup">Ni var. kopij v Mi Cloudu</string>
@@ -439,11 +405,7 @@ Prosimo, pošljite to kodo tehniku."</string>
      <string name="not_set">Ni nastavljeno</string>
      <string name="notification_channel_remind">Opomnik</string>
      <string name="notification_channel_service">Storitev</string>
-     <string name="ok">V redu</string>
      <string name="open_backup_switch">Preklopite stikalo za varnostno kopiranje</string>
-     <string name="open_wifi">Vključi WiFi</string>
-     <string name="open_wifi_description">Za obnovitev aplikacije se povežite v WiFi omrežje</string>
-     <string name="open_wifi_setting">WiFi nastavitve</string>
      <string name="other_device_main_space">Prvi prostor</string>
      <string name="other_device_second_space">Drugi prostor</string>
      <string name="pc_mode_not_support_restore_warning">"V načinu računalnika ni mogoče obnoviti stvari. Izklopite način računalnika in poskusite znova."</string>
@@ -451,7 +413,6 @@ Prosimo, pošljite to kodo tehniku."</string>
      <string name="pm">pop.</string>
      <string name="preference_copied">\"%1$s\" je kopiran v odložišče.</string>
      <string name="process_whole_recovery">Obnavljam %s</string>
-     <string name="progressbar_title">Preverjanje varnostnih težav…</string>
      <string name="provision_back">Nazaj</string>
      <string name="provision_background_restore_more_data">Vrnite več stvari v ozadju</string>
      <string name="provision_error_connect_msg">Preverite omrežje in poskusite znova. Var. kopija ni na voljo brez omrežja.</string>
@@ -460,11 +421,9 @@ Prosimo, pošljite to kodo tehniku."</string>
      <string name="provision_restore_data">Vračanje stvari</string>
      <string name="provision_restore_item_backup_name_with_size">%1$s %2$s</string>
      <string name="provision_skip_underline">Preskoči</string>
-     <string name="query_restore_back_view">Mi Cloud var. kopija</string>
      <string name="query_restore_description">"Če obnovite postavitev in nastavitve začetnega zaslona, bodo aplikacije, ki so že nameščene, obnovljene na prvotne položaje na začetnem zaslonu. Aplikacije, ki niso del te varnostne kopije, bodo premaknjene na zadnjo stran začetnega zaslona."</string>
      <string name="query_restore_summary">Najdena var. kopija na Mi Cloudu za to napravo. Obnovim aplikacije in nastavitve zač. zaslona ali uporabim kot novo napravo in izbrišem predhodne var. kopije iz Mi Clouda?</string>
      <string name="recover_home_settings">Obnovi nastavitve zač. zaslona</string>
-     <string name="recover_miui_settings">Obnovi nastavitve sistema</string>
      <string name="recover_settings_description">Ne izklopite naprave</string>
      <string name="recovering">Obnavljam %s</string>
      <string name="remove_again">Poskusi znova</string>
@@ -483,14 +442,7 @@ Prosimo, pošljite to kodo tehniku."</string>
      <string name="restore_app_order_retry">Poskusite ponovno</string>
      <string name="restore_app_order_retry_desc">"Ne morem se povezati na omrežje.
 Preverite omrežne nastavitve in poskusite ponovno."</string>
-     <string name="restore_app_order_search_hint">Poišči stvari za nastavljanje prioritete</string>
-     <string name="restore_app_order_search_input_high_light">"&lt;font color='#ff0800'&gt;%s&lt;/font&gt;"</string>
-     <string name="restore_app_order_search_installed">Aplikacije v tej napravi</string>
-     <string name="restore_app_order_search_normal">Aplikacije normalne prioritete</string>
-     <string name="restore_app_order_search_prior">Aplikacije visoke prioritete</string>
-     <string name="restore_app_order_title">Nastavite prioritete za povrnjene stvari</string>
      <string name="restore_cloud_backup_to_phone">Vrni stvari iz Mi Clouda</string>
-     <string name="restore_data_summary">To opravilo potrebuje spletno povezavo.</string>
      <string name="restore_data_title">Obnovi podatke</string>
      <string name="restore_detail_category_app_data">WeChat podatki</string>
      <string name="restore_detail_category_app_data_summary">Zgodovina klepeta, datoteke in druge stvari (%s)</string>
@@ -505,7 +457,6 @@ Preverite omrežne nastavitve in poskusite ponovno."</string>
      <string name="restore_failed_reason_disk_space_not_enough">Ni dovolj prostora za shranjevanje. Najprej osvobodite prostor za shranjevanje.</string>
      <string name="restore_failed_reason_network_error">Napaka omrežja. Počakajte malo in poskusite znova.</string>
      <string name="restore_file_empty">Tu ni ničesar</string>
-     <string name="restore_finish_description">Obnova je končana</string>
      <string name="restore_finished_notification_content">Vrnjene so aplikacije začetnega zaslona, nastavitve sistema itd.</string>
      <string name="restore_from_cloud">Obnovi iz Mi Clouda</string>
      <string name="restore_from_mimover">Pošlji iz stare naprave s pomočjo Mi Moverja</string>
@@ -514,11 +465,9 @@ Preverite omrežne nastavitve in poskusite ponovno."</string>
      <string name="restore_header_msg">"Preden obnovite podatke WeChat, se prepričajte, da WeChat ni nameščen v tej napravi. Medtem ko se podatki obnavljajo, ne odpirajte in ne uporabljajte WeChat."</string>
      <string name="restore_header_title">Skupna velikost: %s</string>
      <string name="restore_header_title2">Skupaj varnostnih kopij: %s</string>
-     <string name="restore_home_failed">"Ne morem vrniti začetni zaslon."</string>
      <string name="restore_home_screen_apps">Obnovi stvari</string>
      <string name="restore_home_screen_apps_options">"Možnosti var. kopiranja
 %s"</string>
-     <string name="restore_init_description">Začni vračanje</string>
      <string name="restore_network_pause">Zaustavljeno zaradi varčevanja z mobilnimi podatki. Tapnite za nadaljevanje.</string>
      <string name="restore_network_unconnect">%s (Čakanje na povezavo)</string>
      <string name="restore_prepare_item_type_enable">Var. kopije na voljo</string>
@@ -527,7 +476,6 @@ Preverite omrežne nastavitve in poskusite ponovno."</string>
      <string name="restore_task_in_process">Obnovitev…</string>
      <string name="restore_task_unfinished">"Ne morem povrniti"</string>
      <string name="restore_unfinished">Obnovitev, poskusite ponovno kasneje</string>
-     <string name="restoreing_file_tile">Obnovitev datotek: %d</string>
      <string name="restoring_app_data_title_no_progress">Obnovitev WeChat podatkov…</string>
      <string name="restoring_data">Obnovitev podatkov…</string>
      <string name="restoring_file_title_no_progress">Vračanje aplikacij…</string>
@@ -542,11 +490,7 @@ Preverite omrežne nastavitve in poskusite ponovno."</string>
      <string name="self_device_disable">%s (Ni podprto v tej napravi)</string>
      <string name="self_device_main_space">Prvi prostor</string>
      <string name="self_device_second_space">Drugi prostor</string>
-     <string name="self_phone">Ta telefon</string>
-     <string name="self_phone_home">Ta telefon: %s</string>
      <string name="send">Pošlji</string>
-     <string name="send_diagnosis_log">Pošlji poročilo diagnoze</string>
-     <string name="sending">Pošiljam…</string>
      <string name="session_action_btn_text_return_home">Začetni zaslon</string>
      <string name="session_backup_apk_data_text">Varnostno kopiranje podatkov WeChat…</string>
      <string name="session_backup_apk_text">Varnostno kopiranje postavitev začetnega zaslona in sistemske nastavitve…</string>
@@ -588,18 +532,12 @@ Preverite omrežne nastavitve in poskusite ponovno."</string>
      <string name="size_unknown">Neznana velikost</string>
      <string name="start_backup_to_micloud">Varnostno kopiraj aplikacije v Mi Cloud</string>
      <string name="start_recover">Obnavljanje %s</string>
-     <string name="storage_manage_title">Sprememba plana Mi Cloud shrambe</string>
-     <string name="storage_unit_gb">%s GB</string>
-     <string name="storage_unit_mb">%s MB</string>
      <string name="success_open_cloudbackup">Vključena izdelava var. kopije aplik. zač. zaslona</string>
      <string name="successful_auto_backup_recommend_wechat_backup_notification_content">Varnostno kopirani podatki WeChat. Tapnite za podrobnosti.</string>
      <string name="successful_auto_backup_recommend_wechat_backup_notification_title">Končano samodejno varnostno kopiranje</string>
-     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
      <string name="sunday">Nedelja</string>
      <string name="sunday_short">Ned</string>
      <string name="sunday_shortest">N</string>
-     <string name="system_error_info">Sistem je zaseden. Počakajte minuto ali dve in poskusite znova.</string>
-     <string name="temporary_not_available">trenutno ni na voljo</string>
      <string name="thursday">Četrtek</string>
      <string name="thursday_short">Čet</string>
      <string name="thursday_shortest">Č</string>
@@ -611,15 +549,12 @@ Preverite omrežne nastavitve in poskusite ponovno."</string>
      <string name="title_restore_with_current_network">Uporaba trenutne povezave za prenos datotek</string>
      <string name="today">Danes</string>
      <string name="tomorrow">Jutri</string>
-     <string name="total_num">%d stvari,</string>
      <string name="total_space">Skupni prostor: %s</string>
-     <string name="trans_pausing">Premor…</string>
      <string name="try_again">Tapni za ponovni poskus</string>
      <string name="try_continue">Tapni za nadaljevanje</string>
      <string name="tuesday">Torek</string>
      <string name="tuesday_short">Tor</string>
      <string name="tuesday_shortest">T</string>
-     <string name="unknown_error_info">Neznana napaka</string>
      <string name="unselected">Ni izbrano</string>
      <string name="unsupported_home">Posodobite MIUI na najnovejšo verzijo.</string>
      <string name="v7_preference_off">IZKLJUČENO</string>
