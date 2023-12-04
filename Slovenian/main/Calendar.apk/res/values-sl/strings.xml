@@ -777,8 +777,7 @@ Preverite omrežne nastavitve in poskusite ponovno."</string>
      <string name="simple_date_format">dd.MM.yyyy</string>
      <string name="single_selected_holiday">%1$s je prost dan</string>
      <string name="skip">Preskoči</string>
-     <string name="small_week_date_format">EEE, dd.MM.yyyy</string     
-     <string name="solar_lunar_convert_tab">Spremeni</string>
+     <string name="small_week_date_format">EEE dd.MM.yyyy</string>     
      <string name="solar_term_autumn_begins">Začetek jeseni</string>
      <string name="solar_term_autumn_equinox">Jesensko enakonočje</string>
      <string name="solar_term_clear_and_bright">Jasno</string>
