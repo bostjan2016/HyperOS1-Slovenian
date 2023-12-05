@@ -53,14 +53,6 @@
         <item quantity="other">Zvonilo %1$d krat</item>
         <item quantity="one">Zvonilo %1$d krat</item>
      </plurals>
-     <plurals name="call_record_auto_whitelist_summary">
-        <item quantity="other">%d telefonskih številk</item>
-        <item quantity="one">%d telefonska številk</item>
-     </plurals>
-     <plurals name="call_remove_exception_numbers_confirm">
-        <item quantity="other">Izbrišem telefonske številke: %d?</item>
-        <item quantity="one">Izbrišem %d telefonsko številko?</item>
-     </plurals>
      <plurals name="cloud_state_unsynced_count">
         <item quantity="other">"Stiki/fotografije niso sinhronizirani: %1$d"</item>
         <item quantity="one">"%1$d stik/fotografija ni sinhronizirano"</item>
@@ -80,10 +72,6 @@
      <plurals name="contacts_trash_restore_respond">
         <item quantity="other">Uspešno vrnjeni stiki: %d</item>
         <item quantity="one">Uspešno vrnjen %d stik</item>
-     </plurals>
-     <plurals name="count_selected">
-        <item quantity="other">Izbrano: %d</item>
-        <item quantity="one">Izbrano: %d</item>
      </plurals>
      <plurals name="device_import_done_toast">
         <item quantity="other">Uvoženo stikov: %1$d</item>
@@ -128,10 +116,6 @@
      <plurals name="half_hour_ago">
         <item quantity="other">Pred pol ure</item>
      </plurals>
-     <plurals name="hint_account_contacts">
-        <item quantity="other">Najdeno stvari: %1$d</item>
-        <item quantity="one">Najdena %1$d stvar</item>
-     </plurals>
      <plurals name="hint_search_contacts">
         <item quantity="other">Stiki: %1$d</item>
         <item quantity="one">%1$d stik</item>
@@ -157,48 +141,24 @@
         <item quantity="other">čez %d min</item>
         <item quantity="one">čez 1 minuto</item>
      </plurals>
-     <plurals name="label_duplicate_count_plurals">
-        <item quantity="other">(%1$d)</item>
-        <item quantity="one">(%1$d)</item>
-     </plurals>
      <plurals name="less_than_one_minute_ago">
         <item quantity="other">Pravkar</item>
-     </plurals>
-     <plurals name="listFoundAllContacts">
-        <item quantity="other">Najdeno stikov: %d</item>
-        <item quantity="one">1 najden</item>
      </plurals>
      <plurals name="listTotalAllContacts">
         <item quantity="other">Stiki: %d</item>
         <item quantity="one">%d stik</item>
      </plurals>
-     <plurals name="listTotalPhoneContacts">
-        <item quantity="other">Stiki z številko telefona: %d</item>
-        <item quantity="one">1 stik z številko telefona</item>
-     </plurals>
      <plurals name="merge_contact_message_plurals">
         <item quantity="other">Stiki z delno ujemajočimi informacijami: %1$d</item>
         <item quantity="one">%1$d stik z delno ujemajočimi informacijami</item>
-     </plurals>
-     <plurals name="merge_info">
-        <item quantity="other">združeno iz vira: %0$d</item>
-        <item quantity="one">ni združeno</item>
      </plurals>
      <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">%d stvari izbrano</item>
         <item quantity="one">%d stvar izbrana</item>
      </plurals>
-     <plurals name="mtrl_badge_content_description">
-        <item quantity="other">Nova obvestila: %d</item>
-        <item quantity="one">%d novo obvestilo</item>
-     </plurals>
      <plurals name="notification_missedCallsMsg">
         <item quantity="other">%d neodgovorjenih klicev</item>
         <item quantity="one">%d neodgovorjen klic</item>
-     </plurals>
-     <plurals name="notification_voicemail_title">
-        <item quantity="other">"Št. govornih sporočil: %1$d"</item>
-        <item quantity="one">"Govorno sporočilo"</item>
      </plurals>
      <plurals name="numSelectedSimContacts">
         <item quantity="other">Izbrano: %1$d</item>
@@ -209,17 +169,9 @@
         <item quantity="other">%1$d oseb iz %2$s</item>
         <item quantity="one">%1$d oseba iz %2$s</item>
      </plurals>
-     <plurals name="num_groups_in_account">
-        <item quantity="other">%d skupin</item>
-        <item quantity="one">%d skupina</item>
-     </plurals>
      <plurals name="num_minutes_ago">
         <item quantity="other">pred %d min</item>
         <item quantity="one">pred 1 minuto</item>
-     </plurals>
-     <plurals name="number_of_items_available">
-        <item quantity="other">Ostalo stvari: %1$d</item>
-        <item quantity="one">Ostala %1$d stvar</item>
      </plurals>
      <plurals name="number_of_items_selected">
         <item quantity="other">Izbrano: %1$d</item>
@@ -244,10 +196,6 @@
      <plurals name="searchFoundContacts">
         <item quantity="other">Najdeno: %d</item>
         <item quantity="one">Najdeno: %d</item>
-     </plurals>
-     <plurals name="search_group_contacts_result">
-        <item quantity="other">%s rezultatov</item>
-        <item quantity="one">%s rezultat</item>
      </plurals>
      <plurals name="select_all_exceed_plurals">
         <item quantity="other">"Izberite ne več kot %1$d, ne morete izbrati vse"</item>

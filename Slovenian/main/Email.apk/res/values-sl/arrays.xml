@@ -1,19 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-     <string-array name="all_month_str">
-        <item>Jan</item>
-        <item>Feb</item>
-        <item>Mar</item>
-        <item>Apr</item>
-        <item>Maj</item>
-        <item>Jun</item>
-        <item>Jul</item>
-        <item>Avg</item>
-        <item>Sep</item>
-        <item>Okt</item>
-        <item>Nov</item>
-        <item>Dec</item>
-     </string-array>
      <string-array name="calendar_remind_string_array">
         <item>Zvečer</item>
         <item>Jutri</item>
@@ -21,11 +7,6 @@
         <item>Naslednji teden</item>
         <item>Naslednji mesec</item>
         <item>Izberite datum</item>
-     </string-array>
-     <string-array name="compose_modes">
-        <item>Odgovor</item>
-        <item>Odgovori vsem</item>
-        <item>Naprej</item>
      </string-array>
      <string-array name="error_message_respond">
         <item>LOGIN Napaka pri prijavi ali napaka gesla</item>
@@ -60,13 +41,6 @@
         <item>odjemalec onemogočen, spremenite stanje na spletnem mestu https://mail.sohu.com</item>
         <item>brez začetnega gesla, prijavite se na https://mail.sohu.com za ustvarjanje gesla odjemalca</item>
      </string-array>
-     <string-array name="general_preference_text_zoom_summary_array">
-        <item>Majčkeno</item>
-        <item>Majhno</item>
-        <item>Normalne velikosti</item>
-        <item>Veliko</item>
-        <item>Ogromno</item>
-     </string-array>
      <string-array name="menu_att_mgr_sort_string_array">
         <item>Nedavno ogledano</item>
         <item>Format</item>
@@ -74,34 +48,9 @@
         <item>Pošiljatelj</item>
         <item>Datum prejema</item>
      </string-array>
-     <string-array name="moveto_folder_sections">
-        <item>Sistem</item>
-        <item>Pogosto uporab.</item>
-        <item>Vse mape</item>
-     </string-array>
-     <string-array name="prefEntries_autoAdvance">
-        <item>Novejša sporočila</item>
-        <item>Starejša sporočila</item>
-        <item>Prihodna pošta</item>
-     </string-array>
      <string-array name="prefEntries_contact_add">
         <item>Vsi</item>
         <item>Samo pošiljatelji</item>
-     </string-array>
-     <string-array name="prefEntries_removal_action">
-        <item>Pokaži samo arhiviranje</item>
-        <item>Pokaži samo brisanje</item>
-        <item>Pokaži arhiviranje in brisanje</item>
-     </string-array>
-     <string-array name="prefSummaries_autoAdvance">
-        <item>Prikaz novejšega razgovora po brisanju</item>
-        <item>Prikaz starejšega razgovora po brisanju</item>
-        <item>Prikaz prihodne pošte po brisanju</item>
-     </string-array>
-     <string-array name="prefSummaries_removal_action_summary">
-        <item>Pokaži samo arhiviranje</item>
-        <item>Pokaži samo brisanje</item>
-        <item>Pokaži arhiviranje in brisanje</item>
      </string-array>
      <string-array name="signature_normal_string_array">
         <item>Blog:</item>
@@ -150,13 +99,5 @@
         <item>To sporočilo</item>
         <item>Odrekanje odgovornosti</item>
         <item>E-pošta Odrekanje odgovornosti</item>
-     </string-array>
-     <string-array name="sync_status">
-        <item>Sinhr. uspela</item>
-        <item>Napaka omrežja.</item>
-        <item>Neuspešna prijava.</item>
-        <item>Napaka v varnosti povezave.</item>
-        <item>Neuspešna sinhr.</item>
-        <item>Napaka strežnika.</item>
      </string-array>
 </resources>

@@ -83,7 +83,6 @@
      <string name="download_info_start_deleted_tasks">Izbriši prenose</string>
      <string name="download_no_application">Nobena aplikacija ne podpira tega formata</string>
      <string name="download_no_application_title">Ne morem odpreti datoteke</string>
-     <string name="download_percent">%d%%</string>
      <string name="download_queued">V čakalni vrsti</string>
      <string name="download_remaining">Še %s</string>
      <string name="download_running">V teku</string>
@@ -155,7 +154,6 @@
      <string name="friday">Petek</string>
      <string name="friday_short">Pet</string>
      <string name="friday_shortest">P</string>
-     <string name="get_account_dialog_msg">Pridobivanje informacij o računu…</string>
      <string name="insufficient_space">Ni dovolj prostora</string>
      <string name="midnight">Noč</string>
      <string name="miuix_access_state_desc">Izbrano</string>
@@ -237,7 +235,6 @@
      <string name="notif_title_single_downloading">Prenašanje: %1$s</string>
      <string name="notification_download_complete">Prenos končan.</string>
      <string name="notification_download_failed">Prenos ni uspel.</string>
-     <string name="notification_download_failed_more">"Ne morem prenesti %1$d stvari"</string>
      <string name="notification_download_success_more">%1$d prenešeno</string>
      <string name="notification_need_wifi_for_size">Velikost prenosa zahteva uporabo WiFi omrežja.</string>
      <string name="notification_paused_in_background">Zaustavljeno v ozadju.</string>
@@ -265,15 +262,10 @@
      <string name="permlab_downloadManager">Dostop do upravitelja prenosov.</string>
      <string name="permlab_downloadManagerAdvanced">Napredne opravila upravitelja prenosov.</string>
      <string name="permlab_downloadWithoutNotification">Prenesi brez obvestil</string>
-     <string name="permlab_seeAllExternal">Odpri vse prenose v zunanjem pomnilniku</string>
      <string name="pm">pop.</string>
      <string name="preference_copied">\"%1$s\" kopirano v odložišče.</string>
      <string name="privacy_notif_content">Tapni za ogled podrobnosti.</string>
      <string name="privacy_notif_title">Xunlei Download Accelerator je vklopljen</string>
-     <string name="privacy_tip_cancel">Prekini</string>
-     <string name="privacy_tip_content">Uporabim Xunlei Accelerator za pohitritev prenosa? Povezava prenosa se bo prenesla na Xunlei sirežnike. Prenesli se bodo tudi vaši podatki iz Mi računa da se preveri če imate kakšno aktivno naročnino pri tej storitvi.</string>
-     <string name="privacy_tip_ok">V redu</string>
-     <string name="privacy_tip_title">Uporabim Xunlei Accelerator?</string>
      <string name="recall_tip">"Namestite \"Prenosi\"
 za uporabo vseh storitev"</string>
      <string name="recommend_installing">Nameščam…</string>
@@ -296,8 +288,6 @@ za uporabo vseh storitev"</string>
      <string name="thursday_short">Čet</string>
      <string name="thursday_shortest">Č</string>
      <string name="time_picker_dialog_title">Nastavi čas</string>
-     <string name="time_picker_label_hour">H</string>
-     <string name="time_picker_label_minute">M</string>
      <string name="toast_net_error">"Ni bilo mogoče vzpostaviti povezave z omrežjem. Preverite omrežne nastavitve in poskusite znova."</string>
      <string name="today">Danes</string>
      <string name="today_download">Prenešeno danes</string>

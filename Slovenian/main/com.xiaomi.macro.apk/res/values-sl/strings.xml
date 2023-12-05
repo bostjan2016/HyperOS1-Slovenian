@@ -27,8 +27,6 @@
      <string name="abc_shareactionprovider_share_with">Deljenje z</string>
      <string name="abc_shareactionprovider_share_with_application">Deli preko %s</string>
      <string name="abc_toolbar_collapse_description">Strni</string>
-     <string name="actionbar_button_up_description">Nazaj</string>
-     <string name="app_name">MiMacro</string>
      <string name="brvah_app_name">Knjižnica</string>
      <string name="cancel">Prekliči</string>
      <string name="character_counter_content_description">Vnešeno znakov %1$d od %2$d</string>
@@ -45,7 +43,6 @@
      <string name="gb_game_macro_action_speed_desc">Prilagodite hitrost opravila</string>
      <string name="gb_game_macro_action_track">Vizualizirajte poteze</string>
      <string name="gb_game_macro_action_track_desc">Vizualizirajte dotike in potege</string>
-     <string name="gb_game_macro_action_unit_times">%sX</string>
      <string name="gb_game_macro_apply">Uporabi</string>
      <string name="gb_game_macro_button_alpha">Prozornost tipke</string>
      <string name="gb_game_macro_button_big">Veliko</string>
@@ -75,7 +72,6 @@
      <string name="name_not_greater_than_twenty_character_tips">Ime lahko vsebuje do 20 znakov</string>
      <string name="name_not_less_than_two_character_tips">Ime mora vsebovati najmanj 2 znaka</string>
      <string name="notification_content">Izvaja se kombinacija…</string>
-     <string name="notification_title">Macro</string>
      <string name="number_times">Številka izvedb opravila</string>
      <string name="ok">V redu</string>
      <string name="one_guide_introduce">Kliknite Novo, da ustvarite makro</string>
