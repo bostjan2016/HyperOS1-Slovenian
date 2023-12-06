@@ -4,8 +4,4 @@
         <item quantity="other">%d novih obvestil</item>
         <item quantity="one">%d novo obvestilo</item>
      </plurals>
-    <plurals name="wifi_tether_connected_summary">
-        <item quantity="other">%1$d naprav povezano</item>
-        <item quantity="one">%1$d naprava povezana</item>
-    </plurals>
 </resources>

@@ -34,17 +34,14 @@
      <string name="am">dop.</string>
      <string name="app_name">Najdi napravo</string>
      <string name="call_notification_answer_action">Odgovor</string>
-     <string name="call_notification_answer_video_action">Video</string>
      <string name="call_notification_decline_action">Zavrni</string>
      <string name="call_notification_hang_up_action">Prekini</string>
      <string name="call_notification_incoming_text">Dohodni klic</string>
      <string name="call_notification_ongoing_text">Odhodni klic</string>
      <string name="call_notification_screening_text">Preverjanje dohodnega klica</string>
-     <string name="captcha">Captcha</string>
      <string name="change_find_device_status_failed">"Ne morem odkleniti. %s."</string>
      <string name="clearable_edittext_clear_description">Izbriši</string>
      <string name="close">Zapri</string>
-     <string name="copy">Kopiraj</string>
      <string name="custom_define_permission_desc_android.permission.READ_PHONE_STATE">"Za dostop do telefonske številke za iskanje te naprave, ko ni povezana s spletom"</string>
      <string name="custom_define_permission_desc_android.permission.SEND_SMS">"Za iskanje te naprave, ko ni povezana s spletom"</string>
      <string name="custom_define_permission_desc_android.permission_group.LOCATION">Za lociranje vaše naprave in preklop v način izgubljeno</string>
@@ -64,8 +61,6 @@ Za podrobnosti kontaktirajte svojega prodajalca."</string>
      <string name="enable_find_device_error">"Ne morem vključiti Najdi napravo. %1$s"</string>
      <string name="enable_find_device_success">Najdi napravo je vključen.</string>
      <string name="evening">Večer</string>
-     <string name="expand_button_title">Napredno</string>
-     <string name="find_device">Najdi napravo</string>
      <string name="find_device_capture_done_notification_content">Oglejte si fotografijo na i.mi.com</string>
      <string name="find_device_capture_done_notification_title">Najdi napravo je posnela fotografijo na daljavo</string>
      <string name="find_device_capture_notification_content">Vaš račun je vložil zahtevo za daljinsko fotografiranje s to napravo</string>
@@ -74,16 +69,12 @@ Za podrobnosti kontaktirajte svojega prodajalca."</string>
      <string name="find_device_error_access_denied">Dostop je zavrnjen.</string>
      <string name="find_device_error_account_sys_timeout">"Ne morem se povezati v Mi Račun"</string>
      <string name="find_device_error_account_unknown_error">Napaka Mi Računa (%s).</string>
-     <string name="find_device_error_custom">%s</string>
      <string name="find_device_error_network">Napaka omrežja.</string>
      <string name="find_device_error_password_changed">Geslo za račun je bilo nedavno spremenjeno.</string>
      <string name="find_device_error_server">Napaka strežnika (%s).</string>
      <string name="find_device_error_unknown">Neznana napaka (%s).</string>
      <string name="find_device_noise_title">Alarm Najdi napravo</string>
      <string name="find_device_notice">Če izgubite napravo lahko obiščete &lt;b>&lt;font color=#0099FF>i.mi.com&lt;/font>&lt;/b> da jo locirate, zaklenete ali izbrišete podatke.</string>
-     <string name="find_device_notice_p1">Pojdite na</string>
-     <string name="find_device_notice_p3">" da najdete, zaklenite ali ponastavite svojo napravo</string>
-     <string name="find_device_notice_sms_alert">Če zamenjate SIM kartico bo samodejno poslano še eno SMS sporočilo za ponovno aktiviranje te storitve."</string>
      <string name="find_device_notice_sms_alert_with_common_charge_hint">"Če želite posodobiti stanje kartice SIM in zagotoviti, da vse storitve delujejo normalno, bo &lt;font color=#0097FF>&lt;b>plačljivo tekstno sporočilo&lt;/b>&lt;/font> poslano, ko zamenjate SIM kartici. To sporočilo vam bo lahko zaračunal vaš operater."</string>
      <string name="find_device_notice_sms_alert_with_domestic_charge_hint">"Če želite posodobiti stanje kartice SIM in zagotoviti, da vse storitve delujejo normalno, bo &lt;font color=#0097FF>&lt;b>domače plačljivo tekstno sporočilo&lt;/b>&lt;/font> poslano, ko zamenjate SIM kartici. To sporočilo vam bo lahko zaračunal vaš operater."</string>
      <string name="find_device_notice_sms_alert_with_internal_charge_hint">"Če želite posodobiti stanje kartice SIM in zagotoviti, da vse storitve delujejo normalno, bo &lt;font color=#0097FF>&lt;b>mednarodno plačljivo tekstno sporočilo&lt;/b>&lt;/font> poslano, ko zamenjate SIM kartici. To sporočilo vam bo lahko zaračunal vaš operater."</string>
@@ -220,7 +211,6 @@ Za podrobnosti kontaktirajte svojega prodajalca."</string>
      <string name="morning">Jutro</string>
      <string name="night">Večer</string>
      <string name="noon">Poldne</string>
-     <string name="not_set">Ni nastavljeno</string>
      <string name="open_wifi_settings">Odpri nastavitve WiFi</string>
      <string name="open_wifi_settings_china">Odpri nastavitve WiFi</string>
      <string name="passport_checking_vcode">Kontrola gesla…</string>
@@ -235,7 +225,6 @@ Za podrobnosti kontaktirajte svojega prodajalca."</string>
      <string name="phone_locked_account_email">, povezana e-pošta: %s</string>
      <string name="phone_locked_account_phone">, povezana številka telefona: %s</string>
      <string name="pm">pop.</string>
-     <string name="preference_copied">\"%1$s\" kopirano v odložišče.</string>
      <string name="return_to_call">Nazaj na klic</string>
      <string name="saturday">Sobota</string>
      <string name="saturday_short">Sob</string>
@@ -274,10 +263,8 @@ Za podrobnosti kontaktirajte svojega prodajalca."</string>
      <string name="unlock_error_device_id">"Ne morem dobiti ID naprave"</string>
      <string name="unlock_error_interrupted">Prekinjeno</string>
      <string name="unlock_error_network">"Ne morem se povezati na omrežje"</string>
-     <string name="unlock_error_passport_sdk_timeout">"SDK Mi Računa se ne ujema"</string>
      <string name="unlock_error_rpc">RPC napaka</string>
      <string name="unlock_error_server">Napaka strežnika</string>
-     <string name="unlock_error_ssl_hand_shake">"Ne morem se povezati s strežnikom, poskusite nastaviti datum in čas ročno."</string>
      <string name="unlock_error_unknown">"Ne morem se prijaviti"</string>
      <string name="unlock_error_user_name">Neveljavno uporabniško ime</string>
      <string name="unlock_error_wrong_vcode">Vnešena koda ni pravilna</string>
@@ -301,8 +288,6 @@ Pojdite na i.mi.com/ss in oddajte svojo vlogo za odklepanje naprave."</string>
      <string name="unlock_number">Koda za odklep: %s</string>
      <string name="unlock_wrong_captcha">Vnešena koda ni pravilna</string>
      <string name="unlocking">Aktiviranje…</string>
-     <string name="v7_preference_off">IZKLJUČENO</string>
-     <string name="v7_preference_on">VKLJUČENO</string>
      <string name="verifing_account">Kontrola gesla…</string>
      <string name="verify_password_failed">"Ne morem potrditi ID Mi Računa. %s."</string>
      <string name="wednesday">Sreda</string>

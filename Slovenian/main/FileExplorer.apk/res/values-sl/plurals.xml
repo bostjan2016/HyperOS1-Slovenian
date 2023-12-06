@@ -196,10 +196,6 @@
         <item quantity="other">Označi sorodne datoteke %1$s (%2$d stvari)</item>
         <item quantity="one">Označi sorodne datoteke %1$s (%2$d stvar)</item>
      </plurals>
-     <plurals name="seconds">
-        <item quantity="other">%1$d sek</item>
-        <item quantity="one">%1$d sek</item>
-     </plurals>
      <plurals name="text_group_count">
         <item quantity="other">%d stvari</item>
         <item quantity="one">%d stvar</item>
@@ -212,29 +208,9 @@
         <item quantity="other">Oseb: %1$s</item>
         <item quantity="one">%1$s oseba</item>
      </plurals>
-     <plurals name="ui_bar_txt_download_progress">
-        <item quantity="other">Preostalo (%1$d) datotek za prenos</item>
-        <item quantity="one">Preostala (%1$d) datoteka za prenos</item>
-     </plurals>
-     <plurals name="ui_bar_txt_transport_progress">
-        <item quantity="other">Preostalo (%1$d) datotek za poslati</item>
-        <item quantity="one">Preostala (%1$d) datoteka za poslati</item>
-     </plurals>
-     <plurals name="ui_bar_txt_upload_progress">
-        <item quantity="other">Preostalo (%1$d) datotek za nalaganje</item>
-        <item quantity="one">Preostala (%1$d) datoteka za nalaganje</item>
-     </plurals>
-     <plurals name="user_follow_me_items">
-        <item quantity="other">sledilcev</item>
-        <item quantity="one">sledilec</item>
-     </plurals>
      <plurals name="user_sign_limt">
         <item quantity="other">Lahko vpišete %d znakov</item>
         <item quantity="one">Lahko vpišete %d znak</item>
-     </plurals>
-     <plurals name="user_upload_items">
-        <item quantity="other">videoposnetkov</item>
-        <item quantity="one">videoposnetek</item>
      </plurals>
      <plurals name="video_ad_download_tip">
         <item quantity="other"> Prenosov</item>
@@ -247,10 +223,6 @@
      <plurals name="video_items">
         <item quantity="other"> %1$d stvari</item>
         <item quantity="one"> %1$d stvar</item>
-     </plurals>
-     <plurals name="video_num">
-        <item quantity="other">%1$s videoposnetkov</item>
-        <item quantity="one">%1$s videoposnetek</item>
      </plurals>
      <plurals name="video_play_num">
         <item quantity="other">%1$s predvajano</item>
