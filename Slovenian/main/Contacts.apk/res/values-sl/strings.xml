@@ -914,8 +914,6 @@ Tapnite \"%1$s\" in izberite \"%2$s\"."</string>
      <string name="option_view_contact">Pokaži</string>
      <string name="option_view_group">Pokaži</string>
      <string name="organizationLabelsGroup">Položaj</string>
-     <string name="organization_company_and_title">%2$s, %1$s</string>
-ring name="passport_password_login_btn">Prijava</string>
      <string name="pay_fail">"Ne morem dokončati plačila"</string>
      <string name="pay_success">Uspešno plačano</string>
      <string name="payphone">Telefonska govorilnica</string>
