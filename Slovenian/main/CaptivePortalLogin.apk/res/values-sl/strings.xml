@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_abort">Nazaj</string>
+    <string name="action_bar_label">Prijavite se v omrežje</string>
+    <string name="action_bar_title">Prijavite se v %1$s</string>
+    <string name="action_continue">Nadaljuj</string>
+    <string name="action_do_not_use_network">Ne uporabljajte tega omrežja</string>
+    <string name="action_use_network">Uporabite to omrežje, kot je</string>
+    <string name="call_notification_answer_action">Odgovori</string>
+    <string name="call_notification_answer_video_action">Video</string>
+    <string name="call_notification_decline_action">Zavrni</string>
+    <string name="call_notification_hang_up_action">Prekini</string>
+    <string name="call_notification_incoming_text">Dohodni klic</string>
+    <string name="call_notification_ongoing_text">Odhodni klic</string>
+    <string name="call_notification_screening_text">Preverjanje dohodnega klica</string>
+    <string name="cancel_pending_downloads">Prenos preklican</string>
+    <string name="channel_description_download_progress">Obvestila, ki prikazujejo potek prenosov datotek</string>
+    <string name="channel_description_downloads">Obvestila, ki prikazujejo dokončane ali preklicane prenose</string>
+    <string name="channel_name_download_progress">Napredek prenosa</string>
+    <string name="channel_name_downloads">Prenosi</string>
+    <string name="custom_scheme_example">Na primer, prijavna stran lahko zahteva posebno aplikacijo za preverjanje pristnosti</string>
+    <string name="custom_scheme_warning">Omrežje, ki se mu poskušate pridružiti, zahteva odpiranje druge aplikacije.</string>
+    <string name="download_completed">Prenos končan</string>
+    <string name="downloading_paramfile">Prenašam %1$s</string>
+    <string name="error_continue_via_browser">Vseeno nadaljujte prek brskalnika</string>
+    <string name="error_downloading_paramfile">Ne morem prenesti %1$s</string>
+    <string name="file_too_large_cancel_download">Datoteka je prevelika, prenos preklican.</string>
+    <string name="no_bypass_error_vpnwarning">Poleg tega te napake ni mogoče zaobiti, ker naprava trenutno izvaja VPN.</string>
+    <string name="ok">V redu</string>
+    <string name="page_info">Informacije o strani</string>
+    <string name="page_info_address">Naslov:</string>
+    <string name="ssl_error_date_invalid">To potrdilo ima neveljaven datum.</string>
+    <string name="ssl_error_example">Na primer, stran za prijavo morda ne pripada prikazani organizaciji.</string>
+    <string name="ssl_error_expired">To potrdilo je poteklo.</string>
+    <string name="ssl_error_invalid">To potrdilo ni veljavno.</string>
+    <string name="ssl_error_mismatch">"Ime mesta se ne ujema z imenom na potrdilu."</string>
+    <string name="ssl_error_not_yet_valid">"To potrdilo še ni veljavno."</string>
+    <string name="ssl_error_unknown">Neznana napaka potrdila.</string>
+    <string name="ssl_error_untrusted">"To potrdilo ni od zaupanja vrednega organa."</string>
+    <string name="ssl_error_view_certificate">Ogled potrdila</string>
+    <string name="ssl_error_warning">Omrežje, ki se mu poskušate pridružiti, ima varnostne težave.</string>
+    <string name="ssl_security_warning_title">Varnostno opozorilo</string>
+</resources>

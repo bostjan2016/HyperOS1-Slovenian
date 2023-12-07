@@ -8115,6 +8115,7 @@ Znova zaženite napravo in poskusite znova."</string>
      <string name="nfc_main_switch_title">Uporabi NFC</string>
      <string name="nfc_more_details">Več o tem</string>
      <string name="nfc_more_title">Več…</string>
+     <string name="nfc_notification_mode_title">Opomniki za branje kartic NFC</string>
      <string name="nfc_payment_btn_text_set_deault">Nastavi za privzeto</string>
      <string name="nfc_payment_btn_text_update">Posodobi</string>
      <string name="nfc_payment_default">Privzeto za plačevanje</string>

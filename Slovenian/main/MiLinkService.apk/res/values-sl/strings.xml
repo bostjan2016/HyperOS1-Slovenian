@@ -342,8 +342,9 @@ vaših naprav?"</string>
      <string name="clipboard_cancel_sync">Prekliči</string>
      <string name="clipboard_loading">Lepljenje iz %1$s</string>
      <string name="close">Zapri</string>
-     <string name="close_auxiliary_wifi_hint">Če želite predvajati, izklopite \"Povečaj hitrost WiFi\".</string>
-     <string name="close_auxiliary_wifi_hint_china">Če želite predvajati, izklopite \"Povečaj hitrost WiFi\".</string>
+     <string name="close_auxiliary_wifi_hint">Če želite predvajati, izklopite \"Dvopasovno povečanje hitrosti WiFi\".</string>
+     <string name="close_auxiliary_wifi_hint_china">Če želite predvajati, izklopite \"Dvopasovno povečanje hitrosti WiFi\".</string>
+     <string name="close_dp_casting_hint">Odklopite kabel in poskusite znova</string>
      <string name="close_hotspot_hint">Izključite prenosni hotspot pred predvajanjem</string>
      <string name="close_hotspot_hint_DFS">Če želite stvari prenesti na TV, najprej izklopite dostopno točko.</string>
      <string name="close_invisible_mode_dialog_cancel">Prekliči</string>
@@ -397,6 +398,7 @@ vaših naprav?"</string>
      <string name="current_wifi_tv">Trnutno omrežje</string>
      <string name="date_picker_lunar">Kitajski tradicionalni koledar</string>
      <string name="date_time_picker_dialog_title">Nastavi datum in čas</string>
+     <string name="device_busy">Naprava je zasedena. Počakajte minuto ali dve in poskusite znova.</string>
      <string name="device_desc_trust">Zaupanja vredne naprave</string>
      <string name="device_permission_authorize_dialog_message">Ko bo to dovoljenje podeljeno, bo ta naprava lahko uporabljala %s za fotografiranje in snemanje videoposnetkov.</string>
      <string name="device_permission_authorize_dialog_title">Podelite dovoljenja za kamero %s</string>
@@ -407,6 +409,7 @@ vaših naprav?"</string>
      <string name="device_type_name_phone">Telefon</string>
      <string name="dialog_can_not_find_device">"Ne morem najti naprav v bližini"</string>
      <string name="dialog_cancle">Prekliči</string>
+     <string name="dialog_close">Izključi</string>
      <string name="dialog_connect_fail">"Povezovanje ni uspelo"</string>
      <string name="dialog_connect_retry">Tapnite za ponovni poskus</string>
      <string name="dialog_connect_verify_perssion">Najprej avtorizirajte predvajanje na televizorju</string>
@@ -436,6 +439,9 @@ Za dodatna vprašanja poglejte Pomoč."</string>
      <string name="dialog_scan_message_china">""%1$d. Mobilno napravo in televizor povežite z istim omrežjem Wifi.
 
 %2$d. Poglejte \"Pomoč\" da izveste več."</string>
+     <string name="dialog_scanning_close_dual_wifi_china">Če želite predvajati, izklopite \"Dvopasovno povečanje hitrosti WiFi\". Želite to storitev zdaj izklopiti?</string>
+     <string name="dialog_scanning_close_dual_wifi_global">Če želite predvajati, izklopite \"Dvopasovno povečanje hitrosti WiFi\". Želite to storitev zdaj izklopiti?</string>
+     <string name="dialog_scanning_close_tethering">Če želite predvajati, izklopite dostopno točko. Želite izklopiti dostopno točko?</string>
      <string name="dialog_scanning_device">Iskanje naprav v bližini…</string>
      <string name="dialog_scanning_precondition">Vključite WiFi in Bluetooth na svojemm telefonu za uporabo brezžičnega zaslona.</string>
      <string name="dialog_scanning_precondition_new_china">Vključite WiFi, Bluetooth in storitve lociranja za uporabo brezžičnega zaslona. Vključim?</string>
@@ -443,6 +449,7 @@ Za dodatna vprašanja poglejte Pomoč."</string>
      <string name="dialog_select_tv">Izberite napravo (%1$d)</string>
      <string name="dialog_show_help">Pomoč</string>
      <string name="disconnect">Ustavi predvajanje</string>
+     <string name="dp_casting_start_hint">Povezano preko kabla. Predvajanje je končano.</string>
      <string name="dual_wifi_warning_china">Izklopite dvojni WiFi in poskusite znova</string>
      <string name="dual_wifi_warning_global">Izklopite dvojni WiFi in poskusite znova</string>
      <string name="early_morning">Jutro</string>
@@ -562,6 +569,9 @@ Za dodatna vprašanja poglejte Pomoč."</string>
      <string name="hang_up_alert_dialog_neg">Prekliči</string>
      <string name="hang_up_alert_dialog_pos">V redu</string>
      <string name="hang_up_alert_dialog_title">O predvajanju ko je zaslon izključen</string>
+     <string name="head_toast_connecting">Povezovanje…</string>
+     <string name="head_toast_fail">"Ne morem se povezati"</string>
+     <string name="head_toast_success">Povezano</string>
      <string name="headset_circulate_connect_success">povezano</string>
      <string name="headset_content_description">Slušalke povezane s to napravo. Dvakrat pritisnite za aktiviranje. Pritisnite z dvema prstoma in povlecite za prenos predvajanja.</string>
      <string name="help_page_text_01">Pomoč</string>
@@ -1066,6 +1076,7 @@ Pred predvajanjem iger se prepričajte, da ste vklopili Game Turbo."</string>
      <string name="sever_stream_control_btn_preview">Predogled</string>
      <string name="sever_stream_control_btn_resume">Nadaljuj</string>
      <string name="sever_stream_push_state_idle">Predogled je v tej napravi izklopljen</string>
+     <string name="sever_stream_push_state_idle2">Predogled je izklopljen</string>
      <string name="sever_stream_push_state_pause">Premor</string>
      <string name="sever_stream_push_state_pushing">Deljenje vira kamere…</string>
      <string name="share_desktop_with_car">Delite začetni zaslon z avtomobilom</string>

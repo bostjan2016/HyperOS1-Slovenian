@@ -98,7 +98,7 @@
      <string name="call_progress_info_user_call_rejected">Številka trenutno ni na voljo</string>
      <string name="call_record_button_label">Snemanje %s</string>
      <string name="call_record_wait_label">Čakam</string>
-     <string name="call_recording_deny_permission_msg">"Zavrnili ste dovoljenje  za snemanje, ne morem snemati."</string>
+     <string name="call_recording_deny_permission_msg">"Ne morem posneti. Najprej podelite dovoljenja v nastavitvah."</string>
      <string name="call_recording_error_low_storage">Ni dovolj prostora na SD kartici</string>
      <string name="call_recording_error_privacy">Snemanje ni mogoče medtem ko ste v načinu Gost</string>
      <string name="call_recording_error_sd_access">Dostop do SD kartice ni mogoč</string>
@@ -495,6 +495,7 @@ Tapnite \"%1$s\" in izberite \"%2$s\"."</string>
      <string name="saf_permission_title">Potrebna so dovoljenja</string>
      <string name="saf_permission_use_this_folder">Uporabi to mapo</string>
      <string name="satellite_call_failed">Signal prekinjen. Poskusite ponovno.</string>
+     <string name="satellite_diable_earpiece">"Slušalke ni mogoče uporabiti pri satelitskih klicih"</string>
      <string name="satellite_dialog_button">Plavajoče okno</string>
      <string name="satellite_dialog_cancel">Prekliči</string>
      <string name="satellite_guide_down">"Nagnite napravo navzdol
@@ -513,6 +514,7 @@ da žogo položite v modro območje"</string>
      <string name="satellite_state">"Ne premikajte naprave"</string>
      <string name="satellite_state_connected">"Povezano s satelitom. Ne premikajte naprave."</string>
      <string name="satellite_state_connected_floating">"Ne premikajte naprave"</string>
+     <string name="satellite_state_connecting">Povezovanje… (%ds)</string>
      <string name="saturday">Sobota</string>
      <string name="saturday_short">Sob</string>
      <string name="saturday_shortest">S</string>

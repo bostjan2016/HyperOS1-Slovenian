@@ -1006,11 +1006,24 @@
         <item>Omrežje je počasno zaradi slabega signala</item>
         <item>Premeščanje…</item>
      </string-array>
+     <string-array name="nfc_notification_mode_summaries">
+        <item>Kartice za plačevanje, dostop in pametni dom</item>
+        <item>Bluetooth povezovanje, brezžična povezava in pametne domače kartice</item>
+     </string-array>
+     <string-array name="nfc_notification_mode_titles">
+        <item>Vse kartice</item>
+        <item>Kartice, ki jih sistem prepozna</item>
+     </string-array>
      <string-array name="nfc_payment_favor">
         <item>Zmeraj</item>
         <item>Razen ko je odprta druga plačilna aplikacija</item>
      </string-array>
      <string-array name="notch_battery_indicator_style_entries">
+        <item>Grafika</item>
+        <item>Odstotek (v ikoni)</item>
+        <item>Odstotek (zraven ikone)</item>
+     </string-array>
+     <string-array name="notch_battery_indicator_style_summaries">
         <item>Grafika</item>
         <item>Odstotek (v ikoni)</item>
         <item>Odstotek (zraven ikone)</item>

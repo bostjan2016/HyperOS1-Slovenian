@@ -127,6 +127,7 @@
      <string name="disagreement_mi_account_abnormal">"Če se ne strinjate s podelitvijo teh dovoljenj, ne boste mogli uporabljati storitev Mi račun. Storitve Mi račun lahko kadar koli vklopite ali izklopite v Nastavitve > Mi račun."</string>
      <string name="disagreement_service_not_working_properly">"Če se ne strinjate s podelitvijo teh dovoljenj, te aplikacije ne boste mogli uporabljati."</string>
      <string name="disagreement_service_not_working_properly_settings">"Če se ne strinjate z odobritvijo teh dovoljenj, ta storitev ne bo mogla normalno delovati."</string>
+     <string name="disagreement_service_not_working_properly_with_media_storage">"Če teh dovoljenj ne želite odobriti, storitev ne bo mogla normalno delovati."</string>
      <string name="disagreement_terminate_bluetooth">"Če teh dovoljenj ne želite odobriti, ne boste mogli uporabljati Bluetooth. Bluetooth lahko vklopite in izklopite ter dodate naprave v nastavitvah."</string>
      <string name="disagreement_terminate_miuidaemon">"Če se ne strinjate s temi dovoljenji ali če delite in naložite svoje osebne podatke, te storitve ne boste mogli uporabljati. V takšnih primerih se lahko odločite, da ne boste uporabljali te storitve, ali omejite dovoljenja v nastavitvah. Upoštevajte, da bomo dovoljenja uporabili šele, ko začnete prenašati podatke iz naprave, ko je njen zaslon poškodovan."</string>
      <string name="disagreement_terminate_service">"Če se ne strinjate z dovoljenji ali deljenjem in pošiljanjem vaših osebnih podatkov, ne boste mogli uporabljati te storitve. Lahko jo odstranite, se odjavite ali ji omejite dovoljenja v Nastavitvah."</string>
@@ -251,6 +252,68 @@ Za normalno delovanje se morajo te storitve povezati s spletom in zahtevajo nasl
 \u0009\u0009Za prenos predvajanja zvoka na povezane med pretakanjem
 Če se ne strinjate z dodelitvijo takih dovoljenj, ne boste mogli uporabljati Spletne komunikacijske storitve Xiaomi.
 Storitve se lahko spreminjajo. Nekatere od zgornjih storitev morda niso na voljo v vseh modelih naprav ali za vse različice sistema. Za preverjanje združljivosti obiščite spletno mesto MIUI (www.miui.com)."</string>
+     <string name="interconnection_service_summary_china">"Storitve medsebojne povezljivosti Xiaomi omogočajo vašim napravam brezžično interakcijo med seboj. Te storitve vključujejo Mi Smart Play, predvajanje, predajo aplikacij, domači zaslon+, skupno odložišče, zajemanje slik med napravami, omrežno pomoč, skupne tipkovnice in miške, skupno kamero in Mi Smart Hub. Za normalno delovanje storitve Storitve medsebojne povezljivosti Xiaomi se morate povezati s spletom in dati naslednja dovoljenja:
+\u0009\u0009Mi Smart Play in predvajanje:
+\u0009\u0009Vklop ali izklop Bluetootha
+\u0009\u0009Za odkrivanje bližnjih naprav za povezavo prek Bluetootha
+\u0009\u0009Vklopi ali izklop WiFi
+\u0009\u0009Za odkrivanje naprav v bližini in prenos stvari prek WiFi
+\u0009\u0009Prenos stvari v druge naprave
+\u0009\u0009Za vzpostavitev Bluetooth povezave med napravami in prenos stvari
+\u0009\u0009Dostop do informacij o lokaciji
+\u0009\u0009Za dostop do informacij o napravah v bližini
+\u0009\u0009Snemanje notranjih zvokov naprave
+\u0009\u0009Za prenos in predvajanje zvoka med napravami med predvajanjem in zrcaljenjem
+\u0009\u0009Dostop do fotografij, videoposnetkov in zvoka, shranjenih v napravi
+\u0009\u0009Za pošiljanje in prejemanje prenesenih vsebin
+\u0009\u0009Dostop do naslova MAC naprave
+\u0009\u0009Za prepoznavanje povezanih naprav
+\u0009\u0009Dostop do vsebine zaslona
+\u0009\u0009Za dostop do vsebine zaslona med snemanjem ali predvajanjem, vključno z občutljivimi informacijami, kot so zvok, gesla, gesla za plačila, fotografije, sporočila itd.
+\u0009\u0009Predaja aplikacije in Začetni zaslon+:
+\u0009\u0009Vklop ali izklop Bluetootha
+\u0009\u0009Za odkrivanje bližnjih naprav prek Bluetootha
+\u0009\u0009Vklop ali izklop WiFi
+\u0009\u0009Za odkrivanje naprav v bližini in prenos stvari prek WiFi
+\u0009\u0009Dostop do naslova MAC naprave
+\u0009\u0009Za prepoznavanje povezanih naprav
+\u0009\u0009Dostop do fotografij, videoposnetkov in zvoka, shranjenih v napravi
+\u0009\u0009Za pošiljanje in prejemanje prenesenih vsebin
+\u0009\u0009Prenos stvari v druge naprave
+\u0009\u0009Za vzpostavitev Bluetooth povezave med napravami in prenos stvari
+\u0009\u0009Snemanje notranjih zvokov naprave
+\u0009\u0009Za prenos in predvajanje zvoka med napravami med predvajanjem in zrcaljenjem
+\u0009\u0009Dostop do vsebine zaslona
+\u0009\u0009Za dostop do vsebine zaslona med snemanjem ali predvajanjem, vključno z občutljivimi informacijami, kot so zvok, gesla, gesla za plačila, fotografije, sporočila itd.
+\u0009\u0009Skupno odložišče in zajem slik med napravami:
+\u0009\u0009Vklop ali izklop Bluetootha
+\u0009\u0009Za odkrivanje bližnjih naprav prek Bluetootha
+\u0009\u0009Vklop ali izklop WiFi
+\u0009\u0009Za odkrivanje naprav v bližini in prenos stvari prek WiFi
+\u0009\u0009Dostop do fotografij, videoposnetkov in zvoka, shranjenih v napravi
+\u0009\u0009Za pošiljanje in prejemanje prenesenih vsebin
+\u0009\u0009Dostop do odložišča
+\u0009\u0009Za omogočanje dostopa aplikacij do kopirane vsebine
+\u0009\u0009Omrežna pomoč, skupne tipkovnice in miške ter skupna kamera:
+\u0009\u0009Vklop ali izklop Bluetootha
+\u0009\u0009Za odkrivanje bližnjih naprav prek Bluetootha
+\u0009\u0009Vklop ali izklop WiFi
+\u0009\u0009Za odkrivanje naprav v bližini in prenos stvari prek WiFi
+\u0009\u0009Dostop do fotografij, videoposnetkov in zvoka, shranjenih v napravi
+\u0009\u0009Za pošiljanje in prejemanje prenesenih vsebin
+\u0009\u0009Dostop do kamere
+\u0009\u0009Za fotografiranje in snemanje videa
+\u0009\u0009Mi Smart Hub:
+\u0009\u0009Vklop ali izklop Bluetootha
+\u0009\u0009Za odkrivanje bližnjih naprav prek Bluetootha
+\u0009\u0009Vklop ali izklop WiFi
+\u0009\u0009Za odkrivanje naprav v bližini in prenos stvari prek WiFi
+\u0009\u0009Snemanje notranjih zvokov naprave
+\u0009\u0009Za prenos in predvajanje zvoka med napravami med predvajanjem in zrcaljenjem
+\u0009\u0009Dostop do fotografij, videoposnetkov in zvoka, shranjenih v napravi
+\u0009\u0009Za pošiljanje in prejemanje prenesenih vsebin
+Če se ne strinjate z dodelitvijo teh dovoljenj, teh storitev ne boste mogli uporabljati.
+Razpoložljive storitve medsebojnega povezovanja se lahko razlikujejo glede na različico vašega sistema in model naprave. Poiščite več informacij na %s."</string>
      <string name="interconnection_service_title">Spletne komunikacijske storitve Xiaomi</string>
      <string name="item_contents_wwarning">"Če napravo izgubite drugim ljudem ne boste mogli preprečiti, da bi jo uporabljali in dostopali do vaših podatkov, če ne nastavite zaklepanja zaslona. Vseeno preskočim?"</string>
      <string name="item_facerecognition">Odklep z obrazom</string>
@@ -271,6 +334,8 @@ Storitve se lahko spreminjajo. Nekatere od zgornjih storitev morda niso na voljo
      <string name="location_introduction_qcom">Lokacijske storitve uporabljajo določanje položaja za zagotavljanje storitev, specifičnih za lokacijo. Ko vaša naprava uporablja lokacijske storitve, se modul QCC poveže z omrežjem, da pospeši postopek določanja položaja.</string>
      <string name="location_location">Reševalne agencije lahko na zahtevo dobijo vašo trenutno lokacijo</string>
      <string name="lockscreen_introduction">Wallpaper Carousel vam omogoča vsakodnevno dobivanje novih slik ozadja za zakl. zaslon.</string>
+     <string name="media_storage_devices">Naprave za shranjevanje medijev</string>
+     <string name="media_storage_introduction">Ta storitev omogoča aplikacijam dostop do fotografij, videoposnetkov, zvoka in datotek ter njihovo shranjevanje.</string>
      <string name="member_exclusive_medal">Članska ekskluzivna medalja</string>
      <string name="membership_rights_tip">Prijavite se v svoj račun Xiaomi, da pridobite ekskluzivne pravice</string>
      <string name="message_introduction">S to aplikacijo lahko pošiljate in prejemate SMS.</string>
@@ -465,6 +530,7 @@ To storitev lahko nadzorujete v Nastavitve > Gesla &amp; varnost > Zasebnost > S
      <string name="permission_login_introduction">Za prijavo in urejanje sistemskih računov</string>
      <string name="permission_make_a_call">Klicanje</string>
      <string name="permission_make_a_call_fast_application_summary">Za omogočanje hitrih aplikacij za klicanje;</string>
+     <string name="permission_media_storage_summary">Za preverjanje, kako aplikacije med dostopom do datotek uporabljajo dovoljenja, povezana z zasebnostjo</string>
      <string name="permission_message_introduction">Za pošiljanje sporočil blokiranim stikom</string>
      <string name="permission_number">Dostop do telefonske številke</string>
      <string name="permission_number_introduction">Za vzpostavitev Bluetooth povezave z avtomobilskimi sistemi in Bluetooth slušalkami</string>
