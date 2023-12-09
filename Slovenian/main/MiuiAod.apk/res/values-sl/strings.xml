@@ -76,6 +76,7 @@ dd.MM"</string>
      <string name="aod_mode_time_summary">Razpored časa za vklop/izklop načina zmeraj vključeno</string>
      <string name="aod_mode_time_title">Razpored</string>
      <string name="aod_mode_title">Vedno na zaslonu</string>
+     <string name="aod_notification_use_app_icon">Uporabite ikone aplikacij za obvestila</string>
      <string name="aod_show_date_and_time">Pokaži datum in čas</string>
      <string name="aod_show_style_title">Pokaži stvari</string>
      <string name="aod_signature_12">hh:mm aa</string>
@@ -276,6 +277,7 @@ dd.MM"</string>
      <string name="kg_dialog_fashion_gallery_button_positive">Prekliči</string>
      <string name="kg_dialog_fashion_gallery_message">"Trenutno uporabljate Wallpaper Carousel. Če uporabite dinamično ozadje, se Wallpaper Carousel izklopi. Vseeno uporabim?"</string>
      <string name="kg_dialog_fashion_gallery_title">Pozor</string>
+     <string name="kg_doodle_primary_label">Risarija</string>
      <string name="kg_doodle_secondary_disable_tip">Vklopite učinek globine</string>
      <string name="kg_doodle_secondary_label">Ozadje</string>
      <string name="kg_edit_cancel_dialog_content">Zavržem spremembe?</string>

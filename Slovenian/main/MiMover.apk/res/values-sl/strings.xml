@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+     <string name="PRD_summary_1">Če prenesete podatke iz teh aplikacij iz stare naprave v novo, bodo podatki v novi napravi (vključno z zgodovino klepeta) prepisani.</string>
+     <string name="PRD_summary_4">Če med postopkom prenosa izklopite WiFi ali zamenjate omrežje WiFi, lahko postopek prenosa ne uspe.</string>
+     <string name="PRD_summary_4_china">Če med postopkom prenosa izklopite WiFi ali zamenjate omrežje WiFi, lahko postopek prenosa ne uspe.</string>
+     <string name="PRD_summary_5">Visokohitrostni prenosi lahko povzročijo, da se vaša naprava segreje bolj kot običajno. Poskrbite da se bo vaša naprava ohladila, ko bo prenos končan.</string>
+     <string name="PRD_title_1">1. Naslednje aplikacije že imajo podatke v vaši novi napravi:</string>
+     <string name="PRD_title_4">2. Med postopkom prenosa delajte previdno</string>
+     <string name="PRD_title_5">3. Vaša naprava se lahko med postopkom prenosa segreje</string>
      <string name="abc_action_bar_home_description">Krmarjenje na začetek</string>
      <string name="abc_action_bar_up_description">Pomik navzgor</string>
      <string name="abc_action_menu_overflow_description">Več možnosti</string>
@@ -738,6 +745,7 @@ Odprite WeChat in pojdite na Jaz > Nastavitve > Splošno > Var. kopija &amp; pre
 - Shramba"</string>
      <string name="request_all_permission_title">Zahtevano je dovoljenje</string>
      <string name="request_permission">Dovoli</string>
+     <string name="require_permission">Tapnite, da dovolite prenos stvari</string>
      <string name="restore_data_to_device_content">"Vaše stvari so sinhronizirane z Mi Cloudom.
 Prijavite se v svoj Mi Račun da jih povrnete."</string>
      <string name="restore_data_to_device_title">Vrni stvari v to napravo</string>
@@ -769,7 +777,9 @@ Sprostite najmanj %s."</string>
      <string name="scanner_send_dialog_btn">Razumem</string>
      <string name="scanner_send_dialog_message">Med prenosom ne izklopite WiFi ali preklapljajte med omrežji.</string>
      <string name="scanner_size_selected">Izbrano: %s</string>
+     <string name="scanner_subtitle_prd">Preden preverite vsako stvar in začnete postopek prenosa, natančno preberite naslednje informacije.</string>
      <string name="scanner_time_remained">Predvideni čas prenosa: %s</string>
+     <string name="scanner_title_prd">Pomembna informacija</string>
      <string name="scanner_title_tip">Izberite stvari za prenos</string>
      <string name="scanner_wechat_overwrite_hit">Zaradi omejitev aplikacij tretjih oseb, zgodovine pogovorov in drugi podatki aplikacij na novi napravi bodo zamenjani s tistimi iz stare naprave po tem ko bo prenos končan.</string>
      <string name="search_action_mode_cancel">Prekliči</string>
@@ -814,6 +824,7 @@ Sprostite najmanj %s."</string>
      <string name="set_new_device_title">Nastavitev nove naprave…</string>
      <string name="set_new_device_wlan">Nastavite WiFi</string>
      <string name="settings_phone">Nastavitve telefona</string>
+     <string name="settings_photo">Nastavitve galerije</string>
      <string name="settings_powerkeeper">Podatki števca korakov</string>
      <string name="settings_sms">Nastavitve sporočanja</string>
      <string name="settings_system">Nastavitve sistema</string>

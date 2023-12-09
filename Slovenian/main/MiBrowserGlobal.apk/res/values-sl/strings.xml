@@ -302,6 +302,9 @@ Preklopite za ustavitev sinhronizacije."</string>
      <string name="browserFrameFileErrorLabel">Napaka datoteke</string>
      <string name="browserFrameFormResubmitMessage">"Stran, ki jo poskušate odpreti vsebuje podatke, ki so že bili naloženi. Če podatke pošljete ponovno se vsako dejanje (kot je iskanje in kupovanje) ponovi."</string>
      <string name="browserFrameNetworkErrorLabel">Napaka povezave</string>
+     <string name="browser_slide_video_history">Nedavno</string>
+     <string name="browser_slide_video_like">Všeč mi je</string>
+     <string name="browser_slide_video_my">Profil</string>
      <string name="browser_wallpaper">Ozadja</string>
      <string name="browser_wallpaper_activity">Promocije</string>
      <string name="browser_wallpaper_application">Uporabi</string>
@@ -1231,6 +1234,7 @@ Pošljite to kodo nadzorniku."</string>
      <string name="list_menu_rename_result_repeat">Datoteka s tem imenom že obstaja</string>
      <string name="load_end">"To je vse za zdaj"</string>
      <string name="load_failed">"Podatkov ni bilo mogoče naložiti. Poskusite ponovno."</string>
+     <string name="load_failure">"Ne morem naložiti"</string>
      <string name="load_more">Pokaži več</string>
      <string name="loading">Samo trenutek…</string>
      <string name="loading_tips">Povlecite navzdol za osvežitev</string>
@@ -2938,6 +2942,7 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
      <string name="video_feedback_description">Podatke, ki jih vnesete zgoraj, zbiramo in uporabljamo za izboljšanje vaše uporabniške izkušnje. Če želite izvedeti več o tem, kako zbiramo in obdelujemo vaše osebne podatke, glejte Pravila o zasebnosti.</string>
      <string name="video_feedback_description_title">Ti podatki bodo uporabljeni samo za priporočila vsebine</string>
      <string name="video_feedback_not_sumbit_toast">Pred oddajo izberite odgovor</string>
+     <string name="video_feedback_thanks">Hvala za vaše povratne informacije</string>
      <string name="video_float_window_text">Pop-up videoposnetek</string>
      <string name="video_fragment_name_collections">Priljubljeno</string>
      <string name="video_fragment_name_download">Izvenmrežni video</string>
@@ -3029,6 +3034,7 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
      <string name="web_ad_clear_dialog_confirm">Izbriši</string>
      <string name="web_ad_clear_dialog_msg">Izbrišem oglasne oznake iz \"%s\"?</string>
      <string name="web_ad_clear_dialog_title">Izbriši oglasne oznake</string>
+     <string name="web_app_center">Mini programi</string>
      <string name="web_enhance_dialog_cancel">Prekliči</string>
      <string name="web_enhance_dialog_confirm">V redu</string>
      <string name="web_enhance_dialog_msg">Začnem blokirati oglase na %s zdaj?</string>
