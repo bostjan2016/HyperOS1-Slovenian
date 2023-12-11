@@ -66,18 +66,6 @@
         <item quantity="other">"Svoje naprave niste optimizirali že %d dni. Optimiziram zdaj?"</item>
         <item quantity="one">"Svoje naprave niste optimizirali že %d dan. Optimiziram zdaj?"</item>
      </plurals>
-     <plurals name="bonus_amount">
-        <item quantity="other">%d bonusov</item>
-        <item quantity="one">%d bonus</item>
-     </plurals>
-     <plurals name="bookroom__clear_invalid_book_view__found">
-        <item quantity="other">Našel &lt;font color="#ed6c00">%d&lt;/font> zastarelih stvari</item>
-        <item quantity="one">Našel &lt;font color="#ed6c00">%d&lt;/font> zastarelo stvar</item>
-     </plurals>
-     <plurals name="coin_amount">
-        <item quantity="other">%d kovancev</item>
-        <item quantity="one">%d kovanec</item>
-     </plurals>
      <plurals name="count_likes">
         <item quantity="other">%s všečkov</item>
         <item quantity="one">%s všeček</item>
@@ -106,10 +94,6 @@
         <item quantity="other">%1$d stvari</item>
         <item quantity="one">%1$d stvar</item>
      </plurals>
-     <plurals name="file_num">
-        <item quantity="other">%d datotek</item>
-        <item quantity="one">%d datoteka</item>
-     </plurals>
      <plurals name="find_on_page_matches">
         <item quantity="other">%d ujemanj</item>
         <item quantity="one">%d ujemanje</item>
@@ -117,18 +101,6 @@
      <plurals name="found_new_files">
         <item quantity="other">Najdeno %1$d novih datotek</item>
         <item quantity="one">Najdena %1$d nova datoteka</item>
-     </plurals>
-     <plurals name="general__d_day_unit">
-        <item quantity="other">%d dni</item>
-        <item quantity="one">%d dan</item>
-     </plurals>
-     <plurals name="general__d_hour_unit">
-        <item quantity="other">%d ur</item>
-        <item quantity="one">%d ura</item>
-     </plurals>
-     <plurals name="general__d_minute_unit">
-        <item quantity="other">%d min</item>
-        <item quantity="one">%d min</item>
      </plurals>
      <plurals name="half_hour_ago">
         <item quantity="other">Pred pol ure</item>
@@ -144,10 +116,6 @@
      <plurals name="hours_ago">
         <item quantity="other">Pred %1$d ur</item>
         <item quantity="one">Pred %1$d uro</item>
-     </plurals>
-     <plurals name="import_confirm">
-        <item quantity="other">Uvozi %d datotek</item>
-        <item quantity="one">Uvozi %d datoteko</item>
      </plurals>
      <plurals name="in_a_hour">
         <item quantity="other">Čez 1 uro</item>
@@ -233,25 +201,9 @@
         <item quantity="other">Blokirano %d oglasov</item>
         <item quantity="one">Blokiran %d oglas</item>
      </plurals>
-     <plurals name="privacy_dialog_next_plurals">
-        <item quantity="other">Naprej (%1$d sek)</item>
-        <item quantity="one">Naprej (%1$d sek)</item>
-     </plurals>
-     <plurals name="privacy_dialog_revoke_plurals">
-        <item quantity="other">Dvig (%1$d sek)</item>
-        <item quantity="one">Dvig (%1$d sek)</item>
-     </plurals>
      <plurals name="recommend_top_guide">
         <item quantity="other">%d novih priporočenih videoposnetkov</item>
         <item quantity="one">%d nov priporočen videoposnetek</item>
-     </plurals>
-     <plurals name="scanning_notyfy">
-        <item quantity="other">Najdeno %d datotek…</item>
-        <item quantity="one">Najdena %d datoteka…</item>
-     </plurals>
-     <plurals name="scanresult">
-        <item quantity="other">Najdeno %d datotek</item>
-        <item quantity="one">Najdena %d datoteka</item>
      </plurals>
      <plurals name="search_trending_views">
         <item quantity="other">%s iskalnih nizov</item>
@@ -288,30 +240,6 @@
      <plurals name="video_collection_reminder_view">
         <item quantity="other">Že dolgo časa niste gledali %d priljubljenih videov.</item>
         <item quantity="one">Že dolgo časa niste gledali %d priljubljeni video.</item>
-     </plurals>
-     <plurals name="video_download_clear_info">
-        <item quantity="other">Izbrisano %1$d videoposnetkov.</item>
-        <item quantity="one">Izbrisan %1$d videoposnetek.</item>
-     </plurals>
-     <plurals name="video_download_clear_prompt">
-        <item quantity="other">Želite izbrisati %1$d videoponetke?</item>
-        <item quantity="one">Želite izbrisati %1$d videoponetek?</item>
-     </plurals>
-     <plurals name="video_history_clear_info">
-        <item quantity="other">%1$d stvari izbrisano iz zgodovine.</item>
-        <item quantity="one">%1$d stvar izbrisana iz zgodovine.</item>
-     </plurals>
-     <plurals name="video_history_clear_prompt">
-        <item quantity="other">Želite izbrisati %1$d stvari iz zgodovine?</item>
-        <item quantity="one">Izbrišem %1$d stvar iz zgodovine?</item>
-     </plurals>
-     <plurals name="video_push_multi_message">
-        <item quantity="other">%1$d posodobitev je na voljo.</item>
-        <item quantity="one">%1$d posodobitev je na voljo.</item>
-     </plurals>
-     <plurals name="video_subtitle_last_message">
-        <item quantity="other">Še %d minut</item>
-        <item quantity="one">Še %d minuta</item>
      </plurals>
      <plurals name="video_views">
         <item quantity="other">%s ogledov</item>
@@ -373,9 +301,5 @@
      <plurals name="web_permission_protect_subtitle_time">
         <item quantity="other">%s krat</item>
         <item quantity="one">%s krat</item>
-     </plurals>
-     <plurals name="welcome_skip_count_down">
-        <item quantity="other">%d sek</item>
-        <item quantity="one">%d sek</item>
      </plurals>
 </resources>

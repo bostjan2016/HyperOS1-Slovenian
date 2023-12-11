@@ -107,12 +107,6 @@ Prepričajte se, da je vdelana programska oprema zvočnika posodobljena."</strin
      <string name="go_download">Prenos</string>
      <string name="huanji_connecting_message">Zahteva Mi Mover vam je bila poslana iz druge naprave. Za nadaljevanje prenesite in namestite Mi Mover.</string>
      <string name="huanji_connecting_title">Mi Mover zahteva</string>
-     <string name="inputmethod_dialog_NegativeButtonText">Prekliči</string>
-     <string name="inputmethod_dialog_PositiveButtonText">V redu</string>
-     <string name="inputmethod_dialog_title">Vnesite besedilo</string>
-     <string name="inputmethod_focusStatus_text">Naprava je izgubila polje za vnos</string>
-     <string name="inputmethod_notification_content_text">Vnesite besedilo na Xiaomi TV s to napravo</string>
-     <string name="inputmethod_text_warning">Besedilo, ki ste ga vnesli je predolgo</string>
      <string name="midnight">Noč</string>
      <string name="miui_transfer_history_title">Bluetooth prenosi</string>
      <string name="miui_transfer_inbound_title">Dohodni</string>
@@ -221,8 +215,6 @@ Prepričajte se, da je vdelana programska oprema zvočnika posodobljena."</strin
      <string name="thursday_short">Čet</string>
      <string name="thursday_shortest">Č</string>
      <string name="time_picker_dialog_title">Nastavi čas</string>
-     <string name="time_picker_label_hour">H</string>
-     <string name="time_picker_label_minute">M</string>
      <string name="title_settings_dialog">Potrebna so dovoljenja</string>
      <string name="today">Danes</string>
      <string name="tomorrow">Jutri</string>

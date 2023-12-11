@@ -4,7 +4,6 @@
      <string name="abc_action_bar_up_description">Gor</string>
      <string name="abc_action_menu_overflow_description">Več</string>
      <string name="abc_action_mode_done">Končano</string>
-     <string name="abc_action_mode_select_all">Izberi vse</string>
      <string name="abc_activity_chooser_view_see_all">Pokaži vse</string>
      <string name="abc_activitychooserview_choose_application">Izbira aplikacije</string>
      <string name="abc_capital_off">IZKLOP</string>
@@ -33,7 +32,6 @@
      <string name="account_bind_secure_email_title">Dodajte obnovitveni elektronski naslov</string>
      <string name="account_bind_secure_phone_title">Dodajte obnovitveno telefonsko številko</string>
      <string name="account_crop_user_avatar">Obreži sliko</string>
-     <string name="account_empty_nickname">vzdevek ne sme biti prazen</string>
      <string name="account_empty_user_name">Vnesite uporabniško ime za vaš Mi Račun</string>
      <string name="account_error_all_space_user_name">"Uporabniško ime ne more vsebovati samo presledek"</string>
      <string name="account_error_invalid_user_name">"Ime ne sme vsebovati &lt;, >, ali /"</string>
@@ -43,7 +41,6 @@
      <string name="account_error_user_name">Vzdevek je neveljaven. Poskusite drugega.</string>
      <string name="account_invalid_user_avatar">Ta fotografija je neveljavna. Poskusite drugo.</string>
      <string name="account_limit_update_birthday">Ni mogoče posodobiti datuma rojstnega dne</string>
-     <string name="account_nickname_too_long">vzdevek ne sme presegati 20 znakov</string>
      <string name="account_no_set">Nič</string>
      <string name="account_none_bind_info">Nič</string>
      <string name="account_none_user_name">Nič</string>
@@ -92,8 +89,6 @@
      <string name="action_menu_text_share">Deli</string>
      <string name="action_menu_text_snapshot">Shrani stran</string>
      <string name="action_menu_text_speed_test">Preveri omrežje</string>
-     <string name="action_menu_text_video">Video</string>
-     <string name="action_menu_text_video_collection">Priljubljeni videoposnetki</string>
      <string name="action_menu_text_video_download">Prenesi videoposnetke</string>
      <string name="action_menu_text_web_mode">Namizni način</string>
      <string name="action_menu_toolbox">Orodja</string>
@@ -162,7 +157,6 @@
      <string name="app_category_tag_hot">Popularno</string>
      <string name="app_id">Firebase App ID(Klikni za izvoz)</string>
      <string name="app_library_category_entertainment">Zabava</string>
-     <string name="app_library_category_financial_management">Finance</string>
      <string name="app_library_category_games">Igre</string>
      <string name="app_library_category_health_and_exercise">Zdravje</string>
      <string name="app_library_category_individualization">Personalizacija</string>
@@ -179,13 +173,10 @@
      <string name="app_library_category_work_and_efficiency">Produktivnost</string>
      <string name="app_library_title">Aplikacije</string>
      <string name="app_name">Mi brskalnik</string>
-     <string name="app_name_bluetooth">Bluetooth</string>
      <string name="app_name_camera">Kamera</string>
      <string name="app_name_downloadedrom">Paketi</string>
      <string name="app_name_downloads">Prenosi</string>
-     <string name="app_name_market">App Store</string>
-     <string name="app_name_midrop">ShareMe</string>
-     <string name="app_name_miui">MIUI</string>
+     <string name="app_name_miui">Sistemski viri</string>
      <string name="app_name_miuimusic">Glasba</string>
      <string name="app_name_miuiringtone">Melodija zvonjenja</string>
      <string name="app_name_miuiwallpaper">Ozadja</string>
@@ -194,7 +185,6 @@
      <string name="app_uninstall_description_content">"Brskalnik je sistemska aplikacija. Ko odstranite aplikacijo, ne boste mogli več uporabljati storitev iskanja in brskanja po spletu."</string>
      <string name="app_uninstall_description_title">Odstranim Brskalnik?</string>
      <string name="app_update_install">Posodobitev je pripravljena za namestitev.</string>
-     <string name="appbar_scrolling_view_behavior">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
      <string name="application">Aplikacije</string>
      <string name="application_name">Brskalnik</string>
      <string name="application_upgrade">Posodobitve</string>
@@ -210,14 +200,11 @@
      <string name="auth_fail_warning">Seja je potekla. Prijavite se ponovno.</string>
      <string name="autoSwithcingSearchEngineTips">Zamenjano na najpogosteje uporabljen iskalnik</string>
      <string name="auto_play_permission_name">Samodejno predvajanje</string>
-     <string name="auto_unlock">Samodejno odkleni poglavja</string>
      <string name="autologin_bar_error">Ne morem se prijaviti</string>
      <string name="autologin_bar_hide_text">Skrij</string>
      <string name="autologin_bar_login_text">Vpišite se</string>
      <string name="autologin_bar_text">Vpišite se kot</string>
-     <string name="avatar">Profilna slika</string>
      <string name="back">Nazaj</string>
-     <string name="back_button_label">Nazaj</string>
      <string name="back_description">Nazaj</string>
      <string name="back_dialog_antivirus_primary_btn">Išči</string>
      <string name="back_dialog_health_check_primary_btn">Optimiziraj</string>
@@ -229,10 +216,6 @@
      <string name="back_home">Domača stran</string>
      <string name="batch_download">Prenesi</string>
      <string name="batch_download_tip">Kaže da se več stvari prenaša ob istem času. Želite ustaviti te prenose?</string>
-     <string name="billing_unavailable_message">"- Preverite, ali ste prijavljeni v Trgovino Play.
-- Posodobite Google Services Framework na najnovejšo različico.
-- Preverite, ali Google Pay deluje v vaši regiji."</string>
-     <string name="billing_unavailable_title">"Plačila ni bilo mogoče dokončati. Poskusite naslednje:"</string>
      <string name="bind_sign_in_title">Dodaj Mi Račun</string>
      <string name="block">Blokiraj</string>
      <string name="block_ads_choice_block">Blokiraj</string>
@@ -263,7 +246,6 @@ Preklopite za ustavitev sinhronizacije."</string>
      <string name="bookmark_sync_tip_not_logined">Prijavite se za sinhronizacijo zaznamkov in zgodovine brskanja</string>
      <string name="bookmark_title">Ime zaznamka</string>
      <string name="bookmark_title_lable">Naslov</string>
-     <string name="bookmark_url">URL http://</string>
      <string name="bookmark_url_already_exisit">"Povezavo ste že shranili med zaznamke"</string>
      <string name="bookmark_url_can_not_null">Vpišite povezavo</string>
      <string name="bookmark_url_lable">Povezava</string>
@@ -280,22 +262,17 @@ Preklopite za ustavitev sinhronizacije."</string>
      <string name="branch_app_title">Išči aplikacije</string>
      <string name="branch_apps">Aplikacije</string>
      <string name="branch_contacts">Stiki</string>
-     <string name="branch_function_search_for_more">Izboljšano iskanje vam omogoča iskanje elementov v nastavitvah, stikih, sporočilih itd.</string>
      <string name="branch_give_relevant_permissions">Dodelite Mi Browser ustrezna dovoljenja v nastavitvah</string>
      <string name="branch_grant_permission">Potrebna so dovoljenja</string>
      <string name="branch_local_search_settings">Nastavitve lokalnega iskanja</string>
-     <string name="branch_new_function">Nova storitev</string>
      <string name="branch_search_bar_tips">Išči aplikacije in igre</string>
      <string name="branch_search_guide_pop_search">Išči</string>
-     <string name="branch_search_guide_privacy">"To storitev zagotavlja Branch Metrics Inc. Z njimi bomo delili vašo lokacijo, iskanja in Google Ads ID. Preberite in se strinjate z njihovimi "<font color="#B3000000"><a href="http://url1">Pravila in pogoji</a></font> in <font color="#B3000000"><a href="http://url2">Pravila o zasebnosti</a></font> preden nadaljujete.</string>
      <string name="branch_search_in_browser">Išči \"%1$s\" v brskalniku</string>
      <string name="branch_setting">Nastavitve</string>
      <string name="branch_short_message">Sporočila</string>
      <string name="branch_shortcuts">Bližnjice</string>
      <string name="branch_show_more">Več</string>
-     <string name="branch_terms_condition">Pogoji in pravila</string>
      <string name="branch_trending_google_news">Google Novice</string>
-     <string name="branch_trending_youtube_news">YouTube</string>
      <string name="branch_viewpage_title_app_recommend">Priporočeno</string>
      <string name="branch_viewpage_title_local">Nameščeno</string>
      <string name="browser">Brskalnik</string>
@@ -322,7 +299,6 @@ Preklopite za ustavitev sinhronizacije."</string>
      <string name="browser_wallpaper_toast">Če želite zamenjati ozadja, izklopite stikalo Promocije</string>
      <string name="btn_agree">Strinjam se</string>
      <string name="btn_cancel">Prekliči</string>
-     <string name="btn_confirm">Razumem</string>
      <string name="camera_permission_name">Uporabi kamero</string>
      <string name="can_not_send_with_too_many">"Naenkrat ni mogoče poslati toliko stvari"</string>
      <string name="cancel">Prekliči</string>
@@ -334,19 +310,16 @@ Preklopite za ustavitev sinhronizacije."</string>
      <string name="card_game_title_1">Dnevna priporočila</string>
      <string name="card_game_title_2">Priljubljeno ta teden</string>
      <string name="card_game_title_3">Mint izbire</string>
-     <string name="cast_video">Pretočno predvajaj videoposnetek</string>
      <string name="category">Kategorije</string>
      <string name="category_album">Albumi</string>
      <string name="category_all">Vse datoteke</string>
      <string name="category_apk">APK</string>
-     <string name="category_bluetooth">Bluetooth</string>
      <string name="category_document">Dokumenti</string>
      <string name="category_download">Prenosi</string>
      <string name="category_favorite">Priljubljeno</string>
      <string name="category_file">Datoteke</string>
      <string name="category_folder">Mape</string>
      <string name="category_installed_app">Nameščene aplikacije</string>
-     <string name="category_midrive">Mi Drive</string>
      <string name="category_move_limit_notice">Na zgornji del zaslona lahko premaknete %1$d do %2$d stvari</string>
      <string name="category_music">Glasba</string>
      <string name="category_other">Ostalo</string>
@@ -361,7 +334,6 @@ Preklopite za ustavitev sinhronizacije."</string>
      <string name="change_detail_page_ceiling_style">Uporabi stran s podrobnostmi</string>
      <string name="change_news_language">Spremenim jezik novic?</string>
      <string name="change_password">Spremeni geslo</string>
-     <string name="change_recommended_books">Osveži</string>
      <string name="change_sub_now">Spremeni paket</string>
      <string name="channel_can_not_remove">"Privzetega kanala ni mogoče odstraniti ali skriti"</string>
      <string name="channel_description">Prenosi brskalnika</string>
@@ -373,8 +345,6 @@ Preklopite za ustavitev sinhronizacije."</string>
      <string name="channels_finish">Dokončaj</string>
      <string name="character_counter_content_description">Vnesenih znakov %1$d od %2$d</string>
      <string name="character_counter_overflowed_content_description">Omejitev znakov je presegla %1$d od %2$d</string>
-     <string name="character_counter_pattern">%1$d / %2$d</string>
-     <string name="check_google_play_login">"Preverite ali ste prijavljeni v Play Trgovino"</string>
      <string name="check_nf_info">Preverite informacije o novicah</string>
      <string name="check_nf_info_desc">Dolgo pritisnite da prikažete informacije</string>
      <string name="choose_to_signin">Da</string>
@@ -389,9 +359,6 @@ Preklopite za ustavitev sinhronizacije."</string>
      <string name="clear_result_page_show_more">Pokaži več</string>
      <string name="clear_search_history">Počisti zgodovino</string>
      <string name="clear_text_end_icon_content_description">Počisti besedilo</string>
-     <string name="clear_transfer_summary">Počistite zastavice sistemskih nastavitev, da jih lahko znova prenesete</string>
-     <string name="clear_transfer_title">Počistite zastavice za prenos</string>
-     <string name="clear_video_download">Izbriši videoposnetke</string>
      <string name="clearable_edittext_clear_description">Izbriši</string>
      <string name="cleared_garbage">Izbrisano %d MB smeti</string>
      <string name="click_always">Tapnite \"Vedno\"</string>
@@ -417,10 +384,7 @@ Preklopite za ustavitev sinhronizacije."</string>
      <string name="cloud_tab">Zavihki v oblaku</string>
      <string name="cloud_time_tips">Zadnja sinhronizacija</string>
      <string name="cloud_up_to_loading_tips">Spusti za sinhronizacijo</string>
-     <string name="coins">Kovanci</string>
-     <string name="coins_arrived">Vaše dobroimetje je bilo uspešno pripisano</string>
      <string name="collect_diagnosis_log">Zberi poročila</string>
-     <string name="collect_video">Zberi videoposnetke</string>
      <string name="collection_articles">Članki</string>
      <string name="collection_videos">Videoposnetki</string>
      <string name="columbus_ad_flag_text">Oglasi</string>
@@ -483,16 +447,8 @@ Preklopite za ustavitev sinhronizacije."</string>
      <string name="common_open_on_phone">Odpiranje v telefonu</string>
      <string name="common_signin_button_text">Prijava</string>
      <string name="common_signin_button_text_long">Prijava z Google Računom</string>
-     <string name="common_use_phrase_bottom_bar_cn_txt">.cn</string>
-     <string name="common_use_phrase_bottom_bar_com_txt">.com</string>
-     <string name="common_use_phrase_bottom_bar_https_txt">https://</string>
-     <string name="common_use_phrase_bottom_bar_net_txt">.net</string>
-     <string name="common_use_phrase_bottom_bar_org_txt">.org</string>
-     <string name="common_use_phrase_bottom_bar_point_txt">.</string>
-     <string name="common_use_phrase_bottom_bar_slash_txt">/</string>
      <string name="common_use_phrase_bottom_bar_text_next">Naprej</string>
      <string name="common_use_phrase_bottom_bar_text_previous">Nazaj</string>
-     <string name="common_use_phrase_bottom_bar_www_txt">www.</string>
      <string name="confirm">V redu</string>
      <string name="confirm_activate_email">Potrjeno</string>
      <string name="confirm_bundled_phone_dialog_title">Potrdite povezano telefonsko številko</string>
@@ -502,7 +458,6 @@ Preklopite za ustavitev sinhronizacije."</string>
      <string name="confirm_privacy_password">Narišite vzorec za odklepanje</string>
      <string name="confirm_unbundled_phone_dialog_message">Ta telefonska številka je povezana z Mi Računom %2$s na %1$s. Ta ne bo več povezan z Mi Računom %3$s če nadaljujete. Želite nadaljevati?</string>
      <string name="connection_lost">Povezava prekinjena</string>
-     <string name="consume">Odhodno</string>
      <string name="content_center_title">Center za vsebine</string>
      <string name="content_collection_done">Uspešno dodano med priljubljene</string>
      <string name="content_recommend">Priporočeno</string>
@@ -544,7 +499,6 @@ Preklopite za ustavitev sinhronizacije."</string>
      <string name="crash_page_description">Pri prikazovanju te spletne strani je šlo nekaj narobe.</string>
      <string name="crash_page_title">Ojoj, zaskok!</string>
      <string name="create_qr_code">QR koda</string>
-     <string name="current_version_pad">Pad</string>
      <string name="current_version_pc">Namizje</string>
      <string name="current_version_phone">Telefon</string>
      <string name="custom">Vnesite URL</string>
@@ -555,18 +509,7 @@ Strani, ki si jih ogledate ne bodo zabeležene v zgodovini."</string>
      <string name="dark_mode">Temni način</string>
      <string name="data_error">Napaka podatkov</string>
      <string name="data_format_ymd">dd. MM. yyyy</string>
-     <string name="data_traffic_continue">Vseeno predvajaj</string>
-     <string name="data_traffic_download_cancel">Prekliči</string>
-     <string name="data_traffic_download_prompt">Videoposnetek lahko prenesete le, ko je naprava povezana na WiFi omrežje.</string>
-     <string name="data_traffic_download_setting">Nastavitve</string>
-     <string name="data_traffic_goto">Podatkovni paket</string>
-     <string name="data_traffic_prompt_free_data">Uporaba mobilnih podatkov za predvajanje videoposnetkov lahko povzroči dodatne stroške. Poskusite uporabiti določeni podatkovni paket.</string>
-     <string name="data_traffic_prompt_message">Uporaba vaše povezave z mobilnimi podatki za brskanje po videoposnetkih bo povečala vašo porabo podatkov. V primeru, da presežete omejitev porabe vašega paketa podatkov, vam lahko ponudnik zaračuna dodatno plačilo.</string>
      <string name="data_traffic_prompt_title">Uporabljate mobilni prenos podatkov</string>
-     <string name="data_traffic_stop">Ustavi</string>
-     <string name="date_picker_label_day" />
-     <string name="date_picker_label_month" />
-     <string name="date_picker_label_year" />
      <string name="date_picker_lunar">Kitajski tradicionalni koledar</string>
      <string name="date_time_picker_dialog_title">Nastavi datum in uro</string>
      <string name="debug_crash">Omogoči odpravljanje napak pri zrušitvah</string>
@@ -577,17 +520,11 @@ Strani, ki si jih ogledate ne bodo zabeležene v zgodovini."</string>
      <string name="debug_user_firebase_config_search_hint">Iskanje konfiguracij</string>
      <string name="debug_youtube_file">Odpravi napake v YouTube datotekah</string>
      <string name="debug_youtube_in_release">Odpravi napake v YouTubu v izdaji</string>
-     <string name="decompress">Razširi</string>
-     <string name="decompress_fail">"Ne morem razširiti"</string>
-     <string name="decompress_success">Razširjeno</string>
-     <string name="decompress_view">Ogled</string>
-     <string name="decompress_viewer_label">Upravitelj arhiva (Mi brskalnik)</string>
      <string name="decompressed_files">Razširjene datoteke</string>
      <string name="deeplink_intrercept_hint">To pojavno okno bo predlagalo odpiranje aplikacije.</string>
      <string name="deeplink_intrercept_second_hint">Spletno mesto bo kmalu odprlo aplikacijo. Za zdaj sem ustavil to dejanje.</string>
      <string name="deeplink_permission_name">Odpri</string>
      <string name="deeplink_permission_name_hint">Odpri %s</string>
-     <string name="default_account_name">Gost</string>
      <string name="default_likes">Všeč mi je</string>
      <string name="default_message_body">telo sporočila</string>
      <string name="default_share">Deljenje</string>
@@ -624,15 +561,9 @@ Pošljite to kodo nadzorniku."</string>
      <string name="dialog_dislike_reason_poor_quality">Slaba kakovost</string>
      <string name="dialog_dislike_reason_repetitive">Ponavljajoče</string>
      <string name="dialog_dislike_title">"Zakaj vam ta oglas ni všeč?"</string>
-     <string name="dialog_game_banner">Poglejte popularne igre!</string>
      <string name="dialog_game_close">Prekliči</string>
      <string name="dialog_game_play">Igraj</string>
      <string name="display__quick_entry_of_search">Pokaži bližnjice funkcij v plošči obvestil</string>
-     <string name="dkcommon__web_pull_refresh_view__pull_down_tip">Povlecite navzdol za osvežitev</string>
-     <string name="dkcommon__web_pull_refresh_view__refresh_done_tip">Uspešno osveženo</string>
-     <string name="dkcommon__web_pull_refresh_view__refreshing_tip">Delam…</string>
-     <string name="dkcommon__web_pull_refresh_view__release_tip">Spustite za osvežitev</string>
-     <string name="dkmibrowsershopad__ad_view_video_replay">Ponovi</string>
      <string name="doc_viewer_label">Bralnik (Mi Brskalnik)</string>
      <string name="doc_viewer_open_out_file_prompt">Če želite odpreti in si ogledati datoteko, prejeto iz zunanjih virov, mora ta aplikacija najprej ustvariti kopijo datoteke. Nadaljujem?</string>
      <string name="doc_viewer_user_guide_profile">Oglejte si stvar, ki ste jo iskali tukaj</string>
@@ -697,14 +628,12 @@ Pošljite to kodo nadzorniku."</string>
      <string name="download_failed_system_error">"Prenos ni uspel, ker je prišlo do napake."</string>
      <string name="download_file_name">"Ime: "</string>
      <string name="download_filter_all">Vse</string>
-     <string name="download_filter_apk">APK</string>
      <string name="download_filter_application">Aplikacije</string>
      <string name="download_filter_audio">Glasba</string>
      <string name="download_filter_image">Slike</string>
      <string name="download_filter_others">Drugo</string>
      <string name="download_filter_text">Dokumenti</string>
      <string name="download_filter_video">Videoposnetki</string>
-     <string name="download_filter_zip">ZIP</string>
      <string name="download_in_process">Prenašanje</string>
      <string name="download_intrercept_hint">To pojavno okno bo predlagalo prenos aplikacije.</string>
      <string name="download_intrercept_second_hint">Spletno mesto bo kmalu preneslo aplikacijo. Prenos je trenutno ustavljen.</string>
@@ -751,8 +680,6 @@ Pošljite to kodo nadzorniku."</string>
      <string name="download_status_pending">Čakanje</string>
      <string name="download_title">Prenosi</string>
      <string name="download_unknown_title">Neznano</string>
-     <string name="download_update_background">Prenašanje posodobitev v ozadju</string>
-     <string name="download_video">Prenesi videoposnetek</string>
      <string name="download_video_from_social_site">Prenesi videoposnetke iz družbenih medij</string>
      <string name="download_videos_from_here">Lahko prenesete videoposnetke iz teh storitev</string>
      <string name="download_wait_connect">Čakanje na povezavo</string>
@@ -763,29 +690,21 @@ Pošljite to kodo nadzorniku."</string>
      <string name="edit_bookmark_tips">Zaznamek uspešno dodan. &lt;font color=#247BFF>Uredi&lt;/font></string>
      <string name="edit_quicklink">Uredi</string>
      <string name="edit_website">Uredi URL</string>
-     <string name="empty" />
      <string name="empty_app_name">Druga aplikacija</string>
      <string name="empty_bookmark">Prazno</string>
-     <string name="empty_books">Ta mapa je prazna</string>
      <string name="empty_history_hint">Zgodovina je prazna</string>
      <string name="empty_snapshot_hint">Prazno</string>
      <string name="enable_geolocation_confirm_message">Izklop lokacijskih storitev bo vplival na priporočila, ki jih prijemate.</string>
      <string name="enable_miui_lite_plus">Omogoči odpravljanje napak MiuiLite+</string>
      <string name="enable_notification_permission_in_settings">Če želite uporabljati to storitev, v nastavitvah dovolite obvestila.</string>
-     <string name="enable_vpn">Omogoči odpravljanje napak VPN</string>
      <string name="encrypt_success">Uspešno skrito</string>
      <string name="encrypting">Šifriranje…</string>
-     <string name="end_user_license">Licenčna pogodba za končnega uporabnika</string>
      <string name="enter_bookmark">Zaznamki</string>
      <string name="enter_developer_mode">Vstop v način za razvijalce</string>
      <string name="enter_incongnito_mode">Odpri način brez beleženja zgodovine</string>
      <string name="enter_news_by_pull_down">Spustite, da boste odprli vsebinski tok</string>
      <string name="eras_ad">n. št.</string>
      <string name="eras_bc">pr. n. št.</string>
-     <string name="error_console_eval_button_text">Ocenite</string>
-     <string name="error_console_eval_text_hint">Ocenite JavaScript</string>
-     <string name="error_console_header_text_maximized">JavaScript console</string>
-     <string name="error_console_header_text_minimized">Pokaži JavaScript console</string>
      <string name="error_dup_binded_email">Ta e-poštni naslov je že povezan z drugim računom Mi.</string>
      <string name="error_filename_too_long">Ime datoteke, ki ste ga vnesli, je predolgo.</string>
      <string name="error_folder_already_exists">Ta datoteka že obstaja</string>
@@ -808,12 +727,10 @@ Pošljite to kodo nadzorniku."</string>
      <string name="exit_clear_dialog_btn_cancel">Izhod</string>
      <string name="exit_clear_dialog_btn_ok">Počisti in zapri</string>
      <string name="exit_clear_dialog_msg">Želite počistiti zgodovino po izhodu?</string>
-     <string name="exit_fullscreen">Izhod iz celozaslonskega načina</string>
      <string name="exit_game">Zapri</string>
      <string name="exo_controls_cc_disabled_description">Omogoči podnapise</string>
      <string name="exo_controls_cc_enabled_description">Onemogoči podnapise</string>
      <string name="exo_controls_fastforward_description">Previjanje naprej</string>
-     <string name="exo_controls_fullscreen_description">Celozaslonski način</string>
      <string name="exo_controls_fullscreen_enter_description">Vstop v celozaslonski način</string>
      <string name="exo_controls_fullscreen_exit_description">Izhod iz celozaslonskega načina</string>
      <string name="exo_controls_hide">Skrij kontrolnike predvajalnika</string>
@@ -823,7 +740,6 @@ Pošljite to kodo nadzorniku."</string>
      <string name="exo_controls_pause_description">Zaustavitev</string>
      <string name="exo_controls_play_description">Predvajanje</string>
      <string name="exo_controls_playback_speed">Hitro</string>
-     <string name="exo_controls_playback_speed_normal">Normalno</string>
      <string name="exo_controls_previous_description">Prejšnja skladba</string>
      <string name="exo_controls_repeat_all_description">Trenutni način: Ponovi vse. Preklop načina ponavljanja</string>
      <string name="exo_controls_repeat_off_description">Trenutni način: brez ponavljanja. Preklop načina ponavljanja</string>
@@ -832,7 +748,6 @@ Pošljite to kodo nadzorniku."</string>
      <string name="exo_controls_seek_bar_description">Napredek predvajanja</string>
      <string name="exo_controls_settings_description">Nastavitve</string>
      <string name="exo_controls_show">Prikaži kontrolnike predvajalnika</string>
-     <string name="exo_controls_shuffle_description">Naključno predvajanje</string>
      <string name="exo_controls_shuffle_off_description">Omogoči naključni način</string>
      <string name="exo_controls_shuffle_on_description">Onemogoči naključni način</string>
      <string name="exo_controls_stop_description">Ustavitev</string>
@@ -846,10 +761,6 @@ Pošljite to kodo nadzorniku."</string>
      <string name="exo_download_paused_for_network">Prenosi čakajo na omrežje</string>
      <string name="exo_download_paused_for_wifi">Prenosi čakajo na WiFi</string>
      <string name="exo_download_removing">Odstranjevanje prenosov</string>
-     <string name="exo_item_list">%1$s, %2$s</string>
-     <string name="exo_track_bitrate">%1$.2f Mbps</string>
-     <string name="exo_track_mono">Mono</string>
-     <string name="exo_track_resolution">%1$d × %2$d</string>
      <string name="exo_track_role_alternate">Nadomestno</string>
      <string name="exo_track_role_closed_captions">Podnapisi</string>
      <string name="exo_track_role_commentary">Komentar</string>
@@ -859,7 +770,6 @@ Pošljite to kodo nadzorniku."</string>
      <string name="exo_track_selection_title_audio">Zvočni posnetki</string>
      <string name="exo_track_selection_title_text">Podnapisi</string>
      <string name="exo_track_selection_title_video">Videoposnetki</string>
-     <string name="exo_track_stereo">Stereo</string>
      <string name="exo_track_surround">Prostorski zvok</string>
      <string name="exo_track_surround_5_point_1">Prostorski zvok 5.1</string>
      <string name="exo_track_surround_7_point_1">Prostorski zvok 7.1</string>
@@ -882,7 +792,6 @@ Pošljite to kodo nadzorniku."</string>
      <string name="featured_this_week">Predstavljeno ta teden</string>
      <string name="feed_advise_good">Priporočam prijateljem</string>
      <string name="feed_content_protection">Zaščita vsebine</string>
-     <string name="feedback">Povratne informacije</string>
      <string name="feedback_advise_this_app">Priporočilo</string>
      <string name="feedback_advise_your_friends">Kako verjetno je, da priporočate Mi brskalnik?</string>
      <string name="feedback_amazing">Super</string>
@@ -902,7 +811,6 @@ Pošljite to kodo nadzorniku."</string>
      <string name="feedback_download_success_percent_more">Višja stopnja uspešnosti prenosa</string>
      <string name="feedback_download_terrible">Na katere težave ste naleteli?</string>
      <string name="feedback_download_title">Kakšna je izkušnja s prenosom?</string>
-     <string name="feedback_email">Če imate kakršna koli vprašanja o Wonderficu, nam pišite: wonderwebfiction@gmail.com.</string>
      <string name="feedback_exit_title">Povejte nam več</string>
      <string name="feedback_general">Nekako</string>
      <string name="feedback_general_subtitle">Kaj bi izboljšalo vašo izkušnjo?</string>
@@ -912,7 +820,6 @@ Pošljite to kodo nadzorniku."</string>
      <string name="feedback_info_app_version">"Različica aplikacije: "</string>
      <string name="feedback_info_language">"Jezik: "</string>
      <string name="feedback_info_location">"Regija: "</string>
-     <string name="feedback_info_product">"Model: "</string>
      <string name="feedback_info_system">"Sistem: "</string>
      <string name="feedback_info_system_version">"Različica sistema: "</string>
      <string name="feedback_multi">Izberi vse ustrezne</string>
@@ -931,13 +838,6 @@ Pošljite to kodo nadzorniku."</string>
      <string name="fetch_video_fail">"Podatkov ni mogoče pridobiti"</string>
      <string name="fetch_video_ssl_bad_clock">"Kaže da datum in čas, ki sta nastavljena na vaši napravi (%s) nista pravilna. Prilagodite nastavitve in poskusite ponovno."</string>
      <string name="fetching_video">Priprava videoposnetka…</string>
-     <string name="fgh_mask_bottom">Pomaknite se, da premaknete ročico</string>
-     <string name="fgh_mask_top_pull">Potegnite, da izbruhnete!</string>
-     <string name="fgh_mask_top_release">Spustite, da izbruhnete!</string>
-     <string name="fgh_text_game_over">Konec igre</string>
-     <string name="fgh_text_loading">Osveževanje…</string>
-     <string name="fgh_text_loading_failed">Osveževanje ni uspelo</string>
-     <string name="fgh_text_loading_finish">Osveževanje končano</string>
      <string name="file">Datoteke</string>
      <string name="file_dir">Zamenjajte mapo</string>
      <string name="file_info_canread">Berljivo: </string>
@@ -950,8 +850,6 @@ Pošljite to kodo nadzorniku."</string>
      <string name="file_name">"Ime: "</string>
      <string name="file_name_invalid">"Imena datotek ne smejo vsebovati naslednjih znakov: /\\:*?&lt;>"</string>
      <string name="file_picker">Izberite pot</string>
-     <string name="file_size">Velikost: %s</string>
-     <string name="file_type">Format: %s</string>
      <string name="filename_empty_alert_message">Vpišite ime datoteke</string>
      <string name="filename_illegal_alert_message">Nepravilni znak je bil odstranjen iz imena datoteke</string>
      <string name="files_stored_in_the_phone">Datoteke, shranjene v tej napravi</string>
@@ -1036,26 +934,6 @@ Pošljite to kodo nadzorniku."</string>
      <string name="game_center">Igre</string>
      <string name="game_center_recommend_play">Predvajaj</string>
      <string name="game_center_recommend_title">Priporočeno za vas</string>
-     <string name="game_exit_when_press_back_again">Tapnite še enkrat za izhod</string>
-     <string name="game_loading_stage_loadPackage_download_plugin_fail">Vtičnika ni bilo mogoče prenesti</string>
-     <string name="game_loading_stage_loadPackage_download_plugin_installing">Prenašanje vtičnika…</string>
-     <string name="game_loading_stage_loadPackage_download_plugin_start">Zahtevanje vtičnika…</string>
-     <string name="game_loading_stage_loadPackage_game_package_download_fail">Ni mogoče prenesti paketa igre</string>
-     <string name="game_loading_stage_loadPackage_game_package_download_finish">Paket igre prenesen</string>
-     <string name="game_loading_stage_loadPackage_game_package_download_start">Prenašanje paketa igre…</string>
-     <string name="game_loading_stage_loadPackage_install_game_package_download_fail">Ni mogoče namestiti paketa igre</string>
-     <string name="game_loading_stage_loadPackage_install_game_package_download_finish">Paket igre nameščen</string>
-     <string name="game_loading_stage_loadPackage_install_game_package_downloading">Nameščanje paketa igre…</string>
-     <string name="game_loading_stage_loadPackage_install_game_package_start">Priprava paketa igre…</string>
-     <string name="game_loading_stage_loadPackage_install_plugin_fail">Vtičnika ni bilo mogoče namestiti</string>
-     <string name="game_loading_stage_loadPackage_install_plugin_finish">Nameščeni vtičnik</string>
-     <string name="game_loading_stage_loadPackage_install_plugin_installing">Nameščanje vtičnika…</string>
-     <string name="game_loading_stage_loadPackage_install_plugin_start">Priprava vtičnika…</string>
-     <string name="game_loading_stage_loadPackage_launch_game">Zaganjanje…</string>
-     <string name="game_loading_stage_load_core_feature_continue">Nadaljuj</string>
-     <string name="game_loading_stage_load_core_feature_exit">Nazaj</string>
-     <string name="game_loading_stage_load_core_feature_title">"Ta igra zahteva '%1$s'. Jedro %2$s ne podpira '%3$s'. Želite vseeno nadaljevati?"</string>
-     <string name="game_loading_view_download_update_progress">%1$s (%2$s)</string>
      <string name="game_news_flow_download_bar_download">Prenesi</string>
      <string name="game_news_flow_download_bar_play">Predvajaj</string>
      <string name="game_play">Predvajaj</string>
@@ -1068,10 +946,6 @@ Pošljite to kodo nadzorniku."</string>
      <string name="general__shared__invaild_book">"Ta stvar ne obstaja"</string>
      <string name="general__shared__sd_card_unmounted">Potrebna so dovoljenja za shranjevanje</string>
      <string name="general__shared__unkown_book_format">"Ta format ni podprt"</string>
-     <string name="general__web_window_view__copy">kopiraj naslov</string>
-     <string name="general__web_window_view__copy_notify">naslov kopiran</string>
-     <string name="general__web_window_view__sys_client">za odpiranje uporabite sistemski brskalnik</string>
-     <string name="general_calendar_events_permission_desc">Dovolite %1$s dostop do vašega koledarja za prejemanje opomnikov.</string>
      <string name="generate_gpt">"Povzemi 500-besedni povzetek z istim jezikom spodnjega članka: 
  %s"</string>
      <string name="geolocation_permissions_prompt_dont_share">Zavrni</string>
@@ -1090,24 +964,16 @@ Pošljite to kodo nadzorniku."</string>
      <string name="get_ph_ticket">Pridobite kodo</string>
      <string name="get_phone_bind_exceed_limit">Povežete lahko do 3 Mi Račune s to telefonsko številko. Ne morete dodati novih računov.</string>
      <string name="get_phone_verifycode_exceed_limit">Preveč poslanih kod za potrjevanje na ta naslov e-pošte. Počakajte 24 ur in poskusite ponovno.</string>
-     <string name="go_me">Profil</string>
      <string name="go_supermarket_button">Začni</string>
      <string name="go_supermarket_title">Več aplikacij, večja hitrost in manjša poraba podatkov v App Store</string>
      <string name="go_to_tab">Zavihki</string>
      <string name="gold_medals">Zlate medalje</string>
-     <string name="googlepay_anonymous_merge_dialog_agree">Prijava</string>
-     <string name="googlepay_anonymous_merge_dialog_cancel">Prekliči</string>
-     <string name="googlepay_anonymous_merge_dialog_summary">"Prijavite se, da vse nakupe povežete s svojim Google Računom. Po tem boste lahko do njih dostopali v različnih napravah."</string>
-     <string name="googlepay_anonymous_merge_dialog_title">Prijava z Google</string>
-     <string name="got_it">Razumem</string>
      <string name="goto_browser">Brskaj</string>
      <string name="goto_setting">Nastavitve</string>
      <string name="goto_sign_up">Ustvarite račun</string>
      <string name="gps_prompt_context">Prenesem z mobilnim omrežjem?</string>
      <string name="gps_prompt_title">Predlogi</string>
-     <string name="guess_you_like">Predlagano za vas</string>
      <string name="has_already_subscribed_tips">Na ta paket ste že naročeni</string>
-     <string name="hash_tag">"\# %1$s "</string>
      <string name="hashtag_action_follow">Sledi</string>
      <string name="hashtag_action_followed">Sledim</string>
      <string name="hashtag_detail_explore">Odkrij</string>
@@ -1155,7 +1021,6 @@ Pošljite to kodo nadzorniku."</string>
      <string name="ignore_add_game_center_dialog_this_week">Ne kaži ta teden</string>
      <string name="ignore_add_pwa_dialog_today">Danes ne kaži več</string>
      <string name="improve_mi_browser_pe">Pomagajte nam izboljšati Mi brskalnik</string>
-     <string name="in_secureaccess">Brskalnik je v varnem načinu</string>
      <string name="incognito_message">Sedaj lahko brskate brez skrbi, saj druge osebe, ki uporabljajo to napravo ne bodo mogle videti vaših dejavnosti. Vendar pa bodo prenosi in zaznamki še zmeraj shranjeni.</string>
      <string name="incognito_off">Način brez beleženja zgodovine je izklopljen.</string>
      <string name="incognito_on">Nevidni ste!</string>
@@ -1168,7 +1033,6 @@ Pošljite to kodo nadzorniku."</string>
 • Vašemu delodajalcu ali šoli
 • Vašem ponudniku spletne storitve"</string>
      <string name="incognito_title">Nevidni ste</string>
-     <string name="income_expenses">Transakcije</string>
      <string name="inconsistent_pwd">Gesli se ne ujemata</string>
      <string name="input_email_address_notice">Ta naslov e-pošte bo uporabljen za potrjevanje vašega računa</string>
      <string name="input_new_pwd">Vnesite novo geslo</string>
@@ -1221,7 +1085,6 @@ Pošljite to kodo nadzorniku."</string>
      <string name="just_a_second">Samo trenutek…</string>
      <string name="just_now">Pravkar</string>
      <string name="keep_intrercept">Ustavi</string>
-     <string name="language">Jezik</string>
      <string name="le_download_failed_server_error">Prenos ni uspel zaradi napake strežnika.</string>
      <string name="le_network_chagne_to_none">Povezava z omrežjem je prekinjena. Vsi prenosi so začasno ustavljeni.</string>
      <string name="list_item_click">Kliknite seznam stvari</string>
@@ -1232,14 +1095,11 @@ Pošljite to kodo nadzorniku."</string>
      <string name="list_menu_rename_file">Preimenuj</string>
      <string name="list_menu_rename_result_fail">Ne morem preimenovati</string>
      <string name="list_menu_rename_result_repeat">Datoteka s tem imenom že obstaja</string>
-     <string name="load_end">"To je vse za zdaj"</string>
-     <string name="load_failed">"Podatkov ni bilo mogoče naložiti. Poskusite ponovno."</string>
      <string name="load_failure">"Ne morem naložiti"</string>
      <string name="load_more">Pokaži več</string>
      <string name="loading">Samo trenutek…</string>
      <string name="loading_tips">Povlecite navzdol za osvežitev</string>
      <string name="local_apps">Lokalne aplikacije</string>
-     <string name="local_bookmarks">Mi</string>
      <string name="local_file">Lokalne datoteke</string>
      <string name="local_video_player_label">Video predvajalnik (Mi brskalnik)</string>
      <string name="location_permission_name">Dostop do lokacije</string>
@@ -1252,13 +1112,9 @@ Pošljite to kodo nadzorniku."</string>
      <string name="lockpattern_recording_inprogress">Spustite ko je vzorec končan</string>
      <string name="lockpattern_recording_intro_header">Povežite najmanj %1$d točke</string>
      <string name="lockpattern_retry_button_text">Ponastavi</string>
-     <string name="login_fail">"Prijava ni uspela. Poskusite ponovno."</string>
      <string name="login_failed_toast">Prijava ni uspela, osvežite in poskusite ponovno</string>
      <string name="login_or_register">ali</string>
-     <string name="login_success">Vpis uspešen</string>
-     <string name="logout">Odjava</string>
      <string name="logout_account">Odjava</string>
-     <string name="logout_success_toast">Odjava uspešna</string>
      <string name="long_press_edit">Dolg pritisk za urejanje</string>
      <string name="low_memory_toast">Ne morem uporabiti brskalnika zaradi pomanjkanja spomina</string>
      <string name="make_private">Skrij</string>
@@ -1281,12 +1137,9 @@ Pošljite to kodo nadzorniku."</string>
      <string name="max_tabs_warning">Ne morem odpreti novih zavihkov</string>
      <string name="maximum_input_alert">Maksimalni vnos je %1$d znakov</string>
      <string name="media_error_action_refresh">Osveži</string>
-     <string name="media_error_action_replace_video_source">Ne morem zamenjati vira</string>
      <string name="media_error_failure">Ne morem predvajati videoposnetka</string>
      <string name="media_error_format">Video format ni podprt</string>
      <string name="media_error_network_unreachable">Povezava z omrežjem ni uspela</string>
-     <string name="media_error_nomemory">Premalo prostora</string>
-     <string name="media_error_source">Ne morem najti vira</string>
      <string name="media_error_timeout">Potekel čas povezave</string>
      <string name="media_error_video_not_exist">Videoposnetek ne obstaja</string>
      <string name="memory_btn_clean">Osvobodi</string>
@@ -1304,7 +1157,6 @@ Pošljite to kodo nadzorniku."</string>
      <string name="menu_title_open_file_management">Odpri raziskovalca</string>
      <string name="menu_title_pause_all">Pavziraj vse</string>
      <string name="menu_title_resume_all">Zaženi vse</string>
-     <string name="messenger_send_button_text">Pošlji</string>
      <string name="mi_browser">Mi brskalnik</string>
      <string name="mi_browser_clean_up_garbage">Mi brskalnik čisti smeti…</string>
      <string name="mi_browser_is_scanning">Mi Brskalnik skenira</string>
@@ -1336,9 +1188,6 @@ Pošljite to kodo nadzorniku."</string>
      <string name="miuix_appcompat_action_mode_title_empty">Izberi stvari</string>
      <string name="miuix_appcompat_actionbar_immersion_button_more_description">Več</string>
      <string name="miuix_appcompat_cancel_description">Prekliči</string>
-     <string name="miuix_appcompat_cloud_state_disabled">Sinhronizacija z Cloudom je izključena</string>
-     <string name="miuix_appcompat_cloud_state_finished">Sinhronizacija z Cloudom je končana</string>
-     <string name="miuix_appcompat_cloud_state_syncing">Sinhronizacija z Cloudom…</string>
      <string name="miuix_appcompat_confirm_description">Potrdi</string>
      <string name="miuix_appcompat_delete_description">Izbriši</string>
      <string name="miuix_appcompat_deselect_all">Prekliči vse</string>
@@ -1440,8 +1289,6 @@ Pošljite to kodo nadzorniku."</string>
      <string name="mtrl_picker_text_input_date_hint">Datum</string>
      <string name="mtrl_picker_text_input_date_range_end_hint">Končni datum</string>
      <string name="mtrl_picker_text_input_date_range_start_hint">Začetni datum</string>
-     <string name="mtrl_picker_text_input_day_abbr">d</string>
-     <string name="mtrl_picker_text_input_month_abbr">m</string>
      <string name="mtrl_picker_text_input_year_abbr">l</string>
      <string name="mtrl_picker_toggle_to_calendar_input_mode">Prestavite na način vnosa koledarja</string>
      <string name="mtrl_picker_toggle_to_day_selection">Tapnite za prehod na izbiro dni</string>
@@ -1457,27 +1304,8 @@ Pošljite to kodo nadzorniku."</string>
      <string name="mw_abc_activitychooserview_choose_application">Izberi aplikacijo</string>
      <string name="mw_abc_capital_off">IZKLJUČENO</string>
      <string name="mw_abc_capital_on">VKLJUČENO</string>
-     <string name="mw_abc_font_family_body_1_material">sans-serif</string>
-     <string name="mw_abc_font_family_body_2_material">sans-serif-medium</string>
-     <string name="mw_abc_font_family_button_material">sans-serif-medium</string>
-     <string name="mw_abc_font_family_caption_material">sans-serif</string>
-     <string name="mw_abc_font_family_display_1_material">sans-serif</string>
-     <string name="mw_abc_font_family_display_2_material">sans-serif</string>
-     <string name="mw_abc_font_family_display_3_material">sans-serif</string>
-     <string name="mw_abc_font_family_display_4_material">sans-serif-light</string>
-     <string name="mw_abc_font_family_headline_material">sans-serif</string>
-     <string name="mw_abc_font_family_menu_material">sans-serif</string>
-     <string name="mw_abc_font_family_subhead_material">sans-serif</string>
-     <string name="mw_abc_font_family_title_material">sans-serif-medium</string>
-     <string name="mw_abc_menu_alt_shortcut_label">Alt+</string>
-     <string name="mw_abc_menu_ctrl_shortcut_label">Ctrl+</string>
      <string name="mw_abc_menu_delete_shortcut_label">izbriši</string>
-     <string name="mw_abc_menu_enter_shortcut_label">enter</string>
-     <string name="mw_abc_menu_function_shortcut_label">Function+</string>
-     <string name="mw_abc_menu_meta_shortcut_label">Meta+</string>
-     <string name="mw_abc_menu_shift_shortcut_label">Shift+</string>
      <string name="mw_abc_menu_space_shortcut_label">preslednica</string>
-     <string name="mw_abc_menu_sym_shortcut_label">Sym+</string>
      <string name="mw_abc_prepend_shortcut_label">Meni+</string>
      <string name="mw_abc_search_hint">Preiščite…</string>
      <string name="mw_abc_searchview_description_clear">Izbriši povpraševanje</string>
@@ -1504,19 +1332,16 @@ Pošljite to kodo nadzorniku."</string>
      <string name="mw_add_to_dictionary">Dodaj v slovar</string>
      <string name="mw_autofill_popup_content_description">Prikaz pojavnega okna s samodejnim izpolnjevanjem</string>
      <string name="mw_call_notification_answer_action">Odgovor</string>
-     <string name="mw_call_notification_answer_video_action">Video</string>
      <string name="mw_call_notification_decline_action">Zavrni</string>
      <string name="mw_call_notification_hang_up_action">Odloži</string>
      <string name="mw_call_notification_incoming_text">Dohodni klic</string>
      <string name="mw_call_notification_ongoing_text">Odhodni klic</string>
      <string name="mw_call_notification_screening_text">Pregledovanje dohodnega klica</string>
-     <string name="mw_chip_remove_icon_content_description">Odstrani \"%1$s\"</string>
      <string name="mw_color_picker_button_black">Črna</string>
      <string name="mw_color_picker_button_blue">Modra</string>
      <string name="mw_color_picker_button_cancel">Prekliči</string>
      <string name="mw_color_picker_button_cyan">Cian</string>
      <string name="mw_color_picker_button_green">Zelena</string>
-     <string name="mw_color_picker_button_magenta">Magenta</string>
      <string name="mw_color_picker_button_more">Več</string>
      <string name="mw_color_picker_button_red">Rdeča</string>
      <string name="mw_color_picker_button_set">Nastavi</string>
@@ -1526,51 +1351,8 @@ Pošljite to kodo nadzorniku."</string>
      <string name="mw_color_picker_hue">Odtenek</string>
      <string name="mw_color_picker_saturation">Nasičenost</string>
      <string name="mw_color_picker_value">Vrednost</string>
-     <string name="mw_common_google_play_services_enable_button">Omogoči</string>
-     <string name="mw_common_google_play_services_enable_text">"%1$s ne bo deloval-a, če ne omogočite Google Play storitev."</string>
-     <string name="mw_common_google_play_services_enable_title">Omogoči Google Play storitve</string>
-     <string name="mw_common_google_play_services_install_button">Namesti</string>
-     <string name="mw_common_google_play_services_install_text">"%1$s ne bo deloval-a, če ne omogočite Google Play storitev, ki manjkajo v vaši napravi."</string>
-     <string name="mw_common_google_play_services_install_title">Pridobite Google Play storitve</string>
-     <string name="mw_common_google_play_services_notification_channel_name">Google Play storitve na voljo</string>
-     <string name="mw_common_google_play_services_notification_ticker">Google Play storitve napaka</string>
-     <string name="mw_common_google_play_services_unknown_issue">%1$s ima težave z Google Play storitvami. Poskusite znova.</string>
-     <string name="mw_common_google_play_services_unsupported_text">"%1$s ne bo deloval-a, če ne omogočite Google Play storitev, ki manjkajo v vaši napravi."</string>
-     <string name="mw_common_google_play_services_update_button">Posodobi</string>
-     <string name="mw_common_google_play_services_update_text">%1$s ne bo deloval-a, če ne posodobite Google Play.</string>
-     <string name="mw_common_google_play_services_update_title">Posodabljanje Google Playa</string>
-     <string name="mw_common_google_play_services_updating_text">%1$s ne bo deloval-a brez Google Playa, ki se trenutno posodablja.</string>
-     <string name="mw_common_google_play_services_wear_update_text">Potrebna je nova verzija Google Playa.</string>
-     <string name="mw_common_open_on_phone">Odpri v telefonu</string>
-     <string name="mw_common_signin_button_text">Prijava</string>
-     <string name="mw_common_signin_button_text_long">Prijava preko Googla</string>
      <string name="mw_copied">Kopirano</string>
      <string name="mw_copy_to_clipboard_failure_message">Ni kopirano v odložišče</string>
-     <string name="mw_crash_label">Zrušenje (%1$s) - [%2$s]</string>
-     <string name="mw_crash_report_button_text">Navedite več informacij</string>
-     <string name="mw_crash_report_template">"VAŽNO: Vaše rušenje je bilo že samodejno prijavljeno v naš sistem. To morate izpolniti le, če lahko delite več informacij, na primer korake predvajanja pri rušenju.
-
-Ime naprave:
-Android OS verzija:
-WebView verzija (Na Androidu L-M je to verzija \"Android System WebView\" aplikacija. Na Androidu N-P je najverjetneje Chromova verzija. Različico katerekoli aplikacije najdete v Nastavitve &gt; Aplikacije &gt; 3 pike v zgornjem desnem kotu &gt; Pokaži sistem.):
-Opomba: (Če je mogoče, nastavite povezavo do strani Trgovine Play. Povezavo dobite v aplikaciji Trgovina Play, tako da v zgornjem desnem kotu tapnete 3 pike 
-Verzija aplikacije:
-
-
-Koraki za reprodukcijo:
-(1)
-(2)
-(3)
-
-
-Pričakovani rezultat:
-(Kaj naj bi se zgodilo?)
-
-
-****NE MENJAJTE TEGA SPODAJ****
-Crash ID: http://crash/%1$s"</string>
-     <string name="mw_crashes_list_activity_title">WebView rušenje</string>
-     <string name="mw_crashes_num">Rušenje (%1$d)</string>
      <string name="mw_data_traffic_prompt_change">"Uporaba vaše mobilne podatkovne povezave za gledanje videoposnetkov bo povečala porabo podatkov. Operater vam to lahko zaračuna."</string>
      <string name="mw_data_traffic_prompt_message">Uporaba vaše povezave z mobilnimi podatki za predvajanje videoposnetkov bo povečala vašo porabo podatkov. V primeru, da presežete omejitev porabe vašega paketa podatkov, vam bo ponudnik zaračunal dodatno plačilo.</string>
      <string name="mw_data_traffic_prompt_message_short">Uporaba mobilnih podatkov za pretočno predvajanje videoposnetkov lahko povzroči, da presežete omejitev porabe podatkov vašega paketa.</string>
@@ -1592,12 +1374,10 @@ Crash ID: http://crash/%1$s"</string>
      <string name="mw_js_dialog_before_unload_positive_button">Zapusti to stran</string>
      <string name="mw_js_dialog_before_unload_title">Želite zapustiti to stran?</string>
      <string name="mw_js_dialog_title">Stran na naslovu \"%s\" pravi:</string>
-     <string name="mw_js_dialog_title_default">JavaScript</string>
      <string name="mw_last_month">Prejšnji mesec</string>
      <string name="mw_license_activity_title">Sistemski spletni prikaz dovoljenj</string>
      <string name="mw_link_copied">Povezava kopirana</string>
      <string name="mw_low_memory_error">Zadnjega opravila ni mogoče dokončati zaradi pomanjkanja pomnilnika</string>
-     <string name="mw_menu_refresh">Osveži</string>
      <string name="mw_miui_content_copy">Kopiraj</string>
      <string name="mw_miui_content_cut">Izreži</string>
      <string name="mw_miui_content_extent_select">Izberi več</string>
@@ -1681,21 +1461,9 @@ Preverite %s1 nastavitve omrežja %s2 in poskusite ponovno."</string>
      <string name="mw_miuichromium_error_page_suggestion_title">Poskusite:</string>
      <string name="mw_miuichromium_error_page_title">Prišlo je do napake</string>
      <string name="mw_miuichromium_error_page_unknown_error">Ups, nekaj je šlo narobe</string>
-     <string name="mw_miuichromium_error_page_vpn_suggestion_btn_text">Poskusite uporabiti VPN</string>
-     <string name="mw_miuichromium_error_page_vpn_suggestion_des_1">Neomejeni strežniki</string>
-     <string name="mw_miuichromium_error_page_vpn_suggestion_des_2">Brez sledenja</string>
-     <string name="mw_miuichromium_error_page_vpn_suggestion_des_3">Brez omejitve hitrosti</string>
-     <string name="mw_miuichromium_error_page_vpn_suggestion_img_text">Poskusite uporabiti VPN</string>
      <string name="mw_miuichromium_error_page_wlan">Vklopi WiFi</string>
      <string name="mw_month_picker_dialog_title">Nastavi mesec</string>
      <string name="mw_no_matches">Ni ujemanj</string>
-     <string name="mw_notification_category_browser">Brskalnik</string>
-     <string name="mw_notification_category_downloads">Prenosi</string>
-     <string name="mw_notification_category_group_general">Splošno</string>
-     <string name="mw_notification_category_incognito">Anonimno</string>
-     <string name="mw_notification_category_media">Predstavnosti</string>
-     <string name="mw_notification_category_sites">Web strani</string>
-     <string name="mw_notification_hidden_text">Skrita vsebina</string>
      <string name="mw_older">Starejše</string>
      <string name="mw_opening_android_media_picker">Izbirnika fotografij ni mogoče odpreti</string>
      <string name="mw_opening_file_error">Izbrane datoteke ni mogoče odpreti</string>
@@ -1713,14 +1481,9 @@ Preverite %s1 nastavitve omrežja %s2 in poskusite ponovno."</string>
      <string name="mw_save_password_remember">Zapomni si</string>
      <string name="mw_search_menu_title">Išči</string>
      <string name="mw_speech_recognition_service_not_found">"Googlovega govornega mehanizma ni mogoče najti"</string>
-     <string name="mw_status_bar_notification_info_overflow">999+</string>
      <string name="mw_time_picker_dialog_am">dop.</string>
-     <string name="mw_time_picker_dialog_hour_minute_separator">:</string>
-     <string name="mw_time_picker_dialog_minute_second_separator">:</string>
      <string name="mw_time_picker_dialog_pm">pop.</string>
-     <string name="mw_time_picker_dialog_second_subsecond_separator">.</string>
      <string name="mw_time_picker_dialog_title">Nastavi čas</string>
-     <string name="mw_url_copied">Kopiranje povezave uspelo</string>
      <string name="mw_video_buffering_percent">"Medpomnjenje "</string>
      <string name="mw_video_download_no_permission">Za prenos stvari so potrebna dovoljenja</string>
      <string name="mw_video_float_drag_scale_msg">Povlecite za pomanjšanje</string>
@@ -1753,13 +1516,8 @@ Preverite %s1 nastavitve omrežja %s2 in poskusite ponovno."</string>
      <string name="navigationbar_rightbutton_actiontext_cancle">Prekliči</string>
      <string name="navigationbar_rightbutton_actiontext_go">Pojdi</string>
      <string name="navigationbar_rightbutton_actiontext_search">Išči</string>
-     <string name="need_provide_permissions">"Za uporabo te storitve boste morali podeliti ustrezna dovoljenja."</string>
      <string name="net_error">Napaka omrežja</string>
-     <string name="net_error__button_text">Poskusite znova</string>
-     <string name="network_show_wifi_setting_tip_dialog_description">Najdena WiFi dostopna točka. Se poskusim povezati?</string>
-     <string name="network_show_wifi_setting_tip_dialog_title">WiFi omrežja so na voljo</string>
      <string name="new_update_available">Posodobitev je na voljo</string>
-     <string name="new_version_name">Nova različica %s</string>
      <string name="news_flow_more_recommend">Več priporočenih stvari</string>
      <string name="news_load_failed">Tapnite za ponovni poskus</string>
      <string name="news_loading">Nalaganje…</string>
@@ -1769,10 +1527,7 @@ Preverite %s1 nastavitve omrežja %s2 in poskusite ponovno."</string>
      <string name="news_video_invisible_item">"Tega videa ni mogoče videti"</string>
      <string name="news_video_no_more_videos">"To je za zdaj vse"</string>
      <string name="next">Naprej</string>
-     <string name="next_button_label">Naprej</string>
      <string name="nf_choose_reason">Opišite težavo</string>
-     <string name="nf_content_gif_label">GIF</string>
-     <string name="nf_content_promo_label">Реклама</string>
      <string name="nf_detail_collection">Dodaj med priljubljene</string>
      <string name="nf_dislike">Me ne zanima</string>
      <string name="nf_feed_list_exit_toast">Tapnite ponovno, da boste zaprli vsebinski tok</string>
@@ -1790,9 +1545,7 @@ Preverite %s1 nastavitve omrežja %s2 in poskusite ponovno."</string>
      <string name="nf_set_follow_channel_as_default">Pokaži \"%s\" pri zagonu</string>
      <string name="nf_submit">Pošlji</string>
      <string name="nick_name">Vzdevek</string>
-     <string name="nickname">Vzdevek</string>
      <string name="night">Noč</string>
-     <string name="night_mode">Nočni način</string>
      <string name="no">Ne</string>
      <string name="no_account">Niste vpisani</string>
      <string name="no_apk">Tapnite, da prejmete aplikacije</string>
@@ -1811,8 +1564,6 @@ Preverite %s1 nastavitve omrežja %s2 in poskusite ponovno."</string>
      <string name="no_space_alert_text">Ni dovolj prostora za shranjevanje</string>
      <string name="no_space_alert_title">Prenos pavziran</string>
      <string name="no_space_clean_failed">Ne morem osvoboditi prostora na napravi​</string>
-     <string name="no_transaction_history">Tu še ni ničesar</string>
-     <string name="no_updates_available">Trenutna različica je zadnja</string>
      <string name="noon">Poldne</string>
      <string name="not_add">Ne zdaj</string>
      <string name="not_allowed_open">Ne morem uporabiti brskalnika v OOB pretoku</string>
@@ -1831,14 +1582,12 @@ Preverite %s1 nastavitve omrežja %s2 in poskusite ponovno."</string>
      <string name="notif_install_successful">Prenos končan</string>
      <string name="notification_category_browser">Brskalnik</string>
      <string name="notification_category_downloads">Prenosi</string>
-     <string name="notification_category_facebook">Facebook</string>
      <string name="notification_category_group_general">Splošno</string>
      <string name="notification_category_media">Predstavnosti</string>
      <string name="notification_category_stickcard">Hitra orodja</string>
      <string name="notification_download_completed">Uspešno prenešeno</string>
      <string name="notification_download_failed">Prenos ni uspel.</string>
      <string name="notification_wechat_expired_empty">WeChat je že izbrisal te videoposnetke.</string>
-     <string name="notifications">Obvestila</string>
      <string name="notify_rencet_play">Pred kratkim predvajano</string>
      <string name="novel_continue_read_popup">Beri</string>
      <string name="novel_tab_popup">Oglejte si svoje najnovejše knjige tukaj</string>
@@ -1880,11 +1629,9 @@ Preverite %s1 nastavitve omrežja %s2 in poskusite ponovno."</string>
      <string name="passport_account_name">"Račun: %1$s "</string>
      <string name="passport_activate_token_expired">Koda za preverjanje je potekla. Poskusite ponovno.</string>
      <string name="passport_area_code_title">Omrežna koda</string>
-     <string name="passport_auth_title" />
      <string name="passport_bad_authentication">Nepravilno uporabniško ime ali geslo</string>
      <string name="passport_barcode_add_account_prompt">Da boste dodali račun skenirajte QR kodo, ko se prijavite.</string>
      <string name="passport_can_not_receive_verification_code">"Kode za preverjanje ni mogoče prejeti?"</string>
-     <string name="passport_captcha_title">Captcha</string>
      <string name="passport_checking_account">Preverjanje gesla…</string>
      <string name="passport_close">Zapri</string>
      <string name="passport_delete_account">Odjava</string>
@@ -1968,10 +1715,6 @@ Preverite %s1 nastavitve omrežja %s2 in poskusite ponovno."</string>
      <string name="passport_wrong_voice">Vnesena koda je napačna</string>
      <string name="password">Geslo</string>
      <string name="password_toggle_content_description">Pokaži geslo</string>
-     <string name="pay_failed_toast">Ne morem dokončati plačila</string>
-     <string name="pay_now">Plačaj</string>
-     <string name="pay_success_toast">Plačilo uspešno</string>
-     <string name="payment_method">Načini plačila</string>
      <string name="pdf_confirm">V redu</string>
      <string name="pdf_failed_message">"Ne morem narediti povzetka"</string>
      <string name="pdf_retry">Poskusi znova</string>
@@ -2018,7 +1761,6 @@ Preverite %s1 nastavitve omrežja %s2 in poskusite ponovno."</string>
      <string name="person_menu_game_recommend">Popularne igre</string>
      <string name="person_menu_video">Kratki videoposnetki</string>
      <string name="personalized_content_services">Prilagojene vsebinske storitve</string>
-     <string name="personalized_service">Prilagojene storitve</string>
      <string name="personalized_services">Prilagojene storitve</string>
      <string name="personalized_services_desc">Sprejemanje priporočil prilagojene vsebine in oglasov</string>
      <string name="pf_add_dialog_content">Zapiski o zgodovini prenosa bodo izbrisani, ko povezane stvari premestite v zasebno mapo.</string>
@@ -2043,12 +1785,9 @@ Preverite %s1 nastavitve omrežja %s2 in poskusite ponovno."</string>
      <string name="photoPickerNotFoundText">Ni slik.</string>
      <string name="pick_file">Izberite datoteke</string>
      <string name="ping_test_title">Mrežna zakasnitev</string>
-     <string name="play_pause_video">Predvajaj ali ustavi videoposnetek</string>
-     <string name="play_video">Predvajaj videoposnetek</string>
      <string name="players_still_play">&lt;font color=#ff2458>%s&lt;/font> igralcem je všeč tudi</string>
      <string name="pm">pop.</string>
      <string name="popular_game_video">Popularne Igre Video</string>
-     <string name="popup_video">Videoposnetek v pojavnem oknu</string>
      <string name="popup_window_attempt">Dovolim tej strani, da odpre pojavno okno?</string>
      <string name="positive_confirm_message">Vseeno izklopi</string>
      <string name="power_saving_btn_clean">Možnosti</string>
@@ -2106,13 +1845,10 @@ Preverite %s1 nastavitve omrežja %s2 in poskusite ponovno."</string>
      <string name="pref_force_userscalable">Vsiljena povečava</string>
      <string name="pref_force_userscalable_summary">Zavrni zahtevo spletnega mesta za nadzor nad povečavo besedila</string>
      <string name="pref_general_title">Splošno</string>
-     <string name="pref_js_downloader">Prenesi slike in video</string>
-     <string name="pref_js_downloader_detail">Pokaži gumb za prenos na slikah in videoposnetkih s spletnih mest družbenih omrežij</string>
      <string name="pref_key_gesture_title">Tipke &amp; kretnje</string>
      <string name="pref_link_prefetch_value_always">Vedno</string>
      <string name="pref_link_prefetch_value_never">Nikoli</string>
      <string name="pref_link_prefetch_value_wifi_only">WIFI_SAMO</string>
-     <string name="pref_nav_mode_summary_pad">Pad</string>
      <string name="pref_nav_mode_summary_phone">Telefon</string>
      <string name="pref_nav_mode_title">Namizje</string>
      <string name="pref_navscreen_layoutstate_title">Urejanje z več okni</string>
@@ -2155,9 +1891,6 @@ Preverite %s1 nastavitve omrežja %s2 in poskusite ponovno."</string>
      <string name="pref_security_do_not_track">Ne sledi</string>
      <string name="pref_security_do_not_track_summary">"Z izbiro te možnosti boste obvestili spletna mesta, da ne želite, da zbirajo ali spremljajo vaše podatke o brskanju. Različna spletna mesta na takšne zahteve reagirajo različno.
 Nekatera spletna mesta ne bodo uporabila vaše prejšnje zgodovine brskanja za prilagoditev oglasov za vas, druga pa lahko še vedno zbirajo in uporabljajo zgodovino brskanja za različne namene (zagotavljanje varnosti, zagotavljanje vsebine, prikazovanje ustreznih oglasov, in več)."</string>
-     <string name="pref_security_do_not_track_values_incognito_on">2</string>
-     <string name="pref_security_do_not_track_values_off">3</string>
-     <string name="pref_security_do_not_track_values_on">1</string>
      <string name="pref_security_passwords_title">Gesla</string>
      <string name="pref_security_remember_passwords">Zapomni si gesla</string>
      <string name="pref_security_remember_passwords_summary">Shrani uporabniška imena in gesla za spletna mesta in jih samodejno izpolni. Shranjene stvari bodo šifrirane in shranjene samo na tej napravi.</string>
@@ -2228,7 +1961,6 @@ Nekatera spletna mesta ne bodo uporabila vaše prejšnje zgodovine brskanja za p
      <string name="preference_copied">»%1$s« je bil kopiran v odložišče.</string>
      <string name="preference_des_autocomplete_search">Samodejno dokončaj iskanja glede na zgodovino brskanja, predlogov iskalnikov in priljubljenih spletnih mest</string>
      <string name="preference_title_autocomplete_search">Samodejno dokončaj iskanja in URL</string>
-     <string name="privacy">Zasebnost</string>
      <string name="privacy_accept">Strinjam se in nadaljuj</string>
      <string name="privacy_agreement">Pogoji uporabe</string>
      <string name="privacy_authorize_cannot_revoke_dialog_msg">To dejanje zahteva nalaganje vaše ID oglaševanja, kar pa ni mogoče v načinu brez beleženja zgodovine. Zapustite način brez beleženja zgodovine in poskusite ponovno.</string>
@@ -2243,30 +1975,21 @@ Nekatera spletna mesta ne bodo uporabila vaše prejšnje zgodovine brskanja za p
      <string name="privacy_authorize_summary">Vklopite ali izklopite za dovoljenje ali preklic pooblastila</string>
      <string name="privacy_authorize_title">Avtorizacija</string>
      <string name="privacy_btn_more">Več</string>
-     <string name="privacy_dialog_next">Naprej</string>
-     <string name="privacy_dialog_revoke">Preklic</string>
-     <string name="privacy_dialog_text">Z izklopom stikala prekličete svoje soglasje s politiko zasebnosti Wonderfic. Prenehali bomo zbirati vaše osebne podatke. Osebni podatki, ki so že zbrani in shranjeni (vključno z, vendar ne omejeno na podatke o računu, podatki o plačilu in evidenco nakupov), bodo izbrisani v določenem obdobju, kot to zahteva veljavna zakonodaja. <b>"Po preklicu soglasja ne boste mogli dostopati do knjig, ki ste jih kupili, stanje na vašem računu pa bo počiščeno.«</b> Ker mora Wonderfic zbrati potrebne osebne podatke, da vam lahko nudi svoje storitve, vaš umik soglasja njegovega pravilnika o zasebnosti, bo obravnavano kot zavračanje teh storitev.</string>
-     <string name="privacy_dialog_text_next">"Po preklicu soglasja ne boste mogli dostopati do kupljenih knjig in stanje na vašem računu bo izbrisano."</string>
-     <string name="privacy_dialog_title">Preklic soglasja</string>
      <string name="privacy_disagree">"Ne strinjam se"</string>
      <string name="privacy_improve_performance">Program uporabniških izkušenj</string>
      <string name="privacy_improve_performance_desc">Dovoli Xiaomi zbiranje in analizo uporabniških podatkov za izboljšanje naših izdelkov in storitev</string>
-     <string name="privacy_local_app_discovery">Odkrijte lokalne aplikacije</string>
      <string name="privacy_message">Preden začnete uporabljati brskalnik se morate strinjati z &lt;font color=\"#4086f5\">&lt;a href=\"%1$s\" style=\"color:#4086f5;\">Pogoji uporabe&lt;/a>&lt;/font> in &lt;font color=\"#4086f5\">&lt;a href=\"%2$s\" style=\"color:#4086f5;\">Pravila o zasebnosti&lt;/a>&lt;/font>.</string>
      <string name="privacy_message_main_tips_first">Aplikacija Mi brskalnik zahteva zbiranje potrebnih osebnih podatkov, da bi vam zagotovila osnovne storitve. Več o tem kako ravnamo s podatki, ki jih zbiramo si lahko preberete v &lt;font color=\"#4086f5\">&lt;a href=\"%1$s\" style=\"color:#4086f5;\">Pravila o zasebnosti&lt;/a>&lt;/font>. Vaše soglasje z Pravili o zasebnosti Mi brskalnika lahko kadarkoli prekličete v Nastavitve > Zasebnost &amp; varnost. Pred uporabo aplikacije Mi brskalnik preberite in se strinjajte z &lt;font color=\"#4086f5\">&lt;a href=\"%2$s\" style=\"color:#4086f5;\">Pogoji uporabe&lt;/a>&lt;/font> in &lt;font color=\"#4086f5\">&lt;a href=\"%1$s\" style=\"color:#4086f5;\">Pravila o zasebnosti&lt;/a>&lt;/font>.</string>
      <string name="privacy_message_main_tips_second">Da bo lahko iskala aplikacije na napravi in vedela, katere aplikacije so nameščene, mora aplikacija Mi brskalnik dostopati do podatkov o nastavitvi aplikacij, ki ne bodo shranjeni lokalno, prav tako pa ne bodo naloženi v kakršni koli obliki.</string>
      <string name="privacy_message_welcome">Dobrodošli v Mi brskalnik! Naša aplikacija vam ponuja naslednje storitve:</string>
      <string name="privacy_message_welcome_tip_first">- Hitro in varno brskanje po spletu</string>
      <string name="privacy_message_welcome_tip_second">- Prenašanje slik in videa iz družbenih omrežji</string>
-     <string name="privacy_new_function">Nova storitev</string>
-     <string name="privacy_permission_name">"Don't allow tracking your activity"</string>
+     <string name="privacy_permission_name">"Ne dovolite sledenja vaši dejavnosti"</string>
      <string name="privacy_policy">Pravila o zasebnosti</string>
      <string name="privacy_reset_fail">"Ne morem ponastaviti. Poskusite ponovno."</string>
-     <string name="privacy_security">Zasebnost in varnost</string>
      <string name="privacy_sub_title">Pravila in pogoji</string>
      <string name="privacy_title">Dobrodošli v Mi brskalnik</string>
      <string name="private_title">Skrite datoteke</string>
-     <string name="profile">Osebne informacije</string>
      <string name="progress_dialog_setting_wallpaper">Nastavitev ozadja…</string>
      <string name="protected_content_permission_name">Predvajanje zaščitene vsebine</string>
      <string name="protection_dialog_ad_title">Oglasi so blokirani</string>
@@ -2283,8 +2006,6 @@ Nekatera spletna mesta ne bodo uporabila vaše prejšnje zgodovine brskanja za p
      <string name="pull_to_refresh">Povlecite navzdol za osvežitev</string>
      <string name="pull_to_refresh_pull_label">Potegni za osvežitev…</string>
      <string name="pull_to_refresh_release_label">Spustite za priporočeno in osvežitev</string>
-     <string name="purchase">Dohodno</string>
-     <string name="push">Potisna obvestila</string>
      <string name="pwa_app_name">Spletne aplikacije</string>
      <string name="pwa_hint_added_success">Uspešno dodano</string>
      <string name="qr_code_title">QR koda</string>
@@ -2360,7 +2081,6 @@ Nekatera spletna mesta ne bodo uporabila vaše prejšnje zgodovine brskanja za p
      <string name="relevant_recommendations">Priporočeno</string>
      <string name="remember_my_choice">Zapomni si izbiro</string>
      <string name="remember_passwords_confirm_message">Izklop te storitve lahko vpliva na porabo.</string>
-     <string name="remote_config">Oddaljena konfiguracija(Klikni za izvoz)</string>
      <string name="remove_bookmark">Odstrani zaznamek</string>
      <string name="remove_bookmark_group">Izbriši skupino</string>
      <string name="remove_from_bookmarks">Odstrani iz zaznamkov</string>
@@ -2375,10 +2095,8 @@ Nekatera spletna mesta ne bodo uporabila vaše prejšnje zgodovine brskanja za p
      <string name="replace">Zamenjaj</string>
      <string name="replay">Ponovno predvajaj</string>
      <string name="reply_comment_title">Odgovor: %s</string>
-     <string name="report_no_network_error">Trenutno ni omrežja za povezavo, poskusite znova!</string>
      <string name="request_camera_permission_message">Ta storitev mora dobiti vaše dovoljenje, za zaščito vaših osebnih podatkov se bomo strogo držali ustrezne zakonodaje: &lt;br>&lt;br>&lt;b> Dostop do kamere: v realnem času lahko poskusite snemati storitve za nastavitev avatarja &lt;/b>&lt;br>&lt;br> Če se ne strinjate z dajanjem zgornjih dovoljenj, ta storitev ne bo delovala pravilno, vendar ne bo vplivala na vašo uporabo osnovnih storitev te aplikacije. Če želite preklicati soglasje, lahko v sistemskih nastavitvah izklopite dovoljenje.</string>
      <string name="request_profile_error">Informacij računa ni bilo mogoče prejeti</string>
-     <string name="resAuthority">miuibrowser</string>
      <string name="resend_active_email">Ponovno pošlji</string>
      <string name="resend_email_reach_limit_message">Zahtevali ste preveč preverjanj po e-pošti. Poglejte ali e-pošta za preverjanje ni morda v mapi Vsiljena pošta.</string>
      <string name="resend_email_reach_limit_title">Preveč poskusov</string>
@@ -2436,8 +2154,6 @@ Nekatera spletna mesta ne bodo uporabila vaše prejšnje zgodovine brskanja za p
      <string name="scan_type_empty_folder">Prazna mapa</string>
      <string name="scanner_uninstalled_text">Za nadaljevanje namestite Skener</string>
      <string name="scanner_uninstalled_title">Skener je bil odstranjen</string>
-     <string name="scanning_info">Najdeno: TXT (%1$d), EPUB (%2$d), PDF (%3$d)</string>
-     <string name="scanning_write_db">Dodajanje informacij…</string>
      <string name="score_dialog_msg_score_explorer">Vam je všeč Mi brskalnik?</string>
      <string name="score_dialog_msg_score_not_good">Cenimo vaše povratne informacije!</string>
      <string name="score_dialog_msg_score_perfect">Hvala vam za vašo podporo! Želite našo aplikacijo oceniti tudi v Trgovini Play?</string>
@@ -2446,21 +2162,16 @@ Nekatera spletna mesta ne bodo uporabila vaše prejšnje zgodovine brskanja za p
      <string name="screenshot_loading_dialog_title">Zajemanje</string>
      <string name="sdcard_error">Preverite vašo SD kartico</string>
      <string name="search">Išči</string>
-     <string name="search_baidu">Baidu</string>
      <string name="search_bar_hint_content">Iskanje aplikacij in vsebine </string>
-     <string name="search_bing">Bing</string>
      <string name="search_button_text">Pojdi</string>
      <string name="search_card_more">Več</string>
      <string name="search_card_online_rec_app">Trgovine aplikacij</string>
      <string name="search_card_online_rec_app_install">Namesti</string>
      <string name="search_card_online_rec_app_installed">Nameščeno</string>
      <string name="search_card_online_rec_app_open">Odpri</string>
-     <string name="search_dianping">Cate</string>
-     <string name="search_easou">Easou</string>
      <string name="search_empty_view_hint">Ni rezultatov</string>
      <string name="search_engine_title">Privzeto iskanje</string>
      <string name="search_error_hint">Išči</string>
-     <string name="search_file_type_apk">APK</string>
      <string name="search_file_type_doc">Dok</string>
      <string name="search_file_type_music">Glasba</string>
      <string name="search_file_type_picture">Fotografija</string>
@@ -2468,27 +2179,18 @@ Nekatera spletna mesta ne bodo uporabila vaše prejšnje zgodovine brskanja za p
      <string name="search_for_anything">Išči karkoli</string>
      <string name="search_for_anything_test_1">Poiščite splet ali svojo napravo</string>
      <string name="search_for_anything_test_2">Poiščite aplikacije in drugo</string>
-     <string name="search_google">Google</string>
      <string name="search_hint">Išči</string>
      <string name="search_label">Brskalnik</string>
      <string name="search_menu_title">Išči</string>
      <string name="search_settings">Nastavitve iskanja</string>
      <string name="search_settings_description">Zaznamki in zgodovina brskanja</string>
-     <string name="search_shipin">Video</string>
-     <string name="search_sm">SM</string>
-     <string name="search_sogou">Sogou</string>
-     <string name="search_taobao">Taobao</string>
      <string name="search_title_hint">Išči</string>
      <string name="search_trending_new">Novo</string>
      <string name="search_trending_title">V trendu</string>
      <string name="search_tupian">Slika</string>
      <string name="search_using_traceless_mode">Način brez beleženja zgodovine</string>
      <string name="search_with_browser">Iščite z Mi brskalnikom</string>
-     <string name="search_yahoo">Yahoo!</string>
-     <string name="search_yicha">Yicha</string>
      <string name="secure_download_in_xiaomi_market">Prenesite iz Xiaomi trgovine</string>
-     <string name="secureaccess">Vključi varni način</string>
-     <string name="secureaccess_cancel">Ignoriraj</string>
      <string name="security_url_confirm_message">Če izklopite to storitev lahko ustvarite varnostna tveganja.</string>
      <string name="security_warning">Varnostno opozorilo</string>
      <string name="security_warnings_confirm_message">Če izklopite to storitev lahko ustvarite varnostna tveganja.</string>
@@ -2500,7 +2202,6 @@ Nekatera spletna mesta ne bodo uporabila vaše prejšnje zgodovine brskanja za p
      <string name="select_music">Zvočne datoteke</string>
      <string name="select_video">Video datoteke</string>
      <string name="send">Pošlji</string>
-     <string name="send_bookmark">Zaznamek</string>
      <string name="send_comment_button">Pošlji</string>
      <string name="send_comment_title">Komentar</string>
      <string name="send_diagnosis_log">Pošlji poročila</string>
@@ -2532,13 +2233,11 @@ Nekatera spletna mesta ne bodo uporabila vaše prejšnje zgodovine brskanja za p
      <string name="setting_searchable_content">Iskalne stvari</string>
      <string name="setting_sms_content">SMS vsebina</string>
      <string name="setting_swipe_up">Povlecite navzgor na začetnem zaslonu</string>
-     <string name="settings">Nastavitve</string>
      <string name="settings_search_online_apps">Trgovine aplikacij</string>
      <string name="settings_search_online_apps_desc">Vsebina iz trgovin aplikacij</string>
      <string name="share_image_text">Poglej, kaj sem delil! @MIUI</string>
      <string name="share_page_text">Poglej, kaj sem delil: %1$s @MIUI| %2$s</string>
      <string name="share_slide_video_text">Poglej, kaj sem delil: %1$s</string>
-     <string name="share_video">Deli video</string>
      <string name="shear_plate_permission_name">Dostop do ali shranjevanje stvari v odložišče</string>
      <string name="short_cut_name_novel">Brezplačne knjige</string>
      <string name="shortcut_function">Bližnjice</string>
@@ -2556,19 +2255,11 @@ Nekatera spletna mesta ne bodo uporabila vaše prejšnje zgodovine brskanja za p
      <string name="sign_in_to" formatted="false">Prijavite se v %s1 \"%s2\"</string>
      <string name="sign_message">http://%s potrebuje vaše uporabniško ime in geslo.</string>
      <string name="sign_out">Izpis</string>
-     <string name="signed_in">Prijavljen</string>
-     <string name="signin_tips_1">- Prijava vam omogoča, da shranite svoj napredek.</string>
-     <string name="signin_tips_2">- Vaši podatki bodo varovani z vašim računom.</string>
-     <string name="signin_tips_3">"- Svoje kovance boste lahko uporabljali na vseh svojih napravah."</string>
-     <string name="signin_with_facebook">Vpis z Facebook</string>
-     <string name="signin_with_google">Vpis z Google</string>
      <string name="simple_page_toast">Na privzeto lahko preklopite v Nastavitve > Nastavitve začetne strani</string>
      <string name="site_content_has_update">Vsebina strani posodobljena</string>
      <string name="skip">Preskoči</string>
      <string name="skip_ad">Preskoči</string>
-     <string name="skip_button_label">Preskoči</string>
      <string name="skip_current_version">Preskoči to verzijo</string>
-     <string name="sku_all">Vse</string>
      <string name="sku_price_everymonth">%1$s vsak mesec</string>
      <string name="slide_card">Povlecite za več</string>
      <string name="slide_next_video_text">"Naslednji video: "</string>
@@ -2587,7 +2278,6 @@ Nekatera spletna mesta ne bodo uporabila vaše prejšnje zgodovine brskanja za p
      <string name="sns_bind_limit">Preveč poskusov. Preizkusite druge načine za prijavo.</string>
      <string name="sns_sign_in">Drugi načini za prijavo</string>
      <string name="soft_toast_see_view">Pokaži</string>
-     <string name="software_update">Posodobi</string>
      <string name="solar_term_autumn_begins">Začetek jeseni</string>
      <string name="solar_term_autumn_equinox">Jesensko enakonočje</string>
      <string name="solar_term_clear_and_bright">Jasno</string>
@@ -2612,39 +2302,17 @@ Nekatera spletna mesta ne bodo uporabila vaše prejšnje zgodovine brskanja za p
      <string name="solar_term_white_dews">Bela rosa</string>
      <string name="solar_term_winter_begins">Začetek zime</string>
      <string name="solar_term_winter_solstice">Zimski solsticij</string>
-     <string name="source_cancel">X</string>
      <string name="source_dislike">Ne maram</string>
      <string name="source_dislike_not_trans">Ne maram</string>
      <string name="speed_test_download">Prenesi</string>
      <string name="speed_test_no_network">"Povezave z omrežjem ni bilo mogoče vzpostaviti. Preverite omrežne nastavitve in poskusite znova."</string>
      <string name="speed_test_ping">Odloži</string>
      <string name="speed_test_upload">Naloži</string>
-     <string name="splash__access_dialog_agree">Strinjam se</string>
-     <string name="splash__access_dialog_protect">Pogoji in pravila</string>
      <string name="sport_card_match_week">Teden %d</string>
      <string name="sports_card_match_season">Sezona</string>
      <string name="sports_card_match_status_1">Prihajajoče</string>
      <string name="sports_card_match_status_2">Poteka</string>
      <string name="sports_card_match_status_3">Končano</string>
-     <string name="srl_component_falsify" formatted="false">"območje ponarejanja %s,
- Predstavlja višino [%.1fdp] vlečenja med izvajanjem,
- Ničesar ne pokaže."</string>
-     <string name="srl_content_empty">Pogled vsebine v SmartRefreshLayout je prazen. Ali ste ga pozabili dodati v datoteko postavitve xml?</string>
-     <string name="srl_footer_failed">Nalaganje ni uspelo</string>
-     <string name="srl_footer_finish">Nalaganje je uspelo</string>
-     <string name="srl_footer_loading">Nalaganje…</string>
-     <string name="srl_footer_nothing">Ni podatkov</string>
-     <string name="srl_footer_pulling">Povlecite navzgor, da naložite več</string>
-     <string name="srl_footer_refreshing">Počakajte na osvežitev…</string>
-     <string name="srl_footer_release">Spustite da naložite več</string>
-     <string name="srl_header_failed">Osvežitev ni uspela</string>
-     <string name="srl_header_finish">Osvežitev je uspela</string>
-     <string name="srl_header_loading">Počakajte na nalaganje…</string>
-     <string name="srl_header_pulling">Povlecite navzdol za osvežitev</string>
-     <string name="srl_header_refreshing">Osvežitev…</string>
-     <string name="srl_header_release">Spustite za osvežitev</string>
-     <string name="srl_header_secondary">Spustite za drugo nadstropje</string>
-     <string name="srl_header_update">"'Zadnja posodobitev' M-d HH:mm"</string>
      <string name="ssl_bad_clock_date_settings">Nastavi datum</string>
      <string name="ssl_bad_clock_warning" formatted="false">"Zasebno povezavo z %s1 ni mogoče vzpostaviti ker datum in ura vaše naprave (%s2) nista točna."</string>
      <string name="ssl_bad_expired_warning">"Ta kanal zagotavlja %1$s. Vendar datum in čas, nastavljeni v vaši napravi (%2$s), ne omogočata vzpostavitve varne povezave z %1$s. Če želite še vedno uporabljati ta kanal, lahko nastavite pravilen datum in uro ali tapnete \ "Nadaljuj \"."</string>
@@ -2664,7 +2332,6 @@ Nekatera spletna mesta ne bodo uporabila vaše prejšnje zgodovine brskanja za p
      <string name="start_save_page_capture">Shranjevanje posnetka zaslona…</string>
      <string name="storage_info_detail">Na voljo: %1$s Skupaj: %2$s</string>
      <string name="storage_internal">Notranji pomnilnik</string>
-     <string name="storage_open">Odpri</string>
      <string name="storage_permission_request_toast">"Prenos potrebuje dovoljenje za dostop do pomnilnika, dovolite to"</string>
      <string name="storage_sd_card">SD kartica</string>
      <string name="storage_usb">Zunanji pomnilnik</string>
@@ -2674,12 +2341,10 @@ Nekatera spletna mesta ne bodo uporabila vaše prejšnje zgodovine brskanja za p
      <string name="subscription_status_error">"Naročiti se ni bilo mogoče"</string>
      <string name="subscriptions_title">Urejajte svojo naročnino</string>
      <string name="successfully_added">Dodano</string>
-     <string name="suggest_access_appstore">Mi App Store</string>
      <string name="suggest_access_btn_install">Namesti</string>
      <string name="suggest_access_btn_open">Odpri</string>
      <string name="suggest_access_btn_play">Zaženi</string>
      <string name="suggest_access_btn_view">Pokaži</string>
-     <string name="suggest_access_item_app_size">%.2fMB</string>
      <string name="suggest_access_item_app_update">Posodabljanje: %s</string>
      <string name="suggest_access_music">Mi Glasba</string>
      <string name="suggest_item_delete_text">Izbriši</string>
@@ -2692,14 +2357,8 @@ Nekatera spletna mesta ne bodo uporabila vaše prejšnje zgodovine brskanja za p
      <string name="sunday">Nedelja</string>
      <string name="sunday_short">Ned</string>
      <string name="sunday_shortest">N</string>
-     <string name="surfing__home_main_discovery">Odkrij</string>
-     <string name="surfing__shared__discovery">Domov</string>
-     <string name="surfing__shared__library">Knjižnica</string>
-     <string name="surfing__shared__me">Profil</string>
      <string name="survey_feedback_general">V redu</string>
      <string name="switchText">DA</string>
-     <string name="switch_proxy_dialog_msg">"Zaznana ugrabitev omrežja. Uporabite vgrajeno aplikacijo MIUI Varnost ali to sporočite svojemu mobilnemu operaterju."</string>
-     <string name="switch_proxy_dialog_title">Ugrabitev omrežja</string>
      <string name="sync_alert_checkbox_bookmark">Zaznamki</string>
      <string name="sync_alert_checkbox_history">Zgodovina brskanja</string>
      <string name="sync_bookmark">Sinhroniziraj zaznamke</string>
@@ -2730,8 +2389,6 @@ Nekatera spletna mesta ne bodo uporabila vaše prejšnje zgodovine brskanja za p
      <string name="tag_undo_title">Zaprzo %s</string>
      <string name="talk_back_voice_search">Glasovno iskanje</string>
      <string name="temporary_not_available">"Ta storitev še ni na voljo"</string>
-     <string name="terms_policy">Pogoji in pravila</string>
-     <string name="terms_use">Pogoji uporabe</string>
      <string name="the_anniversary_of_lifting_martial_law">Obletnica odprave vojaškega stanja</string>
      <string name="the_anti_aggression_day">Dan proti agresiji</string>
      <string name="the_arbor_day">Dan vrtnice</string>
@@ -2780,8 +2437,6 @@ Nekatera spletna mesta ne bodo uporabila vaše prejšnje zgodovine brskanja za p
      <string name="ticket_invalid">Koda, ki ste jo vnesli je napačna</string>
      <string name="ticket_sign_in">Prijavite se prek SMS-a</string>
      <string name="time_picker_dialog_title">Nastavi čas</string>
-     <string name="time_picker_label_hour">H</string>
-     <string name="time_picker_label_minute">M</string>
      <string name="time_segmented_evening_title">Večerno umirjanje</string>
      <string name="time_segmented_morning_title">Dobro jutro</string>
      <string name="time_segmented_noon_title">Popoldanski izbori</string>
@@ -2802,16 +2457,9 @@ Nekatera spletna mesta ne bodo uporabila vaše prejšnje zgodovine brskanja za p
      <string name="today">Danes</string>
      <string name="tomorrow">Jutri</string>
      <string name="top_news">Najboljše zgodbe</string>
-     <string name="top_up">Dopolni</string>
      <string name="topsite_click">Kliknite TopSite</string>
      <string name="track_permission_name">Ne sledi</string>
      <string name="track_permission_name_new">"Ne dovolite sledenja vaši dejavnosti"</string>
-     <string name="traffic_fail_device_limit">Dosegli ste omejitev prijavljenih naprav</string>
-     <string name="traffic_fail_free_no_left">Zmanjkalo vam je prometa. Naročite se za nadaljevanje.</string>
-     <string name="traffic_fail_no_left">Zmanjkalo vam je VPN prometa</string>
-     <string name="traffic_fail_upload">Prišlo je do napake. Ponovno vklopite VPN.</string>
-     <string name="transfer_prompt_0">Predvajaj video</string>
-     <string name="transfer_restart">Ponovno zaženi</string>
      <string name="translate">Prevedi</string>
      <string name="translate_cur_page">Želite prevesti to stran?</string>
      <string name="translate_into">Podatki prevajanja</string>
@@ -2832,7 +2480,6 @@ Nekatera spletna mesta ne bodo uporabila vaše prejšnje zgodovine brskanja za p
      <string name="twitter_moments">Twitter trenutki</string>
      <string name="type_not_support">Ta format datoteke ni podprt. Razširite datoteko in poskusite ponovno.</string>
      <string name="unSwitchText">NE</string>
-     <string name="unauthorized_toast">Vaša seja je potekla. Ponovno se prijavite.</string>
      <string name="undo">Razveljavi</string>
      <string name="uni_search_setting_summary">Iskanje v aplikaciji</string>
      <string name="uni_search_setting_title">Izboljša rezultate iskanja</string>
@@ -2843,7 +2490,6 @@ Nekatera spletna mesta ne bodo uporabila vaše prejšnje zgodovine brskanja za p
      <string name="update_email_address_dialog_message">Pred posodobitvijo obnovitvenega e-naslova morate potrditi svojo identiteto.</string>
      <string name="update_email_address_dialog_title">Posodobite obnovitveni elektronski naslov</string>
      <string name="update_no_network_toast">Ne morem se povezati na omrežje</string>
-     <string name="update_now">POSODOBI ZDAJ</string>
      <string name="update_phone_notice">Spremeni nastavitve varnosti</string>
      <string name="upgrade">Posodobi</string>
      <string name="upload_error_log">Naložite poročilo</string>
@@ -2858,9 +2504,6 @@ Nekatera spletna mesta ne bodo uporabila vaše prejšnje zgodovine brskanja za p
      <string name="url_suggest_indicator_bookmark">Zaznamki/Zgodovina</string>
      <string name="url_suggest_indicator_hoturl">Popularno</string>
      <string name="url_suggest_indicator_mostvisited">Najbolj obiskane</string>
-     <string name="use_cellular_network_alert_message">Ni WiFi omrežja. Uporabim podatkovni prenos?</string>
-     <string name="use_cellular_network_alert_title">Poraba podatkov</string>
-     <string name="user_account_sign_in_toast">Prijava…</string>
      <string name="user_avatar_update_title">Spremeni fotografijo profila</string>
      <string name="user_avatar_uploading">Samo trenutek…</string>
      <string name="user_defined_webpage">Dodaj na začetno stran</string>
@@ -2883,14 +2526,10 @@ Kadarkoli se lahko izpišete iz programa v Nastavitve > Zasebnost in varnost."</
      <string name="user_id_hint">E-naslov/Telefon/ID Mi Računa</string>
      <string name="username">Ime</string>
      <string name="uuid">UUID(Kliknite Za izvoz)</string>
-     <string name="v5_deselect_all">Prekliči izbrano</string>
-     <string name="v5_edit_mode_title_empty">0 izbranih</string>
-     <string name="v5_select_all">Izberi vse</string>
+     <string name="v5_edit_mode_title_empty">Izberite stvari</string>
      <string name="v7_preference_off">IZKLOPLJENO</string>
      <string name="v7_preference_on">VKLOPLJENO</string>
      <string name="v_code_title">Vnesite kodo za preverjanje</string>
-     <string name="verify_error_again_title">"Plačila ni bilo mogoče dokončati. Če je vaš račun bremenil Google Pay, osvežite status plačila v svojem profilu."</string>
-     <string name="verify_error_title">Kaže da imate čakajoče naročilo. Osvežite stran, da poskusite znova.</string>
      <string name="verify_subscription">Posodabljanje naročnine…</string>
      <string name="version_check_button_checking">Preverjam…</string>
      <string name="version_check_button_default">Preveri za posodobitve</string>
@@ -2902,74 +2541,31 @@ Kadarkoli se lahko izpišete iz programa v Nastavitve > Zasebnost in varnost."</
      <string name="version_check_button_resume_download">Nadaljuj prenos</string>
      <string name="version_check_button_update">Posodobi</string>
      <string name="version_check_failed">Ne morem preveriti za posodobitve</string>
-     <string name="version_dialog_4G_checkbox">Sistemske aplikacije lahko posodobite prek mobilnih podatkov. To lahko privede do dodatnih podatkovnih stroškov.</string>
      <string name="version_dialog_buttion_ok">V redu</string>
      <string name="version_dialog_buttion_update">Posodobi</string>
      <string name="version_update_file_download_toast">Prenos</string>
      <string name="version_update_file_not_found">Posodobitve niso najdene</string>
      <string name="vibrate_permission_name">Uporabi vibracijo</string>
-     <string name="video_activity_name">Priljubljeno</string>
-     <string name="video_buffering_percent_string">"Medpomnjenje "</string>
-     <string name="video_collect_cancel">Odstrani iz priljubljenih</string>
-     <string name="video_collect_success">Dodano med priljubljene</string>
      <string name="video_collection_click_view">Videoposnetki, ki ste jih dodali med priljubljene so tukaj</string>
-     <string name="video_collection_done">Uspešno dodano. Lahko pogledate v \"Priljubljeni videi\".</string>
      <string name="video_collection_empty">Tukaj še ni videoposnetkov</string>
      <string name="video_collection_known">Razumem</string>
      <string name="video_collection_view">Pokaži</string>
      <string name="video_download_complete">Uspešno preneseno</string>
-     <string name="video_download_empty">Ni videoposnetkov</string>
-     <string name="video_download_error">Napaka</string>
-     <string name="video_download_error_http_gone">Ne najdem datoteke</string>
-     <string name="video_download_exists">Prenos že obstaja.</string>
-     <string name="video_download_fail">Ne morem prenesti</string>
-     <string name="video_download_failed">Ne morem prenesti</string>
-     <string name="video_download_finding_address">Pridobivanje povezave</string>
-     <string name="video_download_pause">Premor</string>
-     <string name="video_download_start">Prenašanje…</string>
-     <string name="video_download_success">Uspešno preneseno</string>
-     <string name="video_download_unknown_name">Neznani videoposnetek</string>
-     <string name="video_download_unknown_size">Neznana velikost</string>
-     <string name="video_download_unsupport">Ni podprto</string>
-     <string name="video_download_wait_for_wifi">Čakam na WiFi</string>
-     <string name="video_downloaded_group">Prenešeno</string>
      <string name="video_downloader_edit_hint">"Prilepite povezavo za prenos videoposnetka. Na primer:
 https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
      <string name="video_downloader_fail">Ne morem prenesti te stvari</string>
      <string name="video_downloader_retry">Poskusite ponovno</string>
-     <string name="video_downloading_group">Prenašanje</string>
-     <string name="video_edit">Uredi</string>
      <string name="video_feedback_description">Podatke, ki jih vnesete zgoraj, zbiramo in uporabljamo za izboljšanje vaše uporabniške izkušnje. Če želite izvedeti več o tem, kako zbiramo in obdelujemo vaše osebne podatke, glejte Pravila o zasebnosti.</string>
      <string name="video_feedback_description_title">Ti podatki bodo uporabljeni samo za priporočila vsebine</string>
      <string name="video_feedback_not_sumbit_toast">Pred oddajo izberite odgovor</string>
      <string name="video_feedback_thanks">Hvala za vaše povratne informacije</string>
-     <string name="video_float_window_text">Pop-up videoposnetek</string>
-     <string name="video_fragment_name_collections">Priljubljeno</string>
-     <string name="video_fragment_name_download">Izvenmrežni video</string>
-     <string name="video_fragment_name_historys">Zgodovina</string>
-     <string name="video_fragment_name_offine">Izvenmrežno</string>
-     <string name="video_group_noupdates_list">Posodobitev ni na voljo</string>
-     <string name="video_group_updates_list">Posodobitve</string>
      <string name="video_guess_you_like">Morda vam bo všeč</string>
-     <string name="video_history_empty">Ni zgodovine</string>
-     <string name="video_manager_action_bar_end_view">Spletni videoposnetki</string>
      <string name="video_play_next">Naslednje</string>
-     <string name="video_project_button">Ustavi</string>
-     <string name="video_project_msg">Videoposnetek se prikazuje na %s</string>
-     <string name="video_project_title">Video prikaz</string>
-     <string name="video_push_multi_title">Posodobitev je na voljo</string>
-     <string name="video_push_single_message">Tapnite za posodobitev na %1$d.</string>
      <string name="video_replay_btn">Ponovno predvajaj</string>
      <string name="video_report_entrance">Prijavi</string>
      <string name="video_report_submit">Predloži</string>
      <string name="video_retry_btn">Poskusite ponovno</string>
      <string name="video_select_report_reason">Izberite razlog</string>
-     <string name="video_service_notification_title">Predvajanje pop-up videoposnetka…</string>
-     <string name="video_subtitle_last_message1">Še manj kot 1 minuto</string>
-     <string name="video_subtitle_prefix1">Gledano</string>
-     <string name="video_subtitle_prefix2">"Gledano "</string>
-     <string name="video_title_prefix_message">"Izvenmrežno: "</string>
-     <string name="video_unknown_duration">Trajanje neznano</string>
      <string name="video_view_more">Več</string>
      <string name="view_certificate">Pokaži certifikat</string>
      <string name="view_details">Pokaži podrobnosti</string>
@@ -3013,7 +2609,6 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
      <string name="vpn_subscribe_tips_3">Uživajte v visoki hitrosti</string>
      <string name="vpn_used_all_free_data_toast">Zmanjkalo vam je podatkov. Naročite se za nadaljevanje.</string>
      <string name="vpn_used_all_toast">Zmanjkalo vam je podatkov</string>
-     <string name="weather_card_aqi">AQI</string>
      <string name="weather_card_baro">Pritisk</string>
      <string name="weather_card_dew_pt">Točka rosišča</string>
      <string name="weather_card_feel">Občutek kot %s</string>
@@ -3139,7 +2734,6 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
      <string name="wednesday">Sreda</string>
      <string name="wednesday_short">Sre</string>
      <string name="wednesday_shortest">S</string>
-     <string name="welcome_to_mi_browser">Dobrodošli v Mi brskalnik!</string>
      <string name="what_is_new">Posodobite aplikacijo, da dostopate do novih storitev</string>
      <string name="whatsapp_downloadpage_tips">Shranjevalec WhatsAppa</string>
      <string name="whatsapp_file_saved_success">Uspešno shranjeno</string>
@@ -3157,16 +2751,6 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
      <string name="whatsapp_webpage_tips">Shranjevalec WhatsAppa</string>
      <string name="withdraw_dia_content">Če prekličete svoje soglasje s pravilnikom o zasebnosti Center za vsebine, bo ta storitev prenehala zbirati vaše osebne podatke. Vsi osebni podatki, ki so bili predhodno zbrani in naloženi na naše strežnike bodo izbrisani. Ko prekličete svoje soglasje, ne boste mogli več uporabljati Center za vsebine. Umaknem soglasje zdaj?</string>
      <string name="xiaomi_sign_in_btn_txt">Prijavite se ali ustvarite račun</string>
-     <string name="xiaomi_update_sdk_bytes_unit">%1$sB</string>
-     <string name="xiaomi_update_sdk_connect_download_manager_fail">Povezava upravitelja prenosov ni uspela, preverite stanje upravitelja prenosov v upravljanju aplikacij.</string>
-     <string name="xiaomi_update_sdk_dialog_message">"Predstavljamo različico %1$s
-Velikost: %2$s"</string>
-     <string name="xiaomi_update_sdk_dialog_message_diff">"Predstavljamo različico %1$s
-Velikost posodobitve: %2$s"</string>
-     <string name="xiaomi_update_sdk_dialog_title">%1$s na voljo!</string>
-     <string name="xiaomi_update_sdk_external_storage_unavailable">Shramba ni na voljo, preverite kartico SD.</string>
-     <string name="xiaomi_update_sdk_kilobytes_unit">%1$sKB</string>
-     <string name="xiaomi_update_sdk_megabytes_unit">%1$sMB</string>
      <string name="year_month_day_format">dd. MMM yyyy</string>
      <string name="yes">Da</string>
      <string name="yesterday">Včeraj</string>

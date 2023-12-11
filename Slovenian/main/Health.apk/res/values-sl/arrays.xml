@@ -106,15 +106,6 @@
         <item>" km/h"</item>
         <item>" m/s"</item>
      </string-array>
-     <string-array name="splash_loading">
-        <item>Izračunavanje cilja aktivnosti…</item>
-        <item>Cilj aktivnosti: %1$d korakov</item>
-        <item>Napravili ste %1$d korakov danes</item>
-        <item>Izračunavanje cilja spanja…</item>
-        <item>Cilj spanja: %1$d hr</item>
-        <item>Za zdaj ni podatkov o spanju</item>
-        <item>Odpiranje Mi Zdravje</item>
-     </string-array>
      <string-array name="stand_guide_page_content1">
         <item>Sedenje ne koristi vašemu zdravju. Tudi če ne morete zmanjšati časa sedenja, je občasno vstajanje dobra ideja.</item>
         <item>Ta storitev vas bo spomnila, da vsako uro porabite vsaj 1 minuto za vstajanje. 12 ur z odmori za vstajanje vsak dan vam bo pomagalo preprečiti nevarnost sedečega načina življenja.</item>
