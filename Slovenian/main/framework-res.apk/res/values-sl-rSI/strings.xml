@@ -864,9 +864,9 @@ Ali ste prepričani, da želite zapustiti to stran??"</string>
      <string name="keyguard_password_entry_touch_hint"><font size="17">Dotaknite se za vnos gesla</font></string>
      <string name="keyguard_password_wrong_pin_code">Napačna koda PIN.</string>
      <string name="kg_enter_confirm_pin_hint">Potrdite željeno kodo PIN</string>
-     <string name="kg_failed_attempts_almost_at_login">"Vzorec za odklepanje ste %d-krat napačno vnesli. Po nadaljnjih %d neuspešnih poskusih boste pozvani, da odklenete telefon z Googlovimi podatki za prijavo.
+    <string name="kg_failed_attempts_almost_at_login">"You have incorrectly drawn your unlock pattern %1$d times. After %2$d more unsuccessful attempts, you will be asked to unlock your phone using an email account.
 
-Poskusite znova čez %d s."</string>
+ Try again in %3$d seconds."</string>
      <string name="kg_failed_attempts_almost_at_wipe">Telefon ste poskusili %1$d-krat napačno odkleniti. Če poskusite še %2$d-krat in ne uspete, bo ponastavljen na privzete tovarniške nastavitve in vsi uporabniški podatki bodo izgubljeni.</string>
      <string name="kg_failed_attempts_now_wiping">Telefon ste poskusili %d krat napačno odkleniti zato bo ponastavljen na privzete tovarniške nastavitve.</string>
      <string name="kg_forgot_pattern_button_text">Pozabljen vzorec</string>
