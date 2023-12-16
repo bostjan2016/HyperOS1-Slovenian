@@ -962,6 +962,8 @@ za najboljšo izkušnjo gledanja"</string>
      <string name="local_subtitle_input_keyword_text">Išči ključne besede</string>
      <string name="local_subtitle_search_result_text">Rezultati</string>
      <string name="local_subtitle_searching_text">Iskanje…</string>
+     <string name="local_tip_act_for_android_u">Uredi</string>
+     <string name="local_tip_info_for_android_u">"Mi Video ste dovolili samo prikaz nekaterih videoposnetkov."</string>
      <string name="local_video_create_a_new_playlist">Nov seznam predvajanja</string>
      <string name="local_video_date">Datum</string>
      <string name="local_video_dialog_default">Privzeto</string>
@@ -1368,6 +1370,9 @@ To dovoljenje bomo uporabili samo za iskanje videoposnetkov, ki jih iščete, in
      <string name="notification_recall_title">Vklopite obvestila</string>
      <string name="notification_tool">Orodja</string>
      <string name="notification_type_channel_music">Predvajanje glasbe</string>
+     <string name="notifications_permission_confirm">Dovoli</string>
+     <string name="notifications_permission_decline">"Ne dovoli"</string>
+     <string name="notifications_permission_title">Dovolim aplikaciji, da vam pošilja obvestila?</string>
      <string name="notify_apk_installed">Uspešno preneseno</string>
      <string name="notify_tool">orodje za obveščanje</string>
      <string name="off">[izklj.]</string>

@@ -176,6 +176,13 @@
      <string name="app_disable_description_title">Onemogočim sistemsko aplikacijo?</string>
      <string name="app_downloads">%s prenosov</string>
      <string name="app_label">Prenosi</string>
+     <string name="app_notify_dialog_btn_desc">Nastavitve</string>
+     <string name="app_notify_dialog_check_desc">"Vklopi pripomoček za obvestila, vendar ne dovoli trajnih obvestil"</string>
+     <string name="app_notify_dialog_path">Nastavitve > Obvestila &amp; vrstica stanja > Obvestila aplikacij > Glasba</string>
+     <string name="app_notify_dialog_path_10">Nastavitve > Obvestila &amp; vrstica stanja > Obvestila aplikacij > Glasba</string>
+     <string name="app_notify_dialog_path_8">Nastavitve > Obvestila &amp; vrstica stanja > Obvestila aplikacij > Glasba</string>
+     <string name="app_notify_dialog_subtitle">Vklopite obvestila za Mi glasbo, da boste lahko upravljali predvajanje glasbe v plošči obvestil.</string>
+     <string name="app_notify_dialog_title">Potrebna so dovoljenja</string>
      <string name="app_permission_confirm">Razumem</string>
      <string name="app_permission_optional">Izbirna dovoljenja</string>
      <string name="app_permission_require">Obvezna dovoljenja</string>
@@ -186,6 +193,7 @@
      <string name="app_permission_use_group_phone_desc">Za storitve Google Push</string>
      <string name="app_permission_use_group_storage">Shramba</string>
      <string name="app_permission_use_group_storage_desc">Za iskanje in predvajanje pesmi shranjenih na naparavi</string>
+     <string name="app_resident_push_switch">Dovoli trajna obvestila</string>
      <string name="apply_failure">Mikrofona ni bilo mogoče naložiti~</string>
      <string name="apply_failure_net_error">Omrežje je nenormalno, zahteva za nalaganje mikrofona ni uspela, poskusite znova pozneje~</string>
      <string name="apply_for_the_following_permissions">Ta aplikacija zahteva naslednja dovoljenja:</string>
@@ -962,6 +970,7 @@ To kodo pošljite nadzorniku."</string>
      <string name="go_to_settings">Pojdi v nastavitve</string>
      <string name="google_account_login">Prijavi se z Google</string>
 
+     <string name="google_download_music">Prenos %1$s z Google</string>
      <string name="google_login_btn_content_description">Vpis z Google</string>
      <string name="goole_pay_fail_dialog_toast">Kopiraj uspešno</string>
      <string name="goto_local_search">Išči v napravi</string>
@@ -978,6 +987,7 @@ To kodo pošljite nadzorniku."</string>
      <string name="headset_and_audio_effect_title">Slušalke &amp; zvočni efekti</string>
      <string name="headset_settings">Slušalke &amp; zvočni efekti</string>
      <string name="hgm_failed_to_connect_hint">"Preverite omrežne nastavitve in poskusite znova. Če je težava napaka strežnika hungama, jo bomo odpravili v najkrajšem možnem času."</string>
+     <string name="hgm_has_offline">"Glasbe, ki jo ponuja hungama, ni mogoče predvajati"</string>
      <string name="hgm_network_request_error_toast">"Ni bilo mogoče vzpostaviti povezave s strežniki hungama. Poskusi ponovno."</string>
      <string name="hgm_vip_btn_desc">Začnite brezplačni preizkus</string>
      <string name="hgm_vip_high_quality">Visokokakovostni prenosi</string>
@@ -1004,6 +1014,7 @@ To kodo pošljite nadzorniku."</string>
      <string name="home_tab_search">Išči</string>
      <string name="home_tab_yandex">Yandex.Glasba</string>
      <string name="hot_icon_in_fast_indexer">H</string>
+     <string name="hot_recommend">Popularno</string>
      <string name="hungama">Hungama</string>
      <string name="hungama_batch_download_alert_summary">Samo člani Gold lahko prenesejo več pesmi. Želite pridobiti članstvo za Gold?</string>
      <string name="hungama_batch_download_alert_summary_toast">Naročite se za prenos celega seznama predvajanja.</string>
@@ -2389,8 +2400,8 @@ Bodite srečni"</string>
      <string name="user_agreement_hint_with_mobile"><Data>"Prebral sem in se strinjam z Mi račun &lt;a href=%1$s>Pogoji uporabe&lt;/a> in &lt;a href=%2$s>Pravila o zasebnosti&lt;/a>, kot tudi z &lt;a href=%3$s>Pogoji storitev preverjanja China Mobile&lt;/a>."</Data></string>
      <string name="user_agreement_hint_with_telecom"><Data>"Prebral sem in se strinjam z Mi račun &lt;a href=%1$s>Pogoji uporabe&lt;/a> in &lt;a href=%2$s>Pravila o zasebnosti&lt;/a>, kot tudi z &lt;a href=%3$s>Pravila in pogoji storitev preverjanja računa eSurfing&lt;/a>."</Data></string>
      <string name="user_agreement_hint_with_unicom"><Data>"Prebral sem in se strinjam z to Mi račun &lt;a href=%1$s>Pogoji uporabe&lt;/a> in &lt;a href=%2$s>Pravila o zasebnosti&lt;/a>, kot tudi z &lt;a href=%3$s>Pogoji storitev preverjanja China Unicom&lt;/a>."</Data></string>
-     <string name="user_avatar_update_title">Change profile photo</string>
-     <string name="user_avatar_uploading">Just a sec…</string>
+     <string name="user_avatar_update_title">Spremenite fotografijo profila</string>
+     <string name="user_avatar_uploading">Delam…</string>
      <string name="user_experience_program_open">Zaradi omejitev avtorskih pravic se morate vpisati v program uporabniške izkušnje, da boste lahko predvajali prenesene pesmi. To lahko storite v Nastavitve > Gesla &amp; varnost > Zasebnost > Včlanite se v program uporabniške izkušnje.</string>
      <string name="user_name_phone_number">Telefonska številka</string>
      <string name="user_playlist_plaza">Seznam predvajanja</string>
@@ -2460,6 +2471,10 @@ Velikost Delta posodobitve: %2$s"</string>
      <string name="you_can_switch_mode_in_settings">Lahko menjate način dela v nastavitvah</string>
      <string name="you_may_like">Morda vam bo všeč</string>
      <string name="you_might_like_it">Morda vam bo všeč</string>
+     <string name="youtube_delete_dialog_cancel">Prekliči</string>
+     <string name="youtube_delete_dialog_desc">Odstranim to pesem iz priljubljenih?</string>
+     <string name="youtube_delete_dialog_ok">Odstrani</string>
+     <string name="youtube_delete_dialog_title">Odstrani iz priljubljenih</string>
      <string name="youtube_download_canl">Prekliči</string>
      <string name="youtube_download_fail_net">"Ni bilo mogoče vzpostaviti povezave z omrežjem. Preverite omrežne nastavitve in poskusite znova."</string>
      <string name="youtube_download_fail_source">Pojavila se je napaka. Počakajte minuto ali dve in poskusite znova.</string>
@@ -2471,7 +2486,10 @@ Velikost Delta posodobitve: %2$s"</string>
      <string name="youtube_download_suc">Prenešeno</string>
      <string name="youtube_play_history">Zgodovina predvajanja</string>
      <string name="youtube_share_guide_tip">Zdaj lahko videoposnetke delite s prijatelji</string>
+     <string name="youtube_store_dialog_desc">"Tukaj lahko najdete spletne videoposnetke, ki ste jih dodali med priljubljene. Če je bil videoposnetek že naložen, vam naslednjič ne bo treba uporabiti mobilnih podatkov, da bi si ga znova ogledali."</string>
+     <string name="youtube_store_dialog_ok">Razumem</string>
      <string name="youtube_tab_explore">Odkrij</string>
      <string name="youtube_tab_playlist">Seznam predvajanja</string>
+     <string name="youtube_tab_popular">Popularno</string>
      <string name="youtube_tab_trend">V trendu</string>
 </resources>

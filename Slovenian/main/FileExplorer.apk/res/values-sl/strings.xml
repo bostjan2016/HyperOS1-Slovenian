@@ -180,6 +180,7 @@ Poskusite premakniti datoteke iz vaše naprave v Mi Drive."</string>
      <string name="decompress_destination_error">"Ne morem razpakirati datotek tukaj."</string>
      <string name="decompress_encrypted_rar_not_supported">"Šifrirane datoteke RAR niso podprte."</string>
      <string name="decompress_fail">"Ne morem razpakirati datoteke."</string>
+     <string name="decompress_fail_contains_special_characters">"Ne morem stisniti. Imena stisnjenih datotek ne smejo vsebovati posebnih znakov."</string>
      <string name="decompress_input_password">Vnesite geslo</string>
      <string name="decompress_password_error">Napačno geslo.</string>
      <string name="decompress_success">Razširitev končana</string>
@@ -410,6 +411,7 @@ Poskusite premakniti datoteke iz vaše naprave v Mi Drive."</string>
      <string name="material_slider_range_start">Začetek,</string>
      <string name="menu_item_cleanup">Očisti</string>
      <string name="menu_item_midrop">Prenos datotek</string>
+     <string name="menu_item_router">Ruter</string>
      <string name="menu_item_search">Išči</string>
      <string name="menu_item_sort">Razvrsti po</string>
      <string name="menu_item_sort_add_time">"Dodano med priljubljene "</string>
@@ -421,6 +423,7 @@ Poskusite premakniti datoteke iz vaše naprave v Mi Drive."</string>
      <string name="menu_pc_open">Odpri z računalniškim programom</string>
      <string name="menu_set_wallpaper">Nastavi za sliko ozadja</string>
      <string name="message_request_manage_external_storage_perm">Raziskovalec potrebuje dovoljenje za dostop do datotek, da lahko upravlja datoteke v vaši napravi. To dovoljenje lahko podelite v nastavitvah.</string>
+     <string name="mi_router_label">Ruter</string>
      <string name="midnight">Noč</string>
      <string name="midrive_display_related">Zaslon</string>
      <string name="midrive_get_cloudvideo_file">Delam…</string>
@@ -617,6 +620,7 @@ Poskusite premakniti datoteke iz vaše naprave v Mi Drive."</string>
      <string name="operation_decompressing">Razširjam...</string>
      <string name="operation_del_fav">Umikanje iz priljubljenih…</string>
      <string name="operation_delete">Izbriši</string>
+     <string name="operation_delete_confirm_dcim_message_folder">DCIM je mapa Galerije. Če izbrišete to mapo, bodo vse stvari v njej trajno izbrisane tudi iz Galerije. Vseeno izbrišem to mapo?</string>
      <string name="operation_delete_confirm_message">Izbrišem?</string>
      <string name="operation_delete_confirm_message_folder">Vsa vsebina mape bo izbrisana.</string>
      <string name="operation_deleting">Brišem...</string>
