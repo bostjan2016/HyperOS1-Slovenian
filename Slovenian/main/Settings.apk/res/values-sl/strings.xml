@@ -1239,6 +1239,7 @@ Klici, sporočila in omrežni promet so lahko vidni vaši organizaciji."</string
      <string name="auto_rotate_switch_face_based">Omogoči zaznavanje obraza</string>
      <string name="auto_rule">Časovnik</string>
      <string name="auto_silent">Razpored časa vklopa</string>
+     <string name="auto_silent_info">Ta storitev preneha delovati, če ročno preklopite v način DND</string>
      <string name="auto_startup_application_manage">Samodejni zagon</string>
      <string name="auto_startup_count">Dovoljen samodejni zagon aplik.: %d</string>
      <string name="auto_sync_account_summary">Omogoči, da aplikacije samodejno osvežijo podatke</string>

@@ -57,6 +57,7 @@
      <string name="app_name">Določila</string>
      <string name="application_package_introduction">Ta aplikacija se uporablja za nameščanje aplikacij drugih proizvajalcev, vključno s storitvami skeniranja pred namestitvijo in priporočili storitev po namestitvi.</string>
      <string name="application_permissions">Dovoljenja aplikacije</string>
+     <string name="aquire_device_info">Dostop do informacij o napravi</string>
      <string name="authority_introduction">Upravitelj dovoljenj je osnovna storitev, ki vam omogoča upravljanje dovoljenj aplikacij v tej napravi.</string>
      <string name="back">Nazaj</string>
      <string name="backup_introduction">S to aplikacijo lahko varnostno kopirate in obnovite stvari v napravi.</string>
@@ -477,7 +478,7 @@ To storitev lahko nadzorujete v Nastavitve > Gesla &amp; varnost > Zasebnost > S
      <string name="other_settings_upload_debug_log_summary">Statistika uporabe ki nam pomaga pri iskanju in reševanju težav lahko vsebuje vaše osebne podatke.</string>
      <string name="other_settings_upload_debug_log_title">Samodejno pošlji diagnostične podatke</string>
      <string name="other_settings_user_experience">Program uporabniških izkušenj</string>
-     <string name="other_settings_user_experience_summary">Pomagajte nam izboljšati proizvode in storitve s pošiljanjem podatkov o uporabi. Pokaži podrobnosti</string>
+     <string name="other_settings_user_experience_summary">"Pomagajte nam izboljšati naše izdelke in storitve tako, da z nami delite svojo statistiko uporabe in analitiko. "</string>
      <string name="other_settings_user_experience_summary1">Pokaži Pravila o zasebnosti</string>
      <string name="other_settings_user_experience_summary_index">Podrobnosti</string>
      <string name="permission_MIUIDaemon_introduction">MIUI Daemon vam omogoča prenos podatkov iz naprave, ko je njen zaslon poškodovan.</string>
@@ -486,6 +487,7 @@ To storitev lahko nadzorujete v Nastavitve > Gesla &amp; varnost > Zasebnost > S
      <string name="permission_account">Dostop do računov v napravi:</string>
      <string name="permission_account_introduction">Za prijavo z uporabo Mi Računa</string>
      <string name="permission_application_package_introduction">Za dostop do shrambe zaradi analize in pregleda namestitvenih paketov</string>
+     <string name="permission_application_scope_description">"Ta dovoljenja uporabljamo samo pri izvajanju varnostnega preverjanja in jih ne bomo uporabljali za noben drug namen."</string>
      <string name="permission_authority_describe">Dostop do seznama aplikacij, nameščenih v tej napravi</string>
      <string name="permission_authority_describe_applist_summary">Za upravljanje dovoljenj aplikacij</string>
      <string name="permission_backup">Dostop do shrambe</string>
@@ -625,6 +627,7 @@ To storitev lahko nadzorujete v Nastavitve > Gesla &amp; varnost > Zasebnost > S
      <string name="provision_inputmethod_policy_description1">Pravila o zasebnosti</string>
      <string name="provision_next">Naprej</string>
      <string name="provision_skip_underline">Preskoči</string>
+     <string name="read_application_info">Dostop do informacij o aplikaciji</string>
      <string name="recommended_font_mark">Priporočeno</string>
      <string name="recorder_introduction">Aplikacijo lahko uporabite za snemanje zvoka in shranjevanje posnetkov na Mi Cloud.</string>
      <string name="refuse_cookie">Zavrni piškotke</string>
@@ -638,6 +641,8 @@ To storitev lahko nadzorujete v Nastavitve > Gesla &amp; varnost > Zasebnost > S
      <string name="require_network_and_authority_statement">Za normalno delovanje se mora ta storitev povezati na splet in zahteva naslednja dovoljenja:</string>
      <string name="require_network_authority_statement">Da vam lahko ponudimo osnovne storitve se morate povezati na splet in odobriti naslednja dovoljenja za zbiranje vaših osebnih podatkov:</string>
      <string name="require_network_authority_statement_dual">Za normalno delovanje se mora ta storitev povezati na splet in zahteva naslednja dovoljenja:</string>
+     <string name="safe_open_service">Varne odprte storitve</string>
+     <string name="safe_open_service_introduction">Varne odprte storitve pomagajo razvijalcem in zagotavljajo varnostne zmogljivosti na sistemski ravni za zaščito uporabnikov in njihove zasebnosti.</string>
      <string name="saturday">Sobota</string>
      <string name="saturday_short">Sob</string>
      <string name="saturday_shortest">S</string>
@@ -736,8 +741,7 @@ To storitev lahko nadzorujete v Nastavitve > Gesla &amp; varnost > Zasebnost > S
 Pred uporabo MIUI se morate strinjati z Pogoji uporabe in Pravila o zasebnosti.
 %s in komponente Mi računa se bodo povezale s spletom in pridobile vašo lokacijo."</string>
      <string name="terms_of_use_label_MSA">MSA</string>
-     <string name="terms_of_use_label_Mistore">Mi Store sistemski dodatek</string>
-     <string name="terms_of_use_label_RMS">Upravitelj dovoljenj</string>
+     <string name="terms_of_use_label_RMS">Dovoljenja</string>
      <string name="terms_of_use_label_ai_assistant">AI Asistent</string>
      <string name="terms_of_use_label_app_vault">Os. asistent</string>
      <string name="terms_of_use_label_back">Storitev varnostnega kopiranja</string>
@@ -812,6 +816,8 @@ Morate se strinjati z Mint Keyboard Pravila o zasebnosti pred uporabo te storitv
      <string name="user_strayed_warning">Ta stran je dizajnirana za tovarniške raziskave. Tapnite \"Nazaj\" za izhod.</string>
      <string name="v7_preference_off">IZKLJUČENO</string>
      <string name="v7_preference_on">VKLJUČENO</string>
+     <string name="verify_application_security">Za preverjanje varnosti aplikacije</string>
+     <string name="verify_device_security">Za preverjanje varnosti naprave</string>
      <string name="voice_assist_advice">Mi AI vam omogoča uporabo glasovnih kontrol, porabi pa več energije (+1% vsako uro).</string>
      <string name="voice_assist_condition">"V teh primreih na boste mogli uporabljati Mi AI:
 1. Ko je zaslon vključen.

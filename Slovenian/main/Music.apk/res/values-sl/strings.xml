@@ -194,6 +194,7 @@
      <string name="app_permission_use_group_storage">Shramba</string>
      <string name="app_permission_use_group_storage_desc">Za iskanje in predvajanje pesmi shranjenih na naparavi</string>
      <string name="app_resident_push_switch">Dovoli trajna obvestila</string>
+     <string name="app_third_privacy">Pravila o zasebnosti tretjih oseb</string>
      <string name="apply_failure">Mikrofona ni bilo mogoče naložiti~</string>
      <string name="apply_failure_net_error">Omrežje je nenormalno, zahteva za nalaganje mikrofona ni uspela, poskusite znova pozneje~</string>
      <string name="apply_for_the_following_permissions">Ta aplikacija zahteva naslednja dovoljenja:</string>

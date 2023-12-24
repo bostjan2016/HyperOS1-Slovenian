@@ -155,8 +155,12 @@
      <string name="ai_confirm_delete_image_title">Izbrišem AI sliko?</string>
      <string name="ai_continue_create_btn">Nadaljuj</string>
      <string name="ai_continue_update_image_btn">Nadaljuj</string>
+     <string name="ai_continue_upload_photo">Nadaljuj</string>
      <string name="ai_create_ai_image">Ustvari AI sliko</string>
      <string name="ai_create_image_fail">"Slike AI ni bilo mogoče ustvariti zaradi napake strežnika. Poskusite ponovno."</string>
+     <string name="ai_create_image_fail_by_illegal_photo">"Kaže, da fotografije, ki ste jih naložili kršijo naše standarde skupnosti.
+Poskusite ustvariti sliko AI z drugimi fotografijami."</string>
+     <string name="ai_create_image_fail_by_net">"Ne morem ustvariti slike AI. Naši strežniki so zdaj prezasedeni. Poskusite ponovno."</string>
      <string name="ai_create_image_photo_tip">Fotografije bodo izbrisane iz naših strežnikov, ko bo ustvarjena slika AI</string>
      <string name="ai_create_image_tip">Fotografije bodo izbrisane iz naših strežnikov, ko bo ustvarjena slika AI</string>
      <string name="ai_create_remain_time" formatted="false">Čas čakanja: %1s %2s</string>
@@ -172,12 +176,21 @@
      <string name="ai_creation_save_failed_msg">"Ni bilo mogoče shraniti. Poskusite ponovno."</string>
      <string name="ai_creation_save_success_msg">Shranjeno</string>
      <string name="ai_creation_wait_message">Ustvarjam… | %1$s | %2$s</string>
+     <string name="ai_cta_agree_btn">Dovoli</string>
+     <string name="ai_cta_dialog_message">Dovolite Galeriji povezavo s spletom, da lahko ustvarite portrete z umetno inteligenco.</string>
+     <string name="ai_cta_dialog_title">Potrebna so dovoljenja</string>
+     <string name="ai_cta_refuse_btn">Ne, hvala</string>
      <string name="ai_deal_file_tip">"Ne zapustite te strani"</string>
      <string name="ai_deal_file_title">Obdelava fotografij…</string>
      <string name="ai_deal_tile_text">Izračun potrebnega časa…</string>
      <string name="ai_delete_image_fail">"Ni bilo mogoče izbrisati. Poskusite ponovno."</string>
      <string name="ai_delete_image_progress_message">Brišem…</string>
      <string name="ai_delete_image_success">Slika AI je bila uspešno izbrisana</string>
+     <string name="ai_download_filter_photo_so_confirm_btn">Prenesi</string>
+     <string name="ai_download_filter_photo_so_downloading">Prenašanje vtičnika…</string>
+     <string name="ai_download_filter_photo_so_message">Če želite uporabljati vse storitve portreta AI, najprej prenesite vtičnik.</string>
+     <string name="ai_download_filter_photo_so_title">Prenesi vtičnik</string>
+     <string name="ai_download_filter_so_fail_toast">"Ne morem prenesti. Poskusite ponovno."</string>
      <string name="ai_enhance_bar_default">Ustvari HD sliko</string>
      <string name="ai_enhance_bar_failed">"Slike HD ni bilo mogoče ustvariti"</string>
      <string name="ai_ensure_exit_select_message">"Naslednjič boste morali znova izbrati fotografije."</string>
@@ -189,6 +202,7 @@
      <string name="ai_free_creation_button">Ustvari</string>
      <string name="ai_free_creation_container_msg">Na primer: sprehod po plaži</string>
      <string name="ai_free_creation_container_title">Vnesite opis</string>
+     <string name="ai_free_creation_illegal_text_toast">To besedilo krši naše standarde skupnosti. Na novo napišite svoje sporočilo.</string>
      <string name="ai_free_creation_random_button">Naključno</string>
      <string name="ai_free_creation_text_container_tips">"Naš generator slik AI se nenehno izboljšuje. Če z rezultati niste zadovoljni, lahko kadar koli spet poskusite kasneje!"</string>
      <string name="ai_free_creation_text_count_exceed_limit">Besedilo, ki ste ga vnesli je predolgo</string>
@@ -210,7 +224,7 @@ Namesto tega izberite druge fotografije in poskusite znova."</string>
      <string name="ai_image_over_limit_button_cancel">Razumem</string>
      <string name="ai_image_over_limit_button_create">Nadaljuj</string>
      <string name="ai_image_over_limit_title">"Ne morem ustvariti slike AI"</string>
-     <string name="ai_image_privacy_message">" "<Data>" Dobrodošli v portretih AI!&lt;br/>Da vam lahko nudimo storitve, moramo zbrati potrebne osebne podatke:&lt;br/>1. Če želite ustvariti portrete z umetno inteligenco, boste morali naložiti &lt;b>fotografije ljudi&lt;/b> na naše serverje. Zbirali in obdelovali bomo podatke o &lt;b>obrazih&lt;/b> za ustvarjanje modela AI.&lt;br/>2. Ko naložite &lt;b>slike ljudi&lt;/b>, bomo sinhronizirali &lt;b>njihova imena in fotografije profila&lt;/b> iz ustreznih albumov in te informacije povezali s slikami AI.&lt;br/>3. Ko ustvarite slike AI na podlagi besedila, bomo zbrali &lt;b>opis&lt;/b> ki ga posredujete za ustvarjanje slik.&lt;br/>Zbiramo le osebne podatke, ki so potrebni za posebne funkcije naših izdelkov in storitev, ki jih uporabljate. Kako zbiramo in obdelujemo osebne podatke, lahko izveste v &lt;a href=\"%1$s\">AI Portret Pravila o zasebnosti&lt;/a>.&lt;br/>Preberite in se strinjate z &lt;a href=\"%2$s\">AI Portret Pogoji uporabe&lt;/a> in &lt;a href=\"%3$s\">AI Portret Pravila o zasebnosti&lt;/a> preden nadaljujete. "</Data>" "</string>
+     <string name="ai_image_privacy_message"><Data>"Dobrodošli v portretih AI!&lt;br/>Da vam lahko nudimo storitve, moramo zbrati potrebne osebne podatke:&lt;br/>&lt;xliff:g refersto=1 id=INDEX_1>%1$s&lt;/xliff:g>. Če želite ustvariti portrete z umetno inteligenco, boste morali naložiti &lt;b>fotografije ljudi&lt;/b> na naše serverje. Zbirali in obdelovali bomo podatke o &lt;b>obrazih&lt;/b> za ustvarjanje modela AI.&lt;br/>&lt;xliff:g refersto=2 id=INDEX_2>%2$s&lt;/xliff:g>. Ko naložite &lt;b>slike ljudi&lt;/b>, bomo sinhronizirali &lt;b>njihova imena in fotografije profila&lt;/b> iz ustreznih albumov in te informacije povezali s slikami AI.&lt;br/>&lt;xliff:g refersto=3 id=INDEX_3>%3$s&lt;/xliff:g>. Ko ustvarite slike AI na podlagi besedila, bomo zbrali &lt;b>opis&lt;/b> ki ga posredujete za ustvarjanje slik.&lt;br/>Zbiramo le osebne podatke, ki so potrebni za posebne funkcije naših izdelkov in storitev, ki jih uporabljate. Kako zbiramo in obdelujemo osebne podatke, lahko izveste v &lt;a href=\"%4$s\">AI Portret Pravila o zasebnosti&lt;/a>.&lt;br/>Preberite in se strinjajte z &lt;a href=\"%5$s\">AI Portret Pogoji uporabe&lt;/a> in &lt;a href=\"%6$s\">AI Portret Pravila o zasebnosti&lt;/a> preden nadaljujete."</Data></string>
      <string name="ai_input_name_hint">Vnesite ime</string>
      <string name="ai_loading">Delam…</string>
      <string name="ai_multi_window_tip">"Te strani si ni mogoče ogledati na razdeljenem zaslonu"</string>
@@ -221,6 +235,7 @@ Namesto tega izberite druge fotografije in poskusite znova."</string>
      <string name="ai_no_net_toast">"Ni bilo mogoče vzpostaviti povezave z omrežjem. Poskusite ponovno."</string>
      <string name="ai_normal_theme_button">Ustvari</string>
      <string name="ai_photo_upload_fail">"Ni bilo mogoče naložiti. Poskusite ponovno."</string>
+     <string name="ai_photos_upload_fail_tip">"Fotografije osebe %s še niso bile naložene. Zdaj lahko nadaljujete z nalaganjem fotografij."</string>
      <string name="ai_preview_failed_retry_button">Poskusite ponovno</string>
      <string name="ai_privacy_tip_1">ID fotografije</string>
      <string name="ai_privacy_tip_2">Rojstnodnevni portret</string>
@@ -228,6 +243,10 @@ Namesto tega izberite druge fotografije in poskusite znova."</string>
      <string name="ai_privacy_title">Izjava o zasebnosti</string>
      <string name="ai_re_create_image">Poskusite ponovno</string>
      <string name="ai_ready_to_have_try">Začni</string>
+     <string name="ai_recreate_image_cancel_text_btn">Nadaljuj</string>
+     <string name="ai_recreate_image_confirm_text_btn">Izberi</string>
+     <string name="ai_recreate_image_dialog_msg">Lahko nadaljujete z nalaganjem fotografij ali izberete nove.</string>
+     <string name="ai_recreate_image_dialog_title">"Fotografije osebe %s še niso bile naložene"</string>
      <string name="ai_refuse_update_toast">Izberite nove fotografije, da boste lahko posodobili to sliko AI</string>
      <string name="ai_select_people_sub_title" formatted="false">%1d–%2d najboljših fotografij bo samodejno izbrano</string>
      <string name="ai_select_people_title">Izberite osebo, da ustvarite njeno sliko AI</string>
@@ -245,6 +264,7 @@ Najboljši posnetki so izbrani samodejno. Več fotografij lahko dodate ročno."<
      <string name="ai_select_photo_manual">Izberite ročno</string>
      <string name="ai_select_photo_need_select_manual">Ni dovolj fotografij. Dodajte jih več.</string>
      <string name="ai_select_photo_next_step">Naprej</string>
+     <string name="ai_select_photo_no_result_toast">"Na podlagi teh fotografij ni mogoče ustvariti slike z umetno inteligenco. Izberite druge fotografije."</string>
      <string name="ai_select_photo_over_time_toast">Najboljši posnetki so bili izbrani samodejno. Dodajte več fotografij ročno.</string>
      <string name="ai_select_photo_right_guide_face">Obrnjen naprej</string>
      <string name="ai_select_photo_right_guide_multi_bg">Različna ozadja</string>
@@ -551,6 +571,7 @@ Priključite polnilnik in izklopite zaslon, da se prikažejo spomini."</string>
      <string name="btn_sure">V redu</string>
      <string name="burst_image_download_item_title" formatted="false">Prenesi original (%s|%s)</string>
      <string name="burst_photo_enter">Zaporedno</string>
+     <string name="burst_photo_preview_thumbnail_content_description">Slika %d</string>
      <string name="burst_preview_title">Zaporedno slikanje</string>
      <string name="burst_save_all">Shrani vse</string>
      <string name="burst_save_choice_title">Izbrano %1$d od %2$d</string>

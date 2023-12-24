@@ -120,6 +120,10 @@
         <item quantity="other">Izbrišem osnutke: %1$d?</item>
         <item quantity="one">Izbrišem %1$d osnutek?</item>
      </plurals>
+     <plurals name="manual_picture_style_desc_custom_add_max">
+        <item quantity="other">Dodaj do %d prednastavitev</item>
+        <item quantity="one">Dodaj do %d prednastavitev</item>
+     </plurals>
      <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">izbrano %d stvari</item>
         <item quantity="one">izbrana %d stvar</item>
