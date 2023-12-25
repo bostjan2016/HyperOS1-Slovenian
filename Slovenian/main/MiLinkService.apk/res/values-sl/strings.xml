@@ -41,8 +41,7 @@
      <string name="appcirculate_fragment_circulate_app_content_description">Predogled: %1$s</string>
      <string name="appcirculate_fragment_circulate_device_card_button">Vklopi</string>
      <string name="appcirculate_fragment_circulate_device_card_subtitle">Pokaži pomoč</string>
-     <string name="appcirculate_fragment_circulate_device_card_switch_subtitle">"Vklopite za iskanje naprav v bližini
-in na njih predvajanje zvoka in videa"</string>
+     <string name="appcirculate_fragment_circulate_device_card_switch_subtitle">Dovolite aplikaciji, da poišče naprave v bližini, da bo lahko uporabljala kontrole in storitve medsebojnega povezovanja</string>
      <string name="appcirculate_fragment_circulate_device_card_switch_title_1">Vklopite WiFi in Bluetooth</string>
      <string name="appcirculate_fragment_circulate_device_card_switch_title_1_global">Vklopite WiFi in Bluetooth</string>
      <string name="appcirculate_fragment_circulate_device_card_switch_title_2">Vklopite Bluetooth</string>
@@ -71,17 +70,9 @@ vaših naprav?"</string>
      <string name="appcirculate_toast_success_3">Predvajanje…</string>
      <string name="ask_for_using_camera">Odklenite napravo, da podelite dovoljenje</string>
      <string name="audio_record_des">Za prenos zvoka iz mobilne naprave na zunanje monitorje</string>
-     <string name="auth_MIUI_and_phone_model">"Ta stran je na voljo samo za
-MIUI 13 Beta preizkuševalce."</string>
-     <string name="auth_check_loading">Delam…</string>
-     <string name="auth_no_user">"Ta stran je na voljo samo za Beta preizkuševalce.
-Za sinhronizacijo dovoljenj se prijavite v svoj račun Mi v Nastavitve > Račun Mi."</string>
-     <string name="auth_phone_model">"Te strani si ni mogoče ogledati v tej napravi."</string>
-     <string name="auth_show_to_test_user">Ta stran je na voljo samo za Beta preizkuševalce.</string>
-     <string name="ball_hint_connect_fail">"Couldn't perform this action. Wait a minute or two and try again."</string>
-     <string name="ball_hint_text_loading">Just a sec…</string>
-     <string name="ball_hint_text_success">Connected successfully</string>
-     <string name="bottom_sheet_behavior">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
+     <string name="ball_hint_connect_fail">"Tega dejanja ni bilo mogoče izvesti. Počakajte minuto ali dve in poskusite znova."</string>
+     <string name="ball_hint_text_loading">Delam…</string>
+     <string name="ball_hint_text_success">Povezano</string>
      <string name="bottomsheet_action_collapse">Strni spodnji list</string>
      <string name="bottomsheet_action_expand">Razširi spodnji list</string>
      <string name="bottomsheet_action_expand_halfway">Razširi do polovice</string>
@@ -142,7 +133,6 @@ Za sinhronizacijo dovoljenj se prijavite v svoj račun Mi v Nastavitve > Račun 
      <string name="circulate_card_mirror_device_subtitle">"Prikaz zaslon telefona…"</string>
      <string name="circulate_card_mirror_device_title_laptop">Računalnik</string>
      <string name="circulate_card_mirror_device_title_pad">Tablica</string>
-     <string name="circulate_card_mirror_device_title_television">TV</string>
      <string name="circulate_card_mirror_help"><u>Združljive naprave</u></string>
      <string name="circulate_card_mirror_pad_subtitle">"Povlecite \"Zaslon tabličnega računalnika\" na TV za zrcaljenje zaslona"</string>
      <string name="circulate_card_mirror_pad_title">"Zaslon tablice"</string>
@@ -207,7 +197,6 @@ za zrcaljenje zaslona tega tabličnega računalnika"</string>
      <string name="circulate_cta_agree">Strinjam se</string>
      <string name="circulate_cta_app_name">Mi Smart Hub</string>
      <string name="circulate_cta_desc_lite_phone">Storitve medsebojne povezljivosti Xiaomi omogočajo vašim napravam brezžično interakcijo med seboj. Za normalno delovanje morajo te storitve vzpostaviti povezavo s spletom in zahtevati naslednja dovoljenja:</string>
-     <string name="circulate_cta_desc_pad">Dobrodošli v Mi Smart Hub! Ta aplikacija vam omogoča uporabo predvajanja in Mi Smart Play ter prenos multimedijskega predvajanja iz ene naprave v drugo. Ta aplikacija se mora povezati s spletom in za normalno delovanje potrebuje naslednja dovoljenja:</string>
      <string name="circulate_cta_desc_phone">Dobrodošli v Mi Smart Hub! Ta aplikacija vam omogoča uporabo predvajanja, Mi Smart Play in MIUI+ Beta, kot tudi zagon opravil na eni od vaših naprav in nato brez težav preklop na drugo napravo. Ta aplikacija se mora povezati s spletom in za normalno delovanje potrebuje naslednja dovoljenja:</string>
      <string name="circulate_cta_exit">Izhod</string>
      <string name="circulate_cta_premission_bluetooth_subtitle">Za povezovanje naprav in prenos podatkov med njimi</string>
@@ -221,19 +210,13 @@ za zrcaljenje zaslona tega tabličnega računalnika"</string>
      <string name="circulate_cta_premission_storage_subtitle">Za brezžično pošiljanje in prejemanje stvari</string>
      <string name="circulate_cta_premission_storage_title">Dostop do fotografij in datotek ter shranjevanje v tej napravi</string>
      <string name="circulate_cta_premission_transferring_data_subtitle">Za prenos podatkov med povezanimi napravami</string>
-     <string name="circulate_cta_premission_wlan_subtitle">Za iskanje naprav v bližini in prenos opravil prek WiFi</string>
      <string name="circulate_cta_premission_wlan_subtitle_china">Za prenos stvari in povezovanje naprav prek WiFi</string>
-     <string name="circulate_cta_premission_wlan_subtitle_global">Za iskanje naprav v bližini in prenos opravil prek WiFi</string>
-     <string name="circulate_cta_premission_wlan_subtitle_miui_plus">Za prenos opravil prek WiFi</string>
-     <string name="circulate_cta_premission_wlan_subtitle_miui_plus_global">Za prenos opravil prek WiFi</string>
      <string name="circulate_cta_premission_wlan_title">Vklopite in izklopite WiFi</string>
-     <string name="circulate_cta_premission_wlan_title_global">Vklopite in izklopite WiFi</string>
      <string name="circulate_cta_user_agreement">Preberite in se strinjajte z &lt;txt href=\"%1$s\">Pogoji uporabe&lt;/txt> in &lt;txt href=\"%2$s\">Pravila o zasebnosti&lt;/txt> preden nadaljujete.</string>
      <string name="circulate_device_type_name_mijia">Pametne domače naprave</string>
      <string name="circulate_device_type_name_pad">Tablica</string>
      <string name="circulate_device_type_name_pc">Računalnik</string>
      <string name="circulate_device_type_name_phone">Telefon</string>
-     <string name="circulate_device_type_name_tv">TV</string>
      <string name="circulate_device_type_name_wifi_speaker">Zvočnik</string>
      <string name="circulate_device_type_name_wifi_speaker_with_screen">Zvočnik z zaslonom na dotik</string>
      <string name="circulate_headset_back_to_box_desc">"1. Obe slušalki vstavite v etui za polnjenje.
@@ -287,7 +270,7 @@ in se prijavite v svoj račun Xiaomi"</string>
      <string name="circulate_help_card_subtitle">Pokaži pomoč</string>
      <string name="circulate_help_card_title">"Ne najdete
 vaših naprav?"</string>
-     <string name="circulate_help_error">"Ne morem se povezati naomrežje"</string>
+     <string name="circulate_help_error">"Ne morem se povezati na omrežje"</string>
      <string name="circulate_help_exit_button_content_description">Izhod</string>
      <string name="circulate_help_feedback_button">Pov. informacije</string>
      <string name="circulate_jump_to_mijia">Odpri Mi dom/Xiaomi dom</string>
@@ -351,10 +334,8 @@ vaših naprav?"</string>
      <string name="close_invisible_mode_dialog_message">"Mi Smart Play zdaj ni mogoče uporabljati. Če želite uporabljati to storitev, v nastavitvah izklopite način brez beleženja zgodovine."</string>
      <string name="close_invisible_mode_dialog_ok">Nastavitve</string>
      <string name="close_invisible_mode_dialog_title">"Ste brez beleženja zgodovine"</string>
-     <string name="close_slave_wifi_hint">Odklopite se z pomožnega WiFi omrežja pred predvajanjem</string>
-     <string name="close_slave_wifi_hint_china">Odklopite se z pomožnega WiFi omrežja pred predvajanjem</string>
-     <string name="config_wifi_label_china">Konfigurirajte MiPaiPai WiFi</string>
-     <string name="config_wifi_label_global">Konfigurirajte MiPaiPai WiFi</string>
+     <string name="config_wifi_label_china">Xiaomi konferenca Tapcast WiFi</string>
+     <string name="config_wifi_label_global">Xiaomi konferenca Tapcast WiFi</string>
      <string name="connect_device_fail">"Ne morem se povezati z napravo"</string>
      <string name="connect_setting_privacy_title">Zasebnost</string>
      <string name="connect_settings_application_ecological">Kombiniraj aplikacije</string>
@@ -386,7 +367,6 @@ vaših naprav?"</string>
      <string name="connect_settings_summary_share_notification_phone">Pokaži obvestila na bližnjih tablicah ali računalnikih, ki so v uporabi, ko je ta naprava zaklenjena</string>
      <string name="connect_settings_user_agreement">Pogoji uporabe</string>
      <string name="connect_settings_withdraw_consent">Preklic soglasja</string>
-     <string name="connect_success">%1$s povezano</string>
      <string name="connection_failed">"Kamere ni bilo mogoče povezati"</string>
      <string name="console_guide_btn_got_it">Razumem</string>
      <string name="console_guide_subtitle_hang_up">"Ne prekinjajte predvajanja ko se zaslon telefona izključi. Lahko povzroči večjo porabo energije."</string>
@@ -443,7 +423,7 @@ Za dodatna vprašanja poglejte Pomoč."</string>
      <string name="dialog_scanning_close_dual_wifi_global">Če želite predvajati, izklopite \"Dvopasovno povečanje hitrosti WiFi\". Želite to storitev zdaj izklopiti?</string>
      <string name="dialog_scanning_close_tethering">Če želite predvajati, izklopite dostopno točko. Želite izklopiti dostopno točko?</string>
      <string name="dialog_scanning_device">Iskanje naprav v bližini…</string>
-     <string name="dialog_scanning_precondition">Vključite WiFi in Bluetooth na svojemm telefonu za uporabo brezžičnega zaslona.</string>
+     <string name="dialog_scanning_precondition">Vključite WiFi in Bluetooth na svojem telefonu za uporabo brezžičnega zaslona.</string>
      <string name="dialog_scanning_precondition_new_china">Vključite WiFi, Bluetooth in storitve lociranja za uporabo brezžičnega zaslona. Vključim?</string>
      <string name="dialog_scanning_precondition_new_global">Vključite WiFi in storitve lociranja za uporabo brezžičnega zaslona. Vključim?</string>
      <string name="dialog_select_tv">Izberite napravo (%1$d)</string>
@@ -461,10 +441,8 @@ Za dodatna vprašanja poglejte Pomoč."</string>
      <string name="err_toast_msg_mirror_support_support_only">"Ta naprava podpira samo zrcaljenje zaslona. Poskusite povleči kartico z zaslonom te naprave."</string>
      <string name="err_toast_msg_not_support">"To dejanje ni podprto"</string>
      <string name="err_toast_msg_not_support_audio_protocol">"Predvajanja zvoka ni mogoče prenesti v to napravo"</string>
-     <string name="err_toast_msg_not_support_video_protocol">"Ta naprava ne podpira MIUI+"</string>
      <string name="err_toast_msg_retry_later">"Tega dejanja ni bilo mogoče izvesti. Počakajte minuto ali dve in poskusite znova."</string>
      <string name="err_toast_msg_try_switch_network">Povežite svojo mobilno napravo in računalnik z istim omrežjem WiFi</string>
-     <string name="err_toast_msg_upgrade_pc_version">Posodobite MIUI+ v računalniku, da boste lahko uporabljali to storitev</string>
      <string name="error_a11y_label">Napaka: neveljavno</string>
      <string name="error_icon_content_description">Napaka</string>
      <string name="evening">Večer</string>
@@ -544,26 +522,6 @@ Za dodatna vprašanja poglejte Pomoč."</string>
      <string name="global_privacy_positive">Strinjam se</string>
      <string name="global_privacy_screencast">Med snemanjem ali predvajanjem lahko storitev, ki ponuja to funkcijo, zajame vse občutljive informacije, ki so prikazane na vašem zaslonu ali predvajane iz vaše naprave, vključno z občutljivimi informacijami, kot so zvok, gesla, podatki o plačilu, fotografije in sporočila..</string>
      <string name="global_privacy_tip"><Data>Zbrati moramo potrebne osebne podatke, da vam zagotovimo osnovne storitve in optimiziramo postopek oddajanja. Izvedite, kako ravnamo s podatki, ki jih zbiramo v &lt;a href=%1$s>Pravila o zasebnosti&lt;/a>. Soglasje za pravilnik o zasebnosti lahko kadar koli umaknete v Nastavitvah.</Data></string>
-     <string name="guide_confirm_button_text">Začetek</string>
-     <string name="guide_exit_button_content_description">Izhod</string>
-     <string name="guide_next_button_text">Več o tem</string>
-     <string name="guide_page_subtitle_0">Mi Smart Hub združi vaše naprave v eno samo delovno postajo, tako da vam omogoči, da začnete opravilo na eni od naprav in nato nemoteno preklopite na drugo napravo.</string>
-     <string name="guide_page_subtitle_0_pad">Mi Smart Hub združuje vaše mobilne naprave, kot tudi televizorje in pametne zvočnike, ki so povezani v isto omrežje WiFi, v eno delovno postajo, tako da vam omogoča, da začnete opravilo na eni od naprav in nato brez težav preklopite na drugo napravo.</string>
-     <string name="guide_page_subtitle_0_pad_global">Mi Smart Hub združuje vaše mobilne naprave, kot tudi televizorje in pametne zvočnike, ki so povezani v isto omrežje WiFi, v eno delovno postajo, tako da vam omogoča, da začnete opravilo na eni od naprav in nato brez težav preklopite na drugo napravo.</string>
-     <string name="guide_page_subtitle_1">Povlecite zvočno kartico na zvočnik ali TV, da nadaljujete predvajanje v drugi napravi.</string>
-     <string name="guide_page_subtitle_1_pad">Povlecite zvočno kartico na zvočnik ali TV, da nadaljujete predvajanje v drugi napravi.</string>
-     <string name="guide_page_subtitle_2">"Povlecite kartico z zaslonom te naprave na tablico, računalnik ali TV, da zrcalite, kar je na zaslonu vaše naprave."</string>
-     <string name="guide_page_subtitle_2_pad">"Povlecite kartico z zaslonom te naprave na tablico, računalnik ali TV, da zrcalite, kar je na zaslonu vaše naprave."</string>
-     <string name="guide_page_subtitle_3">"Povlecite aplikacijo v Mi Smart Hub in izberite napravo, na kateri želite nadaljevati svojo trenutno opravilo."</string>
-     <string name="guide_page_subtitle_earphones">"Povlecite slušalke med telefonom, tablico in televizorjem, da hitro preklopite povezavo slušalk z drugo napravo"</string>
-     <string name="guide_page_title_0">Dobrodošli v Mi Smart Hub!</string>
-     <string name="guide_page_title_0_pad">Dobrodošli v Mi Smart Hub!</string>
-     <string name="guide_page_title_1">Predvajanje zvoka</string>
-     <string name="guide_page_title_1_pad">Predvajanje zvoka</string>
-     <string name="guide_page_title_2">Zrcalni zaslon</string>
-     <string name="guide_page_title_2_pad">Zrcalni zaslon</string>
-     <string name="guide_page_title_3">Aplikacije</string>
-     <string name="guide_page_title_earphones">Hitri preklop</string>
      <string name="hang_up">Predvajaj ko je ekran izključen</string>
      <string name="hang_up_alert_dialog_content">"Predvajanje se ne bo prekinilo ko se zaslon vašega telefona izključi. Pritisnite tipko za vklop na telefonu da boste ponovno vključili zaslon."</string>
      <string name="hang_up_alert_dialog_neg">Prekliči</string>
@@ -572,7 +530,6 @@ Za dodatna vprašanja poglejte Pomoč."</string>
      <string name="head_toast_connecting">Povezovanje…</string>
      <string name="head_toast_fail">"Ne morem se povezati"</string>
      <string name="head_toast_success">Povezano</string>
-     <string name="headset_circulate_connect_success">povezano</string>
      <string name="headset_content_description">Slušalke povezane s to napravo. Dvakrat pritisnite za aktiviranje. Pritisnite z dvema prstoma in povlecite za prenos predvajanja.</string>
      <string name="help_page_text_01">Pomoč</string>
      <string name="help_page_text_02">Kaj je predvajanje?</string>
@@ -633,37 +590,26 @@ Mobilno napravo in zunanji monitor (npr. Televizor) priključite v isto omrežje
 Če morate ročno odpreti storitev Miracast, pritisnite gumb [Meni] na TV daljincu za izbiro TV ekrana. Aplikacije &gt; Brezžično deljenje &gt; Millet / Android Miracast."</string>
      <string name="help_page_text_17_1">Xiaomi pomoč uporabnikom: 400-100-5678</string>
      <string name="help_page_text_17_content">Stvari iz telefona Xiaomi lahko projicirate na večino modelov Xiaomi TV z zmožnostmi Bluetooth, ne da bi ročno vklopili Miracast. Če morate vklopiti Miracast, pritisnite gumb [MENI] in začnite predvajati z uporabo možnosti za druge telefone Android.</string>
-     <string name="help_page_text_18">Samsung TV</string>
      <string name="help_page_text_19">Najprej preverite ali vaša naprava podpira Miracast funkcionalnost. Na nekaterih modelih lahko pritisnete tipko [SOURCE] na daljincu in potem izberite \"Screen Mirroring\". To je standardno vključeno na različnih modelih.</string>
      <string name="help_page_text_20">Samsung pomoč uporabnikom: 400-810-5858</string>
-     <string name="help_page_text_21">LG TV</string>
      <string name="help_page_text_22">Najprej preverite ali vaša naprava podpira Miracast funkcionalnost. To je standardno vključeno na različnih modelih.</string>
      <string name="help_page_text_23">LG pomoč uporabnikom: 400-819-9999</string>
-     <string name="help_page_text_24">Philips TV</string>
      <string name="help_page_text_25">Najprej preverite ali vaša naprava podpiraj Miracast funkcionalnost. To je standardno vključeno na različnih modelih.</string>
      <string name="help_page_text_26">Philips pomoč uporabnikom: 400-880-0008</string>
-     <string name="help_page_text_27">TPV</string>
      <string name="help_page_text_28">Najprej preverite ali vaša naprava podpira Miracast funkcionalnost. Na nekaterih modelih lahko pritisnete tipko [MENU] na daljincu in potem izberite Nastavitve &gt; Povezava &gt; Omrežje &gt; Več zaslonov.</string>
      <string name="help_page_text_29">TPV pomoč uporabnikom: 400-887-8007</string>
-     <string name="help_page_text_30">Hisense</string>
      <string name="help_page_text_31">Najprej preverite ali vaša naprava podpira Miracast funkcionalnost. Na nekaterih modelih lahko pritisnete tipko [SMART] na daljincu in potem izberite Predvajanje &gt; Brezžični zaslon. Pri nekaterih modelih Hi Screen &gt; Game Screening &gt; Android.</string>
      <string name="help_page_text_32">Hisense pomoč uporabnikom: 400-611-1111</string>
-     <string name="help_page_text_33">Skyworth</string>
      <string name="help_page_text_34">Najprej preverite ali vaša naprava podpira Miracast funkcionalnost. Na nekaterih modelih lahko izberete Aplikacije &gt; Predvajanje &gt; Android naprava &gt; Miracast.</string>
      <string name="help_page_text_35">Skyworth pomoč uporabnikom: 95105555</string>
-     <string name="help_page_text_36">Sony</string>
      <string name="help_page_text_37">Najprej preverite ali vaša naprava podpira Miracast funkcionalnost. Na nekaterih modelih lahko pritisnete tipko [SOURCE] na daljincu in potem izberite \"Screen Mirroring\";pri nekateri modelih lahko vključite v Omrežje &gt; WIFIDirekt; To je standardno vključeno na različnih modelih.</string>
      <string name="help_page_text_38">Sony pomoč uporabnikom: 400-810-9000</string>
-     <string name="help_page_text_39">Panasonic</string>
      <string name="help_page_text_40">Najprej preverite ali vaša naprava podpira Miracast funkcionalnost. Na nekaterih modelih lahko izberete Aplikacije &gt; Screen Mirroring.</string>
      <string name="help_page_text_41">Panasonic pomoč uporabnikom: 400-881-1315</string>
-     <string name="help_page_text_42">Changhong</string>
      <string name="help_page_text_43">Najprej preverite ali vaša naprava podpira Miracast funkcionalnost. Na nekaterih modelih lahko izberete Sistem &gt; Sistemska orodja &gt; Več zaslonov &gt; Screen Mirroring.</string>
      <string name="help_page_text_44">Changhong pomoč uporabnikom: 400-811-1666</string>
-     <string name="help_page_text_45">TCL</string>
      <string name="help_page_text_46">Najprej preverite ali vaša naprava podpira Miracast funkcionalnost. Na nekaterih modelih lahko izberete Aplikacije &gt; Brezžični zaslon.</string>
      <string name="help_page_text_47">TCL pomoč uporabnikom: 400-812-3456</string>
-     <string name="help_page_text_48">AODIN</string>
      <string name="help_page_text_49">Najprej preverite ali vaša naprava podpira Miracast funkcionalnost. Za vklop te storitve pojdite na Moje aplikacije &gt; WiFi zaslon.</string>
      <string name="help_page_text_50">AODIN pomoč uporabnikom:400-810-5858</string>
      <string name="help_page_text_51">LeTV</string>
@@ -688,7 +634,6 @@ Mobilno napravo in zunanji monitor (npr. Televizor) priključite v isto omrežje
      <string name="keyguard_security_setting_privacy_policy">Pravila o zasebnosti</string>
      <string name="km_synergy_error">"Povezava je potekla. Preverite, ali sta Bluetooth in WiFi vklopljena na obeh napravah in sta v dosegu povezave."</string>
      <string name="km_synergy_error_china">"Povezava je potekla. Preverite, ali sta Bluetooth in WiFi vklopljena na obeh napravah in sta v dosegu povezave."</string>
-     <string name="label">Oznaka</string>
      <string name="material_clock_toggle_content_description">Izberite dop. ali pop.</string>
      <string name="material_hour_24h_suffix">%1$s ur</string>
      <string name="material_hour_selection">Izberite uro</string>
@@ -737,9 +682,6 @@ Mobilno napravo in zunanji monitor (npr. Televizor) priključite v isto omrežje
      <string name="miuix_appcompat_action_mode_title_empty">Izberi stvari</string>
      <string name="miuix_appcompat_actionbar_immersion_button_more_description">Več</string>
      <string name="miuix_appcompat_cancel_description">Prekliči</string>
-     <string name="miuix_appcompat_cloud_state_disabled">Sinhronizacija z Cloudom je izključena</string>
-     <string name="miuix_appcompat_cloud_state_finished">Sinhronizacija z Cloudom je končana</string>
-     <string name="miuix_appcompat_cloud_state_syncing">Sinhr. z Cloudom…</string>
      <string name="miuix_appcompat_confirm_description">Potrdi</string>
      <string name="miuix_appcompat_delete_description">Izbriši</string>
      <string name="miuix_appcompat_deselect_all">Prekliči vse</string>
@@ -878,7 +820,6 @@ Mobilno napravo in zunanji monitor (npr. Televizor) priključite v isto omrežje
      <string name="mtrl_timepicker_confirm">V redu</string>
      <string name="nfc_connect_failed_toast">"Ne morem predvajati. Poskusite ponovno."</string>
      <string name="night">Zvečer</string>
-     <string name="no_permission">"Te strani ni mogoče pokazati"</string>
      <string name="noon">Poldne</string>
      <string name="normal_device_desc">"Naprave, s katerimi ste se povezali, vendar jih niste označili kot zanesljive"</string>
      <string name="normal_device_desc_limit">"Naprave, s katerimi ste se povezali, vendar jih niste označili kot zanesljive"</string>
@@ -888,7 +829,6 @@ Mobilno napravo in zunanji monitor (npr. Televizor) priključite v isto omrežje
      <string name="nothing_to_play">Ne igram</string>
      <string name="notification_cast_desc">Predvajanje…</string>
      <string name="notification_desc_scanning">Iskanje naprav v bližini…</string>
-     <string name="notification_rc_desc">Najboljši TV pomočnik za prenos vaših videov, fotografij in aplikacij v XiaoMi Box (ali TV) za vaš mobilni telefon, poskusite zdaj!</string>
      <string name="notification_rc_title">XiaoMi TV pomočnik</string>
      <string name="notification_show_more">Pokaži dodatne storitve</string>
      <string name="notify">Casting deluje v ozadju</string>
@@ -908,13 +848,13 @@ Mobilno napravo in zunanji monitor (npr. Televizor) priključite v isto omrežje
      <string name="paipai_error_dialog_msg">Preverite omrežne nastavitve in poskusite znova.</string>
      <string name="paipai_error_dialog_negative">Razumem</string>
      <string name="password_toggle_content_description">Pokaži geslo</string>
-     <string name="path_setting_cast">Povezava &amp; deljenje/Predvajanje</string>
-     <string name="path_setting_cast_demo">Povezava &amp; deljenje/Predvajanje/Demo</string>
-     <string name="path_setting_cast_demo_document">Povezava &amp; deljenje/Predvajanje/Demo/Dokumenti</string>
-     <string name="path_setting_cast_demo_gallery">Povezava &amp; deljenje/Predvajanje/Demo/Fotografije &amp; videoposnetki</string>
-     <string name="path_setting_cast_demo_game">Povezava &amp; deljenje/Predvajanje/Demo/Igre</string>
-     <string name="path_setting_cast_feature">Povezava &amp; deljenje/Predvajanje/Posebne storitve</string>
-     <string name="path_setting_cast_help">Povezava &amp; deljenje/Predvajanje/Pomoč</string>
+     <string name="path_setting_cast">Več možnosti povezovanja/Predvajanje</string>
+     <string name="path_setting_cast_demo">Več možnosti povezovanja/Predvajanje/Demo</string>
+     <string name="path_setting_cast_demo_document">Več možnosti povezovanja/Predvajanje/Demo/Dokumenti</string>
+     <string name="path_setting_cast_demo_gallery">Več možnosti povezovanja/Predvajanje/Demo/Fotografije &amp; videoposnetki</string>
+     <string name="path_setting_cast_demo_game">Več možnosti povezovanja/Predvajanje/Demo/Igre</string>
+     <string name="path_setting_cast_feature">Več možnosti povezovanja/Predvajanje/Posebne storitve</string>
+     <string name="path_setting_cast_help">Več možnosti povezovanja/Predvajanje/Pomoč</string>
      <string name="permission_allowed">Dovoljeno</string>
      <string name="permission_uballowed">Ni dovoljeno</string>
      <string name="pm">pop.</string>
@@ -924,7 +864,7 @@ Mobilno napravo in zunanji monitor (npr. Televizor) priključite v isto omrežje
      <string name="privacy_agree">Strinjam se</string>
      <string name="privacy_confirm_revoke_and_exit_btn">Preklic</string>
      <string name="privacy_detail">Dovolite tej aplikaciji, da se poveže s spletom in ji podelite zahtevana dovoljenja, preden nadaljujete.</string>
-     <string name="privacy_detail_extra">&lt;Data&gt;Nekatere storitve ponuja ponudnik storitev HappyCast. Pred uporabo te storitve preberite in se strinjajte z &amp;lt;a href=%1$s&amp;gt;HappyCast Pravila o zasebnosti&amp;lt;/a&amp;gt; in &amp;lt;a href=%2$s&amp;gt;HappyCast Pogoji uporabe&amp;lt;/a&amp;gt;.&lt;/Data&gt;</string>
+     <string name="privacy_detail_extra"><Data>Nekatere storitve ponuja tretji ponudnik storitev HappyCast. Pred uporabo te storitve preberite in se strinjate z &lt;a href=%1$s>HappyCast Pravila o zasebnosti&lt;/a> in &lt;a href=%2$s>HappyCast Pravna izjava&lt;/a>.</Data></string>
      <string name="privacy_explain">"Dobrodošli v predvajanje! Predvajanje vam omogoča, da stvari iz svojega zaslona telefona predvajate na večji zunanji zaslon. Ta aplikacija mora biti povezana s spletom in za normalno delovanje potrebuje naslednja dovoljenja:"</string>
      <string name="privacy_give_up_revoke_btn">Prekliči</string>
      <string name="privacy_i_know_btn">Nadaljuj</string>
@@ -935,7 +875,6 @@ Mobilno napravo in zunanji monitor (npr. Televizor) priključite v isto omrežje
      <string name="privacy_permission_location_desc">Iskanje naprav v bližini</string>
      <string name="privacy_permission_necessary">Obvezna dovoljenja</string>
      <string name="privacy_permission_necessary_desc">Ta dovoljenja so potrebna za omogočanje osnovnih funkcij in storitev te aplikacije.</string>
-     <string name="privacy_permission_nfc">NFC</string>
      <string name="privacy_permission_nfc_desc">Za seznanjanje naprav ki uporabljajo NFC</string>
      <string name="privacy_permission_optional">Dodatna dovoljenja</string>
      <string name="privacy_permission_optional_desc">"Uporablja se za dodatne storitve med uporabo"</string>
@@ -1061,7 +1000,6 @@ Pred predvajanjem iger se prepričajte, da ste vklopili Game Turbo."</string>
      <string name="server_camera_disconnected">Povezava z drugo napravo je bila prekinjena zaradi napake</string>
      <string name="server_camera_occupied">Kamera je zasedena. Počakajte minuto ali dve in poskusite znova.</string>
      <string name="server_toast_camera_prepare">Priprava na skupno rabo vira kamere…</string>
-     <string name="service_name">UniPlay storitev</string>
      <string name="set_negative_button">Nastavitve</string>
      <string name="settings_cross_notify">Obvestila na drugih napravah</string>
      <string name="settings_cross_notify_app">Obvestila aplikacij</string>
@@ -1085,15 +1023,6 @@ Pred predvajanjem iger se prepričajte, da ste vklopili Game Turbo."</string>
      <string name="side_sheet_accessibility_pane_title">Stranski list</string>
      <string name="small_window">Zmanjšaj okno</string>
      <string name="small_window_not_supported">"Ne morete zmanjšati te aplikacije dokler se predvaja"</string>
-     <string name="stat_cancel">prekliči</string>
-     <string name="stat_confirm">potrdi</string>
-     <string name="stat_failed">ni uspelo</string>
-     <string name="stat_pad">tablica</string>
-     <string name="stat_phone">telefon</string>
-     <string name="stat_src_click">klik</string>
-     <string name="stat_src_pull">potegni</string>
-     <string name="stat_src_push">potisni</string>
-     <string name="stat_success">uspeh</string>
      <string name="status_bar_fail">"Ni bilo mogoče vzpostaviti povezave"</string>
      <string name="status_bar_in_casting">Predvajanje</string>
      <string name="status_bar_in_casting_long">Kliknite za razširitev dodatnih storitev</string>
@@ -1106,7 +1035,6 @@ Pred predvajanjem iger se prepričajte, da ste vklopili Game Turbo."</string>
      <string name="synergy_casting">"Ne morete predvajati ko je Screen Combo vključen"</string>
      <string name="synergy_text">Medsebojna povezljivost</string>
      <string name="talk_back_device_battery_quantity">Baterija %s</string>
-     <string name="test_package_upgrade">"Ni bilo mogoče posodobiti na različico Beta"</string>
      <string name="thursday">Četrtek</string>
      <string name="thursday_short">Čet</string>
      <string name="thursday_shortest">Č</string>
@@ -1154,8 +1082,6 @@ Pred predvajanjem iger se prepričajte, da ste vklopili Game Turbo."</string>
      <string name="upgrade_scan">Preveri za posodobitve</string>
      <string name="upgrade_start">Posodobi</string>
      <string name="upgrade_start_all">Posodobi</string>
-     <string name="upgrade_test_package">"Za dokončanje posodobitve,
-poskrbite, da paket vsebuje najnovejše različice vseh aplikacij."</string>
      <string name="upgrade_title">Posodobi povezane naprave</string>
      <string name="upgrade_toast_no_wifi">"Ne morem vzpostaviti povezave"</string>
      <string name="upgrade_tv_device_tip">*Posodobitve ponuja Xiaomi TV</string>
