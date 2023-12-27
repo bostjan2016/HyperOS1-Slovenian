@@ -14,8 +14,6 @@
      <string name="after_reset_need_restore_system_app">"Kaže da ste naredili vrnitev na tovarniške nastavitve. Povežite se z omrežjem in obnovite sistemske elemente, tako da lahko normalno uporabljate MIUI."</string>
      <string name="afternoon">Popolne</string>
      <string name="am">dop.</string>
-     <string name="app_name_which_call">Aplikacija: %s</string>
-     <string name="app_version_which_call">Verzija aplikacije: %s</string>
      <string name="birthday">Rojstni dan</string>
      <string name="cancel_description">Prekliči</string>
      <string name="check_phone_error_title">Sinhronizacija je izključena</string>
@@ -34,26 +32,19 @@
      <string name="com_miui_compass">Kompas</string>
      <string name="com_miui_gallery">Galerija</string>
      <string name="com_miui_health">Mi zdravje</string>
-     <string name="com_miui_huanji">Mi Mover</string>
      <string name="com_miui_notes">Beležke</string>
      <string name="com_miui_screenrecorder">Snemalec zaslona</string>
-     <string name="com_miui_virtualsim">Mi Roaming</string>
+     <string name="com_miui_virtualsim">Mi gostovanje</string>
      <string name="com_miui_weather2">Vreme</string>
      <string name="com_xiaomi_calendar">Koledar</string>
      <string name="com_xiaomi_drivemode">Način za avto</string>
      <string name="com_xiaomi_gamecenter">Igre</string>
-     <string name="com_xiaomi_jr">Mi Finance</string>
-     <string name="com_xiaomi_midrop">ShareMe</string>
      <string name="com_xiaomi_scanner">Skener</string>
-     <string name="com_xiaomi_shop">Mi Store</string>
-     <string name="com_xiaomi_vipaccount">Xiaomi Community</string>
-     <string name="com_xiaomi_youpin">Youpin</string>
+     <string name="com_xiaomi_shop">Mi trgovina</string>
+     <string name="com_xiaomi_vipaccount">Xiaomi skupnost</string>
      <string name="confirm_description">Potrdi</string>
      <string name="copyright">Avtorske pravice</string>
      <string name="date_picker_dialog_title">Nastavi datum</string>
-     <string name="date_picker_label_day" />
-     <string name="date_picker_label_month" />
-     <string name="date_picker_label_year" />
      <string name="date_picker_lunar">Tradicionalni kitajski koledar</string>
      <string name="date_time_done">Končano</string>
      <string name="date_time_picker_dialog_title">Nastavi datum in čas</string>
@@ -62,15 +53,13 @@
      <string name="deselect_all_description">Prekliči vse</string>
      <string name="do_not_restore_temporarily">Ne zdaj</string>
      <string name="download_right_now">Prenesi</string>
-     <string name="early_morning">Jutro</string>
+     <string name="early_morning">dop.</string>
      <string name="email">E-pošta</string>
-     <string name="eras_ad">AD</string>
-     <string name="eras_bc">BC</string>
      <string name="error_forbidden">Sinhronizacija je izključena zaradi problemov z vašim Mi Računom.</string>
      <string name="error_not_acceptable">Sinhronizacija je izključena</string>
      <string name="error_title">"Ne morem sinhronizirati"</string>
      <string name="error_unauthorized">Sinhronizacija je izključena zaradi prevelikega števila poskusov prijave.</string>
-     <string name="evening">Večer</string>
+     <string name="evening">pop.</string>
      <string name="experience_new_system_app">Poglejte nove storitve!</string>
      <string name="fmt_date">D</string>
      <string name="fmt_date_day">d</string>
@@ -127,15 +116,8 @@
      <string name="friday_short">Pet</string>
      <string name="friday_shortest">P</string>
      <string name="hybrid_provider">Ponuja %1$s</string>
-     <string name="im">IM</string>
      <string name="immersion_button_close_description">Zapri</string>
      <string name="instruction">Navodila</string>
-     <string name="label">MIUI SDK</string>
-     <string name="license_host_unreachable">"Ne morem se povezati z omrežjem. 
-Da boste videli te informacije, 
-pojdite na: %s."</string>
-     <string name="loading">Nalaganje…</string>
-     <string name="mibi_license">Mi Krediti Pogoji uporabe</string>
      <string name="midnight">Polnoč</string>
      <string name="mobile_data_consume">Za prenos stvari je potrebno %1$s MB  mobilnih podatkov. Vseeno prenesem?</string>
      <string name="mobile_data_remind">Opozorilo mob. podatkov</string>
@@ -194,7 +176,6 @@ pojdite na: %s."</string>
      <string name="permlab_sendSmsNoConfirmation">Pošiljanje SMS sporočil brez potrdila</string>
      <string name="phone">Telefon</string>
      <string name="pm">pop.</string>
-     <string name="policy_name">Zasebnost: %s</string>
      <string name="privacy_policy">Pravila o zasebnosti</string>
      <string name="recovery_progress">Vračanje stvari (%1$d/%2$d)…</string>
      <string name="restore_right_now">Vrni</string>
@@ -219,18 +200,12 @@ pojdite na: %s."</string>
      <string name="sim_not_ready">SIM kartica je v uporabi. Poskusite ponovno kasneje.</string>
      <string name="sim_unavailable">SIM kartica je nedostopna.</string>
      <string name="sip_phone">SIP Telefon</string>
-     <string name="size_byte">B</string>
-     <string name="size_giga_byte">GB</string>
-     <string name="size_kilo_byte">KB</string>
-     <string name="size_mega_byte">MB</string>
-     <string name="size_peta_byte">PB</string>
-     <string name="size_tera_byte">TB</string>
      <string name="solar_term_autumn_begins">Začetek jeseni</string>
      <string name="solar_term_autumn_equinox">Mesečev festival</string>
      <string name="solar_term_clear_and_bright">Jasno</string>
      <string name="solar_term_cold_dews">Hladna rosa</string>
-     <string name="solar_term_grain_buds">Grain Buds</string>
-     <string name="solar_term_grain_in_ear">Grain in Ear</string>
+     <string name="solar_term_grain_buds">Žitni popki</string>
+     <string name="solar_term_grain_in_ear">Zrno v klasju</string>
      <string name="solar_term_grain_rain">Dež</string>
      <string name="solar_term_great_cold">Velik mraz</string>
      <string name="solar_term_great_heat">Velika vročina</string>
@@ -277,7 +252,6 @@ pojdite na: %s."</string>
      <string name="the_forth_day">Četrti dan kitajskega novega leta</string>
      <string name="the_hksar_establishment_day">Dan ustanovitve posebne upravne regije Hongkong</string>
      <string name="the_international_womens_day">"Dan žena"</string>
-     <string name="the_laba_festival">Laba Festival</string>
      <string name="the_labour_day">Dan dela</string>
      <string name="the_lantern_festival">Festival lampiončkov</string>
      <string name="the_mid_autumn_festival">Srednjejesenski festival</string>
@@ -304,8 +278,6 @@ pojdite na: %s."</string>
      <string name="thursday_short">Čet</string>
      <string name="thursday_shortest">Č</string>
      <string name="time_picker_dialog_title">Nastavi čas</string>
-     <string name="time_picker_label_hour">H</string>
-     <string name="time_picker_label_minute">M</string>
      <string name="today">Danes</string>
      <string name="tomorrow">Jutri</string>
      <string name="tuesday">Torek</string>
@@ -322,6 +294,5 @@ pojdite na: %s."</string>
      <string name="wednesday">Sreda</string>
      <string name="wednesday_short">Sre</string>
      <string name="wednesday_shortest">S</string>
-     <string name="xiaomi_mobile">Mi Mobile</string>
      <string name="yesterday">Včeraj</string>
 </resources>

@@ -6,8 +6,6 @@
      <string name="UVI_level_3">Zelo močno</string>
      <string name="UVI_level_4">Nevarno</string>
      <string name="abc_action_bar_home_description">Pojdi domov</string>
-     <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
-     <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
      <string name="abc_action_bar_up_description">Pojdi gor</string>
      <string name="abc_action_menu_overflow_description">Dodatne možnosti</string>
      <string name="abc_action_mode_done">Končano</string>
@@ -39,7 +37,6 @@
      <string name="accessibility_battery_level_charging">Polnjenje, baterija %d procentov.</string>
      <string name="actionbar_button_up_description">Nazaj</string>
      <string name="add_custom_image">Lastna slika</string>
-     <string name="add_from_album">Dodaj iz Galerije</string>
      <string name="add_from_local">Izberite sliko</string>
      <string name="afternoon">Popoldne</string>
      <string name="align_center_horizontally">Vodoravno in poravnano</string>
@@ -60,8 +57,6 @@
      <string name="aod_component">Prikazane stvari</string>
      <string name="aod_dual_clock_date">HH:mm dd.MM</string>
      <string name="aod_dual_clock_date_12">hh:mm dd.MM aa</string>
-     <string name="aod_dual_togother">HH:mm</string>
-     <string name="aod_dual_togother_12">hh:mm aa</string>
      <string name="aod_lock_screen_date">EE, dd.MM</string>
      <string name="aod_lock_screen_date_12">EE, dd.MM</string>
      <string name="aod_lock_screen_date_12_signature">d/M</string>
@@ -79,7 +74,6 @@ dd.MM"</string>
      <string name="aod_notification_use_app_icon">Uporabite ikone aplikacij za obvestila</string>
      <string name="aod_show_date_and_time">Pokaži datum in čas</string>
      <string name="aod_show_style_title">Pokaži stvari</string>
-     <string name="aod_signature_12">hh:mm aa</string>
      <string name="aod_style">Teme</string>
      <string name="aod_theme_store">Vedno na zaslonu teme</string>
      <string name="aod_to_close">Izključi</string>
@@ -89,7 +83,6 @@ dd.MM"</string>
      <string name="aqi_format_desc">Indeks kakovosti zraka: %s</string>
      <string name="background_icon">Ozadje</string>
      <string name="below_image">Dol</string>
-     <string name="black_white_clock_panel">Ura</string>
      <string name="bold_font">Krepka pisava</string>
      <string name="bottomsheet_action_collapse">Strni spodnji list</string>
      <string name="bottomsheet_action_expand">Razširi spodnji list</string>
@@ -98,7 +91,6 @@ dd.MM"</string>
      <string name="bottomsheet_drag_handle_content_description">Ročaj za vlečenje</string>
      <string name="btn_know">Razumem</string>
      <string name="call_notification_answer_action">Odgovor</string>
-     <string name="call_notification_answer_video_action">Video</string>
      <string name="call_notification_decline_action">Zavrni</string>
      <string name="call_notification_hang_up_action">Prekini</string>
      <string name="call_notification_incoming_text">Dohodni klic</string>
@@ -107,9 +99,7 @@ dd.MM"</string>
      <string name="cancel">Prekliči</string>
      <string name="character_counter_content_description">Vnešeno znakov %1$d od %2$d</string>
      <string name="character_counter_overflowed_content_description">Prekoračena je omejitev števila znakov %1$d od %2$d</string>
-     <string name="character_counter_pattern">%1$d / %2$d</string>
-     <string name="chip_text">Chip tekst</string>
-     <string name="choose_aod_style">Izberi temo</string>
+     <string name="choose_aod_style">Izberite temo</string>
      <string name="chosen_picture">Izberite ozadje</string>
      <string name="clear_text_end_icon_content_description">Izbriši tekst</string>
      <string name="clearable_edittext_clear_description">Izbriši</string>
@@ -127,8 +117,8 @@ dd.MM"</string>
      <string name="custom_image">Slika po meri</string>
      <string name="date_picker_lunar">Kitajski tradicionalni koledar</string>
      <string name="date_time_picker_dialog_title">Nastavi datum in čas</string>
-     <string name="deep_space_planet">Doba dneva</string>
-     <string name="deep_space_planet_des">\"Doba dneva\" se nanaša na svetlobne spremembe ki se dogajajo okoli čez dan. Sončni vzhod in zahod v tej temi se sinhronizirata z vašo lokacijo.</string>
+     <string name="deep_space_planet">Vesolje</string>
+     <string name="deep_space_planet_des">Ta tema odraža svetlobne spremembe, ki se dogajajo okoli vas čez dan. Sončni vzhodi in zahodi so tudi sinhronizirani z vašo lokacijo.</string>
      <string name="delete">Izbriši</string>
      <string name="digital_clock">Digitalna</string>
      <string name="disable_aod_in_dark_room">Izključi ko je v mraku</string>
@@ -207,7 +197,6 @@ dd.MM"</string>
      <string name="friday">Petek</string>
      <string name="friday_short">Pet</string>
      <string name="friday_shortest">P</string>
-     <string name="garbage_count">Obstaja %1$s starih primerkov</string>
      <string name="health_chart_calories_unit">Kalorije</string>
      <string name="health_chart_sleep_time_good">Zadostno</string>
      <string name="health_chart_sleep_time_low">Nezadostno</string>
@@ -253,7 +242,6 @@ dd.MM"</string>
      <string name="kg_classic_item_step_number">Koraki</string>
      <string name="kg_classic_item_sunrise_or_sunset">Sončni vzhod in zahod</string>
      <string name="kg_classic_item_temperature">Temperatur</string>
-     <string name="kg_classic_item_ultraviolet_ray">UV index</string>
      <string name="kg_classic_item_vitality">Statistika</string>
      <string name="kg_classic_item_weather_cloudy">Oblačno</string>
      <string name="kg_classic_item_week">Teden</string>
@@ -289,8 +277,6 @@ dd.MM"</string>
      <string name="kg_effects_tip_title">Globinska ostrina in filtri</string>
      <string name="kg_enable_blur">Mat učinek</string>
      <string name="kg_function_button_text_color">Barva</string>
-     <string name="kg_function_button_text_effect">Filter</string>
-     <string name="kg_function_button_text_font">Font</string>
      <string name="kg_function_button_text_hierarchy">Globina</string>
      <string name="kg_function_button_text_lang">Jezik</string>
      <string name="kg_function_button_text_wallpaper">Ozadje</string>
@@ -332,7 +318,6 @@ dd.MM"</string>
      <string name="kg_template_title_rhombus">Romb</string>
      <string name="kg_tip_cant_get_third_party_wallpaper">"Ni mogoče dostopati do ozadja tretjih oseb"</string>
      <string name="kg_wallpaper_scale_hint_text">Stisnite za obrezovanje</string>
-     <string name="label">Etiketa</string>
      <string name="large_time">Velika ura</string>
      <string name="letter_space">Razmak med črkami</string>
      <string name="line_space">Razmak med vrsticami</string>
@@ -353,7 +338,6 @@ dd.MM"</string>
      <string name="material_timepicker_pm">pop.</string>
      <string name="material_timepicker_select_time">Izberite čas</string>
      <string name="material_timepicker_text_input_mode_description">Za vnos časa preklopite v način besedila.</string>
-     <string name="memory_leak">Pomanjkanje spomina</string>
      <string name="midnight">Polnoč</string>
      <string name="mini_time">Mala ura</string>
      <string name="minimalist_clock">Enostavna ura</string>
@@ -455,7 +439,6 @@ dd/MM"</string>
      <string name="mtrl_checkbox_state_description_unchecked">Ni preverjeno</string>
      <string name="mtrl_chip_close_icon_content_description">Odstrani %1$s</string>
      <string name="mtrl_exceed_max_badge_number_content_description">Več kot %1$d novih obvestil</string>
-     <string name="mtrl_exceed_max_badge_number_suffix">%1$d%2$s</string>
      <string name="mtrl_picker_a11y_next_month">Zamenjaj na naslednji mesec</string>
      <string name="mtrl_picker_a11y_prev_month">Zamenjaj na prejšnji mesec</string>
      <string name="mtrl_picker_announce_current_range_selection">Izbira začetnega datuma: %1$s – Izbira končnega datuma: %2$s</string>
@@ -463,7 +446,6 @@ dd/MM"</string>
      <string name="mtrl_picker_announce_current_selection_none">nič</string>
      <string name="mtrl_picker_cancel">Prekliči</string>
      <string name="mtrl_picker_confirm">V redu</string>
-     <string name="mtrl_picker_date_header_selected">%1$s</string>
      <string name="mtrl_picker_date_header_title">Izberite datum</string>
      <string name="mtrl_picker_date_header_unselected">Izberite datum</string>
      <string name="mtrl_picker_day_of_week_column_header">Stolpec dni: %1$s</string>
@@ -477,7 +459,6 @@ dd/MM"</string>
      <string name="mtrl_picker_out_of_range">Izven razpona: %1$s</string>
      <string name="mtrl_picker_range_header_only_end_selected">Začetni datum – %1$s</string>
      <string name="mtrl_picker_range_header_only_start_selected">%1$s – Končni datum</string>
-     <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
      <string name="mtrl_picker_range_header_title">Izberite razpon</string>
      <string name="mtrl_picker_range_header_unselected">Začetni datum - Končni datum</string>
      <string name="mtrl_picker_save">Shrani</string>
@@ -485,9 +466,6 @@ dd/MM"</string>
      <string name="mtrl_picker_text_input_date_hint">Datum</string>
      <string name="mtrl_picker_text_input_date_range_end_hint">Končni datum</string>
      <string name="mtrl_picker_text_input_date_range_start_hint">Začetni datum</string>
-     <string name="mtrl_picker_text_input_day_abbr">d</string>
-     <string name="mtrl_picker_text_input_month_abbr">m</string>
-     <string name="mtrl_picker_text_input_year_abbr">y</string>
      <string name="mtrl_picker_today_description">Danes %1$s</string>
      <string name="mtrl_picker_toggle_to_calendar_input_mode">Prestavite na način vnosa koledarja</string>
      <string name="mtrl_picker_toggle_to_day_selection">Tapnite za prehod na izbiro dni</string>
@@ -503,7 +481,6 @@ dd/MM"</string>
      <string name="notification_anim_pulse">Pulzno (rdeče)</string>
      <string name="notification_anim_rhythm">Pulzno (modro)</string>
      <string name="notification_anim_star">Zvezdna svetloba</string>
-     <string name="notification_channel_alerts">Opozorila</string>
      <string name="notification_nothing">Nič</string>
      <string name="notification_screen_on">Osvetli zaslon</string>
      <string name="off">Izključeno</string>
@@ -525,7 +502,6 @@ dd/MM"</string>
      <string name="saturday_shortest">S</string>
      <string name="scheduled_mode_dialog_msg">V tem obdobju se bodo stvari prikazovale na vašem Vedno na zaslonu: %s.</string>
      <string name="scheduled_mode_dialog_msg_12">hh:mm a</string>
-     <string name="scheduled_mode_dialog_msg_24">HH:mm</string>
      <string name="scheduled_mode_msg">Aktivno obdobje: %s</string>
      <string name="scheduled_style">Razpored</string>
      <string name="scheduled_style_summary">Nastavite prilagojeni čas</string>
@@ -533,7 +509,7 @@ dd/MM"</string>
      <string name="scope_icon">Stil kalejdoskopa</string>
      <string name="scope_time">Kalejdoskop</string>
      <string name="search_menu_title">Išči</string>
-     <string name="searchview_clear_text_content_description">Čisto besedilo</string>
+     <string name="searchview_clear_text_content_description">Izbriši besedilo</string>
      <string name="searchview_navigation_content_description">Nazaj</string>
      <string name="select_notification_animation_style">Izberite posebni efekt</string>
      <string name="select_notification_notify_style">Izberite efekt obvestil</string>
@@ -556,15 +532,12 @@ dd/MM"</string>
      <string name="smart_style">Pametno</string>
      <string name="smart_style_summary">"Vedno pokaži stvari, razen ko je vaša naprava v žepu, ko je svetloba v okolju dolgo časa slaba ali ko ne gledate v svojo napravo"</string>
      <string name="somatosensory_temperature_format">Občutek kot %s°</string>
-     <string name="standard_clock_panel">Standard</string>
      <string name="standard_style">Standardno</string>
      <string name="step_component_info_active_tip">Število korakov zagotavlja Mi zdravje. Strinjate se z Mi zdravje Pravila in pogoji za nadaljevanje.</string>
      <string name="step_component_info_desc">Ko bo vaš cilj dosežen, se bo število korakov spremenilo v pokal. Število korakov zagotavlja Mi zdravje.</string>
      <string name="step_component_info_tip">Število korakov zagotavlja Mi zdravje. Namestite ali posodobite Mi zdravje in se strinjajte z njegovimi določili in pogoji za nadaljevanje.</string>
      <string name="step_to_image_community">Najdi več v Mi Community</string>
-     <string name="summary">"Da boste zmanjšali porabo energije, stvari ne bodo prikazane v naslednjih situacijah:
-1. Ko naprava dolgo stoji v mraku.
-2. Če je vključen DND način."</string>
+     <string name="summary">"Za zmanjšanje porabe energije stvari ne bodo prikazane, ko bo vaša naprava dolgo časa ležala v temi."</string>
      <string name="sunday">Nedelja</string>
      <string name="sunday_short">Ned</string>
      <string name="sunday_shortest">N</string>
@@ -590,8 +563,6 @@ dd.MM."</string>
      <string name="thursday_shortest">Č</string>
      <string name="time_location">Položaj ure</string>
      <string name="time_picker_dialog_title">Nastavi Čas</string>
-     <string name="time_picker_label_hour">H</string>
-     <string name="time_picker_label_minute">M</string>
      <string name="time_style">Stil</string>
      <string name="time_style_layout">Razpored</string>
      <string name="tip_to_open_aod_mode">Vedno na zaslonu je izključeno. Vključim?</string>
@@ -600,7 +571,6 @@ dd.MM."</string>
      <string name="tuesday">Torek</string>
      <string name="tuesday_short">Tor</string>
      <string name="tuesday_shortest">T</string>
-     <string name="user_agreement">Pogoji uporabe</string>
      <string name="uvi_format_desc">Ultravijolični indeks: %1$s, %2$s</string>
      <string name="v7_preference_off">IZKLJUČENO</string>
      <string name="v7_preference_on">VKLJUČENO</string>
@@ -620,7 +590,6 @@ dd.MM."</string>
      <string name="wind_direction_6">Z veter</string>
      <string name="wind_direction_7">SZ veter</string>
      <string name="wind_direction_7_f">SZ veter</string>
-     <string name="wind_format">%1$s | Nivo %2$s</string>
-     <string name="xiaomi_mobile">Mi Mobile</string>
+     <string name="wind_format">%1$s | Raven %2$s</string>
      <string name="yesterday">Včeraj</string>
 </resources>
