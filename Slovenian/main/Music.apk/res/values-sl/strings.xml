@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+ <?xml version='1.0' encoding='UTF-8'?>
 <resources>
      <string name="April">April</string>
      <string name="August">Avgust</string>
@@ -1122,6 +1122,7 @@ To kodo pošljite nadzorniku."</string>
      <string name="loading_hint">Nalaganje</string>
      <string name="loading_reached_the_bottom">"To je za zdaj vse."</string>
      <string name="loading_text">Nalaganje…</string>
+     <string name="local_ad_title">Oglasi</string>
      <string name="local_download_download">Prenesi</string>
      <string name="local_download_hint">Pred prenosom vklopite WiFi</string>
      <string name="local_download_item">Prenesite brezplačno</string>
@@ -2320,6 +2321,7 @@ Bodite srečni"</string>
      <string name="toast_will_play_list_when_ad_pause">Seznam predvajanja se bo začel predvajati po oglasih</string>
      <string name="toast_will_play_song_when_ad_pause">Ta skladba se bo začela predvajati po oglasih</string>
      <string name="today">Danes</string>
+     <string name="today_hot_playlist">"Današnji najboljši seznam predvajanja"</string>
      <string name="tomorrow">Jutri</string>
      <string name="too_freq">Preveč zahtevkov poslanih iz te naprave</string>
      <string name="top_chart_title">Lestvice</string>

@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+     <string name="AI_diwbkiad_dekete_model">Izbriši model</string>
+     <string name="AI_download_delete_message">"Če izbrišete model Mi AI Image Creator, ne boste mogli več uporabljati njegovih storitev. Vseeno izbrišem?"</string>
+     <string name="AI_download_delete_neg">Prekliči</string>
+     <string name="AI_download_delete_pos">Izbriši</string>
+     <string name="AI_download_delete_title">Izbrišem model?</string>
+     <string name="AI_download_file_message">Podpira Mi AI Image Creator, ≈%.1f GB</string>
+     <string name="AI_download_function_message">Namestite Mi AI Image Creator, da bo Mi AI ustvaril slike iz vaših opisov.</string>
+     <string name="AI_download_title">Mi AI Image Creator model</string>
      <string name="abc_action_bar_home_description">Krmarjenje na začetek</string>
      <string name="abc_action_bar_up_description">Pomik navzgor</string>
      <string name="abc_action_menu_overflow_description">Več možnosti</string>
@@ -47,12 +55,32 @@
      <string name="cognition_func_name">Kognitivni mehanizem v napravi</string>
      <string name="cognition_func_open">Kognitivni mehanizem v napravi</string>
      <string name="cognition_permission_declaration">Podrobnosti o dovoljenjih</string>
+     <string name="cognition_permission_guidance_message">HyperMind lahko normalno deluje le, če so dodeljena naslednja dovoljenja in nastavljena na \"Vedno dovoli\": %s</string>
+     <string name="cognition_permission_guidance_title">Potrebna so dovoljenja</string>
      <string name="cognition_permission_location">Informacije o lokaciji</string>
      <string name="cognition_permission_location_msg">Za dostop do vaše trenutne lokacije</string>
+     <string name="cognition_permission_location_name">\"Dostop do natančne lokacije\"</string>
+     <string name="cognition_permission_nearby_device_name">\"Odkrij naprave v bližini\"</string>
+     <string name="cognition_permission_phone_state_name">\"Dostop do informacij, povezanih s klicem\"</string>
      <string name="cognition_permission_related">Dovoljenja</string>
      <string name="cognition_permission_runtime_msg">Za dostop do preteklih informacij o lokaciji, shranjenih v napravi, za zagotavljanje natančnejših in prilagojenih storitev</string>
      <string name="cognition_permission_storage">Dostop do datotek, shranjenih v napravi</string>
      <string name="cognition_permission_storage_msg">Za dostop do preteklih informacij o lokaciji, shranjenih v napravi</string>
+     <string name="cognition_privacy_cta_all_purpose">Xiaomi HyperMind poganja Mi AI Engine. Mi AI Engine lahko prepozna scenarije, se nauči vaših vzorcev in vam ponudi natančne, prilagojene storitve.</string>
+     <string name="cognition_privacy_dialog_get_background_loc_permission_message">Dovolite Xiaomi HyperMind dostop do vaše lokacije med delovanjem v ozadju, da lahko uporablja vzorce. To dovoljenje lahko podelite v nastavitvah.</string>
+     <string name="cognition_privacy_dialog_get_background_loc_permission_title">Potrebna so dovoljenja</string>
+     <string name="cognition_privacy_dialog_get_mijia_cta_message">Mi AI Engine mora zbrati podatke o vaših napravah pametnega doma, da se nauči vaših vzorcev. Za začetek se prijavite v Mi Home/Xiaomi Home. Odprem aplikacijo zdaj?</string>
+     <string name="cognition_privacy_dialog_get_mijia_cta_title">Prijava v Mi Home/Xiaomi Home</string>
+     <string name="cognition_privacy_dialog_get_mijia_data_message">"Mi AI Engine mora zbrati informacije o vaših pametnih domačih napravah in prizorih v Mi Home/Xiaomi Home, da se nauči in uporablja vzorce. Potrdite, da ste se v aplikacijo prijavili s svojim računom (%s), nato tapnite \"Strinjam se\", da omogočite zbiranje teh informacij."</string>
+     <string name="cognition_privacy_dialog_get_mijia_data_title">Potrebna so dovoljenja</string>
+     <string name="cognition_privacy_dialog_get_noti_permission_message">To je zahtevano dovoljenje. To dovoljenje lahko podelite v nastavitvah.</string>
+     <string name="cognition_privacy_dialog_get_noti_permission_title">Dovolite Xiaomi HyperMind pošiljanje obvestil</string>
+     <string name="cognition_privacy_dialog_negative_button_mijia_text">Nazaj</string>
+     <string name="cognition_privacy_dialog_permission_desc_location">Za prepoznavanje odnosov med določenimi lokacijami in uporabo naprav pametnega doma</string>
+     <string name="cognition_privacy_dialog_permission_desc_phone_state">Za učenje uporabe pametnih domačih naprav pri sprejemanju klicev</string>
+     <string name="cognition_privacy_dialog_permission_desc_surround_device">Za prepoznavanje, ali so v bližini pogosto uporabljene naprave pametnega doma</string>
+     <string name="cognition_privacy_dialog_positive_button_mijia_text">Odpri</string>
+     <string name="cognition_privacy_dialog_reject_button_text">"Ne strinjam se"</string>
      <string name="cognition_privacy_request">Dovoljenje</string>
      <string name="cognition_privacy_revoke">Preklic soglasja</string>
      <string name="cognition_privacy_revoke_and">Če prekličete soglasje, bo ta storitev izklopljena</string>
@@ -69,6 +97,9 @@
      <string name="custom_define_permission_desc_android.permission_group.STORAGE">Za dostop do preteklih informacij o lokaciji, shranjenih v napravi</string>
      <string name="date_picker_lunar">Kitajski tradicionalni koledar</string>
      <string name="date_time_picker_dialog_title">Nastavi datum in čas</string>
+     <string name="download_complete">Prenešeno</string>
+     <string name="download_start">Prenos</string>
+     <string name="download_updata">Posodobi</string>
      <string name="early_morning">Jutro</string>
      <string name="error_a11y_label">Napaka: neveljavno</string>
      <string name="error_icon_content_description">Napaka</string>
@@ -443,6 +474,7 @@
      <string name="searchview_clear_text_content_description">Izbriši besedilo</string>
      <string name="searchview_navigation_content_description">Nazaj</string>
      <string name="send">Pošlji</string>
+     <string name="side_sheet_accessibility_pane_title">Stranski list</string>
      <string name="sunday">Nedelja</string>
      <string name="sunday_short">Ned</string>
      <string name="sunday_shortest">Ned</string>

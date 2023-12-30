@@ -334,6 +334,24 @@ vaših naprav?"</string>
      <string name="close_invisible_mode_dialog_message">"Mi Smart Play zdaj ni mogoče uporabljati. Če želite uporabljati to storitev, v nastavitvah izklopite način brez beleženja zgodovine."</string>
      <string name="close_invisible_mode_dialog_ok">Nastavitve</string>
      <string name="close_invisible_mode_dialog_title">"Ste brez beleženja zgodovine"</string>
+     <string name="common_google_play_services_enable_button">Omogoči</string>
+     <string name="common_google_play_services_enable_text">Aplikacija %1$s ne bo delovala, če ne omogočite storitev Google Play.</string>
+     <string name="common_google_play_services_enable_title">Omogočite storitev Google Play</string>
+     <string name="common_google_play_services_install_button">Namesti</string>
+     <string name="common_google_play_services_install_text">Aplikacija %1$s ne deluje brez storitev Google Play, vendar teh ni v napravi.</string>
+     <string name="common_google_play_services_install_title">Namestite storitve Google Play</string>
+     <string name="common_google_play_services_notification_channel_name">Dostopnost storitev Google Play</string>
+     <string name="common_google_play_services_notification_ticker">Napaka storitev Google Play</string>
+     <string name="common_google_play_services_unknown_issue">Aplikacija %1$s ima težave s storitvami Google Play. Poskusite znova.</string>
+     <string name="common_google_play_services_unsupported_text">Aplikacija %1$s ne deluje brez storitev Google Play, ki jih vaša naprava ne podpira.</string>
+     <string name="common_google_play_services_update_button">Posodobi</string>
+     <string name="common_google_play_services_update_text">Aplikacija %1$s ne bo delovala, če ne posodobite storitev Google Play.</string>
+     <string name="common_google_play_services_update_title">Posodobite storitve Google Play</string>
+     <string name="common_google_play_services_updating_text">Aplikacija %1$s ne deluje brez storitev Google Play, ki se trenutno posodabljajo.</string>
+     <string name="common_google_play_services_wear_update_text">Potrebujete novo različico storitev Google Play. V kratkem se bodo posodobile.</string>
+     <string name="common_open_on_phone">Odpiranje v telefonu</string>
+     <string name="common_signin_button_text">Prijava</string>
+     <string name="common_signin_button_text_long">Prijava z Google Računom</string>
      <string name="config_wifi_label_china">Xiaomi konferenca Tapcast WiFi</string>
      <string name="config_wifi_label_global">Xiaomi konferenca Tapcast WiFi</string>
      <string name="connect_device_fail">"Ne morem se povezati z napravo"</string>
@@ -375,6 +393,7 @@ vaših naprav?"</string>
      <string name="controller_auth_cancel">Prekliči</string>
      <string name="controller_auth_title">Preveri daljinca</string>
      <string name="copy">Kopiraj</string>
+     <string name="copy_toast_msg">Link copied to clipboard</string>
      <string name="current_wifi_tv">Trnutno omrežje</string>
      <string name="date_picker_lunar">Kitajski tradicionalni koledar</string>
      <string name="date_time_picker_dialog_title">Nastavi datum in čas</string>
@@ -448,6 +467,9 @@ Za dodatna vprašanja poglejte Pomoč."</string>
      <string name="evening">Večer</string>
      <string name="expand_button_title">Napredno</string>
      <string name="exposed_dropdown_menu_content_description">Pokaži spustni meni</string>
+     <string name="fallback_menu_item_copy_link">Kopiraj povezavo</string>
+     <string name="fallback_menu_item_open_in_browser">Odpri v brskalniku</string>
+     <string name="fallback_menu_item_share_link">Deli povezavo</string>
      <string name="file_read_des">Za prikaz fotografij in drugih datotek na zunanjih monitorjih</string>
      <string name="find_device_close">Razumem</string>
      <string name="find_device_notification_content_phone">%1$s išče to napravo z %2$s. Odklenite, da ustavite predvajanje zvoka.</string>
@@ -620,6 +642,32 @@ Mobilno napravo in zunanji monitor (npr. Televizor) priključite v isto omrežje
      <string name="help_page_text_55_global">"Če se ne morete povezati z omrežjem, se prepričajte, da vaš zunanji monitor podpira funkcijo Miracast in da je vklopljen. Pri nekaterih modelih se ta funkcija imenuje brezžični zaslon, zrcaljenje zaslona ali več zaslonov. Oglejte si spodnje informacije, če želite izvedeti, kako vklopite Miracast.
 %1$d. Če naletite na kakršne koli težave, jih lahko prijavite z aplikacijo \ "Storitve in povratne informacije \"."</string>
      <string name="help_page_text_end">"Če blagovna znamka vaše naprave ni navedena tukaj, se obrnite na proizvajalca da izveste več o funkcionalnosti predvajanja."</string>
+     <string name="hm_always">Zmeraj</string>
+     <string name="hm_conflict_title">Ustavljen vzorec: %1$s</string>
+     <string name="hm_conflict_toast">Imate nasprotujočo si sceno pametnega doma ali avtomatizacijo. Najprej jo uredite v aplikaciji.</string>
+     <string name="hm_go_to_help">Pokaži pomoč</string>
+     <string name="hm_go_to_login">Prijava</string>
+     <string name="hm_go_to_open_setting">Vključi</string>
+     <string name="hm_habit_info_describe">"Naj se naprave prilagodijo vašim potrebam
+z učenjem, kako jih uporabljate"</string>
+     <string name="hm_habit_info_empty_describe">"Še naprej uporabljajte svoje naprave
+tako da se lahko Xiaomi HyperMind uči in izpopolnjuje vzorce"</string>
+     <string name="hm_habit_info_list_empty">Učenje vzorcev…</string>
+     <string name="hm_help">Pomoč</string>
+     <string name="hm_knew">Razumem</string>
+     <string name="hm_pause_habit">Premor</string>
+     <string name="hm_please_login_mi_account">Za začetek se prijavite v svoj račun Xiaomi</string>
+     <string name="hm_remember">Ne pozabite</string>
+     <string name="hm_resume_habit">Nadaljuj</string>
+     <string name="hm_setup">Nastavitve</string>
+     <string name="hm_time_has_paused">Premor</string>
+     <string name="hm_time_just_remembered">Pravkar sem se naučil</string>
+     <string name="hm_time_long_ago">Dolgo časa nazaj</string>
+     <string name="hm_time_not_executed">Še ni uporabljeno</string>
+     <string name="hm_time_recent_week">Ta teden</string>
+     <string name="hm_time_today">Danes</string>
+     <string name="hm_time_yesterday">Včeraj</string>
+     <string name="hm_toast_log_in">Najprej se prijavite v svoj račun Xiaomi</string>
      <string name="hyper_mind_close_warning">Pozor</string>
      <string name="hyper_mind_close_warning_checkbox">"Ne kaži več"</string>
      <string name="hyper_mind_close_warning_content">Ko ga izklopite, HyperMind ne bo več zbiral podatkov in se učil vaših vzorcev uporabe. Če morate izbrisati že zbrane podatke, &lt;a href=%1$s>tapnite tu&lt;/a>.</string>
@@ -1062,6 +1110,7 @@ Pred predvajanjem iger se prepričajte, da ste vklopili Game Turbo."</string>
      <string name="trust_device_manager">Upravljanje zanesljivih naprav</string>
      <string name="trust_device_none">Tu ni zanesljivih naprav</string>
      <string name="trust_device_title">Zanesljive naprave</string>
+     <string name="try_multipurpose_equipment">Še naprej uporabljajte naprave, da jih prilagodite svojim potrebam</string>
      <string name="tuesday">Torek</string>
      <string name="tuesday_short">Tor</string>
      <string name="tuesday_shortest">T</string>

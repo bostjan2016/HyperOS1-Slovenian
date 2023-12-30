@@ -1868,6 +1868,7 @@ za normalno delovanje, tapnite \"Nastavi\", da odprete Dovoljenja."</string>
      <string name="mark_operation_succeeded">Uspešno dodano</string>
      <string name="mark_people_ignore_info_message">Pritisnite in zadržite fotografije oseb da jih dodate v skupine</string>
      <string name="media_type_burst_photo">Izbruh</string>
+     <string name="media_type_cinematic">Filmski način</string>
      <string name="media_type_clone_photo">Kloni</string>
      <string name="media_type_doc_photo">Dokumenti</string>
      <string name="media_type_fast_motion_video">Časovni zamik</string>
@@ -3052,6 +3053,7 @@ Pri prvi uporabi te storitve lahko traja nekaj časa."</string>
      <string name="send_public_url">Pošlji povezavo albuma</string>
      <string name="send_secret_file_failed">"Ne morem poslati"</string>
      <string name="send_secret_file_space_low">Ni dovolj prostora za shranjevanje</string>
+     <string name="send_special_video_duration_more_than_40s">Obdelane videoposnetke, ki so daljši od %d minut, je mogoče dati v skupno rabo samo v izvirni obliki, ki morda ni združljiva s prejemno napravo. Vseeno nadaljujem?</string>
      <string name="send_too_many_files_error">"Ne morem poslati toliko stvari (maks. %d)."</string>
      <string name="sepia">Sepia</string>
      <string name="service_error">Napaka strežnika</string>

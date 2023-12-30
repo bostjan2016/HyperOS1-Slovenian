@@ -92,4 +92,8 @@
         <item quantity="other">pred %d min</item>
         <item quantity="one">pred 1 minuto</item>
      </plurals>
+     <plurals name="remember_number_habit">
+        <item quantity="other">Shranjenih %1$d vzorcev</item>
+        <item quantity="one">Shranjen %1$d vzorec</item>
+     </plurals>
 </resources>
