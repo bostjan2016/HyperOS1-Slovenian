@@ -223,7 +223,7 @@
      <string name="intent_filter_verification_service">Storitev preverjanja filtra namena</string>
      <string name="interconnection_communication_introduction">Spletne komunikacijske storitve Xiaomi omogočajo odkrivanje, povezovanje in komunikacijo z drugimi napravami Xiaomi.</string>
      <string name="interconnection_service_global_item_title">Medsebojna povezljivost Xiaomi</string>
-     <string name="interconnection_service_global_label">"&lt;Data>Medsebojna povezljivost Xiaomi omogoča vašim napravam brezžično interakcijo med seboj. Če vklopite to stikalo, se strinjate z Medsebojna povezljivost Xiaomi &lt;a href=%1$s>Pravila o zasbnosti&lt;/a >.&lt;/Data>"</string>
+     <string name="interconnection_service_global_label">"&lt;Data>Medsebojna povezljivost Xiaomi omogoča vašim napravam brezžično interakcijo med seboj. Če vklopite to stikalo, se strinjate z Medsebojna povezljivost Xiaomi &lt;a href=%1$s>Pravila o zasebnosti&lt;/a >.&lt;/Data>"</string>
      <string name="interconnection_service_summary">"Spletne komunikacijske storitve Xiaomi omogoča vašim napravam brezžično interakcijo med seboj. Te storitve vključujejo Mi Smart Hub, Mi Smart Play, MIUI+ Beta, Mi Share in predvajanje.
 Za normalno delovanje se morajo te storitve povezati s spletom in zahtevajo naslednja dovoljenja:
 \u0009\u0009Mi Smart Hub:

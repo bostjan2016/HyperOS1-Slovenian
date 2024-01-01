@@ -393,8 +393,8 @@ vaših naprav?"</string>
      <string name="controller_auth_cancel">Prekliči</string>
      <string name="controller_auth_title">Preveri daljinca</string>
      <string name="copy">Kopiraj</string>
-     <string name="copy_toast_msg">Link copied to clipboard</string>
-     <string name="current_wifi_tv">Trnutno omrežje</string>
+     <string name="copy_toast_msg">Povezava kopirana v odložišče</string>
+     <string name="current_wifi_tv">Trenutno omrežje</string>
      <string name="date_picker_lunar">Kitajski tradicionalni koledar</string>
      <string name="date_time_picker_dialog_title">Nastavi datum in čas</string>
      <string name="device_busy">Naprava je zasedena. Počakajte minuto ali dve in poskusite znova.</string>
