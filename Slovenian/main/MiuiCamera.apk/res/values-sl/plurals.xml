@@ -61,10 +61,6 @@
         <item quantity="other">Istočasno lahko naredite do %d klonov.</item>
         <item quantity="one">Istočasno lahko naredite do %d klon.</item>
      </plurals>
-     <plurals name="delete_selection">
-        <item quantity="other">Izbrišem izbrane stvari?</item>
-        <item quantity="one">Izbrišem izbrano stvar?</item>
-     </plurals>
      <plurals name="exit_camera_hint">
         <item quantity="other">"&lt;Data>"Ne morem se povezati s kamero.&lt;br>Ta aplikacija bo zaprta čez &lt;font color=#FFCE16>&lt;b>%1$d sek&lt;/b>&lt;/font>. Po tem počakajte minuto ali dve in poskusite znova."&lt;/Data>"</item>
         <item quantity="one">"&lt;Data>"Ne morem se povezati s kamero.&lt;br>Ta aplikacija bo zaprta čez &lt;font color=#FFCE16>&lt;b>%1$d sek&lt;/b>&lt;/font>. Po tem počakajte minuto ali dve in poskusite znova."&lt;/Data>"</item>
@@ -98,7 +94,7 @@
         <item quantity="one">Vklopljen časovnik (%1$d sek). Fotografije bodo prenesene v to napravo.</item>
      </plurals>
      <plurals name="half_hour_ago">
-        <item quantity="other">Half an hour ago</item>
+        <item quantity="other">Pred pol ure</item>
      </plurals>
      <plurals name="in_a_hour">
         <item quantity="other">Čez 1 uro</item>
@@ -136,10 +132,6 @@
         <item quantity="other">pred %d min</item>
         <item quantity="one">pred 1 minuto</item>
      </plurals>
-     <plurals name="pad_ccc_temperature_warning_msg">
-        <item quantity="other">Vaša naprava je pregreta. Kamera se bo zaprla čez %d sek. Vaše fotografije ali videoposnetki bodo samodejno shranjeni.</item>
-        <item quantity="one">Vaša naprava je pregreta. Kamera se bo zaprla čez %d sek. Vaše fotografije ali videoposnetki bodo samodejno shranjeni.</item>
-     </plurals>
      <plurals name="pref_camera_fastmotion_duration_unit">
         <item quantity="other">%1$s min</item>
         <item quantity="one">%1$s min</item>
@@ -155,9 +147,5 @@
      <plurals name="timer_burst_setting_total_count">
         <item quantity="other">%1$s fotografij</item>
         <item quantity="one">%1$s fotografija</item>
-     </plurals>
-     <plurals name="toast_burst_snap_finished_summary">
-        <item quantity="other">Hitro zaporedno snemanje končano, posneto fotografij: %1$s</item>
-        <item quantity="one">Hitro zaporedno snemanje končano, posneta %1$s fotografija</item>
      </plurals>
 </resources>
