@@ -31,19 +31,15 @@
      <string name="afternoon">Popoldne</string>
      <string name="allow">Dovoli</string>
      <string name="allowed">Dovoljeno</string>
-     <string name="altitude">%.1f</string>
-     <string name="altitude_longitude_Degree_format" formatted="false">"%d°%d'%d\""</string>
      <string name="altitude_title">Nadmorska višina</string>
      <string name="altitude_uncalibrate_cancel">Prekliči</string>
      <string name="altitude_uncalibrate_msg">"Ne morem bolj točno kalibrirati nadm. višine brez GPS ali mobilne podatkovne povezave."</string>
      <string name="altitude_uncalibrate_refresh">Poskusi ponovno</string>
      <string name="altitude_uncalibrate_tip">"Ne morem kalibrirati nadm. višine"</string>
-     <string name="altitude_unit">m</string>
      <string name="am">dop.</string>
      <string name="app_description_content">"Kompas je sistemska aplikacija. Po odstranitvi je ne boste mogli uporabljati za preverjanje navodil, koordinat, atmosferskega tlaka in trenutne nadmorske višine."</string>
      <string name="app_description_title">Odstranim Kompas?</string>
      <string name="app_label">Kompas</string>
-     <string name="app_name">Kompas</string>
      <string name="calibrate_failed">"Nadmorske višine ni bilo mogoče umeriti"</string>
      <string name="calibrate_failed_no_location">"Ne morem umeriti. Prišlo je do napake pri lokaciji."</string>
      <string name="calibrate_failed_timeout">"Ne morem umeriti. Prišlo je do napake strežnika."</string>
@@ -54,7 +50,6 @@
      <string name="calibrate_title">Umerjanje kompasa</string>
      <string name="calibrating">Umerjanje kompasa</string>
      <string name="cancel">Prekliči</string>
-     <string name="cannot_get_location">--</string>
      <string name="clearable_edittext_clear_description">Očisti</string>
      <string name="close">Zapri</string>
      <string name="compass_settings">Postavke</string>
@@ -65,7 +60,6 @@
      <string name="date_time_picker_dialog_title">Nastavite datum in čas</string>
      <string name="dialog_body_no_network">"Povežite se na WiFi ali vključite mobilne podatke."</string>
      <string name="dialog_body_no_network_china">Povežite se na WiFi ali vključite mobilne podatke.</string>
-     <string name="dialog_body_no_network_global">Povežite se na WiFi ali vključite mobilne podatke.</string>
      <string name="dialog_calibrat_altitude">Kalibriranje…</string>
      <string name="dialog_title_no_network">"Ne morem se povezati na omrežje"</string>
      <string name="direction_east">V</string>
@@ -140,8 +134,7 @@
      <string name="friday_short">Pet</string>
      <string name="friday_shortest">P</string>
      <string name="get_location">Dostop do lokacije</string>
-     <string name="getting_location">Kalibriranje...</string>
-     <string name="gradienter_title">Raven</string>
+     <string name="gradienter_title">Nivo</string>
      <string name="guide_toast">"Za kalibracijo premikajte telefon kot vidite spodaj."</string>
      <string name="invisible_mode_dialog_message">"Kamere zdaj ni mogoče uporabiti. Če želite uporabljati kamero, v nastavitvah izklopite način brez beleženja zgodovine."</string>
      <string name="invisible_mode_dialog_negative">Prekliči</string>
@@ -171,9 +164,6 @@
      <string name="miuix_appcompat_action_mode_title_empty">Izberi stvari</string>
      <string name="miuix_appcompat_actionbar_immersion_button_more_description">Več</string>
      <string name="miuix_appcompat_cancel_description">Prekliči</string>
-     <string name="miuix_appcompat_cloud_state_disabled">Sinhronizacija z Cloudom je izključena</string>
-     <string name="miuix_appcompat_cloud_state_finished">Sinhronizacija z Cloudom je končana</string>
-     <string name="miuix_appcompat_cloud_state_syncing">Sinhronizacija z Cloudom…</string>
      <string name="miuix_appcompat_confirm_description">Potrdi</string>
      <string name="miuix_appcompat_delete_description">Izbriši</string>
      <string name="miuix_appcompat_deselect_all">Prekliči vse</string>
@@ -268,9 +258,7 @@
      <string name="preference_privacy_policy">Pokaži Pravila o zasebnosti</string>
      <string name="preference_privacy_setting">Zasebnost</string>
      <string name="preference_privacy_title">Pravila o zasebnosti</string>
-     <string name="pressure">%.1f</string>
      <string name="pressure_title">Pritisk</string>
-     <string name="pressure_unit">hPa</string>
      <string name="remove_icon_description_content">"Kompas je sistemska aplikacija. Ko odstranite bližnjico iz začetnega zaslona, je ne boste mogli več uporabljati za preverjanje smeri, koordinat, atmosferskega tlaka in trenutne nadmorske višine.."</string>
      <string name="remove_icon_description_title">Odstranim \"Kompas\" iz začetnega zaslona?</string>
      <string name="saturday">Sobota</string>

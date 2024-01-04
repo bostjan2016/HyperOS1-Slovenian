@@ -45,10 +45,6 @@
         <item quantity="other">"%2$d stvari ni mogoče dodati v skriti album. %1$s."</item>
         <item quantity="one">"%2$d stvar ni mogoče dodati v skriti album. %1$s."</item>
      </plurals>
-     <plurals name="add_to_secret_successful">
-        <item quantity="other">Dodano %1$d fotografij v skriti album</item>
-        <item quantity="one">Dodana 1 fotografija v skriti album</item>
-     </plurals>
      <plurals name="age_day">
         <item quantity="other">%d dni</item>
         <item quantity="one">%d dan</item>
@@ -165,14 +161,6 @@
         <item quantity="other">Pavziraj sinhronizacijo fotografij, videoposnetkov, stikov, beležk in drugih stvari z Mi Cloudom za %d minut.</item>
         <item quantity="one">Pavziraj sinhronizacijo fotografij, videoposnetkov, stikov, beležk in drugih stvari z Mi Cloudom za %d minuto.</item>
      </plurals>
-     <plurals name="backup_waiting">
-        <item quantity="other">Stvari čaka izdelavo var. kopije: %1$d</item>
-        <item quantity="one">%1$d stvar čaka izdelavo var. kopije</item>
-     </plurals>
-     <plurals name="backuped">
-        <item quantity="other">Shranjene stvari: %1$d</item>
-        <item quantity="one">%1$d stvar je shranjena</item>
-     </plurals>
      <plurals name="backuping_desc_gprs">
         <item quantity="other">%1$d fotografij ali videoposnetkov | %2$s</item>
         <item quantity="one">%1$d fotografija ali videoposnetek | %2$s</item>
@@ -196,10 +184,6 @@
      <plurals name="burst_save_selected">
         <item quantity="other">Shrani izbrane fotografije: %d</item>
         <item quantity="one">Shrani %d izbrano fotografijo</item>
-     </plurals>
-     <plurals name="cloud_space_full">
-        <item quantity="other">"Ne morem izdelati var. kopijo za %1$d stvari"</item>
-        <item quantity="one">"Ne morem izdelati var. kopijo za %1$d stvar"</item>
      </plurals>
      <plurals name="cloud_storage_photo_num">
         <item quantity="other">Fotografij:%d</item>
@@ -229,17 +213,9 @@
         <item quantity="other">Izbrišem %d rafalnih posnetkov?</item>
         <item quantity="one">Izbrišem %d rafalni posnetek?</item>
      </plurals>
-     <plurals name="delete_burst_photo_from_all_devices_and_cloud_msg">
-        <item quantity="other">Izbrišem %d zaporednih fotografij iz Mi Clouda in vseh sinhroniziranih naprav?</item>
-        <item quantity="one">Izbrišem %d zaporedno fotografijo iz Mi Clouda in vseh sinhroniziranih naprav?</item>
-     </plurals>
      <plurals name="delete_burst_photo_from_local">
         <item quantity="other">Izbrišem %d zaporednih fotografij?</item>
         <item quantity="one">Izbrišem %d zaporedno fotografijo?</item>
-     </plurals>
-     <plurals name="delete_burst_photo_from_this_album_and_cloud_msg">
-        <item quantity="other">Izbrišem %d zaporednih fotografij iz Mi Clouda in te naprave?</item>
-        <item quantity="one">Izbrišem %d zaporedno fotografijo iz Mi Clouda in te naprave?</item>
      </plurals>
      <plurals name="delete_finish_format">
         <item quantity="other">Izbrisano stvari: %d</item>
@@ -253,41 +229,13 @@
         <item quantity="other">Izbrišem stvari: %d?</item>
         <item quantity="one">Izbrišem %d stvar?</item>
      </plurals>
-     <plurals name="delete_media_from_this_album_and_cloud_msg">
-        <item quantity="other">Izbrišem stvari %d iz tega albuma in Mi Clouda?</item>
-        <item quantity="one">Izbrišem %d stvar iz tega albuma in Mi Clouda?</item>
-     </plurals>
      <plurals name="delete_media_title">
         <item quantity="other">Izbrišem %d stvari?</item>
         <item quantity="one">Izbrišem %d stvar?</item>
      </plurals>
-     <plurals name="delete_photo_from_all_devices_and_cloud_msg">
-        <item quantity="other">Izbrišem fotografije %d iz vseh naprav in Mi Clouda?</item>
-        <item quantity="one">Izbrišem %d fotografijo iz vseh naprav in Mi Clouda?</item>
-     </plurals>
-     <plurals name="delete_photo_from_local">
-        <item quantity="other">Izbrišem fotografije: %d?</item>
-        <item quantity="one">Izbrišem fotografijo: %d?</item>
-     </plurals>
-     <plurals name="delete_photo_from_this_album_and_cloud_msg">
-        <item quantity="other">Izbrišem %d fotografij iz tega albuma in Mi Clouda?</item>
-        <item quantity="one">Izbrišem %d fotografijo iz tega albuma in Mi Clouda?</item>
-     </plurals>
      <plurals name="delete_third_party_burst_photo">
         <item quantity="other">Izbrišem %d zaporednih fotografij iz naprave?</item>
         <item quantity="one">Izbrišem %d zaporedno fotografijo iz naprav?</item>
-     </plurals>
-     <plurals name="delete_video_from_all_devices_and_cloud_msg">
-        <item quantity="other">Izbrišem videoposnetke %d iz vseh naprav in Mi Clouda?</item>
-        <item quantity="one">Izbrišem %d videoposnetek iz vseh naprav in Mi Clouda?</item>
-     </plurals>
-     <plurals name="delete_video_from_local">
-        <item quantity="other">Izbrišem videoposnetke: %d?</item>
-        <item quantity="one">Izbrišem %d videoposnetek?</item>
-     </plurals>
-     <plurals name="delete_video_from_this_album_and_cloud_msg">
-        <item quantity="other">Izbrišem videoposnetke %d iz tega albuma in Mi Clouda?</item>
-        <item quantity="one">Izbrišem %d videoposnetek iz tega albuma in Mi Clouda?</item>
      </plurals>
      <plurals name="download_error">
         <item quantity="other">"Ne morem prenesti datotek: %1$d"</item>
@@ -320,10 +268,6 @@
      <plurals name="half_hour_ago">
         <item quantity="other">Pred pol ure</item>
      </plurals>
-     <plurals name="ignore_faces_alert_msg">
-        <item quantity="other">"Ne prikazujem teh oseb?"</item>
-        <item quantity="one">"Ne prikazujem te osebe?"</item>
-     </plurals>
      <plurals name="in_a_hour">
         <item quantity="other">Čez 1 uro</item>
      </plurals>
@@ -340,14 +284,6 @@
      <plurals name="less_than_one_minute_ago">
         <item quantity="other">Pravkar</item>
      </plurals>
-     <plurals name="local_space_full">
-        <item quantity="other">Ni dovolj prostora za shranjevanje. Stvari čaka izdelavo var. kopije: %1$d</item>
-        <item quantity="one">Ni dovolj prostora za shranjevanje. %1$d stvar čaka izdelavo var. kopije</item>
-     </plurals>
-     <plurals name="migrate_gp_data_num">
-        <item quantity="other">%1$d stvari</item>
-        <item quantity="one">%1$d stvar</item>
-     </plurals>
      <plurals name="miplay_time_minute_unit">
         <item quantity="other">%d minut</item>
         <item quantity="one">%d minuta</item>
@@ -359,14 +295,6 @@
      <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">%d stvari izbrano</item>
         <item quantity="one">%d stvar izbrana</item>
-     </plurals>
-     <plurals name="more_face">
-        <item quantity="other">%1$s fotografij od %2$s</item>
-        <item quantity="one">%1$s fotografija od %2$s</item>
-     </plurals>
-     <plurals name="network_unsatisfied">
-        <item quantity="other">Napaka omrežja. Stvari čaka izdelavo var. kopije %1$d</item>
-        <item quantity="one">Napaka omrežja. %1$d stvar čaka izdelavo var. kopije</item>
      </plurals>
      <plurals name="num_minutes_ago">
         <item quantity="other">pred %d min</item>
@@ -692,10 +620,6 @@
         <item quantity="other">Ni shranjeno %d fotografij ali videoposnetkov</item>
         <item quantity="one">Ni shranjena %d fotografija ali videoposnetek</item>
      </plurals>
-     <plurals name="sync_off">
-        <item quantity="other">Sinhronizacija je izključena. Stvari čaka izdelavo var. kopije: %1$d  </item>
-        <item quantity="one">Sinhronizacija je izključena. %1$d stvar čaka izdelavo var. kopije</item>
-     </plurals>
      <plurals name="sync_oversized_count">
         <item quantity="other">%d stvari je preveliko za shranjevanje</item>
         <item quantity="one">%d stvar je prevelika za shranjevanje</item>
@@ -735,14 +659,6 @@
      <plurals name="title_age_hint_year">
         <item quantity="other">%d let</item>
         <item quantity="one">%d leto</item>
-     </plurals>
-     <plurals name="today_of_year_location_num_unit">
-        <item quantity="other"></item>
-        <item quantity="one"></item>
-     </plurals>
-     <plurals name="today_of_year_photo_num_unit">
-        <item quantity="other"></item>
-        <item quantity="one"></item>
      </plurals>
      <plurals name="tran_notification_complete_msg">
         <item quantity="other">"Ne morem prenesti %1$d stvari"</item>
