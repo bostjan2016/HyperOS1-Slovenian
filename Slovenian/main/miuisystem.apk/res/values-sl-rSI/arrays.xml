@@ -1,15 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-     <string-array name="boot_msg_text">
-        <item>-==MIUI Adria SLO==-</item>
-        <item>-==MIUI Adria SLO==-</item>
-        <item>-==MIUI Adria SLO==-</item>
-        <item>Namestitev v teku.</item>
-        <item>Namestitev v teku..</item>
-        <item>Namestitev v teku...</item>
-        <item>Optimiziranje aplikacij...</item>
-        <item>Napišite svoje predloge na MIUI Adria SLO prevod</item>
-     </string-array>
      <string-array name="cta_permission_names">
         <item>dostop do omrežja</item>
         <item>branje SMS-ov</item>
