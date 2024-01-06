@@ -55,6 +55,8 @@
      <string name="album_introduction">S to aplikacijo lahko upravljate, urejate in polepšate fotografije in videoposnetke.</string>
      <string name="am">dop.</string>
      <string name="app_name">Določila</string>
+     <string name="application_extension_service">Storitve razširitve aplikacij</string>
+     <string name="application_extension_service_introduction">Storitve razširitve aplikacije vam bodo zagotovile storitve prijave in preverjanja. Za zagotavljanje osnovnih storitev ta aplikacija potrebuje naslednja dovoljenja:</string>
      <string name="application_package_introduction">Ta aplikacija se uporablja za nameščanje aplikacij drugih proizvajalcev, vključno s storitvami skeniranja pred namestitvijo in priporočili storitev po namestitvi.</string>
      <string name="application_permissions">Dovoljenja aplikacije</string>
      <string name="aquire_device_info">Dostop do informacij o napravi</string>
@@ -537,6 +539,7 @@ To storitev lahko nadzorujete v Nastavitve > Gesla &amp; varnost > Zasebnost > S
      <string name="permission_make_a_call_fast_application_summary">Za omogočanje hitrih aplikacij za klicanje;</string>
      <string name="permission_media_storage_summary">Za preverjanje, kako aplikacije med dostopom do datotek uporabljajo dovoljenja, povezana z zasebnostjo</string>
      <string name="permission_message_introduction">Za pošiljanje sporočil blokiranim stikom</string>
+     <string name="permission_not_agree_service_not_working">"Če se ne strinjate z zgoraj navedenimi zahtevanimi dovoljenji, ne boste mogli uporabljati te storitve."</string>
      <string name="permission_number">Dostop do telefonske številke</string>
      <string name="permission_number_introduction">Za vzpostavitev Bluetooth povezave z avtomobilskimi sistemi in Bluetooth slušalkami</string>
      <string name="permission_phone_imei_device">Za dostop do IMEI zaradi prepoznavanja naprave</string>
@@ -585,6 +588,7 @@ To storitev lahko nadzorujete v Nastavitve > Gesla &amp; varnost > Zasebnost > S
      <string name="permission_recording_introduction">Za snemanje zvoka med snemanjem videoposnetkov</string>
      <string name="permission_screen_shoot_introduction">Za dostop in shranjevanje posnetkov zaslona</string>
      <string name="permission_send_message">Pošiljanje SMS-ov</string>
+     <string name="permission_sms_verification_code_login">Za zagotavljanje SMS potrditve za hitro prijavo</string>
      <string name="permission_uniquely_identifiable_information">Dostop do edinstvenih identifikatorjev te naprave</string>
      <string name="permission_uniquely_identifiable_information_summary">Dostop do naslova MAC in OAID naprave za odkrivanje, povezovanje in komunikacijo z drugimi napravami</string>
      <string name="permission_use_bluetooth">Uporaba Bluetooth</string>
@@ -631,6 +635,7 @@ To storitev lahko nadzorujete v Nastavitve > Gesla &amp; varnost > Zasebnost > S
      <string name="provision_next">Naprej</string>
      <string name="provision_skip_underline">Preskoči</string>
      <string name="read_application_info">Dostop do informacij o aplikaciji</string>
+     <string name="read_sms_and_mms">Dostop do SMS in MMS</string>
      <string name="recommended_font_mark">Priporočeno</string>
      <string name="recorder_introduction">Aplikacijo lahko uporabite za snemanje zvoka in shranjevanje posnetkov na Mi Cloud.</string>
      <string name="refuse_cookie">Zavrni piškotke</string>

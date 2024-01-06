@@ -44,6 +44,7 @@
      <string name="alarm_notify_snooze_label">%s dremeža</string>
      <string name="alarm_permanent_alert">Zvonjenje</string>
      <string name="alarm_repeat">Ponovi</string>
+     <string name="alarm_repeat_self_define">Prilagodi</string>
      <string name="alarm_repeat_self_define_button">Prilagodi</string>
      <string name="alarm_ringtone_picker">Alarmi</string>
      <string name="alarm_set_new">Alarm se bo sprožil čez manj kot %d minuto.</string>
@@ -417,6 +418,7 @@
      <string name="privacy_policy_title">Pravila o zasebnosti</string>
      <string name="privacy_settings_title">Zasebnost</string>
      <string name="query_privacy_policy">Pokaži Pravila o zasebnosti</string>
+     <string name="read_device_internal_storage">Dostop do shrambe</string>
      <string name="read_external_storage_permission_desc">Za nastavitev melodij zvonjenja po meri</string>
      <string name="read_internal_storage">Dostop do shrambe</string>
      <string name="remark_hint">Vnesite oznako</string>

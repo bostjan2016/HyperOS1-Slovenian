@@ -80,6 +80,7 @@
      <string name="cognition_privacy_dialog_permission_desc_phone_state">Za učenje uporabe pametnih domačih naprav pri sprejemanju klicev</string>
      <string name="cognition_privacy_dialog_permission_desc_surround_device">Za prepoznavanje, ali so v bližini pogosto uporabljene naprave pametnega doma</string>
      <string name="cognition_privacy_dialog_positive_button_mijia_text">Odpri</string>
+     <string name="cognition_privacy_dialog_positive_button_text">Strinjam se</string>
      <string name="cognition_privacy_dialog_reject_button_text">"Ne strinjam se"</string>
      <string name="cognition_privacy_request">Dovoljenje</string>
      <string name="cognition_privacy_revoke">Preklic soglasja</string>

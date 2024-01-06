@@ -252,10 +252,10 @@ Na vašem računalniku lahko začnete novo sejo."</string>
      <string name="mirror_have_been_opened">Začetni zaslon+ je vklopljen</string>
      <string name="mirror_to_float_window_mode">Preklopi na plavajoče okno</string>
      <string name="mirror_to_full_screen_mode">Preklopi na celozaslonski način</string>
-     <string name="mirror_to_settings_connectivity_remote_pad_content">Storitve medsebojne povezave lahko vklopite v Nastavitve > Medsebojna povezljivost.</string>
-     <string name="mirror_to_settings_connectivity_remote_pad_title">V tabličnem računalniku vklopite storitve medsebojne povezave</string>
-     <string name="mirror_to_settings_connectivity_remote_pc_content">Storitve medsebojne povezave lahko vklopite v Nastavitve > Medsebojna povezljivost.</string>
-     <string name="mirror_to_settings_connectivity_remote_pc_title">V računalniku vklopite storitve medsebojne povezave</string>
+     <string name="mirror_to_settings_connectivity_remote_pad_content">V tabličnem računalniku lahko vklopite Xiaomi Medsebojna povezljivost v Nastavitve > Medsebojna povezljivost.</string>
+     <string name="mirror_to_settings_connectivity_remote_pad_title">Medsebojna povezljivost Xiaomi je izklopljena</string>
+     <string name="mirror_to_settings_connectivity_remote_pc_content">V računalniku lahko vklopite Xiaomi Medsebojna povezljivost v Nastavitve > Medsebojna povezljivost.</string>
+     <string name="mirror_to_settings_connectivity_remote_pc_title">Medsebojna povezljivost Xiaomi je izklopljena</string>
      <string name="mirror_to_settings_phone_content">Vklopim začetni zaslon+?</string>
      <string name="mirror_to_settings_remote_pad_content">Začetni zaslon+ lahko vklopite v Nastavitve > Medsebojna povezljivost.</string>
      <string name="mirror_to_settings_remote_pad_title">V tabličnem računalniku vklopite začetni zaslon+</string>
@@ -379,7 +379,7 @@ Na vašem računalniku lahko začnete novo sejo."</string>
      <string name="notification_channel_name_download">Pokaži napredek prenosov</string>
      <string name="notification_mirror">Druga oseba deli svoj zaslon. Poskusite znova kasneje.</string>
      <string name="notification_state_cancel">Prekini povezavo</string>
-     <string name="notification_state_content">"Ta naprava je povezana z računalnikom %1$s. Zdaj lahko delite vhodne naprave, datoteke in slike."</string>
+     <string name="notification_state_content">"Ta naprava je povezana z računalnikom %1$s. Zdaj lahko delite datoteke in slike ter uporabljate nadzor med napravami."</string>
      <string name="notification_state_title">Povezava je bila uspešno vzpostavljena</string>
      <string name="notify_clip_action_browser">Obišči</string>
      <string name="notify_clip_action_call">Klic</string>
@@ -408,7 +408,7 @@ Na vašem računalniku lahko začnete novo sejo."</string>
      <string name="pad_pc_mirror_introduction_summary">Zrcalite računalniški zaslon na tablico</string>
      <string name="pad_pc_mirror_introduction_title">Zrcalni zaslon</string>
      <string name="pad_pc_share_introduction_summary">"S tem tabličnim računalnikom uporabljajte miško in tipkovnico računalnika"</string>
-     <string name="pad_pc_share_introduction_title">Vhodne naprave</string>
+     <string name="pad_pc_share_introduction_title">Kontrole med napravami</string>
      <string name="pad_settings_bluetooth_enable_summary">Vklopite Bluetooth, da boste lahko našli naprave v bližini. Vklopim zdaj?</string>
      <string name="pad_settings_bluetooth_enable_title">Vklopi Bluetooth</string>
      <string name="pad_settings_click_toast_msg">Povežite se s pomočjo Mi Smart Hub na vašem računalniku</string>

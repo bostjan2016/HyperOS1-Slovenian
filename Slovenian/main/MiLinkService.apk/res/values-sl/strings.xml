@@ -281,6 +281,9 @@ vaših naprav?"</string>
      <string name="circulate_open_in_tv">Odpri na TV</string>
      <string name="circulate_pad_app_continuity">"Uporaba telefonske %1$s"</string>
      <string name="circulate_pad_card_being_used_camera">"Uporaba kamere telefona na tabličnem računalniku"</string>
+     <string name="circulate_pad_card_being_used_cellular">Tablični računalnik uporablja mobilne podatke</string>
+     <string name="circulate_pad_card_being_used_cellular_wifi">WiFi signal v skupni rabi s tablico</string>
+     <string name="circulate_pad_card_being_used_cellular_wifi_china">WiFi signal v skupni rabi s tablico</string>
      <string name="circulate_pad_card_use_camera">"Uporabi kamero tablice"</string>
      <string name="circulate_pad_card_use_desktop">Delite domači zaslon s tabličnim računalnikom</string>
      <string name="circulate_pad_card_using_camera">"Uporaba kamere tablice"</string>
@@ -293,8 +296,12 @@ vaših naprav?"</string>
      <string name="circulate_phone_app_continuity">Uporaba %1$s na tabličnem računalniku</string>
      <string name="circulate_phone_card_being_used_camera">"Uporaba kamere tablice na telefonu"</string>
      <string name="circulate_phone_card_use_camera">"Uporabi kamero telefona"</string>
+     <string name="circulate_phone_card_use_cellular">"Uporabi mobilne podatke telefona"</string>
      <string name="circulate_phone_card_use_desktop">"Ogled začetnega zaslona telefona"</string>
      <string name="circulate_phone_card_using_camera">"Uporabi kamero telefona…"</string>
+     <string name="circulate_phone_card_using_cellular">"Uporaba mobilnih podatkov telefona"</string>
+     <string name="circulate_phone_card_using_cellular_wifi">"Uporaba signala WiFi telefona"</string>
+     <string name="circulate_phone_card_using_cellular_wifi_china">"Uporaba signala WiFi telefona"</string>
      <string name="circulate_phone_card_using_desktop">"Ogled začetnega zaslona telefona…"</string>
      <string name="circulate_ringfind_button_hint_play">Predvajaj zvok</string>
      <string name="circulate_ringfind_button_hint_stop">Ustavi predvajanje zvoka</string>
@@ -360,6 +367,7 @@ vaših naprav?"</string>
      <string name="connect_settings_base">Medsebojna povezljivost</string>
      <string name="connect_settings_category_connection_car">Lastnosti avtomobila</string>
      <string name="connect_settings_category_personal_device">Osebne naprave</string>
+     <string name="connect_settings_communication_sharing">Brezžična povezava</string>
      <string name="connect_settings_connect_permission">Medsebojna povezljivost in dovoljenja</string>
      <string name="connect_settings_connect_privacy">Zasebnost</string>
      <string name="connect_settings_connection_service">Xiaomi Medsebojna povezljivost</string>
@@ -376,7 +384,7 @@ vaših naprav?"</string>
      <string name="connect_settings_summary"><Data>Samodejno odkrijte naprave v bližini, vpisane v vaš račun Xiaomi, in jih povežite med seboj za izvajanje različnih nalog v več napravah. &lt;a href=%1$s>Več o tem&lt;/a></Data></string>
      <string name="connect_settings_summary_connection_service">Dovolite svojim napravam brezžično interakcijo med seboj</string>
      <string name="connect_settings_summary_corp_phone">Sprejmite klice na bližnjih tablicah ali računalnikih, prijavljenih v vaš račun Xiaomi</string>
-     <string name="connect_settings_summary_hyper_mind">Samodejno prilagajanje bližnjih naprav vašim potrebam glede na vaše vzorce uporabe. To storitev poganja Mi AI.</string>
+     <string name="connect_settings_summary_hyper_mind">Ta storitev se nauči vaših vzorcev in jih uporablja za nadzor naprav pametnega doma. Poganja Mi AI.</string>
      <string name="connect_settings_summary_relay_app">Nadaljevanje opravil v isti aplikaciji v drugi napravi</string>
      <string name="connect_settings_summary_share_clipboard">Prilepite besedilo in slike v druge naprave v %d minutah po kopiranju v to napravo</string>
      <string name="connect_settings_summary_share_launcher_pad">Oglejte si začetne zaslone bližnjih telefonov in jih uporabljajte, prijavljeni v vaš račun Xiaomi</string>
@@ -670,7 +678,7 @@ tako da se lahko Xiaomi HyperMind uči in izpopolnjuje vzorce"</string>
      <string name="hm_toast_log_in">Najprej se prijavite v svoj račun Xiaomi</string>
      <string name="hyper_mind_close_warning">Pozor</string>
      <string name="hyper_mind_close_warning_checkbox">"Ne kaži več"</string>
-     <string name="hyper_mind_close_warning_content">Ko ga izklopite, HyperMind ne bo več zbiral podatkov in se učil vaših vzorcev uporabe. Če morate izbrisati že zbrane podatke, &lt;a href=%1$s>tapnite tu&lt;/a>.</string>
+     <string name="hyper_mind_close_warning_content">Če izklopite to storitev, se HyperMind ne bo več mogel učiti ali uporabljati vaših vzorcev. Če želite preklicati svoje soglasje za naše zbiranje vaših podatkov, tapnite &lt;a href=%1$s>tukaj&lt;/a>.</string>
      <string name="hyper_mind_close_warning_ok">Razumem</string>
      <string name="icon_content_description">Pogovorno okno</string>
      <string name="invisible_mode_dialog_content">"Ne morete uporabiti predvajanja, ko ste brez beleženja zgodovine. Najprej izklopite način brez beleženja zgodovine."</string>
