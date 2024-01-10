@@ -141,6 +141,10 @@
      <plurals name="less_than_one_minute_ago">
         <item quantity="other">Pravkar</item>
      </plurals>
+     <plurals name="mggc_ins_back_seconds_remaining">
+        <item quantity="other">&lt;font color=#0D84FF>%1$d&lt;/font> sek ostalo</item>
+        <item quantity="one">&lt;font color=#0D84FF>%1$d&lt;/font> sek ostala</item>
+     </plurals>
      <plurals name="mins_ago">
         <item quantity="other">pred %1$d minutami</item>
         <item quantity="one">pred %1$d minuto</item>
@@ -301,5 +305,9 @@
      <plurals name="web_permission_protect_subtitle_time">
         <item quantity="other">%s krat</item>
         <item quantity="one">%s krat</item>
+     </plurals>
+     <plurals name="web_preload_hint_dialog_title">
+        <item quantity="other">Prejšnji teden vam je Mi Brskalnik %d-krat povečal hitrost nalaganja spletnih strani!</item>
+        <item quantity="one">Prejšnji teden vam je Mi Brskalnik %d-krat povečal hitrost nalaganja spletnih strani!</item>
      </plurals>
 </resources>

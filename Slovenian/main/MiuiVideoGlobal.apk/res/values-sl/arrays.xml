@@ -9,11 +9,4 @@
         <item>Predlog</item>
         <item>Ostalo</item>
      </string-array>
-     <string-array name="playback_streaming_quality">
-        <item>Samod.</item>
-        <item>Nizko</item>
-        <item>Srednje</item>
-        <item>Visoko</item>
-        <item>Zelo visoko</item>
-     </string-array>
 </resources>

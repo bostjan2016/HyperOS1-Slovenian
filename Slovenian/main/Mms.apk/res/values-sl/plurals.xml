@@ -127,10 +127,6 @@
         <item quantity="other">Dobili ste %d vabil za skupinski klepet</item>
         <item quantity="one">Dobili ste %d vabilo za skupinski klepet</item>
      </plurals>
-     <plurals name="recipient_count">
-        <item quantity="other">Oseb: %1$s</item>
-        <item quantity="one">%1$s oseba</item>
-     </plurals>
      <plurals name="search_results_title">
         <item quantity="other">%1$s rezultatov za \"%2$s\"</item>
         <item quantity="one">%1$s rezultat za \"%2$s\"</item>
