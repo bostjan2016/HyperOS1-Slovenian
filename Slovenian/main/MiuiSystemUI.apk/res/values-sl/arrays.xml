@@ -190,6 +190,7 @@
         <item>Ni na voljo</item>
         <item>Izključeno</item>
         <item>Vključeno</item>
+ </string-array>          
      <string-array name="udfps_accessibility_touch_hints">
         <item>Levo</item>
         <item>Dol</item>
