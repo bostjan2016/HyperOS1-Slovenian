@@ -154,7 +154,6 @@
         <item quantity="other">pred %d minut</item>
         <item quantity="one">pred 1 minuto</item>
      </plurals>
-     </plurals>
      <plurals name="plus_edit_delete_comfire_text">
         <item quantity="other">Želite izbrisati %s stvari?</item>
         <item quantity="one">Želite izbrisati %s stvar?</item>
