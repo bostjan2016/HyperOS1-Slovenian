@@ -142,7 +142,6 @@
         <item quantity="other">%d pesmi</item>
         <item quantity="one">%d pesem</item>
      </plurals>
-     </plurals>
      <plurals name="notice_user_banned">
         <item quantity="other">Vaša vsebina vsebuje stvari (%1$s) ki kršijo standarde naše skupnosti. Vaš račun je onemogočen za %2$d dni do %3$s.</item>
         <item quantity="one">Vaša vsebina vsebuje stvar (%1$s) ki krši standarde naše skupnosti. Vaš račun je onemogočen za %2$d dni do %3$s.</item>
