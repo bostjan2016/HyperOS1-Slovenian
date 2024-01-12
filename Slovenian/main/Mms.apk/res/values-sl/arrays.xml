@@ -61,7 +61,6 @@
         <item>Mi Sporočilo</item>
         <item>CMCC Smart SMS</item>
      </string-array>
-     </string-array>
      <string-array name="wild_msg_sync_options">
         <item>Sinhr. vsa sporočila</item>
         <item>Sinhr. sporočila iz izbranih SIM kartic</item>
