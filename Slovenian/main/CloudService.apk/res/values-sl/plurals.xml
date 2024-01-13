@@ -160,6 +160,10 @@
         <item quantity="other">pred %d min</item>
         <item quantity="one">pred 1 minuto</item>
      </plurals>
+     <plurals name="provision_sync_items_status_off_title">
+        <item quantity="other">"Sinhronizacija ni vklopljena za %s stvari"</item>
+        <item quantity="one">"Sinhronizacija ni vklopljena za %s stvar"</item>
+     </plurals>
      <plurals name="provision_sync_items_status_title">
         <item quantity="other">%s storitev bo sinhronizirano z Mi Cloudom</item>
         <item quantity="one">%s storitev bo sinhronizirana z Mi Cloudom</item>

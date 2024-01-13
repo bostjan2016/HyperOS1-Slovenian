@@ -27,6 +27,7 @@
      <string name="abc_shareactionprovider_share_with">Skupna raba z:</string>
      <string name="abc_shareactionprovider_share_with_application">Skupna raba z drugimi preko aplikacije %s</string>
      <string name="abc_toolbar_collapse_description">Strni</string>
+     <string name="access_calendar">Dostop do koledarja</string>
      <string name="access_non_personal_data">Če iz svoje naprave umaknete privolitev za dostop in uporabo neosebnih podatkov, bodo storitve Wallpaper Carousel deaktivirane, vsi zbrani podatki pa bodo izbrisani v roku, določenem v veljavnih zakonih in drugih predpisih..</string>
      <string name="accessibility_enabled">Dostopnost je omogočena.</string>
      <string name="actionbar_button_up_description">Nazaj</string>
@@ -69,6 +70,7 @@
      <string name="boot_video_replay">Predvajaj ponovno</string>
      <string name="boot_video_skip">Preskoči</string>
      <string name="calculator_introduction">Aplikacijo lahko uporabite za računanje, pretvaranje enot in valut in oceno odplačila kredita.</string>
+     <string name="calendar_storage">Pomnilnik koledarja</string>
      <string name="camera_application_introduction">S to aplikacijo lahko fotografirate in snemate videoposnetke.</string>
      <string name="camera_introduction">Kamero uporabite za snemanje fotografij in videoposnetkov.</string>
      <string name="carousel_cookies_content"><Data>Ko se dotaknete slik in zgodb v vrtiljaku ozadij, se v vašem brskalniku odprejo njihove polne različice. Naš zaupanja vreden tretji ponudnik vsebine lahko nato priporoči dodatno vsebino in oglase, ki so prilagojeni vašim zanimanjem. Če se strinjate z aktiviranjem te storitve, bodo v vaš brskalnik namestili piškotke, kot je opisano v &lt;a href=\"%1$s\">Pravila piškoti&lt;/a>. Če zavrnete piškotke, bo vrtiljak za ozadje še vedno deloval, vendar njegova vsebina in priporočila morda ne bodo več pomembni za vas. Svoje nastavitve lahko kadar koli spremenite v nastavitvah.</Data></string>
@@ -116,6 +118,7 @@
      <string name="diagnose_report">Pošljite diagnostične podatke da boste locirali in analizirali probleme sistema in izboljšali uporabniško izkušnjo. Ti podatki lahko vsebujejo osebne podatke (npr. IP, lokacijo itd.)</string>
      <string name="disageement_abnormal_download">"Če se ne strinjate z dovoljenji ali deljenjem in pošiljanjem vaših osebnih podatkov, ne boste mogli uporabljati te storitve."</string>
      <string name="disagree">Prekliči</string>
+     <string name="disagree_unable_serve">"Če se ne strinjate z zgornjimi dovoljenji ne boste mogli uporabljati te storitve."</string>
      <string name="disagreement_abnormal_running">"Če se ne strinjate z dovoljenji ali deljenjem in pošiljanjem vaših osebnih podatkov, ne boste mogli uporabljati te aplikacije. Lahko se odločite da ne boste uporabljali aplikacije ali pa ji boste omejili dovoljenja."</string>
      <string name="disagreement_abnormal_running_fast_pairing">"Če se s takšnimi dovoljenji ne strinjate, te aplikacije ne boste mogli uporabljati. V takšnih primerih boste dovoljenja v nastavitvah lahko omejili."</string>
      <string name="disagreement_application_not_working_properly">"Če se ne strinjate s podelitvijo teh dovoljenj, te aplikacije ne boste mogli uporabljati."</string>
@@ -629,11 +632,13 @@ To storitev lahko nadzorujete v Nastavitve > Gesla &amp; varnost > Zasebnost > S
      <string name="privacy_refuse">"Ne strinjam se"</string>
      <string name="privacy_title">Pogoji &amp; Pravila o zasebnosti</string>
      <string name="protect_persoanl_info_statement">Zaščitili bomo vaše osebne podatke v skladu z zakoni, predpisi in pravili o zasebnosti.</string>
+     <string name="provide_date_management_service">Ta storitev vam omogoča preverjanje datuma in urejanje dogodkov.</string>
      <string name="provision_back">Nazaj</string>
      <string name="provision_inputmethod_policy_description"><Data>Pokaži &lt;a href=%1$s>Pravila o zasebnosti&lt;/a > izbranih tipkovnic.</Data></string>
      <string name="provision_inputmethod_policy_description1">Pravila o zasebnosti</string>
      <string name="provision_next">Naprej</string>
      <string name="provision_skip_underline">Preskoči</string>
+     <string name="qualcomm_introduction">com.qualcomm.qti.workloadclassifier je storitev, ki ureja sistemske procese.</string>
      <string name="read_application_info">Dostop do informacij o aplikaciji</string>
      <string name="read_sms_and_mms">Dostop do SMS in MMS</string>
      <string name="recommended_font_mark">Priporočeno</string>
@@ -649,6 +654,7 @@ To storitev lahko nadzorujete v Nastavitve > Gesla &amp; varnost > Zasebnost > S
      <string name="require_network_and_authority_statement">Za normalno delovanje se mora ta storitev povezati na splet in zahteva naslednja dovoljenja:</string>
      <string name="require_network_authority_statement">Da vam lahko ponudimo osnovne storitve se morate povezati na splet in odobriti naslednja dovoljenja za zbiranje vaših osebnih podatkov:</string>
      <string name="require_network_authority_statement_dual">Za normalno delovanje se mora ta storitev povezati na splet in zahteva naslednja dovoljenja:</string>
+     <string name="require_statement">Za zagotavljanje osnovnih storitev potrebujemo naslednja dovoljenja:</string>
      <string name="safe_open_service">Varne odprte storitve</string>
      <string name="safe_open_service_introduction">Varne odprte storitve pomagajo razvijalcem in zagotavljajo varnostne zmogljivosti na sistemski ravni za zaščito uporabnikov in njihove zasebnosti.</string>
      <string name="saturday">Sobota</string>
@@ -816,6 +822,7 @@ Morate se strinjati z Mint Keyboard Pravila o zasebnosti pred uporabo te storitv
      <string name="tuesday_short">Tor</string>
      <string name="tuesday_shortest">T</string>
      <string name="two_dimensional_code_scan">Skeniraj QR kodo</string>
+     <string name="used_date_viewing">Za preverjanje datuma</string>
      <string name="user_agreement">Pogoji uporabe</string>
      <string name="user_agreement_declare">Pred uporabo MIUI-ja morate prebrati in se strinjati z Pogoji uporabe in Pravila o zasebnosti. Ob aktivaciji se bodo storitve omrežne aktivacije Mi SIM, Najdi napravo, Začetni zaslon, Pogosti izrazi, Prevajalska služba, MIUI Daemon, HTML brskalnik in Posodabljanje povezale s spletom. Pametne storitve rabijo splet in lokacijo.</string>
      <string name="user_agreement_declare_gmscore">Pred uporabo MIUI-ja morate prebrati in se strinjati z Pogoji uporabe in Pravila o zasebnosti. Ob aktivaciji se bodo storitve omrežne aktivacije Mi SIM, Najdi napravo, Začetni zaslon, Pogosti izrazi, Prevajalska služba, MIUI Daemon, HTML brskalnik in Posodabljanje povezale s spletom. Pametne storitve rabijo splet in lokacijo.</string>

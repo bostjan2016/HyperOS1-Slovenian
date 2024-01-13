@@ -409,7 +409,7 @@ Tapnite \"%1$s\" in izberite \"%2$s\"."</string>
      <string name="password_toggle_content_description">Pokaži geslo</string>
      <string name="path_soundrecorder_setting">Sistemske aplikacije/Snemanje</string>
      <string name="pause">Premor</string>
-     <string name="pause_status_focus_notification">Premor</string>
+     <string name="pause_status_focus_notification">Snemanje zaustavljeno</string>
      <string name="pay_error_cancel">Plačilo je bilo preklicano</string>
      <string name="pay_error_null">"Plačila ni bilo mogoče dokončati. Preverite svoj račun."</string>
      <string name="pay_error_unknown">Neznana napaka</string>
@@ -419,8 +419,8 @@ Tapnite \"%1$s\" in izberite \"%2$s\"."</string>
      <string name="permission_desc">Podrobnosti o dovoljenjih</string>
      <string name="permission_dialog_cancel">Prekliči</string>
      <string name="permission_dialog_ok">Nastavitve</string>
-     <string name="permission_notification_description">Za pošiljanje opozoril pri snemanju, predvajanju in prenosu vsebine</string>
-     <string name="permission_notification_dialog_description">"Za pošiljanje opozoril o trenutnem stanju aplikacije"</string>
+     <string name="permission_notification_description">Ta aplikacija potrebuje dovoljenje za pošiljanje obvestil, da lahko pošilja opozorila pri snemanju, predvajanju in prenosu vsebine.</string>
+     <string name="permission_notification_dialog_description">"Ta aplikacija potrebuje dovoljenje za pošiljanje obvestil, da lahko pošilja opozorila o trenutnem stanju aplikacije."</string>
      <string name="permission_notification_title">Potrebna so dovoljenja</string>
      <string name="permission_read_phone_state">Dostop do podatkov o napravi</string>
      <string name="permission_read_phone_state_description">Za dostop do statusa klica za samodejno zaustavitev snemanja ob sprejemanju klicev</string>

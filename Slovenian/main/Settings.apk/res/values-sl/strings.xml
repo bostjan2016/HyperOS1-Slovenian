@@ -5063,7 +5063,7 @@ Ni bilo videti konjev ali živali drugih vrst; ljudje so prenašali stvari naokr
 "</string>
      <string name="font_size_summary1">"Če je besedilo vašega sistema še vedno premajhno poskusite "</string>
      <string name="font_size_summary2">Lite način.</string>
-     <string name="footer_description_full_screen_intent">Dovoli tej aplikaciji pošiljanje celozaslonskih obvestil o nameri, ki pokrivajo celoten zaslon.</string>
+     <string name="footer_description_full_screen_intent">Dovolite tej aplikaciji prikaz obvestil, ki zavzamejo celoten zaslon, ko je naprava zaklenjena. Aplikacija lahko uporablja celozaslonska obvestila za prikaz alarmov, dohodnih klicev ali drugih nujnih obvestil. Ta nastavitev je odvisna od dovoljenja za odpiranje novih oken med delovanjem v ozadju in se lahko uporablja le, če je to dovoljenje podeljeno.</string>
      <string name="footer_learn_more_content_description">Več o storitvi %1$s</string>
      <string name="for_diagnosis_usage_only">Uporabi te podatke samo za diagnozo.</string>
      <string name="forbidden_network">(prepovedano)</string>

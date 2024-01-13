@@ -58,7 +58,7 @@
      <string name="cta_agree_desc">Dovolite tej aplikaciji, da se poveže s spletom in ji dajte obvezna dovoljenja, navedena zgoraj.</string>
      <string name="cta_btn_agree">Strinjam se</string>
      <string name="cta_btn_disagree">"Ne strinjam se"</string>
-     <string name="cta_main_purpose">Dobrodošli v urejevalniku posnetkov zaslona! To aplikacijo lahko uporabite za obrezovanje in urejanje posnetkov zaslona.</string>
+     <string name="cta_main_purpose">Dobrodošli v urejevalniku posnetkov zaslona! To aplikacijo lahko uporabite za obrezovanje in urejanje posnetkov zaslona. Ta aplikacija se mora povezati s spletom in dostopati do zvočnih in video datotek v vaši napravi, da lahko zagotovi potrebne storitve.</string>
      <string name="custom_define_permission_desc_android.permission_group.STORAGE">Za shranjevanje posnetkov zaslona</string>
      <string name="date_picker_lunar">Kitajski tradicionalni koledar</string>
      <string name="date_time_picker_dialog_title">Nastavi datum in čas</string>
@@ -319,6 +319,7 @@ drsnega posnetka zaslona"</string>
      <string name="screenshot_long_screenshot">Podrsaj</string>
      <string name="screenshot_save">Shrani</string>
      <string name="screenshot_send">Pošlji</string>
+     <string name="screenshot_succeed">Posnetek zaslona je bil uspešno narejen</string>
      <string name="screenshot_thumbnail">Sličica zaslona</string>
      <string name="scroll_annotation">Pomikajte se in dodajte opombe</string>
      <string name="scroll_annotation_btn_quit">Izhod iz opomb</string>

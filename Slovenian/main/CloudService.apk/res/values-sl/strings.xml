@@ -47,6 +47,7 @@
      <string name="am">dop.</string>
      <string name="app_name">Mi Cloud</string>
      <string name="bad_authentication">Nepravilen račun ali geslo</string>
+     <string name="browser_sync_settings_preference">Samodejna sinhronizacija</string>
      <string name="btn_return">Nazaj</string>
      <string name="btn_revoke_permission">Preklic soglasja</string>
      <string name="button_agree">Strinjam se</string>
@@ -631,8 +632,8 @@ Podatki o lokaciji morda ne bodo prijavljeni če je omrežna povezava slaba."</s
      <string name="privacy_and_agreement">Pogoji in predpisi</string>
      <string name="privacy_dialog_finddevice_all_purpose_pad">"Dobrodošli v Najdi napravo! Uporabite jo lahko za iskanje, zaklepanje ali brisanje podatkov iz naprave če jo izgubite."</string>
      <string name="privacy_dialog_finddevice_all_purpose_phone">"Dobrodošli v Najdi napravo! Uporabite jo lahko za iskanje, zaklepanje ali brisanje podatkov iz naprave če jo izgubite."</string>
-     <string name="privacy_dialog_sync_all_purpose_china">Dobrodošli v storitve Xiaomi Cloud! Xiaomi Cloud lahko uporabite za sinhronizacijo sporočil, zgodovine klicev, stikov, beležk, nastavitev brskalnika, pesmi, fotografij in videoposnetkov, nastavitev WiFi-ja, posnetkov, videza začetnega zaslona, aplikacij, koledarskih dogodkov, seznama blokiranih in zakl. aplikacij na vseh povezanih napravah.</string>
-     <string name="privacy_dialog_sync_all_purpose_china_v2">Dobrodošli v storitve Xiaomi Cloud! Xiaomi Cloud lahko uporabite za sinhronizacijo sporočil, zgodovine klicev, stikov, beležk, nastavitev brskalnika, pesmi, fotografij in videoposnetkov, nastavitev WiFi-ja, posnetkov, videza začetnega zaslona, aplikacij, koledarskih dogodkov, seznama blokiranih in zakl. aplikacij na vseh povezanih napravah.</string>
+     <string name="privacy_dialog_sync_all_purpose_china">Dobrodošli v storitve Xiaomi Cloud! Xiaomi Cloud lahko uporabite za sinhronizacijo sporočil, zgodovine klicev, stikov, beležk, nastavitev brskalnika, pesmi, fotografij in videoposnetkov, nastavitev WiFi-ja, posnetkov, videza začetnega zaslona, aplikacij, koledarskih dogodkov, seznama blokiranih, zgodovine klicev in zakl. aplikacij na vseh povezanih napravah.</string>
+     <string name="privacy_dialog_sync_all_purpose_china_v2">Dobrodošli v storitve Xiaomi Cloud! Xiaomi Cloud lahko uporabite za sinhronizacijo sporočil, zgodovine klicev, stikov, beležk, nastavitev brskalnika, pesmi, fotografij in videoposnetkov, nastavitev WiFi-ja, posnetkov, videza začetnega zaslona, aplikacij, koledarskih dogodkov, seznama blokiranih, zgodovine klicev in zakl. aplikacij na vseh povezanih napravah.</string>
      <string name="privacy_dialog_sync_all_purpose_pad">Dobrodošli v storitvah Xiaomi v oblaku! Z oblakom Xiaomi lahko v vseh povezanih napravah sinhronizirate sporočila, stike, zapiske, nastavitve brskalnika, fotografije in videoposnetke, posnetke, dogodke v koledarju in na seznamu blokiranih..</string>
      <string name="privacy_dialog_sync_all_purpose_pad_without_contact_but_sim">Dobrodošli v storitvah Xiaomi v oblaku! S storitvijo Xiaomi Cloud lahko sinhronizirate svoja sporočila, zapiske, nastavitve brskalnika, fotografije in videoposnetke, posnetke, koledarske dogodke in stvari na seznamu blokiranih v vseh povezanih napravah.</string>
      <string name="privacy_dialog_sync_all_purpose_pad_without_sim_but_contact">Dobrodošli v storitvah Xiaomi v oblaku! S storitvijo Xiaomi Cloud lahko sinhronizirate svoje stike, zapiske, nastavitve brskalnika, fotografije in videoposnetke, posnetke, koledarske dogodke in stvari na seznamu blokiranih v vseh povezanih napravah.</string>

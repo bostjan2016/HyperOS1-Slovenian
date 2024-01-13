@@ -1668,6 +1668,8 @@ Skrbnik lahko nadzira in upravlja nastavitve, dostop za podjetje, aplikacije, z 
      <string name="screen_pinning_description">To se prikazuje dokler ne odznačite. Tapnite in podržite \"Domov\" in \"Izklop\" istočasno da odpnete.</string>
      <string name="screen_pinning_description_accessible">S tem ostane zaslon viden, dokler ga ne odpnete. Če ga želite odpeti, tapnite in podržite\"Domov\" in \"Izklop\" istočasno.</string>
      <string name="screen_pinning_description_gestural">Zaslon bo ostal v ospredju, dokler ga ne odklopite. Povlecite navzgor in pridržite, da ga odpnete.</string>
+     <string name="screen_pinning_description_gesture_mode">Ta aplikacija bo ostala v Nedavnih, dokler je ne odpnete tako, da podrsate z dna zaslona navzgor in začasno ustavite.</string>
+     <string name="screen_pinning_description_navigation_mode">Ta aplikacija bo ostala v Nedavnih, dokler je ne odpnete tako, da pritisnete in držite gumba za nazaj in predogled.</string>
      <string name="screen_pinning_description_recents_invisible">Zaslon bo ostal v ospredju, dokler ga ne odklopite. Dotaknite se gumba Nazaj in Domov, da ga odpnete.</string>
      <string name="screen_pinning_description_recents_invisible_accessible">Zaslon bo tako ostal v prvem planu dokler ga ne odpnete. Tapnite in podržite \"Domov\" in \"Izklop\" istočasno ga boste odpeli.</string>
      <string name="screen_pinning_exit">Zaslon je odpet</string>
@@ -1676,9 +1678,14 @@ Skrbnik lahko nadzira in upravlja nastavitve, dostop za podjetje, aplikacije, z 
      <string name="screen_pinning_positive">Razumem</string>
      <string name="screen_pinning_start">Zaslon je pripet</string>
      <string name="screen_pinning_title">Zaslon je pripet</string>
+     <string name="screen_pinning_title_gesture_mode">Ta aplikacija je pripeta</string>
+     <string name="screen_pinning_title_navigation_mode">Ta aplikacija je pripeta</string>
      <string name="screen_pinning_toast">Da boste odpeli ta zaslon, tapnite gumbe Nazaj in Domov ter podržite</string>
+     <string name="screen_pinning_toast_gesture_mode">Povlecite navzgor z dna zaslona in začasno ustavite, da odpnete to aplikacijo</string>
      <string name="screen_pinning_toast_gesture_nav">Če želite odpeti ta zaslon, povlecite in pridržite</string>
+     <string name="screen_pinning_toast_navigation_mode">Pritisnite in držite gumb za nazaj in predogled, da odpnete to aplikacijo</string>
      <string name="screen_pinning_toast_recents_invisible">Da boste odpeli ta zaslon, tapnite gumbe \"Domov\" in \"Izklop\" ter podržite</string>
+     <string name="screen_pinning_toast_start">Ta aplikacija je pripeta</string>
      <string name="screen_recording_announcement">Začelo se je snemanje zaslona</string>
      <string name="screen_share_permission_app_selector_title">Deljenje ali snemanje aplikacije</string>
      <string name="screen_stopped_recording_announcement">Končalo se je snemanje zaslona</string>
