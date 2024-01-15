@@ -1606,7 +1606,6 @@ Skrbnik lahko nadzira in upravlja nastavitve, dostop za podjetje, aplikacije, z 
      <string name="quick_settings_sync_label">Sinhr.</string>
      <string name="quick_settings_sync_state_change_message_off">Sinhronizacija je izklopljena</string>
      <string name="quick_settings_sync_state_change_message_on">Sinhronizacija je vklopljena</string>
-     <string name="quick_settings_tiles">privzeto</string>
      <string name="quick_settings_ui_mode_night_label">Temna tema</string>
      <string name="quick_settings_vibrate_label">Vibracija</string>
      <string name="quick_settings_vibrate_state_change_message_off">Vibriranje je izklopljeno</string>
