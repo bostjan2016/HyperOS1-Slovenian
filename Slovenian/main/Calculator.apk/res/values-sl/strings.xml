@@ -173,7 +173,7 @@
      <string name="interest_rate_hint">Vnesite obrestno mero</string>
      <string name="investment_invalid_duration">Trajanje naložbe mora biti večje od nič</string>
      <string name="investment_loan_result">Podrobnosti</string>
-     <string name="investment_type">Pot</string>
+     <string name="investment_type">Vrsta naložbe</string>
      <string name="investment_type_once">Enkrat</string>
      <string name="investment_type_recurring">Ponavljajoče</string>
      <string name="item_title_area_conversion">Površina</string>

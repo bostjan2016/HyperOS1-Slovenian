@@ -643,6 +643,7 @@ Tapnite \"%1$s\" in izberite \"%2$s\"."</string>
      <string name="toast_enter_silent_mode">Snemanje. Tihi način je vklopljen.</string>
      <string name="toast_exit_silent_mode">Končano snemanje. Tihi način je izklopljen.</string>
      <string name="toast_max_record_time">%1$s lahko snemam za toliko %2$s</string>
+     <string name="toast_stop">Snemanje končano</string>
      <string name="toast_uninstall_fileexplorer">"Aplikacija Raziskovalec ni nameščena"</string>
      <string name="today">Danes</string>
      <string name="tomorrow">Jutri</string>

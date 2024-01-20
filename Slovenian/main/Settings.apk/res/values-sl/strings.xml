@@ -3985,6 +3985,10 @@ Težavo lahko poskusite rešiti tako, da zaustavite aplikacijo %1$s.
      <string name="display_dashboard_summary_with_style">Slogi, ozadja, časovna omejitev za zaslon, velikost pisave</string>
      <string name="display_font_size_label">Velikost pisave:</string>
      <string name="display_label">Zaslon</string>
+     <string name="display_notification_icon_0">Nič</string>
+     <string name="display_notification_icon_1">%d ikona</string>
+     <string name="display_notification_icon_3">%d ikone</string>
+     <string name="display_notification_icon_5">%d ikon</string>
      <string name="display_order_text">Razvrsti po:</string>
      <string name="display_preview_label">Pregled:</string>
      <string name="display_prompt_confirm">Razumem</string>
@@ -12512,6 +12516,7 @@ Lahko pretvorite svojo Android napravo v prenosno WiFi dostopno točko za deljen
      <string name="title_quick_control_all_devices">Pokaži kontrolnike za naprave v bližini</string>
      <string name="title_regional_pref_footer">Če aplikacija ne podpira regionalnih nastavitev, bo uporabila privzete lokalne nastavitve.</string>
      <string name="title_show_notification_icon">Pokaži ikone obvestil</string>
+     <string name="title_show_notification_icon_count">Število prikazanih ikon za obvestila</string>
      <string name="title_smart_device_control">Nadzor pametne naprave</string>
      <string name="title_special_features_health_global">Srčni utrip</string>
      <string name="title_system_resource">Viri sistema</string>

@@ -936,6 +936,7 @@ Tapnite + da napravite mapo"</string>
      <string name="time_picker_dialog_title">Nastavi čas</string>
      <string name="time_picker_label_hour">H</string>
      <string name="time_picker_label_minute">M</string>
+     <string name="to_view_alarm_content">Tapnite za ogled</string>
      <string name="toast_cancel_to_insert_image">"Ne morem dodati sliko."</string>
      <string name="toast_excerpt_end">Izvleček uspešno narejen</string>
      <string name="toast_excerpt_no_content">Tu ni ničesar</string>

@@ -143,7 +143,7 @@ Teme bodo odkrile katere aplikacije uporabljate in prikazale transparentna ozadj
      <string name="backup_theme_progress_message">Varnostno kopiranje...</string>
      <string name="backup_theme_success_message">Vaše trenutne nastavitve teme so bile varnostno kopirane.</string>
      <string name="basic_mode">Način brez povezave</string>
-     <string name="basic_mode_desc">"Teme se ne bodo povezale s spletom in bodo uporabljale samo lokalno vsebino. Vaši osebni podatki ne bodo zbrani."</string>
+     <string name="basic_mode_desc">"Tej aplikaciji ne dovolite povezave s spletom, dostopajte in uporabljajte le stvari v vaši napravi (npr. fotografije, zvok in videoposnetke). Vaši osebni podatki ne bodo zbrani."</string>
      <string name="boot_audio_dialog_cancel">Prekliči</string>
      <string name="boot_audio_dialog_confirm">V redu</string>
      <string name="boot_audio_dialog_content">Zagon zvoka je zdaj izklopljen. Ponovno ga vklopite in uporabite ta zvok?</string>
@@ -152,7 +152,7 @@ Teme bodo odkrile katere aplikacije uporabljate in prikazale transparentna ozadj
      <string name="both_all_apply_success">Ozadje nastavljeno</string>
      <string name="bottomsheet_action_expand_halfway">Razširi do polovice</string>
      <string name="browse_mode">Način s povezavo</string>
-     <string name="browse_mode_desc">"Teme se bodo povezale s spletom in uporabljale lokalno in spletno vsebino. Vaši osebni podatki ne bodo zbrani."</string>
+     <string name="browse_mode_desc">"Dovolite tej aplikaciji, da se poveže s spletom, dostopa do spletne vsebine in uporablja stvari v vaši napravi (npr. fotografije, zvok in videoposnetke). Vaši osebni podatki ne bodo zbrani."</string>
      <string name="browser_local_resource">Lokalni viri</string>
      <string name="can_not_apply">Ne morem nastaviti</string>
      <string name="can_not_apply_error">"Ta video format ni podprt"</string>
