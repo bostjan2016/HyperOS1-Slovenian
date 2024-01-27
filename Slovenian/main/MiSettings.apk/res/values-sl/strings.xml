@@ -266,6 +266,8 @@ niso ustvarjene v drugem prostoru"</string>
      <string name="focus_time_exception_tip">Kaže da je zamenjan sistemski čas. Izključite način fokusiranja.</string>
      <string name="follow_apps_settings">Na podlagi nastavitev aplikacije</string>
      <string name="follow_sim1">Uporabi nastavitve SIM 1</string>
+     <string name="footer_global_fps">"
+%1$d. Ko vklopite način zmogljivost, bo hitrost osveževanja preklopljena na najvišjo sistemsko vrednost %2$d Hz. Nastavitve aplikacije z visoko hitrostjo osveževanja začasno ne bodo na voljo."</string>
      <string name="footer_max_fps" formatted="false">"
 %d. Hitrost osveževanja je mogoče prilagoditi do %s Hz za podprte aplikacije in igre."</string>
      <string name="force_rest">Uporabite odmore</string>
@@ -798,6 +800,7 @@ Ta aplikacija se mora povezati s spletom in za normalno delovanje potrebuje nasl
      <string name="usage_state_go_more">Več aplikacij</string>
      <string name="usage_state_holiday_day_hour_minute">Nedelovni dnevi: %1$s %2$s</string>
      <string name="usage_state_holiday_time">Nedelovni dnevi: %s</string>
+     <string name="usage_state_less_one_minute">&lt; 1 minuta</string>
      <string name="usage_state_monday">Pon</string>
      <string name="usage_state_mourth_day">Čas vklj. zaslona %s</string>
      <string name="usage_state_noti_mourth_day">Obvesti ob %s</string>

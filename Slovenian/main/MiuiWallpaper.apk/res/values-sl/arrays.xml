@@ -15,6 +15,11 @@
         <item>Slika ozadja/Super Slika ozadja/Rdeči planet</item>
         <item>Mars;Mars izdaja;Super Slika ozadja;Slika ozadja</item>
      </string-array>
+     <string-array name="settings_search_moon">
+        <item>Mesec</item>
+        <item>Ozadje/Super ozadja/Mesec</item>
+        <item>vesolje;Mesec;Super ozadja;ozadje</item>
+     </string-array>
      <string-array name="settings_search_saturn">
         <item>Saturnovi prstani</item>
         <item>Slika ozadja/Super Slika ozadja/Saturnovi prstani</item>

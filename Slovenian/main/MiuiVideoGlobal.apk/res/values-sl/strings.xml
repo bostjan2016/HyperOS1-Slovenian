@@ -1520,6 +1520,10 @@ To dovoljenje bomo uporabili samo za iskanje videoposnetkov, ki jih iščete, in
      <string name="slide_save_message">Ustvarjanje videoposnetka…</string>
      <string name="slide_to_open_ad">Podrsajte, če želite izvedeti več</string>
      <string name="small_video_load_more_hint">Povlecite navzgor, da predvajate več videoposnetkov</string>
+     <string name="small_video_report">Prijavi</string>
+     <string name="small_video_report_dialog_title">Izberite razlog</string>
+     <string name="small_video_report_submit">Predloži</string>
+     <string name="small_video_report_success">Hvala za vaše povratne informacije!</string>
      <string name="small_video_tab_expose_hint">Tapnite za več kratkih videoposnetkov</string>
      <string name="sms_send_success">Uspešno poslano</string>
      <string name="sns_access_token_expired_warning">Potekel je čas seje. Prijavite se ponovno za ponovno povezovanje s tem računom.</string>

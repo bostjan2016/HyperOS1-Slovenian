@@ -1065,6 +1065,7 @@ Dovolite aplikaciji Beležke snemanje zvoka."</string>
      <string name="v7_preference_off">IZKLJUČENO</string>
      <string name="v7_preference_on">VKLJUČENO</string>
      <string name="view_all_notes">Pokaži vse</string>
+     <string name="warn_cannot_add_more_content">"Ta beležka je dosegla največ možnega prostora. Vsebina, ki jo dodate ne bo shranjena."</string>
      <string name="warn_cannot_add_new_bullet">"Novega označenega seznama ni mogoče dodati, ker je beležka predolga"</string>
      <string name="warn_cannot_add_new_checkbox">"Novega potrditvenega polja ni mogoče dodati, ker je beležka predolga"</string>
      <string name="warn_cannot_add_new_content">"Nove vsebine ni mogoče dodati, ker je beležka predolga"</string>

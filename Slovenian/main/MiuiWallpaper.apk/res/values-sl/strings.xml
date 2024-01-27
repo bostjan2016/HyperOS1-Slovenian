@@ -181,6 +181,10 @@ Mawrth Vallis"</string>
      <string name="month_september">September</string>
      <string name="month_september_short">Sep</string>
      <string name="month_september_shortest">S</string>
+     <string name="moon_id">mesec</string>
+     <string name="moon_summary">"Človeški "en majhen korak" k raziskovanju vesolja"</string>
+     <string name="moon_super_wallpaper_label">Mesec</string>
+     <string name="moon_title">Mesec</string>
      <string name="more">Več</string>
      <string name="morning">Jutro</string>
      <string name="night">Noč</string>
