@@ -304,6 +304,7 @@ Pošljite to kodo našemu tehniku."</string>
      <string name="family_service">Družinske storitve</string>
      <string name="family_service_not_open">Povabite člane</string>
      <string name="family_share">Družinska skupna raba</string>
+     <string name="fcm_fallback_notification_channel_label">Razno</string>
      <string name="fido2_client_for_fingerprint_auth">Tapnite za potrditev s prstnim odtisom</string>
      <string name="fido2_close_fingerprint_auth">Izklop</string>
      <string name="fido2_close_fingerprint_auth_desc">Izklopim preverjanje prstnih odtisov?</string>

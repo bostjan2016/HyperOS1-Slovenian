@@ -66,8 +66,8 @@
      </string-array>
      <string-array name="settings_search_account_and_authority_non_global">
         <item>Računi</item>
-        <item>Dodajte in urejajte račune drugih oseb</item>
-        <item>Računi;SNS;WeChat;QQ;Mi Račun;Račun;Xiaomi Račun</item>
+        <item>Oglejte si svoje povezane račune WeChat in druge SNS račune</item>
+        <item>dovoljenja;SNS;WeChat;Xiaomi Račun;račun</item>
      </string-array>
      <string-array name="settings_search_change_password">
         <item>Zamenjaj geslo</item>
