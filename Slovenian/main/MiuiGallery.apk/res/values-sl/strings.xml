@@ -168,6 +168,7 @@ Poskusite ustvariti sliko AI z drugimi fotografijami."</string>
      <string name="ai_creation_count_limit_msg">"Danes ne morem ustvariti več portretov. Vrnite se jutri!"</string>
      <string name="ai_creation_delete_msg">Izbrišem ta zapis zgodovine?</string>
      <string name="ai_creation_delete_title">Pozor</string>
+     <string name="ai_creation_record_footer_tips">Ogledate si lahko le stvari, ustvarjene v tej napravi. Ko se odjavite iz svojega računa Xiaomi, bodo izbrisane.</string>
      <string name="ai_creation_recreate_button">Začni znova</string>
      <string name="ai_creation_save_failed_msg">"Ni bilo mogoče shraniti. Poskusite ponovno."</string>
      <string name="ai_creation_save_success_msg">Shranjeno</string>
@@ -214,12 +215,18 @@ Namesto tega izberite druge fotografije in poskusite znova."</string>
      <string name="ai_image_count_limit_msg">"Danes ne morem ustvariti več slik z umetno inteligenco. Vrnite se jutri!"</string>
      <string name="ai_image_creating_failed_msg">"Ni bilo mogoče ustvariti slike za %s"</string>
      <string name="ai_image_creating_msg">Ustvarjanje slike za %s</string>
+     <string name="ai_image_creation_over_limit_title">"Ne morem ustvariti več portretov"</string>
+     <string name="ai_image_invalid">"AI slika %s je bila uspešno izbrisana"</string>
+     <string name="ai_image_invalid_in_update">"Posodabljanje slike umetne inteligence %s. Počakajte, da se posodobi, in poskusite znova."</string>
+     <string name="ai_image_manager_empty_msg">"V drugi napravi si ni mogoče ogledati fotografij, uporabljenih za ustvarjanje slik AI v starejših različicah te storitve"</string>
+     <string name="ai_image_manager_empty_msg_net">Tukaj ni fotografij</string>
      <string name="ai_image_manager_re_create_tip">Dodajte ali izbrišite fotografije, da posodobite svojo sliko AI</string>
      <string name="ai_image_manager_title">Upravljajte sliko AI</string>
      <string name="ai_image_not_creatable">"Slika AI se trenutno posodablja. Poskusite znova, ko bo končano."</string>
      <string name="ai_image_over_limit_button_cancel">Razumem</string>
      <string name="ai_image_over_limit_button_create">Nadaljuj</string>
      <string name="ai_image_over_limit_title">"Ne morem ustvariti slike AI"</string>
+     <string name="ai_image_over_limit_title_update">"Ne morem posodobiti slike AI"</string>
      <string name="ai_image_privacy_message"><Data>"Dobrodošli v portretih AI!&lt;br/>Da vam lahko nudimo storitve, moramo zbrati potrebne osebne podatke:&lt;br/>&lt;xliff:g refersto=1 id=INDEX_1>%1$s&lt;/xliff:g>. Če želite ustvariti portrete z umetno inteligenco, boste morali naložiti &lt;b>fotografije ljudi&lt;/b> na naše serverje. Zbirali in obdelovali bomo podatke o &lt;b>obrazih&lt;/b> za ustvarjanje modela AI.&lt;br/>&lt;xliff:g refersto=2 id=INDEX_2>%2$s&lt;/xliff:g>. Ko naložite &lt;b>slike ljudi&lt;/b>, bomo sinhronizirali &lt;b>njihova imena in fotografije profila&lt;/b> iz ustreznih albumov in te informacije povezali s slikami AI.&lt;br/>&lt;xliff:g refersto=3 id=INDEX_3>%3$s&lt;/xliff:g>. Ko ustvarite slike AI na podlagi besedila, bomo zbrali &lt;b>opis&lt;/b> ki ga posredujete za ustvarjanje slik.&lt;br/>Zbiramo le osebne podatke, ki so potrebni za posebne funkcije naših izdelkov in storitev, ki jih uporabljate. Kako zbiramo in obdelujemo osebne podatke, lahko izveste v &lt;a href=\"%4$s\">AI Portret Pravila o zasebnosti&lt;/a>.&lt;br/>Preberite in se strinjajte z &lt;a href=\"%5$s\">AI Portret Pogoji uporabe&lt;/a> in &lt;a href=\"%6$s\">AI Portret Pravila o zasebnosti&lt;/a> preden nadaljujete."</Data></string>
      <string name="ai_input_name_hint">Vnesite ime</string>
      <string name="ai_loading">Delam…</string>
@@ -858,7 +865,6 @@ Pošljite to kodo nadzorniku."</string>
      <string name="doodle_paint_select_light_talkback">Tanko</string>
      <string name="doodle_paint_select_medium_talkback">Normalno</string>
      <string name="doodle_paint_select_talkback">Širina poteze</string>
-
      <string name="double_tap_for_hr_preview_108m">Dvakrat tapnite za prehod na 108MP</string>
      <string name="double_tap_for_hr_preview_200m">Dvakrat tapnite za prehod na 200MP</string>
      <string name="double_tap_to_higher_definition">Dvakrat tapnite še enkrat za HD pregled</string>
@@ -1063,6 +1069,7 @@ za fotografije"</string>
      <string name="filter_category_classic">Klasika</string>
      <string name="filter_category_fresh">Sveže</string>
      <string name="filter_category_general">Splošno</string>
+     <string name="filter_category_master">Mojster</string>
      <string name="filter_category_movie">Film</string>
      <string name="filter_category_nice_food">Hrana</string>
      <string name="filter_category_night_scene">Noč</string>
@@ -1072,19 +1079,35 @@ za fotografije"</string>
      <string name="filter_category_travel">Potovanje</string>
      <string name="filter_film_blackwhite">Č&amp;B</string>
      <string name="filter_food_orangeflavor">Tangerina</string>
+     <string name="filter_general_blackice">Črni led</string>
      <string name="filter_general_blackwhite">Č&amp;B</string>
      <string name="filter_general_delicious">Hrana</string>
      <string name="filter_general_df">Jasnost</string>
      <string name="filter_general_fairytale">Zgodba</string>
+     <string name="filter_general_greenorange">Apno</string>
      <string name="filter_general_nature">Narava</string>
      <string name="filter_general_past">Še enkrat</string>
+     <string name="filter_general_pink">Roza</string>
      <string name="filter_general_portrait">Portret</string>
      <string name="filter_general_rise">Vzpon</string>
+     <string name="filter_general_vivid">Živahno</string>
+     <string name="filter_general_warm">Toplota</string>
+     <string name="filter_master_hazy">Megleno</string>
+     <string name="filter_master_mellow">Mehko</string>
+     <string name="filter_master_memoire">Spomin</string>
+     <string name="filter_master_rise">Vstani</string>
+     <string name="filter_master_somber">Mračno</string>
      <string name="filter_movie_classic">Klasika</string>
      <string name="filter_movie_dustdream">Spanec</string>
+     <string name="filter_movie_encounter">Srečanje</string>
      <string name="filter_movie_fantasy">Fantazija</string>
      <string name="filter_movie_fengyin">Veter</string>
+     <string name="filter_movie_lost">Izgubljen</string>
      <string name="filter_movie_mystery">Skrivnost</string>
+     <string name="filter_movie_nordic">Nordijsko</string>
+     <string name="filter_movie_portrait">Barvni fokus</string>
+     <string name="filter_movie_quiet">Vedro</string>
+     <string name="filter_movie_rome">Rim</string>
      <string name="filter_movie_summer">Poletje</string>
      <string name="filter_movie_wonderful">Čudež</string>
      <string name="filter_original">Nič</string>
@@ -1093,6 +1116,7 @@ za fotografije"</string>
      <string name="filter_popular_autumn">Jesen</string>
      <string name="filter_popular_bluedream">Dremanje</string>
      <string name="filter_popular_coffee">Kava</string>
+     <string name="filter_popular_coldsmoke">Hladna meglica</string>
      <string name="filter_popular_cyan">Zelenjava</string>
      <string name="filter_popular_dream">Sanjarenje</string>
      <string name="filter_popular_freshfood">Gurmansko</string>
@@ -1106,6 +1130,7 @@ za fotografije"</string>
      <string name="filter_popular_purple">Viola</string>
      <string name="filter_popular_retro_powder">Prah</string>
      <string name="filter_popular_shallow_summer">Junij</string>
+     <string name="filter_popular_summercloud">Večernica</string>
      <string name="filter_popular_sunset">Sončni zahod</string>
      <string name="filter_popular_sunset_gold">Sijaj</string>
      <string name="filter_popular_windchime">Zvonček</string>
@@ -1118,6 +1143,7 @@ za fotografije"</string>
      <string name="filter_portrait_mist">Meglica</string>
      <string name="filter_portrait_painting">Barvanje</string>
      <string name="filter_single_sky">Nebotičnik</string>
+     <string name="filter_sky_bikong">Azurno</string>
      <string name="filter_sky_clear_sky">Vedro nebo</string>
      <string name="filter_sky_cloudy">Oblačno</string>
      <string name="filter_sky_cumulus">Kumulus</string>

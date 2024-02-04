@@ -617,8 +617,8 @@
         <item quantity="one">%d video</item>
      </plurals>
      <plurals name="sync_error_title">
-        <item quantity="other">Ni shranjeno %d fotografij ali videoposnetkov</item>
-        <item quantity="one">Ni shranjena %d fotografija ali videoposnetek</item>
+        <item quantity="other">%d stvari ni sinhroniziranih</item>
+        <item quantity="one">%d stvar ni sinhronizirana</item>
      </plurals>
      <plurals name="sync_oversized_count">
         <item quantity="other">%d stvari je preveliko za shranjevanje</item>

@@ -1404,6 +1404,9 @@ To kodo pošljite nadzorniku."</string>
      <string name="my_playlist_create_self_playlist">Napravite sezname predvajanja priljubljenih pesmi</string>
      <string name="my_playlist_set_to_private">Nastavite na zasebno</string>
      <string name="my_playlist_set_to_public">Nastavite na javno</string>
+     <string name="native_body">Telo</string>
+     <string name="native_headline">Naslov</string>
+     <string name="native_media_view">Pogled medijev</string>
      <string name="nav_app_bar_navigate_up_description">Pomaknite se navzgor</string>
      <string name="nav_app_bar_open_drawer_description">Odprite navigacijski predal</string>
      <string name="need_to_close">Pokaži manj</string>
@@ -1477,6 +1480,9 @@ To kodo pošljite nadzorniku."</string>
      <string name="notification_recommend_summary">Izvedite več o novih glasbenih trendih in reklamnih aplikacij</string>
      <string name="notification_recommend_title">Pomembna obvestila</string>
      <string name="notification_setting">Nastavitve obvestil</string>
+     <string name="notifications_permission_confirm">Dovoli</string>
+     <string name="notifications_permission_decline">"Ne dovoli"</string>
+     <string name="notifications_permission_title">Dovolim aplikaciji, da vam pošilja obvestila?</string>
      <string name="nowplaying_circle_style">Stil kroga "Predvaja se"</string>
      <string name="nowplaying_circle_style_rainbow">Mavrica</string>
      <string name="nowplaying_circle_style_wave">Val</string>
@@ -2447,9 +2453,16 @@ Bodite srečni"</string>
      <string name="valid_period">"Veljavno do: "</string>
      <string name="version_info">Verzija</string>
      <string name="vhigh_sound_quality">HD</string>
+     <string name="video_dislike">Ne maram</string>
+     <string name="video_dislike_toast">"Priporočali bomo manj tovrstne vsebine"</string>
      <string name="video_loading_fail">"Ne morem naložiti video"</string>
      <string name="video_play_cellular">"Vaša naprava ni povezana na WiFi. Uporabim mobilne podatke?"</string>
      <string name="video_replay_btn">Predvajaj ponovno</string>
+     <string name="video_report">Prijavi</string>
+     <string name="video_report_reason_one">Golota ali spolna vsebina</string>
+     <string name="video_report_reason_three">Fizično nasilje ali grožnje</string>
+     <string name="video_report_reason_two">Nasilni zločin</string>
+     <string name="video_report_toast">Hvala za vaše povratne informacije</string>
      <string name="video_retry_btn">Poskusi ponovno</string>
      <string name="view_album">Pokaži album</string>
      <string name="vip_auto_renew_message">Vaša naročnina bo samodejno obnovljena zvečer. Poskrbite za dovolj Mi Kreditov na računu za dokončanje plačila.</string>
