@@ -165,8 +165,13 @@
      <string name="game_net_text2">Pohitrite povezavo z omrežno igro in omejite hitrost prenosa v ozadju</string>
      <string name="game_net_title">Optimiziraj hitrost povezave</string>
      <string name="game_setting">Nastavitve igre</string>
+     <string name="gamebooster_confirm_dialog_negative_btn">"Ne strinjam se"</string>
+     <string name="gamebooster_confirm_dialog_positive_btn">Strinjam se</string>
+     <string name="gamebooster_confirm_dialog_tip"><Data>Xunyou Game Booster &lt;br>&lt;a href=\"%1$s\">Pravila o zasebnosti&lt;/a></Data></string>
+     <string name="gamebooster_confirm_dialog_title">Strinjajte se z Pravila o zasebnosti</string>
      <string name="gamebooster_dialog_recover">Obnovi</string>
      <string name="gamebooster_dialog_start_booster">Začni</string>
+     <string name="gamebooster_dialog_start_booster_new">Pospeši</string>
      <string name="gamebooster_network_dialog_message">Dovolim aplikaciji varnost da se poveže na splet za uporabo stvari za Game Turbo?</string>
      <string name="gamebooster_network_dialog_message_pad">Dovolim aplikaciji varnost da se poveže na splet za uporabo stvari za Game Turbo?</string>
      <string name="gamebooster_network_dialog_title">"Nekatere storitve niso na voljo"</string>
@@ -282,7 +287,11 @@
      <string name="gs_performance_mode_detail">Povečajte uporabo CPU da zagotovite zmogljivost</string>
      <string name="gtb_dialog_privacy_speed_message">"Uporabili boste Xunyou pospeševalnik iger. Ta storitev bo zbrala vaš ID računa Mi za beleženje trajanja vašega članstva."</string>
      <string name="gtb_dialog_privacy_speed_tips"><Data>"Prebral sem in se strinjam z Xunyou pospeševalnik iger &lt;a href=\"%1$s\">Pravila o zasebnosti.&lt;/a>"</Data></string>
+     <string name="gtb_dialog_privacy_speed_tips_new"><Data>"Prebral sem in se strinjam z Xunyou Game Booster &lt;a href=\"%1$s\">Pravila o zasebnosti&lt;/a>."</Data></string>
      <string name="gtb_dialog_privacy_speed_title">Xunyou pospeševalnik iger</string>
+     <string name="gtb_dialog_privacy_voice_message">"Uporabili boste Xunyou Game Voice Changer. Ta storitev bo zbrala vaš ID računa Xiaomi za beleženje trajanja vašega članstva."</string>
+     <string name="gtb_dialog_privacy_voice_tips"><Data>"Prebral sem in se strinjam z Xunyou Game Voice Changer &lt;a href=\"%1$s\">Pravila o zasebnosti.&lt;/a>"</Data></string>
+     <string name="gtb_dialog_privacy_voice_title">Xunyou Game Voice Changer</string>
      <string name="hybrid_provider">Ponuja %1$s</string>
      <string name="i_know">Razumem</string>
      <string name="icon_content_description">Pogovorno okno</string>
@@ -430,6 +439,8 @@
      <string name="net_booster_overdue_notification">Seja za povečanje hitrosti omrežja bo kmalu končana</string>
      <string name="net_booster_overdue_notification_tip">Seja za povečanje hitrosti omrežja bo kmalu končana. Jo obnovim?</string>
      <string name="net_delay_title">Premor</string>
+     <string name="net_free_booster_new_user_tip">Pridobite brezplačen ojačevalnik iger in sodelujte, da osvojite telefon Xiaomi!</string>
+     <string name="net_free_booster_new_user_title">Darilo za novega uporabnika</string>
      <string name="network_error">Napaka omrežja.</string>
      <string name="network_not_available">"Ne morem se povezati na omrežje"</string>
      <string name="night">Noč</string>
@@ -485,6 +496,7 @@
      <string name="sunday">Nedelja</string>
      <string name="sunday_short">Ned</string>
      <string name="sunday_shortest">N</string>
+     <string name="super_power_satellite_endurance_time">Lahko opravim satelitski klic za ≈%1$s %2$s</string>
      <string name="superpower_app_add">Dodaj</string>
      <string name="superpower_app_contact">Stiki</string>
      <string name="superpower_app_delete">Izbriši</string>

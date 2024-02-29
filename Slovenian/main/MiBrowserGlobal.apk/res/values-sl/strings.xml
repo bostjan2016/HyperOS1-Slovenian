@@ -279,6 +279,9 @@ Preklopite za ustavitev sinhronizacije."</string>
      <string name="browserFrameFileErrorLabel">Napaka datoteke</string>
      <string name="browserFrameFormResubmitMessage">"Stran, ki jo poskušate odpreti vsebuje podatke, ki so že bili naloženi. Če podatke pošljete ponovno se vsako dejanje (kot je iskanje in kupovanje) ponovi."</string>
      <string name="browserFrameNetworkErrorLabel">Napaka povezave</string>
+     <string name="browser_follow_system">Sistemske nastavitve</string>
+     <string name="browser_got_it">Razumem</string>
+     <string name="browser_light_mode">Lahki način</string>
      <string name="browser_slide_video_history">Nedavno</string>
      <string name="browser_slide_video_like">Všeč mi je</string>
      <string name="browser_slide_video_my">Profil</string>
@@ -1564,6 +1567,8 @@ Preverite %s1 nastavitve omrežja %s2 in poskusite ponovno."</string>
      <string name="news_load_failed">Tapnite za ponovni poskus</string>
      <string name="news_loading">Nalaganje…</string>
      <string name="news_native_see_all">Celoten članek</string>
+     <string name="news_survey_fill">Vnesite do %d znakov</string>
+     <string name="news_survey_fill_title">Ostalo:</string>
      <string name="news_video_history">Zgodovina</string>
      <string name="news_video_history_empty">Tukaj ni ničesar</string>
      <string name="news_video_invisible_item">"Tega videa ni mogoče videti"</string>
@@ -2676,7 +2681,11 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
      <string name="web_ad_clear_dialog_msg">Izbrišem oglasne oznake iz \"%s\"?</string>
      <string name="web_ad_clear_dialog_title">Izbriši oglasne oznake</string>
      <string name="web_app_center">Mini programi</string>
+     <string name="web_app_center_common_add">Dodaj</string>
+     <string name="web_app_center_common_done">Končano</string>
+     <string name="web_app_center_common_title">Pogosto uporabljeno</string>
      <string name="web_app_center_history">Nedavno uporabljeno</string>
+     <string name="web_app_center_history_more">Več</string>
      <string name="web_app_center_try">Poskusite</string>
      <string name="web_enhance_dialog_cancel">Prekliči</string>
      <string name="web_enhance_dialog_confirm">V redu</string>

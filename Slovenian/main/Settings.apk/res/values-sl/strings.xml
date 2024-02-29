@@ -10142,36 +10142,27 @@ Neuvožene podatke morate ponovno uvoziti."</string>
      <string name="screen_paper_mode_update_white_pkg_list_summary">Posodobi popis aplikacij ki samodejno uporabljajo način branja</string>
      <string name="screen_paper_mode_update_white_pkg_list_title">Posodobi samodejno</string>
      <string name="screen_paper_texture">Tekstura</string>
-     <string name="screen_pinning_description">"Ko je ta storitev vključena lahko s pripenjanjem zadržite trenutni zaslon v prvem planu dokler ga ne odpnete.
+<string name="screen_pinning_description">Pripete aplikacije lahko odpirajo druge aplikacije in dostopajo do vaših osebnih podatkov</string>
+    <string name="screen_pinning_dialog_message">"Kaj zmorejo pripete aplikacije:
 
-  Za pripenjanje zaslona:
-
-1. Preverite ali je pripenjanje zaslona vključeno.
-
-2. Odprite Pregled.
-
-3. Tapnite ikono aplikacije pri vrhu zaslona potem pa tapnite Pripni."</string>
-     <string name="screen_pinning_dialog_message">"Ko je aplikacija pripeta: 
-
-• Dostopni so lahko osebni podatki 
- (na primer stiki in vsebina e-poštnih sporočil). 
+• Dostop do vaših osebnih podatkov
+(na primer stiki in vsebina e-poštnih sporočil)
 • Pripeta aplikacija lahko odpre druge aplikacije. 
 
-Pripenjanje aplikacij uporabljajte samo z ljudmi, ki jim zaupate."</string>
-     <string name="screen_pinning_guest_user_description">"Pripenjanje aplikacije vam omogoča, da trenutno aplikacijo vidite, dokler je ne odpnete. To storitev lahko na primer uporabite, da pustite, da zaupanja vreden prijatelj igra določeno igro.
+To storitev uporabljajte previdno, ko to napravo delite z drugimi."</string>
+    <string name="screen_pinning_guest_user_description">"Ko je aplikacija pripeta, lahko pripeta aplikacija odpre druge aplikacije in osebni podatki so lahko dostopni. 
 
-Ko je aplikacija pripeta, lahko pripeta aplikacija odpre druge aplikacije in so osebni podatki morda dostopni.
+Če želite svojo napravo varno deliti z nekom, poskusite namesto tega uporabiti gostujočega uporabnika. 
 
-Če želite varno deliti svojo napravo z nekom, poskusite raje uporabiti način gosta. 
-
-Če želite uporabiti pripenjanje aplikacije, storite to: \u0009
-1. Vklopite pripenjanje aplikacije. \u0009
-2. Odprite »Pregled«. \u0009
-3. Dotaknite se ikone aplikacije na vrhu zaslona, nato pa se dotaknite »Pripni«."</string>
+Če želite uporabiti pripenjanje aplikacije: \u0009
+1. Vklopite pripenjanje aplikacije \u0009
+2. Odprite Pregled \u0009
+3. Dotaknite se ikone aplikacije na vrhu zaslona, nato pa se dotaknite Pripni"</string>
+     <string name="screen_pinning_summary">Pripete aplikacije bodo ostale v Nedavnih, dokler jih ne odpnete</string>
      <string name="screen_pinning_switch_off_text">Izklopljeno</string>
      <string name="screen_pinning_switch_on_text">Vklopljeno</string>
-     <string name="screen_pinning_title">Pripenjanje zaslona</string>
-     <string name="screen_pinning_unlock_none">Pri odpenjanju zakleni napravo</string>
+     <string name="screen_pinning_title">Dovoli pripenjanje aplikacij</string>
+     <string name="screen_pinning_unlock_none">Za odpenjanje preveri zaklepanje zaslona</string>
      <string name="screen_pinning_unlock_password">Pred odpenjanjem vprašaj za geslo</string>
      <string name="screen_pinning_unlock_pattern">Pred odpenjanjem vprašaj za vzorec za odklepanje</string>
      <string name="screen_pinning_unlock_pin">Zahtevaj PIN pred odpenjanjem</string>

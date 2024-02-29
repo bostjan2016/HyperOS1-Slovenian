@@ -230,6 +230,8 @@
      <string name="miplay_bluetooth_share_des_text">"Uporabniki ušesnih slušalk Xiaomi: odprite ohišje za polnjenje ali pritisnite in držite gumb ohišja %ds
 Uporabniki ušesnih čepkov, ki niso Xiaomi: ponastavite ušesne čepke v nastavitvah Bluetooth in se nato povežite"</string>
      <string name="miplay_bluetooth_share_headphone_pairing">Dodajte slušalke za skupno rabo zvoka</string>
+     <string name="miplay_bluetooth_share_music_cancel_btn_content_des">Skupna raba zvoka je končana</string>
+     <string name="miplay_bluetooth_share_music_together_btn_content_des">Dodajte slušalke za skupno rabo zvoka</string>
      <string name="miplay_bluetooth_share_subTitle_text">Delite zvok naprave z drugo osebo</string>
      <string name="miplay_bluetooth_share_title_text">Delite zvok</string>
      <string name="miplay_detail_divider_title">TV &amp; zvočniki</string>

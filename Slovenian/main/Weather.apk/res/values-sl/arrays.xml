@@ -2,19 +2,19 @@
 <resources>
      <string-array name="aqi_detail_title">
         <item>Dobro</item>
+        <item>Sprejemljivo</item>
         <item>Zmerno</item>
-        <item>Nezdravo za občutljive</item>
         <item>Nezdravo</item>
-        <item>Zelo nezdravo</item>
-        <item>Tvegano</item>
+        <item>Hudo</item>
+        <item>Nevarno</item>
      </string-array>
      <string-array name="aqi_value">
         <item>Dobro</item>
-        <item>Še v redu</item>
-        <item>Zmerno onesnaženo</item>
-        <item>Slabo</item>
-        <item>Zelo slabo</item>
+        <item>Sprejemljivo</item>
+        <item>Zmerno</item>
+        <item>Nezdravo</item>
         <item>Hudo</item>
+        <item>Nevarno</item>
         <item>Preko indeksa</item>
      </string-array>
      <string-array name="breeze">

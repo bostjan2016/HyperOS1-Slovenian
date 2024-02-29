@@ -1489,6 +1489,7 @@ To dovoljenje bomo uporabili samo za iskanje videoposnetkov, ki jih iščete, in
      <string name="sending">Pošiljanje…</string>
      <string name="service_error">Napaka na strežniku</string>
      <string name="set_success">Uspešno zamenjano</string>
+     <string name="setting_privacy_title">Pogoji in pravila</string>
      <string name="settings_inline_auto_play">Vedno samodejno predvajanje</string>
      <string name="settings_inline_auto_play_close">Samodejno predvajanje izklopljeno</string>
      <string name="settings_inline_auto_play_tip_close_forever">Zmeraj izklopljeno</string>

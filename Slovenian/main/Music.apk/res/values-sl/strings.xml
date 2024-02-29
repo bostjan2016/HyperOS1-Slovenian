@@ -462,6 +462,7 @@ predvsem nudi Ultimate Inc."</string>
      <string name="current_service_key">storitev</string>
      <string name="current_services">Trenutno</string>
      <string name="current_version">Trenutna verzija</string>
+     <string name="daily_recommend_desc">Dnevna priporočila, ročno izbrana za vas</string>
      <string name="daily_recommendation">Dnevni mix</string>
      <string name="dark_mode">Temni način</string>
      <string name="data_is_loading">Nalaganje</string>
@@ -839,11 +840,11 @@ To kodo pošljite nadzorniku."</string>
      <string name="filter_by_folder">Filtriraj po mapah</string>
      <string name="filter_by_folder_summary">Izberite mape za prikaz</string>
      <string name="filter_by_size">Po velikosti</string>
-     <string name="filter_by_size_max">%d2MB</string>
-     <string name="filter_by_size_min">%dKB</string>
+     <string name="filter_by_size_max">%d MB</string>
+     <string name="filter_by_size_min">%d KB</string>
      <string name="filter_by_size_prefix">Minimalna velikost:</string>
      <string name="filter_by_size_summary">Ne pokaži majhnih avdio datotek</string>
-     <string name="filter_size_unit">%dKB</string>
+     <string name="filter_size_unit">%d KB</string>
      <string name="find_me">Najdi me</string>
      <string name="find_psw">Pozabljeno geslo</string>
      <string name="find_you_tunes">Poiščite svoje melodije</string>
@@ -1851,9 +1852,9 @@ To kodo pošljite nadzorniku."</string>
      <string name="privacy_notif_content">Pritisnite za pregled podrobnosti.</string>
      <string name="privacy_notif_title">Xunlei Download Accelerator je vključen</string>
      <string name="privacy_policy">Pravila o zasebnosti</string>
-     <string name="privacy_request_desc">"<Data>"Mi Glasba mora zbrati potrebne osebne podatke, da vam omogoči spletne storitve pretakanja. Izvedite, kako ravnamo s podatki, ki jih zbiramo v &lt;a href=\"%1$s\">Pravila o zasebnosti&lt;/a>. V nastavitvah lahko kadar koli umaknete svoje soglasje k Pravilom o zasebnosti Mi Glasbe.
+     <string name="privacy_request_desc">"&lt;Data>Mi Glasba mora zbrati potrebne osebne podatke, da vam omogoči spletne storitve pretakanja. Izvedite kako ravnamo s podatki, ki jih zbiramo v &lt;a href=\"%1$s\">Pravila o zasebnosti&lt;/a>. V nastavitvah lahko kadar koli umaknete svoje soglasje k Pravilom o zasebnosti Mi Glasbe.
 Preberite in se strinjajte z &lt;a href=\"%2$s\">Pogoji uporabe&lt;/a> in &lt;a href=\"%1$s\">Pravila o zasebnosti&lt;/a> pred uporabo.
-Če se ne strinjate z uporabo zgoraj omenjenih storitev, nekaterih funkcij te aplikacije ne boste mogli uporabljati; osnovna funkcionalnost pa vam bo še vedno na voljo."</Data>"</string>
+Če se ne strinjate z uporabo zgoraj omenjenih storitev, nekaterih funkcij te aplikacije ne boste mogli uporabljati; osnovna funkcionalnost pa vam bo še vedno na voljo.&lt;/Data>"</string>
      <string name="privacy_request_subtitle">"Dobrodošli v Mi glasbo! Ta aplikacija ponuja naslednje storitve:
 
 - Lokalni predvajalnik zvoka
@@ -1886,9 +1887,10 @@ Preberite in se strinjajte z &lt;a href=\"%2$s\">Pogoji uporabe&lt;/a> in &lt;a 
      <string name="radar_retry">Poskusi ponovno</string>
      <string name="radar_searching_state">Iskanje…</string>
      <string name="radar_support_by">Ponuja ACRCloud</string>
-     <string name="read_and_agree_hungama_protocol"><Data>"Prebral sem in se strinjam z &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">Hungama Pravila o zasebnosti&lt;/a>&lt;/font>"</Data></string>
-     <string name="read_and_agree_joox_protocol"><Data>"Prebral sem in se strinjam z &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">JOOX Pravila o zasebnosti&lt;/a>&lt;/font>"</Data></string>
-     <string name="read_and_agree_mi_protocol"><Data>"Prebral sem in se strinjam z Xiaomi &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">Pogoji uporabe&lt;/a>&lt;/font> in &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%2$s\">Pravila o zasebnosti&lt;/a>&lt;/font>"</Data></string>
+     <string name="read_and_agree_asm_protocol">&lt;Data>Prebral sem in se strinjam z &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">Wansheng Pravila o zasebnosti&lt;/a>&lt;/font> da lahko uporabljam spletne glasbene storitve.&lt;/Data></string>
+     <string name="read_and_agree_hungama_protocol">"&lt;Data>Prebral sem in se strinjam z &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">Hungama Pravila o zasebnosti&lt;/a>&lt;/font>&lt;/Data>"</string>
+     <string name="read_and_agree_joox_protocol">"&lt;Data>Prebral sem in se strinjam z &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">JOOX Pravila o zasebnosti&lt;/a>&lt;/font>&lt;/Data>"</string>
+     <string name="read_and_agree_mi_protocol">"&lt;Data>Prebral sem in se strinjam Xiaomi &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">Pogoji uporabe&lt;/a>&lt;/font> in &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%2$s\">Pravila o zasebnosti&lt;/a>&lt;/font>&lt;/Data>"</string>
      <string name="read_and_agree_protocol">Preden nadaljujete preberite in se strinjajte z Pogoji uporabe in Pravila o zasebnosti.</string>
      <string name="ready_to_play">Naprej</string>
      <string name="really_pay">Plačati zdaj?</string>

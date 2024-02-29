@@ -103,6 +103,8 @@ bo to opravilo samodejno dodano v Drugi prostor."</string>
      <string name="can_not_switch_when_extreme_endurance_battery_active">"Drugega prostora ni mogoče uporabiti zaradi prazne baterije"</string>
      <string name="can_not_switch_when_green_kid_active">Preklop v Drugi prostor je omejen s starševškim nadzorom</string>
      <string name="can_not_switch_when_green_kid_active_new">"Ko je vklopljen starševški nadzor ni mogoče preklopiti na drugi prostor"</string>
+     <string name="can_not_switch_when_lock_to_app_enabled_classic_navigation">Pritisnite in držite gumb za nazaj in predogled, da odpnete to aplikacijo</string>
+     <string name="can_not_switch_when_lock_to_app_enabled_guest_navigation">Povlecite navzgor z dna zaslona in začasno ustavite, da odpnete to aplikacijo</string>
      <string name="can_not_switch_when_super_power_active">"Ne morem zamenjati prostore ko je Ultra varčevanje baterije vključeno""</string>
      <string name="cancelClosePassword">"Ne izključi"</string>
      <string name="cancel_button">Prekliči</string>

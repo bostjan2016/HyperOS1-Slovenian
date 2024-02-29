@@ -128,4 +128,10 @@
         <item quantity="other">pred %d min</item>
         <item quantity="one">pred 1 minuto</item>
      </plurals>
+     <plurals name="satellite_state_fail">
+        <item quantity="other">"%d sekund je minilo brez povezave s satelitom.
+Lahko nadaljujete s poskusi ali pa končate zdaj."</item>
+        <item quantity="one">"%d sekunda je minila brez povezave s satelitom..
+Lahko nadaljujete s poskusi ali pa končate zdaj."</item>
+     </plurals>
 </resources>

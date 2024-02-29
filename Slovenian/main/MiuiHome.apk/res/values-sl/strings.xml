@@ -445,7 +445,7 @@ Izboljšana varnost."</string>
      <string name="mi_wallpaper">MIUI Teme</string>
      <string name="midnight">Noč</string>
      <string name="minus_one_screen">Osebni asistent</string>
-     <string name="miui_screen_config_title">Nastavitve zač. zaslona</string>
+     <string name="miui_screen_config_title">Postavitev zač. zaslona</string>
      <string name="miui_setting_config_title">Nastavitve zač. zaslona</string>
      <string name="miui_widget_menu_replace_text">Preklopi</string>
      <string name="miui_widget_toast_for_not_support_by_pa">"Meni aplikacij ne podpira pripomočkov te velikosti"</string>
@@ -746,6 +746,7 @@ Izboljšana varnost."</string>
      <string name="switch_personal_assistant_none">Nič</string>
      <string name="switch_screen_button_order">Zamenjaj mesta tipk</string>
      <string name="switch_screen_button_order_desc">Zamenjaj mesta tipk Nazaj in Meni</string>
+     <string name="system_sdk_disabled_toast">Sistemski SDK je onemogočen. Najprej ga omogočite.</string>
      <string name="system_shortcuts_edit">Uredi</string>
      <string name="system_shortcuts_icon_remove">Odstrani</string>
      <string name="system_shortcuts_more_operation">Informacije o aplikaciji</string>

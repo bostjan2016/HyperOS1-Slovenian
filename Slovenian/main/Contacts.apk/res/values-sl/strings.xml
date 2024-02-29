@@ -562,11 +562,11 @@ Razlog: \"%s\""</string>
      <string name="exporting_contact_list_message">"Izvažam v datoteko %s."</string>
      <string name="exporting_contact_list_title">Izvoz podatkov o stiku</string>
      <string name="exporting_vcard_canceled_title">Izvoz %s preklican.</string>
-     <string name="exporting_vcard_finished_title">Izvoz %s končan.</string>
+     <string name="exporting_vcard_finished_title">Izvoz %s je končan.</string>
      <string name="external_profile_title">Moj %1$s profil</string>
-     <string name="fail_reason_could_not_initialize_exporter">"Orodja za izvoz ni možno zagnati: \"%s\"."</string>
-     <string name="fail_reason_could_not_open_file">"Ne morem odpreti \"%1$s\": %2$s."</string>
-     <string name="fail_reason_error_occurred_during_export">Napaka pri izvozu: \"%s\".</string>
+     <string name="fail_reason_could_not_initialize_exporter">"Izvoza ni bilo mogoče inicializirati: %s"</string>
+     <string name="fail_reason_could_not_open_file">"Ne morem odpreti \"%1$s\": %2$s"</string>
+     <string name="fail_reason_error_occurred_during_export">Napaka pri izvozu: %s.</string>
      <string name="fail_reason_io_error">I/O napaka</string>
      <string name="fail_reason_low_memory_during_import">"Ni dovolj prostora. Datoteka je verjetno prevelika."</string>
      <string name="fail_reason_no_exportable_contact">"Ni stikov za izvoz."</string>
@@ -654,6 +654,7 @@ Razlog: \"%s\""</string>
      <string name="groups_list_empty">Ni skupin</string>
      <string name="hide_app_description_content">"Stiki je sistemska aplikacija. Po odstranitvi bližnjice na začetnem zaslonu jo boste še vedno lahko uporabljali preko aplikacije Telefon."</string>
      <string name="hide_app_description_title">Odstranim \"Stiki\" iz začetnega zaslona?</string>
+     <string name="hint_distance">Med postopkom uvoza naj bosta napravi blizu druga drugi, da zagotovita, da ostaneta povezani.</string>
      <string name="hint_findContacts">Najdi stike</string>
      <string name="hint_more_contact">Združi podvojene stike</string>
      <string name="hybrid_check_network">Nastavitve omrežja</string>
@@ -902,6 +903,8 @@ Tapnite \"%1$s\" in izberite \"%2$s\"."</string>
      <string name="notification_missedCall_call_back">Pokliči nazaj</string>
      <string name="notification_missedCall_message">Pošlji SMS</string>
      <string name="notification_missedCallsTitle">Neodgovorjeni klici</string>
+     <string name="notification_title_export">Izvozi stike</string>
+     <string name="notification_title_import">Uvozi stike</string>
      <string name="open_contact">Pokaži stik</string>
      <string name="open_dial_pad_description">Odpri številčnico</string>
      <string name="option_delete_contact">Izbriši</string>

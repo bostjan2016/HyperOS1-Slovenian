@@ -44,10 +44,14 @@
      <string name="antispam_notification_text">Tapnite za vklop pametnih storitev Ne moti</string>
      <string name="antispam_notification_title">Neznana številka</string>
      <string name="antispam_provider">Identificirano od %s</string>
+     <string name="app_disable_description_text">"Če onemogočite to aplikacijo, ne boste mogli klicati in sprejemati klicev ter uporabljati drugih povezanih storitev. Te sistemske aplikacije ni mogoče odstraniti."</string>
+     <string name="app_disable_title_text">Onemogoči aplikacijo</string>
      <string name="bluetooth_permission_content">Zaradi posodobitve sistemske avtorizacije je za pridobitev seznama naprav Bluetooth potrebna vaša avtorizacija</string>
      <string name="bluetooth_permission_grant_immediately">Pooblastilo takoj</string>
      <string name="bluetooth_permission_later">Kasneje</string>
      <string name="bluetooth_permission_title">Omogoča dostop do naprav bluetooth</string>
+     <string name="calibrate_rotate_again">Poskusite ponovno</string>
+     <string name="calibrate_rotate_tip">Napravo močno nagnite, da zakotalite žogo po krogu</string>
      <string name="call_button_conference_manager_text">Upravitelj konference</string>
      <string name="call_button_dialer_text">Tipkovnica</string>
      <string name="call_button_tools_text">Opravila</string>
@@ -355,11 +359,19 @@
      <string name="remind_unlock_message">Vaša naprava je zaklenjena. \"%s\ bo na voljo ko odklenete napravo. Odklenem?"</string>
      <string name="respond_via_sms_custom_message">Lastni SMS…</string>
      <string name="satellite_call_failed">Signal prekinjen. Poskusite ponovno.</string>
+     <string name="satellite_debug_antenna">Antena</string>
+     <string name="satellite_debug_azimuth">Azimut</string>
+     <string name="satellite_debug_compass">Kompas</string>
+     <string name="satellite_debug_evevation">Nadmorska višina</string>
+     <string name="satellite_debug_rssi">Moč signala Rssi</string>
+     <string name="satellite_debug_satellite">Satelit</string>
      <string name="satellite_diable_earpiece">"Slušalke ni mogoče uporabiti pri satelitskih klicih"</string>
      <string name="satellite_dialog_button">Plavajoče okno</string>
      <string name="satellite_dialog_cancel">Prekliči</string>
+     <string name="satellite_guide_azimuth">Premikajte se, dokler ikona satelita ni v modrem območju</string>
      <string name="satellite_guide_down">"Nagnite napravo navzdol
 da žogo položite v modro območje"</string>
+     <string name="satellite_guide_elevation">Premikajte se, dokler ikona satelita ni v modrem območju</string>
      <string name="satellite_guide_found">Najden satelit</string>
      <string name="satellite_guide_left">"Nagnite napravo v levo
 da ikono satelita postavite v modro območje"</string>
@@ -370,11 +382,14 @@ da ikono satelita postavite v modro območje"</string>
      <string name="satellite_guide_up">"Nagnite napravo navzgor
 da žogo položite v modro območje"</string>
      <string name="satellite_incall_tip">Zvočnik je vključen</string>
+     <string name="satellite_satellite_accessory">"Uporabljam dodatke za izboljšanje signala Tiantong Satellite"</string>
      <string name="satellite_service_provider">Ponuja China Telecom</string>
      <string name="satellite_state">"Ne premikajte naprave"</string>
+     <string name="satellite_state_auto_exit">Izhod (%ds)</string>
      <string name="satellite_state_connected">"Povezano s satelitom. Ne premikajte naprave."</string>
      <string name="satellite_state_connected_floating">"Ne premikajte naprave"</string>
      <string name="satellite_state_connecting">Povezovanje… (%ds)</string>
+     <string name="satellite_state_retry">Še naprej poskušaj</string>
      <string name="saturday">Sobota</string>
      <string name="saturday_short">Sob</string>
      <string name="saturday_shortest">S</string>
