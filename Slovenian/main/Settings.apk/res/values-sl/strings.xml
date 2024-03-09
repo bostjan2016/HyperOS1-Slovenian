@@ -5864,6 +5864,10 @@ morate najprej napraviti iCloud var. kopijo"</string>
      <string name="internal_memory">Notranji pomnilnik</string>
      <string name="internal_storage">Notranji pomnilnik</string>
      <string name="internal_storage_sentence">Notranji pomnilnik</string>
+     <string name="international_lyra_account_ap_summary">"Dovolite bližnjim tablicam in računalnikom, prijavljenim v vaš račun, da se vklopijo in samodejno povežejo z dostopno točko te naprave"</string>
+     <string name="international_lyra_account_ap_title">Omrežna sinhronizacija</string>
+     <string name="international_lyra_auto_connect_summary">"Ko je naprava v bližini prijavljena v vaš račun in se mora povezati s spletom, vklopi in se samodejno poveži z dostopno točko te naprave"</string>
+     <string name="international_lyra_auto_connect_title">Samodejno se poveži z dostopno točko</string>
      <string name="internet_connectivity_panel_title">Spletna povezava</string>
      <string name="invalid_location">Mesto namestitve ni veljavno.</string>
      <string name="invalid_size_value">Velikosti paketa ni bilo mogoče izračunati.</string>

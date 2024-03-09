@@ -44,6 +44,7 @@
      <string name="aleady_understand_the_app_is_hight_risk">Razumem, da lahko ta aplikacija predstavlja varnostno tveganje.</string>
      <string name="allow_current_install">Dovoli enkrat</string>
      <string name="allowed_this_time">Dovoli enkrat</string>
+     <string name="already_open_enhance">Izboljšana zaščita je vklopljena</string>
      <string name="already_understand_the_risks_market_unknown">"Razumem, da ta namestitveni paket ni bil testiran glede varnostnih težav"</string>
      <string name="already_understood_bundle_app">Razumem tveganja aplikacij v paketu</string>
      <string name="am">dop.</string>
@@ -124,6 +125,7 @@
      <string name="clearable_edittext_clear_description">Izbriši</string>
      <string name="click_tip_toast">Pred nadaljevanjem potrdite polje</string>
      <string name="close">Zapri</string>
+     <string name="close_enhance_safe_guard">Izklopi izboljšano zaščito</string>
      <string name="close_mi_protect_lockscreen_authorize_cancel">Prekliči</string>
      <string name="close_mi_protect_lockscreen_authorize_ok">Nadaljuj</string>
      <string name="close_mi_protected_second_tip_dialog_cancel">Ne, hvala</string>
@@ -170,6 +172,7 @@
      <string name="dialog_install_source">Vir: %1$s</string>
      <string name="dialog_open_security_mode_on_button_msg">Razumem</string>
      <string name="dialog_security_mode_guide_cancel">Prekliči</string>
+     <string name="dialog_security_mode_guide_child_msg">Vklopite Mi zaščito, da zaščitite zasebnost mladoletnikov, zaznate tvegane aplikacije in se izognete zlonamerni vsebini.</string>
      <string name="dialog_security_mode_guide_delete_apps_msg">"Izbrisali ste več aplikacij, ki jih niste nikoli uporabljali. Če ste pomotoma prenesli neželene aplikacije ali oglase, vklopite Mi zaščito, da preprečite, da bi aplikacije prenašale in nameščale druge aplikacije brez vašega soglasja."</string>
      <string name="dialog_security_mode_guide_elder_msg">"Vklopi Mi zaščito, da zagotovite svojo zasebnost in varnost."</string>
      <string name="dialog_security_mode_guide_open">Vklopi</string>
@@ -184,6 +187,21 @@
      <string name="elder_mode_subtitle">Zaščitite se pred namestitvijo tveganih aplikacij, kršitvami zasebnosti in prevarami</string>
      <string name="elder_mode_title">Zaščita starejših</string>
      <string name="empty_app">Ni aplikacij</string>
+     <string name="enhance_mode_close_feedback">Hvala za uporabo izboljšane zaščite</string>
+     <string name="enhance_mode_feedback_reason">Zakaj izklapljate to storitev?</string>
+     <string name="enhance_safe_guard_mode_description">Nameščajte samo aplikacije, ki so opravile teste GetApps, da zaščitite svojo napravo pred virusi in zlonamerno programsko opremo</string>
+     <string name="enhance_safe_guard_title">Vklopite Izboljšano zaščito, da se izognete tveganim aplikacijam</string>
+     <string name="enhance_safe_mode">Izboljšana zaščita</string>
+     <string name="enhance_safe_mode_open_description">"Ko je izboljšana zaščita vklopljena, boste lahko namestili samo aplikacije, ki so opravile teste GetApps, s čimer vašo napravo ščitijo pred virusi in zlonamerno programsko opremo"</string>
+     <string name="enhance_safe_mode_title">Izboljšana zaščita</string>
+     <string name="enhanced_protection_des_1">Izboljšana zaščita je napredna storitev Mi zaščite. Vašo napravo ščiti z dodatnimi ukrepi proti virusom in zlonamerni programski opremi.</string>
+     <string name="enhanced_protection_f_1_demo">1. februarja 2023 je gospod Chen namestil aplikacijo, prek katere so ga prevaranti prisilili k večkratnemu nakazilu denarja. G. Chen je skupaj izgubil 78.238 CNY.</string>
+     <string name="enhanced_protection_f_1_des">Brez izboljšane zaščite vas lahko zlonamerne aplikacije prevarajo.</string>
+     <string name="enhanced_protection_f_1_title">Zaščita pred goljufijami</string>
+     <string name="enhanced_protection_f_2_des">Ko je izboljšana zaščita izklopljena, lahko zlonamerne aplikacije dostopajo do vaših osebnih podatkov.</string>
+     <string name="enhanced_protection_f_2_title">Varovanje zasebnosti</string>
+     <string name="enhanced_protection_f_3_title">Stabilnost sistema</string>
+     <string name="error_a11y_label">Napaka: neveljavno</string>
      <string name="error_icon_content_description">Napaka</string>
      <string name="ettings_security_mode_open_security_mode">Vključi</string>
      <string name="ettings_security_mode_tip_title1">Varujte svojo zasebnost</string>
@@ -261,6 +279,7 @@
      <string name="fmt_weekday_time_timezone">W T z</string>
      <string name="fmt_weekday_timezone">W z</string>
      <string name="for_diagnosis_usage_only">Poročila se uporabljajo samo za diagnostiko.</string>
+     <string name="four_automatic_detection">4 avtomatizirani testi</string>
      <string name="friday">Petek</string>
      <string name="friday_short">Pet</string>
      <string name="friday_shortest">P</string>
@@ -296,7 +315,9 @@
      <string name="isntall_failed_verification_resolve_uggestion">Poskusite najti zamenjavo za to aplikacijo v GetApps</string>
      <string name="item_view_role_description">Zavihek</string>
      <string name="learn_bundle_app_install">Več o tem</string>
+     <string name="learn_enhance_safe_guard">Več o tem</string>
      <string name="learn_more">Izvedite več</string>
+     <string name="let_me_think_again">Nadaljuj</string>
      <string name="lock_finger">Za namestitev preverite prstni odtis</string>
      <string name="lock_screen_authrioze_subtitle_password">Odobrite z zaklepanjem zaslona</string>
      <string name="lock_screen_password_authrioze">Za namestitev preverite zaklepanje zaslona</string>
@@ -499,6 +520,8 @@
      <string name="only_get_app_for_mi_store">Aplikacije prenašajte samo prek GetApps in preverjenih razvijalcev</string>
      <string name="only_get_app_for_mi_store_sub">Ta aplikacija je prestala naše stroge varnostne preglede</string>
      <string name="open">Vključi</string>
+     <string name="open_and_exit">Vklopi</string>
+     <string name="open_enhanced_protection">Vklopi izboljšano zaščito</string>
      <string name="passed_security_test">Prestal varnostne teste Xiaomi</string>
      <string name="passport_access_denied">Dostop zavrnjen</string>
      <string name="passport_account_crop_user_avatar">Obreži fotografijo</string>
@@ -733,6 +756,7 @@
      <string name="permission_name_write_external_storage">Shranjevanje v shrambo naprave</string>
      <string name="please_input_install_app_name">Vnesite ime aplikacije</string>
      <string name="please_input_phone_password">Vnesite zaklepanje zaslona</string>
+     <string name="please_input_phone_password_short">Vnesite zaklepanje zaslona</string>
      <string name="pm">pop.</string>
      <string name="pref_ads">Priporočila</string>
      <string name="pref_key_about_privacy_title">Pravila o zasebnosti</string>
@@ -741,7 +765,9 @@
      <string name="pref_key_shelf_app">Seznam aplikacij na GetApps</string>
      <string name="preference_copied">\"%1$s\" je kopiran v odložišče.</string>
      <string name="prepare_install">Priprava namestitve…</string>
+     <string name="professional_review">Strokovni ocenjevalci</string>
      <string name="prohibit_isntall">Dodaj na seznam blokiranih</string>
+     <string name="protect_privacy_and_security">Varovanje zasebnosti</string>
      <string name="pure_function_introduction">Funkcije varnega načina</string>
      <string name="pure_guarding">Vključeno</string>
      <string name="pure_introduction_des1">Pred namestitvijo preverite aplikacije iz neznanih virov glede morebitnih varnostnih tveganj</string>
@@ -942,6 +968,7 @@ izvirajo aplikacije"</string>
      <string name="sunday">Nedelja</string>
      <string name="sunday_short">Ned</string>
      <string name="sunday_shortest">N</string>
+     <string name="sure_close_enhance_safe_guard">Izklopim Izboljšano zaščito?</string>
      <string name="sure_install">Namestim to aplikacijo?</string>
      <string name="sure_ok">Razumem</string>
      <string name="thirty_days_no_asking">"Ne sprašuj več 30 dni"</string>
@@ -993,11 +1020,14 @@ izvirajo aplikacije"</string>
      <string name="unrecorded_risk_app">Odkrita tveganja</string>
      <string name="unrecorded_risk_app_description">Namestitev te aplikacije je prepovedana v skladu z ustreznimi regulativnimi zahtevami</string>
      <string name="unrecorded_risk_app_description_2">Kot razvijalec lahko vložite pritožbo</string>
+     <string name="unrecorded_risk_app_description_temp">"Razvijalec ni predložil seznama te aplikacije regulativnim organom. Morda ne boste mogli stopiti v stik z razvijalcem, če so kršeni vaši interesi."</string>
      <string name="untrusted_external_source_title">Dovolim \"%1$s\" namestitev aplikacije?</string>
      <string name="untrusted_external_source_warning_summary">"Vaš telefon in osebni podatki so občutljivi na napade aplikacij nameščenih iz neznanih virov. Z namestitvijo aplikacij iz teh virov prevzemate odgovornost za škodo ali izgubo podatkov."</string>
      <string name="update_start">Posodobi</string>
      <string name="uri_no_permission">Datoteke ni mogoče prebrati, dovoljenje je zavrnjeno</string>
      <string name="user_is_not_allowed_dlg_text">Trenutni uporabnik nima dovoljenja za to odstranitev.</string>
+     <string name="using_enhanced_protection">"Zaščitite svojo napravo z
+Izboljšana zaščita"</string>
      <string name="v7_preference_off">IZKLJUČENO</string>
      <string name="v7_preference_on">VKLJUČENO</string>
      <string name="verification_word">Preveri</string>

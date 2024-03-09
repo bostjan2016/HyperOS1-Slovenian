@@ -31,10 +31,16 @@
      <string name="abc_toolbar_collapse_description">Stisni</string>
      <string name="audio_spk_cal_wait">Kalibriranje, počakajte…</string>
      <string name="audio_spk_def">Kalibriranje zvočnika</string>
+     <string name="auto_bottom_left_high_speaker">Levi spodnji visokotonec</string>
+     <string name="auto_bottom_left_low_speaker">Levi spodnji nizkotonec</string>
+     <string name="auto_bottom_right_low_speaker">Desni spodnji nizkotonec</string>
      <string name="auto_frontflash_description">Vse sprednje bliskavice so prižgane, kliknite za uspelo, drugače kliknite za neuspeh</string>
      <string name="auto_frontflash_title">Test bliskavice sprednje kamere</string>
      <string name="auto_rearflash_description">Vse luči bliskavice zadnje kamere so prižgane, kliknite za uspelo, drugače kliknite za neuspeh</string>
      <string name="auto_rearflash_title">Test bliskavice zadnje kamere</string>
+     <string name="auto_top_left_high_speaker">Levi zgornji visokotonec</string>
+     <string name="auto_top_left_low_speaker">Levi zgornji nizkotonec</string>
+     <string name="auto_top_right_low_speaker">Desni zgornji nizkotonec</string>
      <string name="aux_mic_check_record_tip">Snemanje, prosim nekaj povejte v AUX MIC na zadnji strani telefona</string>
      <string name="back_mic_check_record_tip">Snemanje, prosim nekaj povejte v MIC na zadnji strani telefona</string>
      <string name="battery_authentic">Baterija je pristna</string>
@@ -126,6 +132,7 @@ Pred kalibracijo naprave jo položite na ravno površino."</string>
      <string name="cit_apk_signature_failed">Podpis aplikacije NEUSPEŠNO</string>
      <string name="cit_apk_signature_passed">Podpis aplikacije USPEŠNO</string>
      <string name="cit_aud_current_state">Trenutno stanje:</string>
+     <string name="cit_aud_spk_vendor">Dobavitelj zvočnikov:</string>
      <string name="cit_aud_spkcal">Kalibriraj</string>
      <string name="cit_aud_test_result">Rezulti testa:</string>
      <string name="cit_audio_cali_summary">Kalibriranje PA zvočnika</string>
@@ -136,16 +143,33 @@ Pred kalibracijo naprave jo položite na ravno površino."</string>
      <string name="cit_audio_hw_check_title">Test preverjanja zvočne strojne opreme</string>
      <string name="cit_audio_lb_auxmic_to_earpiece_title">Preskus povratnih informacij zvočnikov za pomožni mikrofon</string>
      <string name="cit_audio_lb_backmic_to_earpiece_title">Test povratnih informacij zvočnika zadnjega mikrofona</string>
+     <string name="cit_audio_lb_backmic_to_speaker_title">Test povratnih informacij zvočnika zadnjega mikrofona</string>
+     <string name="cit_audio_lb_check_track_tip">Zdaj se predvaja posnetek, preverite, če je zvok</string>
      <string name="cit_audio_lb_mainmic_to_earpiece_title">Testiranje glavnega zvočnika mikrofona</string>
+     <string name="cit_audio_lb_mainmic_to_speaker_title">Test povratnih informacij zvočnika glavnega mikrofona</string>
+     <string name="cit_audio_lb_sidebottommic_to_speaker_title">Preskus povratnih informacij zvočnika stranskega spodnjega mikrofona</string>
+     <string name="cit_audio_lb_sidetopmic_to_speaker_title">Preskus povratnih informacij zvočnika stranskega zgornjega mikrofona</string>
      <string name="cit_audio_lb_summary_auxmic_to_earpiece">"Preizkus povratnih informacij od pomožnega mikrofona do sprejemnika.
 
 Držite napravo, kot da kličete, govorite v pomožni mikrofon, slišati bi morali glas iz sprejemnika"</string>
      <string name="cit_audio_lb_summary_backmic_to_earpiece">"Preskus povratne informacije od zadnjega mikrofona do sprejemnika.
 
 Držite napravo, kot da kličete, govorite v zadnji mikrofon, iz slušalke bi morali slišati glas"</string>
+     <string name="cit_audio_lb_summary_backmic_to_speaker">"Preskus povratnih informacij med zadnjim mikrofonom in zvočnikom.
+
+Govorite v zadnji mikrofon, iz zvočnika bi morali slišati glas"</string>
      <string name="cit_audio_lb_summary_mainmic_to_earpiece">"Testiranje glavnega zvočnika na mikrofon.
 
 Držite telefon kot da kličete, govorite v glavni mikrofon, morali bi slišati glas iz sprejemnika"</string>
+     <string name="cit_audio_lb_summary_mainmic_to_speaker">"Preskus povratnih informacij med glavnim mikrofonom in zvočnikom.
+
+Govorite v glavni mikrofon, iz zvočnika bi morali slišati glas"</string>
+     <string name="cit_audio_lb_summary_sidebottommic_to_speaker">"Preskus povratnih informacij med stranskim spodnjim mikrofonom in zvočnikom.
+
+Govorite v stranski spodnji mikrofon, iz zvočnika bi morali slišati glas"</string>
+     <string name="cit_audio_lb_summary_sidetopmic_to_speaker">"Preskus povratnih informacij med stranskim zgornjim mikrofonom in zvočnikom.
+
+Govorite v stranski zgornji mikrofon, iz zvočnika bi morali slišati glas"</string>
      <string name="cit_audio_lb_summary_topmic_to_earpiece">"Test povratnih informacij od zgornjega mikrofona do sprejemnika.
 
 Držite napravo, kot da kličete, govorite v zgornji mikrofon, iz slušalke bi morali slišati glas"</string>
@@ -209,8 +233,10 @@ Držite napravo, kot da kličete, govorite v zgornji mikrofon, iz slušalke bi m
      <string name="cit_charge_usb_pd">Polnjenje：USB_PD</string>
      <string name="cit_charger_check_title">Test polnilca</string>
      <string name="cit_charger_in">Polnilec priključen</string>
+     <string name="cit_charger_main_ibat">Tok glavne baterije</string>
      <string name="cit_charger_plugin_check_title">Polnilec (priključite)</string>
      <string name="cit_charger_plugout_check_title">Polnilec (ni priključen)</string>
+     <string name="cit_charger_second_ibat">Tok sekundarne baterije</string>
      <string name="cit_charger_test_summary">"Med preizkusom polnilca prosimo, da ga naprej priključite
 in polnilec obrnite nazaj"</string>
      <string name="cit_charger_test_tips_electric">Trenutni projekt mora preizkusiti trenutno polnilno vrednost večjo od 1A</string>
@@ -232,6 +258,7 @@ in polnilec obrnite nazaj"</string>
      <string name="cit_digital_hall_sensor_check_title">Digitalni Hall test</string>
      <string name="cit_display_check_summary">Preverite ali je potrebna BMP datoteka na SD kartici. Potrdite da se barve dosledno prikazujejo čez cel zaslon. Prepričajte se se da ni nepravilnih svetlih točk in temnih madežev.</string>
      <string name="cit_display_check_title">Zaslon</string>
+     <string name="cit_display_check_title_N8">Zaslon</string>
      <string name="cit_display_continue">Dotaknite se zaslona za začetek testiranja</string>
      <string name="cit_display_expand_screen_tips">Pred testiranjem razširite zaslon</string>
      <string name="cit_display_fold_screen_tips">Pred preskusom zložite zaslon</string>
@@ -271,6 +298,7 @@ Prosimo, kliknite ustrezen gumb glede na številko, ki jo slišite"</string>
      <string name="cit_front_dual_camera_check_title">Sprednja Bokeh camera</string>
      <string name="cit_front_sub_camera_check_title">Sprednja Aux camera</string>
      <string name="cit_front_sub_camera_check_title_fold">Podzaslonska Sprednja kamera</string>
+     <string name="cit_front_ultra_camera_check_title">Sprednja Ultra kamera</string>
      <string name="cit_get_signature_failed">Dobivanje podpisa NEUSPEŠNO</string>
      <string name="cit_gps_check_summary">GPS Informacije bi morale biti prikazane v nadaljevanju</string>
      <string name="cit_gps_check_title">Testiranje GPS-a</string>
@@ -345,6 +373,7 @@ Med testom ne izklapljajte zaslona"</string>
 Ultrazvočni senzor razdalje: simulirajte dvig slušalke, da sprejmete klic 
 Če spodnje preskusno območje pri približevanju kaže vrednost 0,0, vrednost 5.0 pa, ko je oddaljena, je test uspešen, sicer test ne uspe ."</string>
      <string name="cit_proximity_sensor_cali_title">Preskus umerjanja senzorja bližine</string>
+     <string name="cit_proximity_sensor_check_second_screen_title">Drugi senzor bližine</string>
      <string name="cit_proximity_sensor_check_summary">"Pokrijte senzor oddaljenosti (nahaja se na vrhu telefona v bližini sprejemnika) z roko, potem pa roko umaknite. Vrednost se mora povečati od 0,0 ko umaknete roko.
 Pri kalibriranju preverite da ni ničesar med senzorjem in vašo roko (npr. rokavice)."</string>
      <string name="cit_proximity_sensor_check_title">Senzor bližine</string>
@@ -380,6 +409,13 @@ Pri kalibriranju preverite da ni ničesar med senzorjem in vašo roko (npr. roka
      <string name="cit_start_calibration">Kalibriraj</string>
      <string name="cit_sub_display_check_title">Podzaslon</string>
      <string name="cit_sub_touch_panel_test_title">Sub Senzor za dotik</string>
+     <string name="cit_tele_5x_cali_reset">Ponastavi</string>
+     <string name="cit_tele_5x_cali_reset_success_toast">Ponastavitev je uspela</string>
+     <string name="cit_tele_5x_cali_success_toast">Umerjanje uspešno</string>
+     <string name="cit_tele_5x_cali_tip">"1.Potrjeno je, da težavo povzroča ultratelefoto zamegljenost；
+2. Kliknite gumb Umeri；
+3.Ugotovite, ali se je težava z zameglitvijo izostritve pri ultra-telefoto izboljšala pred in po kalibraciji；
+4. Če se težava ne odpravi, kliknite gumb Ponastavi；"</string>
      <string name="cit_tele_camera_check_title">Tele Kamera</string>
      <string name="cit_test_results">Zgodovina rezultatov</string>
      <string name="cit_tfcard_available_szie">Razpoložljiva velikost</string>
@@ -404,8 +440,10 @@ Pri kalibriranju preverite da ni ničesar med senzorjem in vašo roko (npr. roka
      <string name="cit_tool_asdiv_title">ASDIV NASTAVITVE</string>
      <string name="cit_tool_bluetooth">Testno orodje Bluetootha</string>
      <string name="cit_tool_bluetooth_br_tx_msg">Vklopi Bluetooth BR/EDR TX Testni način:</string>
+     <string name="cit_tool_bluetooth_dbam">Vstopite v preskusni način Bluetooth DBAM</string>
      <string name="cit_tool_bluetooth_dut">Bluetooth Testiranje načina dela</string>
      <string name="cit_tool_bluetooth_enhanced">Zaženi Bluetooth izboljšano testiranje</string>
+     <string name="cit_tool_bluetooth_le_enhanced_run">ZAČNI</string>
      <string name="cit_tool_bluetooth_le_enhanced_run_trigger">Sprožilec</string>
      <string name="cit_tool_bluetooth_le_power_run">ZAČNI</string>
      <string name="cit_tool_bluetooth_le_rx_4x_channel">kanal:</string>
@@ -615,12 +653,17 @@ Druga vrstica prikazuje ime in številko različice privzetih MBN in Carrier MBN
      <string name="cit_touch_fw_mode">FW način</string>
      <string name="cit_touch_panel_nead_pencil_tip">Za ponovno testiranje uporabite svinčnik</string>
      <string name="cit_touch_panel_test_title">Senzor dotika</string>
+     <string name="cit_touch_panel_test_title_N8">Senzor na dotik</string>
      <string name="cit_touch_thp_mode">THP način</string>
      <string name="cit_touch_work_mode_test_help">"Navodila za uporabo 
 kliknite gumb, da preklopite način na dotik v način THP ali način FW"</string>
      <string name="cit_touch_work_mode_test_title">Test preklopa načina THP na dotik</string>
      <string name="cit_touch_work_summary">Dotik preklopi način THP</string>
      <string name="cit_touch_work_switch_tips">Ne dotikajte se zaslona in počakajte, da se preklop načina zaključi</string>
+     <string name="cit_tt_cali_bin_check_title">Zaznavanje vsebine datoteke za kalibracijo čipa</string>
+     <string name="cit_tt_description">Zaznane so funkcije, povezane s čipom, prosimo, da ne upravljate telefona.</string>
+     <string name="cit_tt_rx_check_title">Zaznavanje poti sprejema čipa RX</string>
+     <string name="cit_tt_tx_check_title">Zaznavanje prenosne poti čipa TX</string>
      <string name="cit_ultra_camera_check_title">Ultra kamera</string>
      <string name="cit_usb_OTG_error_condition">"Naprava USB je priključena, vendar ne morem dobiti informacij o napravi
 test ni uspel!"</string>
@@ -704,6 +747,7 @@ Test ni uspel!"</string>
      <string name="mic_tip">Napravite hrup na mikrofonu. Ko priključite slušalke, jih poslušajte, da slišite zvok</string>
      <string name="mic_volume_height_tip">MIC test USPELO</string>
      <string name="mic_volume_low_tip">MIC zvočni test ni uspel. Med snemanjem naredite večji zvok</string>
+     <string name="modem_sar_enhance_tool_title">Orodje za izboljšanje modema Sar</string>
      <string name="motor_calibration">Kalibracija motorja</string>
      <string name="nfc_disable_tip">Vključi NFC</string>
      <string name="nfc_not_available">NFC ni na voljo</string>
@@ -752,6 +796,8 @@ Kliknite tipko Push kamere da boste ugotovili ali se je kamera vključila"</stri
      <string name="remove_finger">test odstranitve prsta</string>
      <string name="sar_algo_data_check_description">Sar Algo podatki zbiranje</string>
      <string name="sar_authentation_test_title">Sar preverjanje pristnosti test</string>
+     <string name="sar_enhance">Orodje za izboljšanje Sar</string>
+     <string name="sar_enhance_button_text">Orodje za izboljšanje Sar</string>
      <string name="sar_mtk_test_title">Sar Mtk Preizkus pristnosti</string>
      <string name="sar_off">Sar Izklj.</string>
      <string name="sar_on">Sar Vklj.</string>
@@ -776,6 +822,7 @@ Po uspešnem kalibriranju nadzorujte napravo blizu in stran od telefona"</string
      <string name="sidebottom_mic_check_record_tip">Snemanje, recite nekaj v mikrofon na stranskem dnu naprave</string>
      <string name="sidetop_mic_check_record_tip">Snemanje, recite nekaj v mikrofon na stranskem vrhu naprave</string>
      <string name="slave_battery_authentic">Sekundarna baterija je pristna</string>
+     <string name="smart_transmit">Stanje pametnega prenosa</string>
      <string name="soft_light_title">Mehka svetloba</string>
      <string name="speak_from_mic">Govorite v mikrofon, morali bi slišati glas v zvočniku.</string>
      <string name="successfully_obtained_permission">Zaznavanje nadzora v oblaku je uspešno, funkcija začne veljati</string>
@@ -790,6 +837,8 @@ Po uspešnem kalibriranju nadzorujte napravo blizu in stran od telefona"</string
      <string name="test_horn_motor_summary">"Slišali boste dve naključni številki
 Kliknite ustrezen gumb glede na številko, ki jo slišite
 Izberite pravi gumb glede na različne pogoje vibriranja"</string>
+     <string name="test_integration_speaker">Test integracije zvočnikov</string>
+     <string name="test_integration_summary">Šest zvočnikov zaporedno predvaja zvok. Bodite pozorni na zvok in ugotovite, ali je nenormalen, pri tem pa ohranite navpično stanje zaslona</string>
      <string name="test_main_mic">Glavni mikrofon</string>
      <string name="test_second_flash">Test druge bliskavice</string>
      <string name="test_sidebottom_mic">Mikr. stransko dno</string>

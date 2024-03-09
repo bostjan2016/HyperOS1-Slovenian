@@ -744,6 +744,7 @@ Izboljšana varnost."</string>
      <string name="switch_personal_assistant_app_vault">Osebni asistent</string>
      <string name="switch_personal_assistant_google">Google</string>
      <string name="switch_personal_assistant_none">Nič</string>
+     <string name="switch_personal_assistant_summary">Povlecite desno po domačem zaslonu, da odprete Google odkrivanje</string>
      <string name="switch_screen_button_order">Zamenjaj mesta tipk</string>
      <string name="switch_screen_button_order_desc">Zamenjaj mesta tipk Nazaj in Meni</string>
      <string name="system_sdk_disabled_toast">Sistemski SDK je onemogočen. Najprej ga omogočite.</string>
