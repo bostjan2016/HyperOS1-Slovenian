@@ -6305,6 +6305,10 @@ morate najprej napraviti iCloud var. kopijo"</string>
      <string name="load_networks_progress">Iskanje …</string>
      <string name="loading">Samo trenutek…</string>
      <string name="loading_data">Nalaganje podatkov</string>
+     <string name="loading_eid_error_message">"Podatkov o EID ni bilo mogoče dobiti. Počakajte minuto ali dve in poskusite znova."</string>
+     <string name="loading_eid_error_ok">Razumem</string>
+     <string name="loading_eid_error_title">"Podatkov ni bilo mogoče dobiti. Počakajte minuto ali dve in poskusite znova"</string>
+     <string name="loading_eid_tip">Pridobivanje informacij EID…</string>
      <string name="loading_injected_setting_summary">Nalaganje…</string>
      <string name="loading_notification_apps">Nalaganje aplikacij…</string>
      <string name="local_app_name">Var. kopija</string>
@@ -12491,6 +12495,7 @@ Lahko pretvorite svojo Android napravo v prenosno WiFi dostopno točko za deljen
      <string name="title_change_system_locale">Spremenim sistemski jezik v %s ?</string>
      <string name="title_color_calibration">Barvna korekcija nastavljena</string>
      <string name="title_convert_fbe">Preklop na šifriranje na ravni datotek…</string>
+     <string name="title_device_control">Kontrole naprave</string>
      <string name="title_dolby_control">Dolby digital plus</string>
      <string name="title_font">Pisava</string>
      <string name="title_font2">Font &amp; razpored</string>

@@ -27,6 +27,7 @@
      <string name="abc_shareactionprovider_share_with">Deljenje z</string>
      <string name="abc_shareactionprovider_share_with_application">Deli preko aplikacije %s</string>
      <string name="abc_toolbar_collapse_description">Strni</string>
+     <string name="accelerate_play">Hitrost: %sX</string>
      <string name="accept_cookies_confirm_message">Izklopi te storitve lahko povzroči, da nekatera spletna mesta ne delujejo pravilno.</string>
      <string name="accessibility_button_clear">Pobrišite vnos</string>
      <string name="account_bind_secure_email_title">Dodajte obnovitveni elektronski naslov</string>
@@ -302,6 +303,9 @@ Preklopite za ustavitev sinhronizacije."</string>
      <string name="browser_wallpaper_toast">Če želite zamenjati ozadja, izklopite stikalo Promocije</string>
      <string name="btn_agree">Strinjam se</string>
      <string name="btn_cancel">Prekliči</string>
+     <string name="btn_copied">Kopirano</string>
+     <string name="btn_copy">Kopiraj</string>
+     <string name="btn_open">Odpri</string>
      <string name="camera_permission_name">Uporabi kamero</string>
      <string name="can_not_send_with_too_many">"Naenkrat ni mogoče poslati toliko stvari"</string>
      <string name="cancel">Prekliči</string>
@@ -1089,6 +1093,8 @@ Pošljite to kodo nadzorniku."</string>
      <string name="just_a_second">Samo trenutek…</string>
      <string name="just_now">Pravkar</string>
      <string name="keep_intrercept">Ustavi</string>
+     <string name="kindred_coupons_terms">Oglejte si določila in pogoje</string>
+     <string name="kindred_coupons_title">Kuponi</string>
      <string name="le_download_failed_server_error">Prenos ni uspel zaradi napake strežnika.</string>
      <string name="le_network_chagne_to_none">Povezava z omrežjem je prekinjena. Vsi prenosi so začasno ustavljeni.</string>
      <string name="list_item_click">Kliknite seznam stvari</string>
@@ -2121,6 +2127,8 @@ Nekatera spletna mesta ne bodo uporabila vaše prejšnje zgodovine brskanja za p
      <string name="record_permission_name">Snemanje zvoka</string>
      <string name="recovery_page_popup">Nadaljujte tam, kjer ste končali</string>
      <string name="refresh">Osveži</string>
+     <string name="refresh_button_update_item">Na voljo je %d posodobitev</string>
+     <string name="refresh_button_update_latest">"Ogledujete si najnovejše artikle"</string>
      <string name="refresh_fail">Informacij ni bilo mogoče naložiti</string>
      <string name="refresh_guide">Nazaj na vrh</string>
      <string name="refreshing">Osveževanje…</string>
@@ -2424,6 +2432,7 @@ Nekatera spletna mesta ne bodo uporabila vaše prejšnje zgodovine brskanja za p
      <string name="tab_forward_description">Naslednja stran zgodovine</string>
      <string name="tab_game">Igre</string>
      <string name="tab_home">Domov</string>
+     <string name="tab_mall">Trgovina</string>
      <string name="tab_mine">Profil</string>
      <string name="tab_novel">Knjige</string>
      <string name="tab_quicklinks">Uporabno</string>

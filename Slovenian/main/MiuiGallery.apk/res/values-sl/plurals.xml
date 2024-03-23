@@ -265,6 +265,22 @@
         <item quantity="other">%1$d datotek</item>
         <item quantity="one">%1$d datoteka</item>
      </plurals>
+     <plurals name="global_cloud_storage_warn_title_link">
+        <item quantity="other">"Ni bilo mogoče varnostno kopirati %d stvari zaradi nezadostnega prostora za shranjevanje v oblaku"</item>
+        <item quantity="one">"Ni bilo mogoče varnostno kopirati %d stvar zaradi nezadostnega prostora za shranjevanje v oblaku"</item>
+     </plurals>
+     <plurals name="global_sync_error_title">
+        <item quantity="other">"Nisem varnostno kopiral %d stvari"</item>
+        <item quantity="one">"Nisem varnostno kopiral %d stvar"</item>
+     </plurals>
+     <plurals name="global_syncing_gprs_title_link">
+        <item quantity="other">Varnostno kopiram %d stvari z uporabo mobilnih podatkov…</item>
+        <item quantity="one">Varnostno kopiram %d stvar z uporabo mobilnih podatkov…</item>
+     </plurals>
+     <plurals name="global_syncing_title_link">
+        <item quantity="other">Varnostno kopiram %d stvari…</item>
+        <item quantity="one">Varnostno kopiram %d stvar…</item>
+     </plurals>
      <plurals name="half_hour_ago">
         <item quantity="other">Pred pol ure</item>
      </plurals>
@@ -707,6 +723,18 @@
      <plurals name="video_count_format">
         <item quantity="other">Skupaj: %1$d</item>
         <item quantity="one">Skupaj: %1$d</item>
+     </plurals>
+     <plurals name="video_editor_component_hint_text">
+        <item quantity="other">Izberite %d segmentov videoposnetka</item>
+        <item quantity="one">Izberite %d segment videoposnetka</item>
+     </plurals>
+     <plurals name="video_editor_component_imageview_content_description">
+        <item quantity="other">Video reža %1$d, čakanje na dodajanje videa %2$s sekund ali več</item>
+        <item quantity="one">Video reža %1$d, čakanje na dodajanje videa %2$s sekundo ali več</item>
+     </plurals>
+     <plurals name="video_editor_component_next_step_disabled_content_description">
+        <item quantity="other">Če želite nadaljevati, dodajte še %d videoposnetkov</item>
+        <item quantity="one">Če želite nadaljevati, dodajte še %d videoposnetek</item>
      </plurals>
      <plurals name="videos_count">
         <item quantity="other">%d videoposnetkov</item>

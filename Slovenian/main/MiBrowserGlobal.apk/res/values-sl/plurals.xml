@@ -134,6 +134,10 @@
         <item quantity="other">Zaščiteno %d krat</item>
         <item quantity="one">Zaščiteno %d krat</item>
      </plurals>
+     <plurals name="kindred_coupons_hint">
+        <item quantity="other">Imate %d kuponov</item>
+        <item quantity="one">Imate %d kupon</item>
+     </plurals>
      <plurals name="le_notification_download_completed">
         <item quantity="other">%d stvari je uspešno preneseno</item>
         <item quantity="one">%d stvar je uspešno prenesena</item>

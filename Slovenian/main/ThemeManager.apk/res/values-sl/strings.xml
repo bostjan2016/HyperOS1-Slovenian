@@ -538,6 +538,8 @@ Teme bodo odkrile katere aplikacije uporabljate in prikazale transparentna ozadj
      <string name="gallery_wallpaper">Wallpaper Carousel</string>
      <string name="gallery_wallpaper_count">100k+</string>
      <string name="gallery_wallpaper_count_tw">10w+</string>
+     <string name="gallery_wallpaper_history">Tapnite za ogled prejšnjih slik, predstavljenih na vrtiljaku za ozadja</string>
+     <string name="gallery_wallpaper_history_go">Ogled</string>
      <string name="gallery_wallpaper_theme">Nepogrešljiva ozadja</string>
      <string name="gift_anonymous">Anonimno</string>
      <string name="gift_operation_fail_dlg_abandon">Prekliči</string>
@@ -1765,6 +1767,7 @@ Pojdite v Teme&gt; Moj račun &gt; Beta storitve za več opcij."</string>
      <string name="wallpaper_download_incall_show">Prenesi video</string>
      <string name="wallpaper_dynamic">Dinamično</string>
      <string name="wallpaper_group_set_loop">Diaprojekcija na zaklenjenem zaslonu s podobnimi slikami</string>
+     <string name="wallpaper_history">Zgodovina ozadij</string>
      <string name="wallpaper_light_mode_image_preview_tip">Svetli način</string>
      <string name="wallpaper_loading_text">Samo trenutek…</string>
      <string name="wallpaper_loop_add_success">Uspešno dodano</string>

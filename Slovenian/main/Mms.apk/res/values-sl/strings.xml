@@ -129,6 +129,7 @@ Poskusite znova."</string>
      <string name="cannot_send_message_reason">Vaše sporočilo nima veljavnih prejemnikov.</string>
      <string name="cannot_send_mms">"Satelitska komunikacija ne podpira MMS"</string>
      <string name="carry_current_location">Vključi trenutno lokacijo</string>
+     <string name="carry_vital_signs">Vključi vitalne znake</string>
      <string name="change_duration_activity">Spremeni trajanje</string>
      <string name="chatbot_list_title">5G sporočila</string>
      <string name="chatbot_main_title">Mini aplikacije</string>
@@ -1216,6 +1217,26 @@ Oglejte si priporočene!"</string>
      <string name="video_compressing">Stiskanje videa…</string>
      <string name="view">Pokaži</string>
      <string name="view_message_details">Poglej podrobnosti</string>
+     <string name="vital_signs_cta_body">"Podatki o vitalnih znakih (vključno s srčnim utripom, SpO₂ in informacijami o zdravstveni kartici) so vzeti iz Mi Fitness. Če spodaj označite, se strinjate z dostopom in uporabo teh podatkov.
+Za nadzor dolžine sporočila bo ohranjenih samo prvih 50 znakov vsake postavke zdravstvene kartice."</string>
+     <string name="vital_signs_cta_title">Življenjski znaki</string>
+     <string name="vital_signs_data_allergy">Alergije: %s</string>
+     <string name="vital_signs_data_disease">Kronična stanja: %s</string>
+     <string name="vital_signs_data_high_bpm">Visok srčni utrip, nazadnje: %1$d–%2$d BPM (%3$s–%4$s)</string>
+     <string name="vital_signs_data_high_bpm_multi">Visok srčni utrip večkrat v zadnji uri. Najnovejše: %1$d–%2$d BPM (%3$s–%4$s)</string>
+     <string name="vital_signs_data_low_bpm">Nizek srčni utrip, nazadnje: %1$d–%2$d BPM (%3$s–%4$s)</string>
+     <string name="vital_signs_data_low_bpm_multi">Nizek srčni utrip večkrat v zadnji uri. Najnovejše: %1$d–%2$d BPM (%3$s–%4$s)</string>
+     <string name="vital_signs_data_low_spo2">Nizek SpO₂, najnovejši: %1$d%%–%2$d%% (%3$s–%4$s)</string>
+     <string name="vital_signs_data_low_spo2_multi">SpO₂ je bil večkrat nizek v zadnji uri. Najnovejše: %1$d%%–%2$d%% (%3$s–%4$s)</string>
+     <string name="vital_signs_data_medical">Zdravljenja: %s</string>
+     <string name="vital_signs_toast_exception">"Podatkov o vitalnih znakih ni bilo mogoče dobiti"</string>
+     <string name="vital_signs_toast_health_app_low">Posodobite Mi Fitness, da boste lahko pridobili podatke o vitalnih znakih</string>
+     <string name="vital_signs_toast_health_app_no_install">Namestite Mi Fitness, da boste lahko pridobili podatke o vitalnih znakih</string>
+     <string name="vital_signs_toast_no_bpm_spo2">"Podatkov o srčnem utripu in SpO₂ ni bilo mogoče dobiti"</string>
+     <string name="vital_signs_toast_no_data">"Podatkov o vitalnih znakih ni bilo mogoče dobiti"</string>
+     <string name="vital_signs_wait_body">Dostop do podatkov... To lahko traja minuto.</string>
+     <string name="vital_signs_wait_skip">Preskoči</string>
+     <string name="vital_signs_wait_title">Podatki o vitalnih znakih</string>
      <string name="voice_report_anytime">Zmeraj</string>
      <string name="voice_report_off">Izključeno</string>
      <string name="voice_report_wiredon">S slušalkami</string>

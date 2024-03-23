@@ -77,6 +77,7 @@
      <string name="ad_click_to_play">Tapnite za igranje</string>
      <string name="ad_flag_text">Oglasi</string>
      <string name="ad_left_time">sekund do konca reklame</string>
+     <string name="ad_topview_repeat_play">Tapnite za ponovno predvajanje</string>
      <string name="add_local_shortcut_add">Dodaj</string>
      <string name="add_local_shortcut_des">Dodaj \"Moj video\" na začetni zaslon za dostop do lokalnih video datotek z enim dotikom.</string>
      <string name="add_search_channel_link">Povezava</string>
