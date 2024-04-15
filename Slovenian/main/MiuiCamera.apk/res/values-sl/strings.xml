@@ -205,6 +205,8 @@
      <string name="accessibility_reference_line_image_on">Prikaz mrežnih črt</string>
      <string name="accessibility_reference_line_text">Odprite ploščo z možnostmi referenčne črte</string>
      <string name="accessibility_review_thumbnail">Najnovejše fotografije</string>
+     <string name="accessibility_sdsr_tip_off">Ultra zoom izključen</string>
+     <string name="accessibility_sdsr_tip_on">Ultra zoom vključen</string>
      <string name="accessibility_select_all">Izberi vse</string>
      <string name="accessibility_select_all_end">Izbrano vse</string>
      <string name="accessibility_selected">Izbrano</string>
@@ -1736,6 +1738,8 @@ Slike Ultra RAW prihranijo %d bit podatkov in ohranijo še več podrobnosti."</s
 na svojih fotografijah"</string>
      <string name="portrait_bokeh_text">Portretni način</string>
      <string name="portrait_bokeh_tips">Postavite predmet znotraj 1.5 m</string>
+     <string name="portrait_cvtype_item_title1">Portretni slog: portret Leica</string>
+     <string name="portrait_cvtype_item_title2">Portretni slog: Glavni portret</string>
      <string name="portrait_deblur_tips">HD portret</string>
      <string name="portrait_india_effect_entry_memory">Spomin</string>
      <string name="portrait_india_effect_entry_portrait">Portret</string>
@@ -1745,7 +1749,13 @@ na svojih fotografijah"</string>
      <string name="portrait_india_effect_entry_sweet">Karamela</string>
      <string name="portrait_india_effect_entry_warm">Toplo</string>
      <string name="portrait_india_effect_entry_young">Mladost</string>
+     <string name="portrait_mode_confirm_text">Potrdi</string>
      <string name="portrait_mode_depth_effect_success_hint">Efekt globine</string>
+     <string name="portrait_mode_hint_title">Izberite portretni slog</string>
+     <string name="portrait_mode_item_item1">Elegantno in subtilno</string>
+     <string name="portrait_mode_item_item2">Naravno in realistično</string>
+     <string name="portrait_mode_item_title1">Glavni portret</string>
+     <string name="portrait_mode_item_title2">Leica portret</string>
      <string name="portrait_mode_lowlight_hint">"Zdaj je preveč mračno"</string>
      <string name="portrait_mode_too_close_hint">Oddaljite se več od objekta</string>
      <string name="portrait_mode_too_far_hint">Postavite predmet znotraj 2 m</string>
@@ -2183,6 +2193,7 @@ Obdržite objekt oster medtem ko je ozadje zamegljeno."</string>
      <string name="pref_s_n_r_s_c">Zmanjšajte šum v videoposnetkih, odvisno od scene</string>
      <string name="pref_scan_qrcode_summary">Zadnja kamera lahko skenira QR kode v \"Fotografija\" </string>
      <string name="pref_scan_qrcode_title">Skeniraj QR kode</string>
+     <string name="pref_sdsr_summary">Naj AI izboljša jasnost povečanih slik</string>
      <string name="pref_simple_hdr_entry_off">Izključeno</string>
      <string name="pref_simple_hdr_entry_on">Vključeno</string>
      <string name="pref_skin_beautify_color_title">Ton</string>
@@ -2298,6 +2309,7 @@ Obdržite objekt oster medtem ko je ozadje zamegljeno."</string>
      <string name="scan_install_prompt_message">Namestite Skener in poskusite znova.</string>
      <string name="screen_on_proximity_sensor_hint">Za izklop te storitve istočasno pritisnite tipke "Nazaj" in "Glasnost +".</string>
      <string name="screen_on_proximity_sensor_summary">"Ne pokrivajte področja slušalk"</string>
+     <string name="sdsr_capture_reprocess_toast">Obdelava Ultra zoom…</string>
      <string name="search_menu_title">Išči</string>
      <string name="search_settings">Nastavitve kamere;Kakovost;Kakovost slike;Lokacija slike;Lokacija slike;Prepoznava obraza;Zvok kamere</string>
      <string name="security_line">Linija okvirja</string>
@@ -2581,6 +2593,8 @@ Način širokega kota vam pomaga kadar se ne morete premakniti dlje od scene"</s
      <string name="video_beauty_tip_filter">Filtri</string>
      <string name="video_bokeh_blur">Zameglitev</string>
      <string name="video_bokeh_color_point">Pisani madeži</string>
+     <string name="video_bokeh_spin">Obrat</string>
+     <string name="video_bokeh_zoom">Zoom</string>
      <string name="video_bokeh_zoom_in">Približaj</string>
      <string name="video_bokeh_zoom_out">Pomanjšanje</string>
      <string name="video_camera_label">Videokamera</string>

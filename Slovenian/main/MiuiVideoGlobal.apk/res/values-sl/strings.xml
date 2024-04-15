@@ -126,6 +126,7 @@
      <string name="cancel">Prekliči</string>
      <string name="cancel_choose">Prekliči izbrano</string>
      <string name="cancel_subscribe_tips">Želite prenehati slediti?</string>
+     <string name="card_content_descriptor">kartica</string>
      <string name="cast_ad_label">Oglas</string>
      <string name="cast_casting_to_device">Predvajanje v: %s</string>
      <string name="cast_closed_captions">Podnapisi</string>
@@ -285,7 +286,7 @@ Pošljite to kodo nadzorniku."</string>
      <string name="dialog_cancel">Prekliči</string>
      <string name="dialog_clearn_content">Izbrišem zgodovino?</string>
      <string name="dialog_clearn_title">Izbriši zgodovino</string>
-     <string name="dialog_confirm">V redu</string>
+     <string name="dialog_confirm">Dodaj</string>
      <string name="dialog_delete_bookmarks_content">Izbrišem zaznamek?</string>
      <string name="dialog_disagree_continue">Nadaljuj</string>
      <string name="dialog_disagree_info">"Če se ne strinjate s pravilnikom o zasebnosti Mi Video, ne boste mogli uporabljati naših spletnih storitev in boste lahko samo gledali videoposnetke, shranjene v vaši napravi. Vseeno nadaljujem?"</string>
@@ -650,6 +651,7 @@ Ta operacija ne bo vplivala na vaše slike v galeriji."</string>
      <string name="hidden_channels">Spodnji kanali ne bodo prikazani na Začetni strani.</string>
      <string name="hide">Skrij</string>
      <string name="hide_video_toast">Ta stvar je bila skrita. Skrite stvari lahko najdete in upravljate v Lokalno > Mape > Skrite stvari.</string>
+     <string name="hiding_dialog_ok">Nastavi</string>
      <string name="hint_icon_ad_title">Priporočeno</string>
      <string name="hint_in_mivideo">Lahko preverite stransko ploščo za dodatne storitve</string>
      <string name="history">Zgodovina</string>
@@ -942,6 +944,7 @@ To dovoljenje bomo uporabili samo za iskanje videoposnetkov, ki jih iščete, in
      <string name="miuix_appcompat_select_all">Izberi vse</string>
      <string name="miuix_appcompat_select_all_description">Izberi vse</string>
      <string name="miuix_appcompat_select_item">Izberi stvari</string>
+     <string name="miuix_dialog_ok">V redu</string>
      <string name="miuix_indexer_collect">Zbirke</string>
      <string name="miuix_indexer_selected">Izbrano %s</string>
      <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povleci za osvežitev</string>
@@ -1267,6 +1270,7 @@ To dovoljenje bomo uporabili samo za iskanje videoposnetkov, ki jih iščete, in
      <string name="photoPickerNotFoundText">Ni slik.</string>
      <string name="pip">Slika v sliki</string>
      <string name="pip_not_supported_toast">Posodobite, da boste lahko uporabljali sliko v sliki.</string>
+     <string name="play_at_normal_speed">Predvajanje s hitrostjo 1X</string>
      <string name="play_list_save_dialog_create">Ustvarite seznam predvajanja</string>
      <string name="play_list_save_dialog_title">Dodaj v seznam predvajanja</string>
      <string name="play_list_sign_in_dialog_message">Za ogled vseh svojih seznamov predvajanja se prijavite s svojim Google Računom.</string>
@@ -1435,6 +1439,7 @@ To dovoljenje bomo uporabili samo za iskanje videoposnetkov, ki jih iščete, in
      <string name="remaining_space_not_enough">"Prenos ni mogoč zaradi nezadostnega prostora za shranjevanje"</string>
      <string name="reminder">Pozor</string>
      <string name="rename">Preimenuj</string>
+     <string name="rename_dialog_ok">V redu</string>
      <string name="rename_word_out">To ime datoteke je predolgo</string>
      <string name="repeat_play">Ponovi predvajanje</string>
      <string name="report">Prijavi</string>
@@ -1505,6 +1510,7 @@ To dovoljenje bomo uporabili samo za iskanje videoposnetkov, ki jih iščete, in
      <string name="shake_to_open_ad">Stresite, če želite izvedeti več</string>
      <string name="share">Podeli</string>
      <string name="share_text_before_link">Brezplačno si oglejte in prenesite odlične videoposnetke na Mi Video</string>
+     <string name="share_title">Deljenje</string>
      <string name="share_ugc_content">Poglejte v %1$s! #%2$s (%3$s)</string>
      <string name="share_ugc_join">Pridruži se</string>
      <string name="share_ugc_waitting">Ustvarjanje povezave…</string>

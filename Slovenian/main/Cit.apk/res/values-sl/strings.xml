@@ -255,7 +255,7 @@ in polnilec obrnite nazaj"</string>
      <string name="cit_digital_hall_sensor_cali_summary">Prosimo, da naprava ostane zaprta za kalibracijo</string>
      <string name="cit_digital_hall_sensor_cali_title">Digitalni Hall test kalibriranja</string>
      <string name="cit_digital_hall_sensor_check_summary">Vrednost kota je prikazana spodaj</string>
-     <string name="cit_digital_hall_sensor_check_title">Digitalni Hall test</string>
+     <string name="cit_digital_hall_sensor_check_title">Zaznavanje odpiranja in zapiranja</string>
      <string name="cit_display_check_summary">Preverite ali je potrebna BMP datoteka na SD kartici. Potrdite da se barve dosledno prikazujejo čez cel zaslon. Prepričajte se se da ni nepravilnih svetlih točk in temnih madežev.</string>
      <string name="cit_display_check_title">Zaslon</string>
      <string name="cit_display_check_title_N8">Zaslon</string>
@@ -330,6 +330,9 @@ Prosimo, kliknite ustrezen gumb glede na številko, ki jo slišite"</string>
      <string name="cit_headset_pull_finish">Slušalke so izključene</string>
      <string name="cit_headset_pull_finish_test">Odklopljene slušalke, končan test</string>
      <string name="cit_headset_right_hph_val">Vrednost impedance desnega kanala：</string>
+     <string name="cit_high_accdata_sensor_check_summary">Vrednosti za X, Y, Z, koordinate bi morale biti prikazane spodaj. Prosimo, da telefon postavite ravno na namizje, preden opravite preizkus</string>
+     <string name="cit_high_accdata_sensor_check_title">Visok merilnik pospeška</string>
+     <string name="cit_high_accdata_sensor_graph_title">Graf visokega pospeška</string>
      <string name="cit_horn_motor_test">Test motorja hupe</string>
      <string name="cit_hvdcp_charger_in">Polnjenje preko (USB_HVDCP)</string>
      <string name="cit_init_fp_fod_test_tip">Init testno okolje za prstne odtise</string>

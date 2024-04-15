@@ -1184,6 +1184,21 @@ To kodo pošljite nadzorniku."</string>
      <string name="ludo_play_time">Krat %1$d</string>
      <string name="ludo_tab_guide">Oglejte si naše nove glasbene sobe</string>
      <string name="ludo_to_voice_room">Ali želite zapustiti igro in vstopiti v glasovno sobo??</string>
+     <string name="lyric_ai_apply_fail">"Ni bilo mogoče uporabiti. Poskusite ponovno."</string>
+     <string name="lyric_ai_button_text">AI besedila</string>
+     <string name="lyric_ai_dialog_one">"•Dotaknete se lahko, da prepoznate besedilo, mi pa bomo besedilo izpolnili namesto vas s tehnologijo za prepoznavanje glasu z umetno inteligenco."</string>
+     <string name="lyric_ai_dialog_three">•Napredek lahko preverite v orodni vrstici besedil.</string>
+     <string name="lyric_ai_dialog_two">"•Prepoznavanje bo trajalo nekaj minut. Ko bo končano, bodo besedila samodejno izpolnjena."</string>
+     <string name="lyric_ai_identify_success">Besedilo je uspešno prepoznano</string>
+     <string name="lyric_ai_song">Aktualna pesem</string>
+     <string name="lyric_ai_song_list">Pesmi</string>
+     <string name="lyric_ai_state_apply">Uporaba besedil</string>
+     <string name="lyric_ai_state_default">Pesem ni prepoznana</string>
+     <string name="lyric_ai_state_fail">"Besedila ni bilo mogoče prepoznati"</string>
+     <string name="lyric_ai_state_identify">Prepoznaj</string>
+     <string name="lyric_ai_state_identifying">Delam…</string>
+     <string name="lyric_ai_state_use">Uporabi</string>
+     <string name="lyric_ai_title">AI prepoznavanje besedil</string>
      <string name="lyric_is_empty">Besedilo ni na voljo</string>
      <string name="lyric_label">Besedilo</string>
      <string name="lyric_open_other_connect">Prenesi besedilo z uporabo mobilnega omrežja</string>
@@ -1917,7 +1932,7 @@ Preberite in se strinjajte z &lt;a href=\"%2$s\">Pogoji uporabe&lt;/a> in &lt;a 
      <string name="radar_retry">Poskusi ponovno</string>
      <string name="radar_searching_state">Iskanje…</string>
      <string name="radar_support_by">Ponuja ACRCloud</string>
-     <string name="read_and_agree_asm_protocol">&lt;Data>Prebral sem in se strinjam z &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">Wansheng Pravila o zasebnosti&lt;/a>&lt;/font> da lahko uporabljam spletne glasbene storitve.&lt;/Data></string>
+     <string name="read_and_agree_asm_protocol">&lt;Data>Prebral sem in se strinjam z &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">ASM Pravila o zasebnosti&lt;/a>&lt;/font> da lahko uporabljam spletne glasbene storitve.&lt;/Data></string>
      <string name="read_and_agree_hungama_protocol">"&lt;Data>Prebral sem in se strinjam z &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">Hungama Pravila o zasebnosti&lt;/a>&lt;/font>&lt;/Data>"</string>
      <string name="read_and_agree_joox_protocol">"&lt;Data>Prebral sem in se strinjam z &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">JOOX Pravila o zasebnosti&lt;/a>&lt;/font>&lt;/Data>"</string>
      <string name="read_and_agree_mi_protocol">"&lt;Data>Prebral sem in se strinjam Xiaomi &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">Pogoji uporabe&lt;/a>&lt;/font> in &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%2$s\">Pravila o zasebnosti&lt;/a>&lt;/font>&lt;/Data>"</string>

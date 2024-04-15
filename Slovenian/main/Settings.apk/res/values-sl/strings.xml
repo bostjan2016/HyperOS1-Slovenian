@@ -5420,10 +5420,10 @@ Območje, kjer lahko potrdite zaklepanje zaslona, bo poravnano na desno."</strin
      <string name="gxzw_anim_unlock_effect">%s animacij prstnega odtisa</string>
      <string name="gxzw_aod_show_summary">Dvignite napravo ali tapnite zaslon, da se prikaže ikona prstnega odtisa. Ta storitev poveča porabo energije sistema, vendar vam omogoča hitrejše odklepanje naprave.</string>
      <string name="gxzw_aod_show_tittle">Pokaži ikono prstnega odtisa kadar je zaslon izključen</string>
-     <string name="gxzw_dialog_message">"Za normalno uporabo senzorja prstnih odtisov znotraj zaslona ne uporabljajte zaščite zaslona. Če mislite da je vseeno potrebna, jo izberite med pooblaščenimi kompatibilnimi opcijami."</string>
+     <string name="gxzw_dialog_message">"Zaščita zaslona lahko moti prepoznavanje prstnih odtisov na zaslonu. Če potrebujete zaščito zaslona, priporočamo uporabo uradne folije Xiaomi."</string>
      <string name="gxzw_dialog_not_show_again">"Ne kaži več"</string>
      <string name="gxzw_dialog_ok">Razumem</string>
-     <string name="gxzw_dialog_title">O senzorju prstnih odtisov znotraj zaslona</string>
+     <string name="gxzw_dialog_title">Screen protector tip</string>
      <string name="gxzw_enroll_again">Dvignite prst in ponovno pritisnite čitalec prstnih odtisov</string>
      <string name="gxzw_lowlight_open_summary">Zmanjšaj svetlost ikone prstnih odtisov v slabih svetlobnih pogojih. Ko je ta storitev vklopljena, se naprava lahko odklene počasneje.</string>
      <string name="gxzw_lowlight_open_title">Odklepanje s prstnim odtisom pri šibki svetlobi</string>
@@ -6822,9 +6822,13 @@ Vključite najmanj 4 točke."</string>
      <string name="lte_ram_dump_off">Izklopi izpis RAM-a za LTE</string>
      <string name="lte_ram_dump_on">Vklopi izpis RAM-a za LTE</string>
      <string name="lyra_account_ap_summary">Dovolite bližnjim tablicam in računalnikom, prijavljenim v vaš račun Xiaomi, da vklopijo dostopno točko v tej napravi in se povežejo z njo</string>
+     <string name="lyra_account_ap_summary_v2">"Dovolite bližnjim tablicam in računalnikom, prijavljenim v vaš račun Xiaomi, uporabo mobilnih podatkov te naprave ter vklop dostopne točke v tej napravi in povezavo z njo"</string>
      <string name="lyra_account_ap_title">Omrežna pomoč</string>
+     <string name="lyra_account_ap_title_v2">Skupna povezljivost</string>
      <string name="lyra_auto_connect_summary">"Samodejno vklopi dostopno točko in z njo poveži bližnje naprave, ki so prijavljene v vaš račun Xiaomi, če niso povezane v omrežje"</string>
+     <string name="lyra_auto_connect_summary_v2">"Samodejno vklopi dostopno točko in z njo poveži naprave v bližini, ki so prijavljene v vaš račun Xiaomi, če niso povezane v omrežje, in jim dovolite uporabo mobilnih podatkov te naprave"</string>
      <string name="lyra_auto_connect_title">Samodejno vklopi dostopno točko</string>
+     <string name="lyra_auto_connect_title_v2">Delite samodejno</string>
      <string name="macaddr_label">MAC naslov:</string>
      <string name="magic_list_empty_text">Trenutno ni nobene aplikacije, združljive s to storitvijo</string>
      <string name="magic_list_empty_text_pad">Trenutno ni nobene aplikacije, združljive s to storitvijo</string>

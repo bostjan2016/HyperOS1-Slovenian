@@ -127,6 +127,7 @@
      <string name="confignet_cancel">Prekliči</string>
      <string name="confignet_download_title">Namestite Mi Fitness za nadaljevanje</string>
      <string name="confirm">Potrdi</string>
+     <string name="cooler_reset">Za seznanitev pritisnite %d krat</string>
      <string name="copy">Kopiraj</string>
      <string name="date_picker_lunar">Kitajski tradicionalni koledar</string>
      <string name="date_time_picker_dialog_title">Nastavi datum in čas</string>

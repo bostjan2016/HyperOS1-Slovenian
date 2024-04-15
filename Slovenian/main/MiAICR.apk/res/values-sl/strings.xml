@@ -410,7 +410,7 @@
      <string name="passport_input_voice_hint">Vnesite glasovno kodo</string>
      <string name="passport_login_by_local_phone_long_text">Vpis</string>
      <string name="passport_login_by_local_phone_short_text">Vpis</string>
-     <string name="passport_login_other">Drugi Xiaomi Račun</string>
+     <string name="passport_login_other">Drug Xiaomi Račun</string>
      <string name="passport_login_register_by_local_phone_long_text">Ustvarite račun</string>
      <string name="passport_login_with_sns">Drugi načini prijave</string>
      <string name="passport_logout_account">Odjava</string>
@@ -425,7 +425,7 @@
      <string name="passport_page_load_failed">Strani ni mogoče odpreti</string>
      <string name="passport_password_login_btn">Vpis</string>
      <string name="passport_password_not_show">Ne pokaži gesla</string>
-     <string name="passport_password_show">Prikaži geslo</string>
+     <string name="passport_password_show">Pokaži geslo</string>
      <string name="passport_phone_auto_login_register_with_local_number">Ustvarite račun</string>
      <string name="passport_photo_picker_not_found">Ni slik.</string>
      <string name="passport_qq_login_btn_content_description">Vpis z QQ računom</string>
@@ -467,7 +467,7 @@
      <string name="passport_to_verify_code_login">Vpis prek SMS sporočila</string>
      <string name="passport_unknown_error">Neznana napaka</string>
      <string name="passport_unknown_host_network_error">Preverite omrežne nastavitve in poskusite ponovno</string>
-     <string name="passport_user_agreement_hint_3rd_app">&lt;Data>Prebral/-a sem in se strinjam z &lt;a href=%1$s>Uporabniškim dogovorom&lt;/a> in &lt;a href=%2$s>Pravilnikom o zasebnosti&lt;/a> ter &lt;a href=%3$s>Uporabniškim dogovorom&lt;/a> in &lt;a href=%4$s>Pravilnikom o zasebnosti&lt;/a> za Xiaomi Račun.&lt;/Data></string>
+     <string name="passport_user_agreement_hint_3rd_app">&lt;Data>Prebral/-a sem in se strinjam z &lt;a href=%1$s>Uporabniškim dogovorom&lt;/a> in &lt;a href=%2$s>Pravila o zasebnosti&lt;/a> ter &lt;a href=%3$s>Uporabniškim dogovorom&lt;/a> in &lt;a href=%4$s>Pravilnikom o zasebnosti&lt;/a> za Xiaomi Račun.&lt;/Data></string>
      <string name="passport_user_agreement_hint_3rd_app_mobile">&lt;Data>Prebral/-a sem in se strinjam z &lt;a href=%1$s>Uporabniškim dogovorom&lt;/a> in &lt;a href=%2$s>Pravilnikom o zasebnosti&lt;/a>, &lt;a href=%3$s>Uporabniškim dogovorom&lt;/a> in &lt;a href=%4$s>Pravilnikom o zasebnosti&lt;/a> za Xiaomi Račun, prav tako s &lt;a href=%5$s>Pogoji in določili China Mobile storitvi za preverjanje&lt;/a>.&lt;/Data></string>
      <string name="passport_user_agreement_hint_3rd_app_with_telecom">&lt;Data>Prebral/-a sem in se strinjam z &lt;a href=%1$s>Uporabniškim dogovorom&lt;/a> in &lt;a href=%2$s>Pravilnikom o zasebnosti&lt;/a>, &lt;a href=%3$s>Uporabniškim dogovorom&lt;/a> in &lt;a href=%4$s>Pravilnikom o zasebnosti&lt;/a> za Xiaomi Račun, prav tako s &lt;a href=%5$s>Pogoji in določili storitvi za preverjanje računa eSurfing.&lt;/a>&lt;/Data></string>
      <string name="passport_user_agreement_hint_3rd_app_with_unicom">&lt;Data>Prebral/-a sem in se strinjam z &lt;a href=%1$s>Uporabniškim dogovorom&lt;/a> in &lt;a href=%2$s>Pravilnikom o zasebnosti&lt;/a>, &lt;a href=%3$s>Uporabniškim dogovorom&lt;/a> in &lt;a href=%4$s>Pravilnikom o zasebnosti&lt;/a> za Xiaomi Račun, prav tako s &lt;a href=%5$s>Pogoji in določili China Unicom storitvi za preverjanje.&lt;/a>&lt;/Data></string>

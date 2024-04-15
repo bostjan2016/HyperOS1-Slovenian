@@ -952,7 +952,9 @@ Tapnite + da napravite mapo"</string>
      <string name="toast_notes_delete_success">Uspešno izbrisano</string>
      <string name="toast_notes_hidden">Uspešno skrito</string>
      <string name="toast_notes_hidden_edit">Beležka uspešno skrita. Povlecite dol da boste videli skrite beležke.</string>
+     <string name="toast_notes_hidden_edit_new">Beležka skrita. Povlecite dol da boste videli skrite beležke.</string>
      <string name="toast_notes_hidden_home">Beležka uspešno skrita. Povlecite dol da boste videli skrite beležke.</string>
+     <string name="toast_notes_hidden_home_new">Beležka skrita. Povlecite dol da boste videli skrite beležke.</string>
      <string name="toast_notes_hidden_pad">Beležka uspešno skrita. Povlecite navzdol stransko ploščo da boste videli skrite beležke.</string>
      <string name="toast_notes_unhidden">Uspešno odkrito</string>
      <string name="toast_pic_is_not_really">Shranjevanje slike…</string>

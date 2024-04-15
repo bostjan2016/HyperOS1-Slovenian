@@ -208,6 +208,10 @@
      <string name="columbus_player_speed_title">Preskočim Video?</string>
      <string name="columbus_player_speed_video">Preskoči VIDEO</string>
      <string name="columbus_player_unit_sec">sek</string>
+     <string name="columbus_reward_style_access">Več o tem</string>
+     <string name="columbus_reward_style_close_cancel">Izhod</string>
+     <string name="columbus_reward_style_close_desc">Dokončajte ogled videa, da prejmete nagrado. Nadaljevanje gledanja?</string>
+     <string name="columbus_reward_style_speed_confirm">Nadaljuj</string>
      <string name="columbus_skip_ad">Preskoči</string>
      <string name="common_google_play_services_enable_button">Omogoči</string>
      <string name="common_google_play_services_enable_text">"Aplikacija %1$s ne bo delovala, če ne omogočite storitev Google Play."</string>

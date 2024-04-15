@@ -397,8 +397,8 @@
         <item quantity="one">Prenos %d preostale datoteke</item>
      </plurals>
      <plurals name="picker_no_network_retry_image_confirm_message">
-        <item quantity="other">"Ne morem prenesti %1$d fotografij, povežite se z omrežjem in poskusite ponovno"</item>
-        <item quantity="one">"Ne morem prenesti %1$d fotografijo, povežite se z omrežjem in poskusite ponovno"</item>
+        <item quantity="other">"Ne morem prenesti %d datotek. Povežite se z omrežjem in poskusite znova."</item>
+        <item quantity="one">"Ne morem prenesti %d datoteko. Povežite se z omrežjem in poskusite znova."</item>
      </plurals>
      <plurals name="picker_no_network_retry_origin_confirm_message">
         <item quantity="other">"Ne morem prenesti %1$d datotek (%2$d MB). Povežite se z omrežjem in poskusite ponovno"</item>
@@ -409,8 +409,8 @@
         <item quantity="one">"%1$d datoteka (%2$d MB) še ni prenešena. Prenesem preko mobilnih podatkov?"</item>
      </plurals>
      <plurals name="picker_retry_image_confirm_message">
-        <item quantity="other">"Prenos %1$d fotografij ni uspel, poskusim ponovno?"</item>
-        <item quantity="one">"Prenos %1$d fotografije ni uspel, poskusim ponovno?"</item>
+        <item quantity="other">"Ne morem prenesti %1$d datotek (%2$d MB). Poskusim znova?"</item>
+        <item quantity="one">"Ne morem prenesti %1$d datoteko (%2$d MB). Poskusim znova?"</item>
      </plurals>
      <plurals name="picker_retry_origin_confirm_message">
         <item quantity="other">"Prenos %1$d fotografij (%2$d MB) ni uspel, poskusim ponovno?"</item>

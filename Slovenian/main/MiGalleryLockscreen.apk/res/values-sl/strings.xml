@@ -304,6 +304,12 @@
      <string name="later">"Ne izključi"</string>
      <string name="launch_bg_permission_exception">Dovolite Wallpaper Carousel prikazovanje skočnih oken ko se izvaja v ozadju v aplikaciji Varnost</string>
      <string name="left_lks_detail_entrance">Poglej več</string>
+     <string name="left_lks_download_now">Prenesi</string>
+     <string name="left_lks_reverse">Prednaročilo</string>
+     <string name="left_lks_view">Ogled</string>
+     <string name="left_xout_frequently">Prikazuje se prepogosto</string>
+     <string name="left_xout_low_quality">Oglas je nizke kakovosti</string>
+     <string name="left_xout_title">"Povejte nam, zakaj ne želite videti tega oglasa"</string>
      <string name="like">Všeč mi je</string>
      <string name="liked">Mi je že všeč</string>
      <string name="lks_cta_dont_mention">"Ne kaži več"</string>

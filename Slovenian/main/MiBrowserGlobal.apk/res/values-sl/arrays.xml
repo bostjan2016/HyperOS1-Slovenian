@@ -36,6 +36,10 @@
         <item>Subliminalno oglaševanje</item>
         <item>"Ni mi všeč"</item>
      </string-array>
+     <string-array name="passport_account_user_gender_name">
+        <item>Moški</item>
+        <item>Ženska</item>
+     </string-array>
      <string-array name="pref_fling_on_border_gesture_entries">
         <item>Nazaj/naprej</item>
         <item>Preklopi med zavihki</item>

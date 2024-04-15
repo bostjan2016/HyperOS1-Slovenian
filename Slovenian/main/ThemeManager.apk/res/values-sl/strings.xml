@@ -697,6 +697,7 @@ Tapnite za izklop."</string>
      <string name="local_photos">Lokalne fotografije</string>
      <string name="local_resouce_creator_name">Razvijalec: %1$s</string>
      <string name="lock_screen_apply">Nastavi za Zakl. zaslon</string>
+     <string name="lock_screen_card_title">Umetniški zaklenjeni zaslon</string>
      <string name="lock_screen_keyguard_guide_popup">Oglejte si povsem nove, prilagojene storitve in dizajn zaklenjenega zaslona</string>
      <string name="lock_screen_keyguard_tip_title">Povsem nov prilagojen zaklenjeni zaslon</string>
      <string name="lockscreen_apply_failured">"Ne morem nastaviti ozadje zakl. zaslona"</string>
