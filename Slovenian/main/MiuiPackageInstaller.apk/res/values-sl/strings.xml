@@ -842,6 +842,7 @@
      <string name="safe_space_tip_dialog_description">"%1$s ni testirano glede varnostnih težav s strani Xiaomi. Za zaščito pred možnimi tveganji so bili sprejeti naslednji ukrepi:"</string>
      <string name="safe_space_tip_dialog_title">Ukrepi aktivne zaščite</string>
      <string name="safe_version_install">Varna različica</string>
+     <string name="safety_hint_bundled_download_content">\"%1$s\" je del prenosa v paketu, dejanska aplikacija, ki jo je treba namestiti, je na voljo. Če še vedno želite namestiti %1$s, tapnite tukaj.</string>
      <string name="saturday">Sobota</string>
      <string name="saturday_short">Sob</string>
      <string name="saturday_shortest">S</string>

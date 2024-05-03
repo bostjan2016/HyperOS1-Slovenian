@@ -237,6 +237,10 @@
         <item quantity="other">Omejena povezava za toliko aplikacij: %s</item>
         <item quantity="one">Omejena povezava za %s aplikacijo</item>
      </plurals>
+     <plurals name="fivega_info">
+        <item quantity="other">Spremembe bodo uporabljene čez %d sekund</item>
+        <item quantity="one">Spremembe bodo uporabljene čez %d sekundo</item>
+     </plurals>
      <plurals name="free_wifi_connected_count">
         <item quantity="other">Povezano %1$d oseb</item>
         <item quantity="one">%1$d oseba povezana</item>

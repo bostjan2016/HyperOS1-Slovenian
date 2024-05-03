@@ -228,7 +228,7 @@ Poskusite premakniti datoteke iz vaše naprave v Mi Drive."</string>
      <string name="encrypt_prefix">SKRITO</string>
      <string name="encrypt_setting">Šifriranje</string>
      <string name="encrypt_success">Uspešno skrito</string>
-     <string name="encrypt_success_first_five">"Šifrirano in datoteka skrita. Skrite datoteke lahko vidite s potegom dol na začetni strani aplik. Raziskovalec."</string>
+     <string name="encrypt_success_first_five">"Ta vsebina je zdaj zasebna. Podrsajte dol na domači strani Raziskovalca, da jo prikažete."</string>
      <string name="encrypting">Šifriranje…</string>
      <string name="enter">Odpri Raziskovalca</string>
      <string name="entry_phone_storage_internal">Pomnilnik naprave</string>
@@ -689,6 +689,14 @@ Poskusite premakniti datoteke iz vaše naprave v Mi Drive."</string>
      <string name="partial_encrypt_success">"Ne morem skriti nekaterih datotek, poskusite ponovno"</string>
      <string name="password_toggle_content_description">Pokaži geslo</string>
      <string name="path_name_email">E-pošta</string>
+     <string name="pattern_hour_minute_12">hh:mm a</string>
+     <string name="pattern_hour_minute_24">HH:mm</string>
+     <string name="pattern_month_day">dd.MM</string>
+     <string name="pattern_month_day_hh_mm_12">dd.MM hh:mm a</string>
+     <string name="pattern_month_day_hh_mm_24">dd.MM HH:mm</string>
+     <string name="pattern_year_month_day">dd.MM.yyyy</string>
+     <string name="pattern_year_month_day_hh_mm_12">dd.MM.yyyy hh:mm a</string>
+     <string name="pattern_year_month_day_hh_mm_24">dd.MM.yyyy HH:mm</string>
      <string name="perm_manage_external_storage">Dostop do vseh datotek</string>
      <string name="permission_account_desc">Za dostop do podatkov o računu, shranjenih v vaši napravi</string>
      <string name="permission_account_desc_pad">Za dostop do podatkov o računu, shranjenih v vaši napravi</string>

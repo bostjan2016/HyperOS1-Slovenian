@@ -1189,6 +1189,7 @@ To kodo pošljite nadzorniku."</string>
      <string name="lyric_ai_dialog_one">"•Dotaknete se lahko, da prepoznate besedilo, mi pa bomo besedilo izpolnili namesto vas s tehnologijo za prepoznavanje glasu z umetno inteligenco."</string>
      <string name="lyric_ai_dialog_three">•Napredek lahko preverite v orodni vrstici besedil.</string>
      <string name="lyric_ai_dialog_two">"•Prepoznavanje bo trajalo nekaj minut. Ko bo končano, bodo besedila samodejno izpolnjena."</string>
+     <string name="lyric_ai_fail_toast">Datoteka je prevelika za prepoznavanje</string>
      <string name="lyric_ai_identify_success">Besedilo je uspešno prepoznano</string>
      <string name="lyric_ai_song">Aktualna pesem</string>
      <string name="lyric_ai_song_list">Pesmi</string>
@@ -2204,6 +2205,10 @@ Bodite srečni"</string>
      <string name="sort_by_time">Datum</string>
      <string name="sound_fade_in_and_out_when_change_song_automatically">Poskusite bledenje zvoka med predvajanjem</string>
      <string name="source_from">Vir: %1$s</string>
+     <string name="srl_component_falsify" formatted="false">"%s območje ponarejanja,
+ Predstavlja višino [%.1fdp] vlečenja med izvajanjem,
+ Ničesar ne pokaže."</string>
+     <string name="srl_content_empty">Pogled vsebine v SmartRefreshLayout je prazen. Ali ste ga pozabili dodati v datoteko postavitve xml?</string>
      <string name="start_download_music">Nalaganje posodobitev za Glasbo…</string>
      <string name="start_shuffle">Zaženi naključno…</string>
      <string name="start_to_backup">Izdelava var. kopije…</string>

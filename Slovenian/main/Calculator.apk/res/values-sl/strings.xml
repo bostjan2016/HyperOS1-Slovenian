@@ -62,7 +62,7 @@
      <string name="cosDesc">kosinus</string>
      <string name="cta_desc">Dobrodošli v Kalkulatorju! Ta aplikacija združuje storitve običajnega kalkulatorja z več pretvorniki in storitvami življenjskega sloga. Ta aplikacija mora za normalno delovanje vzpostaviti povezavo s spletom.</string>
      <string name="currency_update_connect_to_get_data">Tečajno listo ponuja Webull. Povežite se na omrežje da boste dobili najnovejše informacije.</string>
-     <string name="currency_update_support">Tečajno listo ponuja Webull.</string>
+     <string name="currency_update_support">"Tečajno listo ponuja Webull. "</string>
      <string name="currency_update_time_format">Devizni tečaj zagotavlja Webull (%s)</string>
      <string name="currency_update_updating">Posodobitev tečajev…</string>
      <string name="data_analysis">Analiza</string>
@@ -325,7 +325,7 @@ Enoletni in petletni LPR bodo objavljeni 20. v mesecu (zamude lahko nastanejo za
      <string name="mortgage_result">Rezultat</string>
      <string name="mt_max">Vnešeni znesek je prevelik</string>
      <string name="mulDesc">krat</string>
-     <string name="name_discount">Popust (%)</string>
+     <string name="name_discount">Popust (%s)</string>
      <string name="name_original">Prvotna cena</string>
      <string name="name_price">Končna cena</string>
      <string name="name_save">"Prihranite "</string>

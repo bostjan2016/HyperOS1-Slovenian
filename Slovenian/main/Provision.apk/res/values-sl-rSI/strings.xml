@@ -55,6 +55,7 @@
      <string name="ai_button_title">O tipki AI</string>
      <string name="album_introduction">S to aplikacijo lahko upravljate, urejate in polepšate fotografije in videoposnetke.</string>
      <string name="am">dop.</string>
+     <string name="app_battery_usage">"Za preverjanje porabe baterije posameznih aplikacij"</string>
      <string name="app_name">Določila</string>
      <string name="application_extension_service">Storitve razširitve aplikacij</string>
      <string name="application_extension_service_introduction">Storitve razširitve aplikacije vam bodo zagotovile storitve prijave in preverjanja. Za zagotavljanje osnovnih storitev ta aplikacija potrebuje naslednja dovoljenja:</string>
@@ -612,6 +613,8 @@ To storitev lahko nadzorujete v Nastavitve > Gesla &amp; varnost > Zasebnost > S
      <string name="permission_write_device_store">Shranjevanje v pomnilnik</string>
      <string name="permission_write_device_store_summary">Za predpomnjenje prenesenih izvornih konfiguracijskih datotek.</string>
      <string name="permission_xunlei_introduction">Za prijavo in urejanje sistemskih računov zaradi nudenja Xunlei storitev</string>
+     <string name="phone_introduction">S to aplikacijo lahko poiščete in nevtralizirate viruse, blokirate klice in sporočila, optimizirate zmogljivost za igranje iger, varčujete z baterijo ter upravljate aplikacije, dovoljenja, porabo podatkov in več.</string>
+     <string name="phone_name_security">Varnost</string>
      <string name="phone_service_introduction">Telefon je osnovna storitev, ki vaši napravi omogoča klicanje, pošiljanje in prejemanje sporočil ter povezovanje z omrežjem.</string>
      <string name="pm">pop.</string>
      <string name="poco_agree_terms_other">(Vključno POCO zaganjalnik Pravila o zasebnosti in Pogoji uporabe)</string>
@@ -619,6 +622,8 @@ To storitev lahko nadzorujete v Nastavitve > Gesla &amp; varnost > Zasebnost > S
      <string name="poco_launcher_user_agreement">POCO Launcher Pogoji uporabe</string>
      <string name="position_header">Deljenje informacij o lokaciji</string>
      <string name="position_subheading">Informacije o lokaciji</string>
+     <string name="power_and_performance">Baterija in zmogljivost</string>
+     <string name="power_and_performance_introduction">Ta storitev ponuja osnovno upravljanje baterije, statistiko uporabe, funkcije varčevanja z energijo in drugo.</string>
      <string name="pref_title_data_slot">Izbrana SIM kartica za podatke</string>
      <string name="pref_title_voice_slot">Izbrana SIM kartica za klice</string>
      <string name="preference_copied">\"%1$s\" kopiran v odložišče.</string>
@@ -662,7 +667,7 @@ To storitev lahko nadzorujete v Nastavitve > Gesla &amp; varnost > Zasebnost > S
      <string name="saturday_shortest">S</string>
      <string name="screen_recording_introduction">"Ta aplikacija vam omogoča snemanje tistega, kar se dogaja na vašem zaslonu."</string>
      <string name="search_menu_title">Išči</string>
-     <string name="security_introduction">S to aplikacijo lahko očistite smeti iz naprave, najdete in onemogočite viruse, optimizirate zmogljivost iger, varčujete z baterijo, urejate aplikacije, dovoljenja in še več.</string>
+     <string name="security_introduction">S to aplikacijo lahko poiščete in nevtralizirate viruse, blokirate klice in sporočila, optimizirate zmogljivost za igranje iger, varčujete z baterijo ter upravljate aplikacije, dovoljenja, porabo podatkov in več.</string>
      <string name="security_mobile_account_introduction">Za prijavo in upravljanje sistemskih računov</string>
      <string name="select_font_modele_tips">V Temah lahko vedno izberete novo pisavo</string>
      <string name="send">Pošlji</string>
