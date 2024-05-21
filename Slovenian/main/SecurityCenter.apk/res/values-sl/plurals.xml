@@ -851,8 +851,8 @@ Dobite %d-dnevni brezplačni preizkus!"</item>
         <item quantity="one">%1$s | Ta aplikacija je %2$d-krat dostopala do seznama aplikacij, nameščenih v tej napravi</item>
      </plurals>
      <plurals name="permission_usage_allow_get_number">
-        <item quantity="other">"%1$s| Ta aplikacija je %2$d-krat dostopala do telefonske številke te naprave"</item>
-        <item quantity="one">"%1$s | Ta aplikacija je %2$d-krat dostopala do telefonske številke te naprave"</item>
+        <item quantity="other">%1$s | %2$d dostopov do podatkov o telefonu</item>
+        <item quantity="one">%1$s | %2$d dostop do podatkov o telefonu</item>
      </plurals>
      <plurals name="permission_usage_allow_get_sms">
         <item quantity="other">%1$s | Ta aplikacija je brala SMS %2$d-krat</item>
@@ -979,8 +979,8 @@ Dobite %d-dnevni brezplačni preizkus!"</item>
         <item quantity="one">%1$s | Tej aplikaciji je %2$d-krat zavrnjen dostop do seznama aplikacij, nameščenih v tej napravi</item>
      </plurals>
      <plurals name="permission_usage_deny_get_number">
-        <item quantity="other">"%1$s | Tej aplikaciji je bil zavrnjen dostop do telefonske številke te naprave %2$d-krat"</item>
-        <item quantity="one">"%1$s | Tej aplikaciji je bil zavrnjen dostop do telefonske številke te naprave %2$d-krat"</item>
+        <item quantity="other">%1$s | Zavrnjen dostop do podatkov o telefonu %2$d krat</item>
+        <item quantity="one">%1$s | Zavrnjen dostop do podatkov o telefonu %2$d krat</item>
      </plurals>
      <plurals name="permission_usage_deny_get_sms">
         <item quantity="other">%1$s | Tej aplikaciji je %2$d-krat zavrnjeno branje sporočil SMS</item>
@@ -1114,9 +1114,13 @@ Dobite %d-dnevni brezplačni preizkus!"</item>
         <item quantity="other">krat</item>
         <item quantity="one">krat</item>
      </plurals>
+     <plurals name="power_center_battery_charge_number_new">
+        <item quantity="other">%d krat</item>
+        <item quantity="one">%d krat</item>
+     </plurals>
      <plurals name="power_center_battery_consume_prolblem">
-        <item quantity="other">%d napak porabe baterije</item>
-        <item quantity="one">%d napaka porabe baterije</item>
+        <item quantity="other">%d stvari z visoko porabo energije</item>
+        <item quantity="one">%d stvar z visoko porabo energije</item>
      </plurals>
      <plurals name="power_center_battery_day">
         <item quantity="other">"%d dni "</item>
@@ -1151,8 +1155,8 @@ Dobite %d-dnevni brezplačni preizkus!"</item>
         <item quantity="one">Odpravite %d težavo porabe baterije</item>
      </plurals>
      <plurals name="power_center_battery_problem_result">
-        <item quantity="other">Lahko odpravite %d težav porabe baterije</item>
-        <item quantity="one">Lahko odpravite %d težavo porabe baterije</item>
+        <item quantity="other">Porabo energije lahko optimizirate za %d stvari</item>
+        <item quantity="one">Porabo energije lahko optimizirate za %d stvar</item>
      </plurals>
      <plurals name="power_center_battery_save_suggest">
         <item quantity="other">" %d stvari je lahko optimiziranih"</item>
@@ -1205,6 +1209,10 @@ Dobite %d-dnevni brezplačni preizkus!"</item>
      <plurals name="power_main_open_last_minute_screen_on">
         <item quantity="other">Vklopite, če želite dodati %s minut časa zaslona</item>
         <item quantity="one">Vklopite, če želite dodati %s minuto časa zaslona</item>
+     </plurals>
+     <plurals name="power_ntc_dialog_btn">
+        <item quantity="other">Razumem (%d)</item>
+        <item quantity="one">Razumem (%d)</item>
      </plurals>
      <plurals name="power_off_warning_button_ok_time">
         <item quantity="other">Razumem (%ds)</item>
@@ -1307,8 +1315,8 @@ Dobite %d-dnevni brezplačni preizkus!"</item>
         <item quantity="one">Najdena %d težava baterije, popravite jo</item>
      </plurals>
      <plurals name="quick_optimize_summary_text">
-        <item quantity="other">Rešeno %d problemov baterije</item>
-        <item quantity="one">Rešen %d problem baterije</item>
+        <item quantity="other">Optimizirano %d stvari z visoko porabo energije</item>
+        <item quantity="one">Optimizirana %d stvar z visoko porabo energije</item>
      </plurals>
      <plurals name="reset_data_dialog_ok_tick">
         <item quantity="other">Vrnitve na tovarniške nastavitve (%ds)</item>
@@ -1382,6 +1390,10 @@ Dobite %d-dnevni brezplačni preizkus!"</item>
         <item quantity="other">%d številk</item>
         <item quantity="one">%d številka</item>
      </plurals>
+     <plurals name="storage_compact_warning">
+        <item quantity="other">Urejanje %1$d dovoljenj</item>
+        <item quantity="one">Urejanje %1$d dovoljenja</item>
+     </plurals>
      <plurals name="storage_fbo_number_unit">
         <item quantity="other">&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>%s&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big> fragmentov</item>
         <item quantity="one">&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>%s&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big> fragment</item>
@@ -1425,6 +1437,10 @@ Dobite %d-dnevni brezplačni preizkus!"</item>
      <plurals name="title_virus_clean">
         <item quantity="other">Izbrisano %d virusov</item>
         <item quantity="one">Izbrisan %d virus</item>
+     </plurals>
+     <plurals name="title_virus_scan_model">
+        <item quantity="other">%d virusov ali tveganih aplikacij</item>
+        <item quantity="one">%d virus ali tvegana aplikacija</item>
      </plurals>
      <plurals name="traffic_setting_app_count">
         <item quantity="other">Aplikacij: %d</item>

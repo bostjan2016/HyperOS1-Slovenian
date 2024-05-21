@@ -34,6 +34,7 @@
      <string name="answering_tel1">Odgovarjanje na tablici…</string>
      <string name="answering_tel2">Preneseno iz telefona…</string>
      <string name="app_name">Predvajanje</string>
+     <string name="app_name_vtcamera">Kamera med napravami</string>
      <string name="appcirculate_alert_busy_negative">Prekliči</string>
      <string name="appcirculate_alert_busy_positive">Prekinjeno</string>
      <string name="appcirculate_alert_busy_text">Kaže da druga naprava zdaj prenaša datoteke. Prekinem prenos za nadaljevanje?</string>
@@ -79,10 +80,15 @@ vaših naprav?"</string>
      <string name="bottomsheet_drag_handle_clicked">Dvojni dotik ročaja za vlečenje</string>
      <string name="bottomsheet_drag_handle_content_description">Ročaj za vlečenje</string>
      <string name="camera_associate_connecting">Povezovanje s kamero</string>
+     <string name="camera_associate_disconnecting">Prekinitev povezave s kamero telefona</string>
      <string name="camera_associate_failed">"Povezave s kamero ni bilo mogoče vzpostaviti"</string>
      <string name="camera_associate_success">Kamera povezana</string>
+     <string name="camera_choose_device">Izberite napravo</string>
      <string name="camera_connecting">"%s želi uporabiti kamero te naprave"</string>
+     <string name="camera_connecting_device">Povezovanje z %s</string>
      <string name="camera_disassociate">Prekinjena povezava s kamero</string>
+     <string name="camera_disconnecting_device">Prekinitev povezave z %s</string>
+     <string name="camera_title">Iskanje razpoložljivih naprav…</string>
      <string name="cancel_button">Prekliči</string>
      <string name="car_air_con_back_switch_close">Izklopi klimatsko napravo na zadnjem sedežu</string>
      <string name="car_air_con_back_switch_open">Vklopi klimatsko napravo za zadnji sedež</string>
@@ -198,6 +204,7 @@ za zrcaljenje zaslona tega tabličnega računalnika"</string>
      <string name="circulate_cta_app_name">Mi Smart Hub</string>
      <string name="circulate_cta_desc_lite_phone">Storitve medsebojne povezljivosti Xiaomi omogočajo vašim napravam brezžično interakcijo med seboj. Za normalno delovanje morajo te storitve vzpostaviti povezavo s spletom in zahtevati naslednja dovoljenja:</string>
      <string name="circulate_cta_desc_phone">Dobrodošli v Mi Smart Hub! Ta aplikacija vam omogoča uporabo predvajanja, Mi Smart Play in MIUI+ Beta, kot tudi zagon opravil na eni od vaših naprav in nato brez težav preklop na drugo napravo. Ta aplikacija se mora povezati s spletom in za normalno delovanje potrebuje naslednja dovoljenja:</string>
+     <string name="circulate_cta_desc_phone_global">Storitve medsebojne povezave Xiaomi omogočajo vašim napravam brezžično interakcijo med seboj.</string>
      <string name="circulate_cta_exit">Izhod</string>
      <string name="circulate_cta_premission_bluetooth_subtitle">Za povezovanje naprav in prenos podatkov med njimi</string>
      <string name="circulate_cta_premission_get_installed_apps_subtitle">Za dostop do seznama aplikacij, nameščenih na mobilni napravi, in zrcaljenje zaslona na računalnikih</string>
@@ -212,6 +219,7 @@ za zrcaljenje zaslona tega tabličnega računalnika"</string>
      <string name="circulate_cta_premission_transferring_data_subtitle">Za prenos podatkov med povezanimi napravami</string>
      <string name="circulate_cta_premission_wlan_subtitle_china">Za prenos stvari in povezovanje naprav prek WiFi</string>
      <string name="circulate_cta_premission_wlan_title">Vklopite in izklopite WiFi</string>
+     <string name="circulate_cta_title_global">Izjava o zasebnosti</string>
      <string name="circulate_cta_user_agreement">Preberite in se strinjajte z &lt;txt href=\"%1$s\">Pogoji uporabe&lt;/txt> in &lt;txt href=\"%2$s\">Pravila o zasebnosti&lt;/txt> preden nadaljujete.</string>
      <string name="circulate_device_type_name_mijia">Pametne domače naprave</string>
      <string name="circulate_device_type_name_pad">Tablica</string>
@@ -223,7 +231,7 @@ za zrcaljenje zaslona tega tabličnega računalnika"</string>
 2. Pritisnite in držite gumb na ohišju.
 3. Dokončajte seznanjanje na ciljni napravi."</string>
      <string name="circulate_headset_back_to_box_desc_err_308">Če želite prenašati predvajanje med napravami, najprej seznanite slušalke s televizorjem.</string>
-     <string name="circulate_headset_back_to_box_desc_err_310">"1. Pritisnite gumb za vklop na daljinskem upravljalniku televizorja, da odklopite zvočnike.
+     <string name="circulate_headset_back_to_box_desc_err_310">"%1$d. Pritisnite gumb za vklop na daljinskem upravljalniku televizorja, da odklopite zvočnike.
 2. Poskusite znova priključiti slušalke, ko zaslon zasveti."</string>
      <string name="circulate_headset_back_to_box_desc_pad">"1. Obe slušalki vstavite v etui.
 2. Pritisnite in držite gumb na ohišju.
@@ -384,6 +392,7 @@ vaših naprav?"</string>
      <string name="connect_settings_summary"><Data>Samodejno odkrijte naprave v bližini, vpisane v vaš račun Xiaomi, in jih povežite med seboj za izvajanje različnih nalog v več napravah. &lt;a href=%1$s>Več o tem&lt;/a></Data></string>
      <string name="connect_settings_summary_connection_service">Dovolite svojim napravam brezžično interakcijo med seboj</string>
      <string name="connect_settings_summary_corp_phone">Sprejmite klice na bližnjih tablicah ali računalnikih, prijavljenih v vaš račun Xiaomi</string>
+     <string name="connect_settings_summary_global"><Data>Odkrijte naprave v bližini, vpisane v svoj račun Xiaomi, in jih dodajte v Mi Smart Hub</Data></string>
      <string name="connect_settings_summary_hyper_mind">Ta storitev se nauči vaših vzorcev in jih uporablja za nadzor naprav pametnega doma. Poganja Mi AI.</string>
      <string name="connect_settings_summary_relay_app">Nadaljevanje opravil v isti aplikaciji v drugi napravi</string>
      <string name="connect_settings_summary_share_clipboard">Prilepite besedilo in slike v druge naprave v %d minutah po kopiranju v to napravo</string>
@@ -429,7 +438,9 @@ vaših naprav?"</string>
      <string name="dialog_miplay_permission_positive">Nastavitve</string>
      <string name="dialog_miplay_permission_title">Potrebno je dovoljenje</string>
      <string name="dialog_nearbydevice_permission_message">Dovolite tej napravi dostop do bližnjih naprav, da bo lahko uporabljala storitev predvajanja.</string>
+     <string name="dialog_nearbydevice_permission_message_connectivity">"Storitev medsebojne povezave Xiaomi, ki jo uporabljate, potrebuje dovoljenje za povezavo z napravami v bližini. Brez tega ta storitev ne more normalno delovati. To dovoljenje lahko podelite v nastavitvah."</string>
      <string name="dialog_nearbydevice_permission_title">Potrebna so dovoljenja</string>
+     <string name="dialog_nearbydevice_permission_title_connectivity">Potrebna so dovoljenja</string>
      <string name="dialog_nfc_cast_wifi_off">Vključite WiFi da boste lahko predvajali preko NFC. Vključim?</string>
      <string name="dialog_no_device_message"><Data>&lt;xliff:g id=count refersto=1>%1$d&lt;/xliff:g>. Mobilno napravo in televizor povežite z istim omrežjem Wifi.&lt;br>&lt;br>&lt;xliff:g id=count refersto=2>%2$d&lt;/xliff:g>. Pri nekaterih modelih televizorjev je ta storitev na voljo samo, če je zrcaljenje zaslona vklopljeno. Poglejte &lt;a href=milink://com.milink.service/specification>\"Pomoč\"&lt;/a> da izveste več.</Data></string>
      <string name="dialog_no_device_message_china"><Data>&lt;xliff:g id=count refersto=1>%1$d&lt;/xliff:g>. Mobilno napravo in televizor povežite z istim omrežjem Wifi.&lt;br>&lt;br>&lt;xliff:g id=count refersto=2>%2$d&lt;/xliff:g>. Pri nekaterih modelih televizorjev je ta storitev na voljo samo, če je zrcaljenje zaslona vklopljeno. Poglejte &lt;a href=milink://com.milink.service/specification>\"Pomoč\"&lt;/a> da izveste več.</Data></string>
@@ -543,6 +554,10 @@ Za dodatna vprašanja poglejte Pomoč."</string>
      <string name="friday">Petek</string>
      <string name="friday_short">Pet</string>
      <string name="friday_shortest">P</string>
+     <string name="global_dialog_cancle">Prekliči</string>
+     <string name="global_dialog_miplay_permission_positive">Nastavitve</string>
+     <string name="global_dialog_nearbydevice_permission_message">Storitve medsebojne povezave Xiaomi potrebujejo dovoljenje za povezavo z napravami v bližini, da jih odkrijejo. Dodelite to dovoljenje v nastavitvah, da boste lahko normalno uporabljali storitve medsebojne povezave Xiaomi.</string>
+     <string name="global_dialog_nearbydevice_permission_title">Potrebna so dovoljenja</string>
      <string name="global_privacy">Pogoji in pravila</string>
      <string name="global_privacy_detail"><Data>"Preberite in se strinjajte z &lt;a href=%1$s>Pogoji uporabe&lt;/a> in &lt;a href=%2$s>Pravila o zasebnosti&lt;/a> pred uporabo aplikacije.&lt;br>Če se ne strinjate z uporabo zgoraj omenjenih storitev, nekaterih funkcij te aplikacije ne boste mogli uporabljati; vendar pa vam bo osnovna funkcionalnost še vedno na voljo."</Data></string>
      <string name="global_privacy_explain">Dobrodošli v Predvajanje! Ta aplikacija vam ponuja:</string>
@@ -561,6 +576,10 @@ Za dodatna vprašanja poglejte Pomoč."</string>
      <string name="head_toast_fail">"Ne morem se povezati"</string>
      <string name="head_toast_success">Povezano</string>
      <string name="headset_content_description">Slušalke povezane s to napravo. Dvakrat pritisnite za aktiviranje. Pritisnite z dvema prstoma in povlecite za prenos predvajanja.</string>
+     <string name="help_page_question_1st_01_international">"%1$d. Ko je naprava, v katero predvajate Xiaomi TV, na njej vklopite Miracast.
+%2$d. Če naprava, v katero predvajate ni televizor Xiaomi, se prepričajte, da televizor podpira Miracast in da je ta storitev vklopljena. Ta storitev ima lahko pri nekaterih modelih televizorjev drugačno ime, na primer brezžični zaslon, zrcaljenje zaslona ali več zaslonov."</string>
+     <string name="help_page_setp_1st_02_international">%1$d. Nekatere blagovne znamke televizorjev imajo morda Miracast samodejno vklopljen.</string>
+     <string name="help_page_step_1st_01_international">%1$d. Vklopite Miracast na televizorju Xiaomi.</string>
      <string name="help_page_text_01">Pomoč</string>
      <string name="help_page_text_02">Kaj je predvajanje?</string>
      <string name="help_page_text_03">"Predvajanje projecira stvari iz zaslona vašega telefona na večji zunanji monitor. Omogoča vam deljenje slik in videoposnetkov z prijatelji in družino, pa tudi da skupaj igrate igre. Poraba energije vašega telefona se pri uporabi ponavadi ne spremeni."</string>
@@ -690,6 +709,7 @@ tako da se lahko Xiaomi HyperMind uči in izpopolnjuje vzorce"</string>
      <string name="keyguard_security_setting_privacy_policy">Pravila o zasebnosti</string>
      <string name="km_synergy_error">"Povezava je potekla. Preverite, ali sta Bluetooth in WiFi vklopljena na obeh napravah in sta v dosegu povezave."</string>
      <string name="km_synergy_error_china">"Povezava je potekla. Preverite, ali sta Bluetooth in WiFi vklopljena na obeh napravah in sta v dosegu povezave."</string>
+     <string name="local_camera_device">Ta naprava</string>
      <string name="material_clock_toggle_content_description">Izberite dop. ali pop.</string>
      <string name="material_hour_24h_suffix">%1$s ur</string>
      <string name="material_hour_selection">Izberite uro</string>
@@ -896,6 +916,7 @@ tako da se lahko Xiaomi HyperMind uči in izpopolnjuje vzorce"</string>
      <string name="onehop_mirror_guide_message_button">Razumem</string>
      <string name="onehop_mirror_guide_message_text_1">Prenesite zaslon telefona na računalnik z enim dotikom.</string>
      <string name="onehop_mirror_guide_message_text_2">Izberite fotografije, videoposnetke in druge datoteke iz galerije ali upravitelja datotek za prenos v računalnik.</string>
+     <string name="onehop_mirror_guide_message_title">Medsebojna povezljivost Xiaomi</string>
      <string name="open_game_accelerate">Vključi Game Turbo</string>
      <string name="p2p_location_des">Za povezavo mobilne naprave z zunanjimi monitorji</string>
      <string name="paipai_connect_btn_text">Končano</string>
@@ -1162,5 +1183,6 @@ Pred predvajanjem iger se prepričajte, da ste vklopili Game Turbo."</string>
      <string name="wifi_scan_btn_text">Išči še enkrat</string>
      <string name="wifi_username_et_hint">Vnesite ID računa</string>
      <string name="window_card_ml_find_null">Te naprave morda ni v bližini</string>
+     <string name="window_card_ml_find_null_camera">"Kamere ali uporabne naprave ni bilo mogoče najti v bližini"</string>
      <string name="yesterday">Včeraj</string>
 </resources>

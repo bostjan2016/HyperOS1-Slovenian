@@ -532,6 +532,8 @@ Tapnite + da napravite mapo"</string>
      <string name="miuix_indexer_collect">Zbirke</string>
      <string name="miuix_indexer_selected">Izbrano %s</string>
      <string name="miuix_item_view_role_description">Zavihek</string>
+     <string name="miuix_navigator_category_group_collapse">Strni</string>
+     <string name="miuix_navigator_category_group_expand">Razširi</string>
      <string name="miuix_navigator_content_switch_description">Pokaži stransko vrstico</string>
      <string name="miuix_navigator_multiple_choice">Izberi</string>
      <string name="miuix_navigator_navigator_switch_description">Skrij stransko vrstico</string>

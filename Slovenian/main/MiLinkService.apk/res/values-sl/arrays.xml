@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="settings_search_connect_car">
+        <item>Kombiniraj aplikacije</item>
+        <item>Medsebojna povezljivost/Kombiniraj aplikacije</item>
+        <item>Lastnosti avtomobila</item>
+    </string-array>
+    <string-array name="settings_search_connection_home">
+        <item>Medsebojna povezljivost</item>
+        <item>Medsebojna povezljivost/Medsebojna povezljivost</item>
+        <item>Medsebojna povezljivost naprav, storitve medsebojne povezljivosti naprav, Xiaomi, Xiaomi AIoT, AIoT, Screen Combo, pametna povezava, Mi Smart Hub, medsebojna povezljivost, Duo, telefon Xiaomi, prenosni računalnik Xiaomi, več zaslonov, Duet, predvajanje, kombiniranje aplikacij, predaja, predaja aplikacij, ogledalo, Ekosistem Xiaomi, povezava naprave</item>
+    </string-array>
+    <string-array name="settings_search_connection_privacy">
+        <item>Zasebnost</item>
+        <item>Medsebojna povezljivost/Zasebnost</item>
+        <item>Zasebnost in medsebojna povezljivost, Zasebnost</item>
+    </string-array>
+    <string-array name="settings_search_connection_service">
+        <item>Xiaomi Medsebojna povezljivost</item>
+        <item>Medsebojna povezljivost/Xiaomi Medsebojna povezljivost</item>
+        <item>Xiaomi Medsebojna povezljivost storitve, Xiaomi Medsebojna povezljivost</item>
+    </string-array>
+    <string-array name="settings_search_relay_app">
+        <item>Predaja aplikacije</item>
+        <item>Medsebojna povezljivost/Aplikacije</item>
+        <item>Prenos aplikacij, predaja, prenos</item>
+    </string-array>
+    <string-array name="settings_search_relay_call">
+        <item>Sinhronizacija klicev</item>
+        <item>Medsebojna povezljivost/Sinhronizacija klicev</item>
+        <item>Sinhronizacija klicev, klici med napravami, predaja klica, klici</item>
+    </string-array>
+    <string-array name="settings_search_relay_network">
+        <item>Omrežna pomoč</item>
+        <item>Medsebojna povezljivost/Omrežna pomoč</item>
+        <item>Omrežna pomoč, privezovanje, deljenje dostopne točke</item>
+    </string-array>
+    <string-array name="settings_search_share_Launcher">
+        <item>Začetni zaslon+</item>
+        <item>Medsebojna povezljivost/Začetni zaslon+</item>
+        <item>Začetni zaslon+, Mi Smart Hub, deljenje zaslona</item>
+    </string-array>
+    <string-array name="settings_search_share_clipboard">
+        <item>Odložišče</item>
+        <item>Medsebojna povezljivost/Odložišče</item>
+        <item>Odložišče</item>
+    </string-array>
+    <string-array name="settings_search_share_notify">
+        <item>Obvestila med napravami</item>
+        <item>Medsebojna povezljivost/Obvestila</item>
+        <item>Obvestila med napravami</item>
+    </string-array>
+</resources>
