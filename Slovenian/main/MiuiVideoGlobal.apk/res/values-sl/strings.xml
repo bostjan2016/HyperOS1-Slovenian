@@ -203,7 +203,12 @@
      <string name="columbus_player_speed_title">Preskočim Video?</string>
      <string name="columbus_player_speed_video">Preskoči VIDEO</string>
      <string name="columbus_player_unit_sec">sek</string>
+     <string name="columbus_reward_style_access">Več o tem</string>
+     <string name="columbus_reward_style_close_cancel">Izhod</string>
+     <string name="columbus_reward_style_close_desc">Dokončajte ogled videa, da prejmete nagrado. Nadaljujete z ogledom?</string>
+     <string name="columbus_reward_style_speed_confirm">Nadaljuj</string>
      <string name="columbus_skip_ad">Preskoči</string>
+     <string name="columbus_skip_ad_time">Preskoči (%d)</string>
      <string name="com_permission_desc">Mi Video ne more dostopati do videoposnetkov na vaši napravi. Dovolite dostop v nastavitvah.</string>
      <string name="com_permission_title">Zahtevana so dovoljenja</string>
      <string name="comment_model_add_comment">Dodaj komentar</string>
@@ -1077,6 +1082,7 @@ To dovoljenje bomo uporabili samo za iskanje videoposnetkov, ki jih iščete, in
      <string name="network_failed">Povezava z omrežjem ni uspela</string>
      <string name="newyearfestival_go_to_draw_prizes">Pojdite na žrebanje</string>
      <string name="newyearfestival_watch_the_video_to_draw_prizes">Oglejte si videoposnetke za sodelovanje v žrebanju</string>
+     <string name="next_button">Naprej</string>
      <string name="nick_name">Ime</string>
      <string name="night">Noč</string>
      <string name="no_account">Niste prijavljeni</string>
@@ -1527,6 +1533,7 @@ To dovoljenje bomo uporabili samo za iskanje videoposnetkov, ki jih iščete, in
      <string name="slide_or_click_to_open_ad">Podrsajte ali tapnite, če želite izvedeti več</string>
      <string name="slide_save_message">Ustvarjanje videoposnetka…</string>
      <string name="slide_to_open_ad">Podrsajte, če želite izvedeti več</string>
+     <string name="small_mango_play_next_episode">Naslednja epizoda</string>
      <string name="small_video_load_more_hint">Povlecite navzgor, da predvajate več videoposnetkov</string>
      <string name="small_video_report">Prijavi</string>
      <string name="small_video_report_dialog_title">Izberite razlog</string>
@@ -1590,6 +1597,7 @@ To dovoljenje bomo uporabili samo za iskanje videoposnetkov, ki jih iščete, in
      <string name="sunday_short">Ned</string>
      <string name="sunday_shortest">N</string>
      <string name="sure_to_logout">Se želite odjaviti?</string>
+     <string name="swipe_to_exit">Ponovno podrsajte za izhod</string>
      <string name="switch_ratio_pause">Hitrost predvajanja je nestabilna. Hitrost se bo spremenila nazaj v privzeto.</string>
      <string name="sync_favorites_limit_new">"V priljubljenih imate več kot %d videoposnetkov. Nekatere od starejših videoposnetkov moramo izbrisati, da se lahko sinhronizacija nadaljuje."</string>
      <string name="sync_favorites_message">Želite sinhronizirati priljubljene iz te naprave z vašim računom? Stvari, ki niso več na voljo bodo odstranjene.</string>
@@ -1725,6 +1733,7 @@ To dovoljenje bomo uporabili samo za iskanje videoposnetkov, ki jih iščete, in
      <string name="video_download_fail">"Ne morem prenesti videoposnetka"</string>
      <string name="video_download_fail_hint">"Ne morem prenesti"</string>
      <string name="video_download_floating_guide">Prenesite videe zastonj</string>
+     <string name="video_download_folder">Preneseni videoposnetki</string>
      <string name="video_download_folder_title">Mi Video prenosi</string>
      <string name="video_download_forbidden">"Ne morem prenesti iz te spletne strani"</string>
      <string name="video_download_login_guide">Vpišite se v %s za prenos</string>

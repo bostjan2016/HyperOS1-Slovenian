@@ -549,6 +549,7 @@ Izboljšana varnost."</string>
      <string name="mtrl_picker_toggle_to_year_selection">Tapnite za prehod na izbiro leta</string>
      <string name="mtrl_timepicker_confirm">V redu</string>
      <string name="mtzgadget_missing_text">"Pripomoček ni dostopen"</string>
+     <string name="name_aireco_name">Mi AI predlogi</string>
      <string name="navigation_guide_app_quick_switch_hide_line_summary">Povlecite navzgor z dna zaslona, ​​nato povlecite levo ali desno</string>
      <string name="navigation_guide_app_quick_switch_summary">Povlecite v levo ali desno iz kazalca preko celotnega zaslona ali na dnu zaslona</string>
      <string name="navigation_guide_app_quick_switch_title">Prehajajte med aplikacijami</string>
@@ -748,6 +749,7 @@ Izboljšana varnost."</string>
      <string name="switch_screen_button_order">Zamenjaj mesta tipk</string>
      <string name="switch_screen_button_order_desc">Zamenjaj mesta tipk Nazaj in Meni</string>
      <string name="system_sdk_disabled_toast">Sistemski SDK je onemogočen. Najprej ga omogočite.</string>
+     <string name="system_shortcuts_dislike">"Ni mi všeč"</string>
      <string name="system_shortcuts_edit">Uredi</string>
      <string name="system_shortcuts_icon_remove">Odstrani</string>
      <string name="system_shortcuts_more_operation">Informacije o aplikaciji</string>

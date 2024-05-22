@@ -140,6 +140,7 @@
      <string name="agree_label">Sprejmem</string>
      <string name="agree_open">Vključi</string>
      <string name="agree_permissions_request">Dovoli</string>
+     <string name="ai_summery_too_long">Izvirno besedilo je predolgo. Kakovost pametnega povzetka se lahko razlikuje.</string>
      <string name="alert_tips">Ta stran predstavlja tveganje</string>
      <string name="all">Vse</string>
      <string name="allow">Dovoli</string>
@@ -1671,6 +1672,7 @@ Preverite %s1 nastavitve omrežja %s2 in poskusite ponovno."</string>
      <string name="offline_opt_in_title">"Odprite oglas, ko boste spet na spletu."</string>
      <string name="ok">V redu</string>
      <string name="one_prefect_author">Avtor</string>
+     <string name="open">Nastavitve</string>
      <string name="open_app_confirm_message">Dovolim tej strani, da odpre %s?</string>
      <string name="open_by_other_app">Odpri z drugo aplikacijo</string>
      <string name="open_desktop">Uspešen prehod na namizno različico</string>
@@ -1947,6 +1949,7 @@ Preverite %s1 nastavitve omrežja %s2 in poskusite ponovno."</string>
      <string name="permission_open_camera">Najprej dovolite Mi brskalniku dostop do kamere v nastavitvah.</string>
      <string name="permission_open_location">Najprej dovolite Mi brskalniku dostop do vaše lokacije v nastavitvah.</string>
      <string name="permission_open_mic">Najprej dovolite Mi brskalniku dostop do mikrofona v nastavitvah.</string>
+     <string name="permission_open_shortcut">V nastavitvah vklopite bližnjice na začetnem zaslonu.</string>
      <string name="permission_open_storage">Najprej dovolite Mi brskalniku dostop do notranjega pomnilnika v nastavitvah.</string>
      <string name="permission_request_contacts">Ta storitev zahteva dovoljenje za dostop do vaših stikov, da lahko normalno deluje.</string>
      <string name="permission_service">Pravila in pogoji</string>

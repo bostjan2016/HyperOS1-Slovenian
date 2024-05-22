@@ -540,6 +540,8 @@ ali vnesite geslo za zaščito zasebnosti"</string>
      <string name="app_management_for_install_desc">Prepreči tej aplikaciji prenos ali namestitev drugih aplikacij</string>
      <string name="app_management_measures">Upravljanje aplikacij</string>
      <string name="app_manager_advanced_setting">Dodatne nastavitve</string>
+     <string name="app_manager_airtel_dlg_msg">Če imate vprašanja, se obrnite na Airtel</string>
+     <string name="app_manager_airtel_dlg_title">Blokirano od Airtel</string>
      <string name="app_manager_allow">Da</string>
      <string name="app_manager_anomaly_analysis">Analiziraj nepravilnosti v aplikacijah tretjih oseb</string>
      <string name="app_manager_app_ifno_version">Verzija aplikacije</string>
@@ -2309,7 +2311,7 @@ Dodane bodo v izjeme, toda predhodno blokirane stvari ne bodo vidne v dohodnih o
      <string name="gamebooster_confirm_dialog_negative_btn">"Ne strinjam se"</string>
      <string name="gamebooster_confirm_dialog_positive_btn">Strinjam se</string>
      <string name="gamebooster_confirm_dialog_tip"><Data>Xunyou Game Booster &lt;br>&lt;a href=\"%1$s\">Pravila o zasebnosti&lt;/a></Data></string>
-     <string name="gamebooster_confirm_dialog_title">Agree to our Privacy Policy</string>
+     <string name="gamebooster_confirm_dialog_title">Strinjate se z našo politiko zasebnosti</string>
      <string name="gamebooster_dialog_recover">Obnovi</string>
      <string name="gamebooster_dialog_start_booster">Začni</string>
      <string name="gamebooster_dialog_start_booster_new">Pospešek</string>

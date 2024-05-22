@@ -374,6 +374,7 @@ Na vašem računalniku lahko začnete novo sejo."</string>
      <string name="nfc_wifi_and_bluetooth_china">Vklopi WiFi in Bluetooth</string>
      <string name="night">Noč</string>
      <string name="noon">Poldne</string>
+     <string name="not_find_car_to_mirror">"Ni mogoče najti vozila, v katerega bi prenesli aplikacije"</string>
      <string name="not_set">Ni nastavljeno</string>
      <string name="notification_channel_description_download">Pokaži napredek prenosov v plošči obvestil</string>
      <string name="notification_channel_name_download">Pokaži napredek prenosov</string>
