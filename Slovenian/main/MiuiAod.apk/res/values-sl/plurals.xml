@@ -142,8 +142,16 @@ Daljše animacije bodo na tej točki ustavljene."</item>
         <item quantity="other">pred %d min</item>
         <item quantity="one">pred 1 minuto</item>
      </plurals>
+     <plurals name="tiny_accessibility_battery_level">
+        <item quantity="other">Raven baterije je zdaj %s odstotkov</item>
+        <item quantity="one">Raven baterije je zdaj %s odstotek</item>
+     </plurals>
+     <plurals name="tiny_accessibility_battery_level_charging">
+        <item quantity="other">Polnjenje. Raven baterije je zdaj %s odstotkov.</item>
+        <item quantity="one">Polnjenje. Raven baterije je zdaj %s odstotek.</item>
+     </plurals>
      <plurals name="weather_temperature_desc">
         <item quantity="other">Temperatura: %1$s stopinj, %2$s</item>
         <item quantity="one">Temperatura: %1$s stopinja, %2$s</item>
-     </plurals>          
+     </plurals>
 </resources>

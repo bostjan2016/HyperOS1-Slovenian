@@ -667,6 +667,7 @@ Priključite polnilnik in izklopite zaslon, da se prikažejo spomini."</string>
      <string name="clear_dup_medias">Izbriši podvojene fotografije</string>
      <string name="clear_dup_success">Uspešno izbrisano</string>
      <string name="clear_dup_tip">Brisanje podvojenih fotografij</string>
+     <string name="clear_gallery_disk_cache_img">Počisti sliko predpomnilnika diska galerije</string>
      <string name="clear_thumbnails_ending_dialog_cancer">Prekliči</string>
      <string name="clear_thumbnails_ending_dialog_content">"Sinhronizacija z oblakom ni več na voljo v tej različici Galerije. Ne boste si mogli več ogledati stvari, ki niso bile prenesene v to napravo. Še vedno si jih lahko ogledate in prenesete na i.mi.com."</string>
      <string name="clear_thumbnails_ending_dialog_title">Sinhronizacija z oblakom ni več na voljo</string>
@@ -1076,6 +1077,7 @@ Napravite več fotografij vaših prijateljev!"</string>
      <string name="fancy_color_desc">Barve</string>
      <string name="fast_share_auto_render">Olepšanje</string>
      <string name="fast_share_auto_render_finish">Olepšano</string>
+     <string name="father_day">"Materinski dan"</string>
      <string name="feature_guidance_photo_effects">"Na voljo so novi efekti
 za fotografije"</string>
      <string name="feature_guidance_video_editor_smart_effects">Na voljo so novi efekti</string>
@@ -1358,6 +1360,7 @@ za normalno delovanje, tapnite \"Nastavi\", da odprete Dovoljenja."</string>
      <string name="group_header_title_media_group">Vrste medijev</string>
      <string name="group_header_title_third_album">Več albumov</string>
      <string name="group_header_title_user_create_album">Moji albumi</string>
+     <string name="halloween">Noč čarovnic</string>
      <string name="has_invalid_recipient">Neveljavni prejemnik: %1$s</string>
      <string name="have_known">Razumem</string>
      <string name="hdr_show_hint">Prilagodite zaslon, da prikažete več podrobnosti v sencah in svetlih delih stvari z visokim dinamičnim razponom</string>
@@ -1654,6 +1657,7 @@ za normalno delovanje, tapnite \"Nastavi\", da odprete Dovoljenja."</string>
      <string name="mark_operation_processing">Obdelava…</string>
      <string name="mark_operation_succeeded">Uspešno dodano</string>
      <string name="mark_people_ignore_info_message">Pritisnite in zadržite fotografije oseb da jih dodate v skupine</string>
+     <string name="mather_day">"Očetovski dan"</string>
      <string name="media_type_burst_photo">Izbruh</string>
      <string name="media_type_cinematic">Filmski način</string>
      <string name="media_type_clone_photo">Kloni</string>
@@ -1888,7 +1892,8 @@ za normalno delovanje, tapnite \"Nastavi\", da odprete Dovoljenja."</string>
      <string name="new_album_invalid_prefix">"Ne uporabljajte \".\" ali \"_\" kot začetek imena albuma."</string>
      <string name="new_relation_invalid_char">"Ime skupine ne more vsebovati “%s”. Uporabite črke, številke ali znake."</string>
      <string name="new_relation_invalid_name">“%s” skupina že obstaja, preimenujte to skupino.</string>
-     <string name="new_relation_invalid_prefix">"Ime skupinese ne more začeti z “.” ali “_”"</string>
+     <string name="new_relation_invalid_prefix">"Ime skupine se ne more začeti z “.” ali “_”"</string>
+     <string name="new_year_eve">"Novoletni večer"</string>
      <string name="next">Naprej</string>
      <string name="night">Večer</string>
      <string name="no">Ne</string>
@@ -3222,6 +3227,7 @@ Do %1$s lahko premaknete svoje stvari v Google Foto ali obiščete i.mi.com, da 
      <string name="text_tab_scene">Scena</string>
      <string name="text_tab_spot">Pejsaž</string>
      <string name="text_tab_watermark">Vodni žig</string>
+     <string name="thanksgiving_day">Zahvalni dan</string>
      <string name="the_anniversary_of_lifting_martial_law">Obletnica odprave vojaškega stanja</string>
      <string name="the_anti_aggression_day">Dan proti agresiji</string>
      <string name="the_arbor_day">Dan vrtnice</string>
@@ -3230,6 +3236,7 @@ Do %1$s lahko premaknete svoje stvari v Google Foto ali obiščete i.mi.com, da 
      <string name="the_childrens_day">"Otroški dan"</string>
      <string name="the_chinese_youth_day">Dan mladosti</string>
      <string name="the_christmas_day">Božič</string>
+     <string name="the_christmas_eve">Božični večer</string>
      <string name="the_double_ninth_festival">Festival dvojnih devetk</string>
      <string name="the_dragon_boat_festival">Festival zmajevih čolnov</string>
      <string name="the_easter_day">Velika noč</string>

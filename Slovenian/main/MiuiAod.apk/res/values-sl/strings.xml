@@ -51,6 +51,7 @@
      <string name="am">dop.</string>
      <string name="ambient_display_screen_title">Vedno na zaslonu</string>
      <string name="ambient_display_screen_title_sp">Ambientalni zaslon</string>
+     <string name="ambient_display_screen_title_summary">Nastavite slog notranjega zaslona. Zunanji zaslon bo ohranil slog zaklenjenega zaslona.</string>
      <string name="animation_clock_panel">Valovno izbiranje</string>
      <string name="aod_app_name">Vedno na zaslonu in urejevalnik zaklenjenega zaslona</string>
      <string name="aod_close_color_inversion">"To se ne more kombinirati z inverzijo barv. Najprej izključite inverzijo barv."</string>
@@ -317,6 +318,7 @@ dd.MM"</string>
      <string name="kg_template_description_classic">"Kar je klasično, nikoli ne gre iz mode."</string>
      <string name="kg_template_description_magazine">Spremenite svoj zaklenjeni zaslon v naslovnico revije.</string>
      <string name="kg_template_description_rhombus">Čas je pomemben. Naj šteje.</string>
+     <string name="kg_template_preview_content_description">Predogled zaklenjenega zaslona</string>
      <string name="kg_template_title_classic">Klasično</string>
      <string name="kg_template_title_magazine">Revija</string>
      <string name="kg_template_title_mine">Zaklenjen zaslon</string>
@@ -537,7 +539,10 @@ dd/MM"</string>
   od BOŠTJAN-a"</string>
      <string name="smart_style">Pametno</string>
      <string name="smart_style_summary">"Vedno pokaži stvari, razen ko je vaša naprava v žepu, ko je svetloba v okolju dolgo časa slaba ali ko ne gledate v svojo napravo"</string>
+     <string name="smart_style_summary_inner">"Ne prikazuj, ko je naprava v žepu, ko je svetloba v okolju dolgo časa šibka ali ko ne gledate v notranji zaslon"</string>
+     <string name="smart_style_summary_outer">"Ne prikazuj, ko je naprava v žepu, ko je svetloba v okolju dolgo časa šibka ali ko ne gledate v zunanji zaslon"</string>
      <string name="somatosensory_temperature_format">Občutek kot %s°</string>
+     <string name="standard_clock_panel">Standardno</string>
      <string name="standard_style">Standardno</string>
      <string name="step_component_info_active_tip">Število korakov zagotavlja Mi zdravje. Strinjate se z Mi zdravje Pravila in pogoji za nadaljevanje.</string>
      <string name="step_component_info_desc">Ko bo vaš cilj dosežen, se bo število korakov spremenilo v pokal. Število korakov zagotavlja Mi zdravje.</string>
@@ -571,6 +576,17 @@ dd.MM."</string>
      <string name="time_picker_dialog_title">Nastavi Čas</string>
      <string name="time_style">Stil</string>
      <string name="time_style_layout">Razpored</string>
+     <string name="tiny_camera_content_description">Kamera</string>
+     <string name="tiny_classic_date_format">d.M EEE</string>
+     <string name="tiny_clock_time_format_12">hh:mm</string>
+     <string name="tiny_clock_time_format_24">HH:mm</string>
+     <string name="tiny_doodle_clock_date">dd MMMM</string>
+     <string name="tiny_doodle_clock_week_full">EEEE</string>
+     <string name="tiny_pets_date_format">d.M</string>
+     <string name="tiny_pets_week_format">EE</string>
+     <string name="tiny_splicing_date_content_description">d.M</string>
+     <string name="tiny_splicing_date_format">d.M</string>
+     <string name="tiny_splicing_week_format">EE</string>
      <string name="tip_to_open_aod_mode">Vedno na zaslonu je izključeno. Vključim?</string>
      <string name="today">Danes</string>
      <string name="tomorrow">Jutri</string>

@@ -77,6 +77,8 @@
      <string name="caller_info_name_delimiter">" ali "</string>
      <string name="cancel_action">Prekliči</string>
      <string name="candy">Sladkarija</string>
+     <string name="car_share_return_status">"Ne morem poslati"</string>
+     <string name="car_share_view_content">Pošlji %s</string>
      <string name="change_brightness">Prilagodi svetlost</string>
      <string name="child">Otroštvo</string>
      <string name="childhood">Otroštvo</string>

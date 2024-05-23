@@ -383,7 +383,12 @@
      <string name="columbus_player_speed_title">Preskočim Video?</string>
      <string name="columbus_player_speed_video">Preskoči VIDEO</string>
      <string name="columbus_player_unit_sec">sek</string>
+     <string name="columbus_reward_style_access">Več o tem</string>
+     <string name="columbus_reward_style_close_cancel">Izhod</string>
+     <string name="columbus_reward_style_close_desc">Dokončajte ogled videa, da prejmete nagrado. Nadaljujete z ogledom?</string>
+     <string name="columbus_reward_style_speed_confirm">Nadaljuj</string>
      <string name="columbus_skip_ad">Preskoči</string>
+     <string name="columbus_skip_ad_time">Preskoči (%d)</string>
      <string name="com_facebook_device_auth_instructions">Obiščite &lt;b&gt;facebook.com/device&lt;/b&gt; in vnesite zgoraj navedeno kodo.</string>
      <string name="com_facebook_image_download_unknown_error">Nepričakovana napaka pri prenosu slike.</string>
      <string name="com_facebook_internet_permission_error_message">Prijava za WebView zahteva dovoljenje za spletni dostop</string>
@@ -1163,6 +1168,10 @@ To kodo pošljite nadzorniku."</string>
      <string name="local_page_song_all">Vse pesmi</string>
      <string name="local_page_song_download">Lokalne pesmi</string>
      <string name="local_page_song_download_history">Prenosi</string>
+     <string name="lock_screen_music_settings">Nastavitve glasbe na zaklenjenem zaslonu</string>
+     <string name="lock_screen_settings">Nastavitve zaklenjenega zaslona</string>
+     <string name="lock_screen_slide_up">Za odklepanje povlecite navzgor</string>
+     <string name="lock_screen_switch">Glasba na zaklenjenem zaslonu</string>
      <string name="login_by_local_phone_long_text">Prijavite se zdaj</string>
      <string name="login_by_local_phone_short_text">Prijavite se</string>
      <string name="login_instantly">Prijavite se</string>
@@ -1579,6 +1588,7 @@ To kodo pošljite nadzorniku."</string>
      <string name="online_switch_setting">Nastavitve online vsebine</string>
      <string name="online_user_list">Spletni seznam uporabnikov</string>
      <string name="only_pro_can_choose_hd_sound_quality">HD je na voljo samo Gold članom</string>
+     <string name="open_alarm_clock_recommend_switch">Priporočen alarm za pesem</string>
      <string name="open_online_service">Vključiti morate uslugo online glasbe, jo vključim?</string>
      <string name="open_service">Vključi</string>
      <string name="open_settings">Nastavitve</string>
@@ -1898,6 +1908,7 @@ To kodo pošljite nadzorniku."</string>
      <string name="privacy_notif_content">Pritisnite za pregled podrobnosti.</string>
      <string name="privacy_notif_title">Xunlei Download Accelerator je vključen</string>
      <string name="privacy_policy">Pravila o zasebnosti</string>
+     <string name="privacy_policy_title_asm">Svet glasbe na dosegu roke</string>
      <string name="privacy_request_desc">"&lt;Data>Mi Glasba mora zbrati potrebne osebne podatke, da vam omogoči spletne storitve pretakanja. Izvedite kako ravnamo s podatki, ki jih zbiramo v &lt;a href=\"%1$s\">Pravila o zasebnosti&lt;/a>. V nastavitvah lahko kadar koli umaknete svoje soglasje k Pravilom o zasebnosti Mi Glasbe.
 Preberite in se strinjajte z &lt;a href=\"%2$s\">Pogoji uporabe&lt;/a> in &lt;a href=\"%1$s\">Pravila o zasebnosti&lt;/a> pred uporabo.
 Če se ne strinjate z uporabo zgoraj omenjenih storitev, nekaterih funkcij te aplikacije ne boste mogli uporabljati; osnovna funkcionalnost pa vam bo še vedno na voljo.&lt;/Data>"</string>
@@ -2408,6 +2419,7 @@ Bodite srečni"</string>
      <string name="today_hot_playlist">"Današnji najboljši seznam predvajanja"</string>
      <string name="tomorrow">Jutri</string>
      <string name="too_freq">Preveč zahtevkov poslanih iz te naprave</string>
+     <string name="tools_settings">Nastavitve orodij</string>
      <string name="top_chart_title">Lestvice</string>
      <string name="tos">Pogoji uporabe</string>
      <string name="track_list_control_download">Prenesi</string>

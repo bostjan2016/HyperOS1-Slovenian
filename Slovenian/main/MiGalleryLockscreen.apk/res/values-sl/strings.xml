@@ -66,13 +66,22 @@
      <string name="add_wallpaper">Dodaj slike za ozadje</string>
      <string name="addcw_apply_btn_txt">Dodaj sliko ozadja</string>
      <string name="afternoon">Popoldne</string>
+     <string name="ai_back">Nazaj</string>
+     <string name="ai_begin">Začni</string>
+     <string name="ai_disable_limit_message">Za danes ni več poskusov. Jutri ustvarite več ozadij z umetno inteligenco!</string>
+     <string name="ai_edit_hint">Opišite svoj pričakovani rezultat. Dober opis lahko naši umetni inteligenci pomaga ustvariti boljšo stvaritev z jasnimi besedami, kot so \"zlato\",\"zmaj\",\"naraščajoče\",\"oblak\".</string>
+     <string name="ai_network_error_message">"Ni omrežne povezave. Ozadja z umetno inteligenco ni mogoče uporabiti."</string>
+     <string name="ai_next">Shrani v galerijo</string>
+     <string name="ai_participation">vpletenost umetne inteligence</string>
+     <string name="ai_recommend_keyword">Slogi</string>
+     <string name="ai_text_limit">"Ni mogoče vnesti več besedila"</string>
      <string name="ai_wallpaper_declare_double_link"><Data>Preberite in se strinjajte z &lt;a href=\"%1$s\">Pogoji uporabe&lt;/a> in &lt;a href=\"%2$s\">Pravila o zasebnosti&lt;/a> preden nadaljujete.</Data></string>
      <string name="allowed">Dovoljeno</string>
      <string name="am">dop.</string>
      <string name="app_name">Wallpaper Carousel</string>
      <string name="app_self_upgrade_dlg_checkbox_ignore_version">Zanemari to verzijo</string>
      <string name="app_self_upgrade_dlg_content">Na voljo je nova verzija aplikacije, posodobim?</string>
-     <string name="app_self_upgrade_dlg_negative_btn">Opomni me kasnrje</string>
+     <string name="app_self_upgrade_dlg_negative_btn">Opomni me kasneje</string>
      <string name="app_self_upgrade_dlg_postive_btn">Posodobi</string>
      <string name="app_self_upgrade_dlg_title">Posodabljanje aplikacije</string>
      <string name="app_self_upgrade_toast_downloading_install">Začetek prenosa in namestitve nove verzije</string>
@@ -130,6 +139,13 @@
      <string name="create_shortcut">Napravi bližnjico zač. zaslona</string>
      <string name="create_shortcut_btn">Napravi</string>
      <string name="create_shortcut_title">Napravi bližnjico zač. zaslona</string>
+     <string name="creation_ai_disable_limit_message">Za danes ni več poskusov. Jutri ustvarite več ozadij z umetno inteligenco!</string>
+     <string name="creation_ai_disable_message">Ta funkcija je na voljo samo beta preizkuševalcem. Prijavite se lahko na skupnosti Xiaomi.</string>
+     <string name="creation_ai_disable_title">Potrebna so dovoljenja beta preskuševalca</string>
+     <string name="creation_ai_err">Izjema avtentifikatorja</string>
+     <string name="creation_ai_load">Delam…</string>
+     <string name="creation_ai_ok">Razumem</string>
+     <string name="creation_ai_recreate">Začni znova</string>
      <string name="current_connection_invalid">Počakajte da se naprava poveže na omrežje</string>
      <string name="current_data_invalid">Prišlo je do napake</string>
      <string name="current_network_invalid">Najprej se povežite na omrežje</string>
@@ -440,6 +456,9 @@ mm"</string>
      <string name="miuix_appcompat_action_mode_title_empty">Izberi stvari</string>
      <string name="miuix_appcompat_actionbar_immersion_button_more_description">Več</string>
      <string name="miuix_appcompat_cancel_description">Prekliči</string>
+     <string name="miuix_appcompat_cloud_state_disabled">Sinhronizacija z oblakom je izklopljena</string>
+     <string name="miuix_appcompat_cloud_state_finished">Uspešno sinhronizirano z oblakom</string>
+     <string name="miuix_appcompat_cloud_state_syncing">Sinhronizacija z oblakom…</string>
      <string name="miuix_appcompat_confirm_description">Potrdi</string>
      <string name="miuix_appcompat_delete_description">Izbriši</string>
      <string name="miuix_appcompat_deselect_all">Prekliči vse</string>
@@ -460,6 +479,11 @@ mm"</string>
      <string name="miuix_sbl_tracking_progress_labe_up_none">Nič</string>
      <string name="miuix_sbl_tracking_progress_labe_up_refresh">Samo trenutek…</string>
      <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Ne morem naložiti</string>
+     <string name="miuix_search_action_mode_cancel">Prekliči</string>
+     <string name="miuix_search_history_clear">Izbriši zgodovino iskanja</string>
+     <string name="miuix_search_history_default_title">Zgodovina iskanja</string>
+     <string name="miuix_search_recommendation_default_title">To bi vas morda zanimalo</string>
+     <string name="miuix_search_recommendation_item_del_des">Izbriši</string>
      <string name="mode_auto_desc">Vključite Wallpaper Carousel za samodejno prejemanje novih slik</string>
      <string name="mode_auto_desc_open">Samodejno prejemanje novih slik</string>
      <string name="mode_auto_desc_selected">Samodejno prejemanje novih slik</string>
@@ -769,6 +793,8 @@ mm"</string>
      <string name="privacy_update_summary3">"Ne boste mogli še naprej uporabljati Wallpaper Carousel, razen če se strinjate z novo različico &lt;font color ='#37A5FF'>&lt;a href='%2$s'>Pravila o zasebnosti&lt;/font>&lt;/a>. Se strinjate z posodobitvijo?"</string>
      <string name="privacy_update_title1">Posodobljena pravila o zasebnosti</string>
      <string name="privacy_update_title2">Pozor</string>
+     <string name="prompt_add_origin_pic">Dodajte sliko</string>
+     <string name="prompt_add_tip">Dodajte opis</string>
      <string name="prv_end">"<CDATA>"To je vse za zdaj."</CDATA>"</string>
      <string name="prv_loading"><CDATA>Delam…</CDATA></string>
      <string name="prv_nodata"><CDATA>Ni podatkov</CDATA></string>
@@ -826,6 +852,8 @@ mm"</string>
      <string name="select_picture">Izberi slike</string>
      <string name="select_picture_des">Dodajte svoje fotografije in omrežne slike v miks da se bodo samodejno prikazale v predstavitvi.</string>
      <string name="send">Pošlji</string>
+     <string name="sensitive_preview">"Ni mogoče obdelati ozadja z umetno inteligenco za občutljivo ali neprimerno vsebino"</string>
+     <string name="sensitive_prompt">"Ni mogoče obdelati ozadja z umetno inteligenco za občutljivo ali neprimerno vsebino"</string>
      <string name="setting_about_item_des">Verzija</string>
      <string name="setting_about_item_title">O Wallpaper Carousel</string>
      <string name="setting_des">Diaprojekcijo ponuja Wallpaper Carousel. Poiščite \"Wallpaper Carousel\" v aplikaciji Nastavitve za ogled vseh razpoložljivih možnosti</string>
@@ -861,6 +889,9 @@ mm"</string>
      <string name="shortcut_failed">"Ne morem napraviti bližnjice"</string>
      <string name="show_wallpaper_loop_entry_title">Nastavitve diaprojekcije</string>
      <string name="sliding_on_unlock">Potegni gor za odklep</string>
+     <string name="sst_ai_wallpaper_Activity_title">Ustvarite AI ozadja</string>
+     <string name="sst_ai_wallpaper_desc">Ročno narisane slike je mogoče uporabiti za izdelavo ozadij visoke ločljivosti v več slogih z uporabo umetne inteligence</string>
+     <string name="sst_ai_wallpaper_title">Ustvarjalec AI ozadja</string>
      <string name="sst_auto_recommand_desc">Naročite se na svoje priljubljene kategorije da boste vsakodnevno dobili nove slike in zgodbe na zakl. zaslon.</string>
      <string name="sst_auto_recommand_title">Priporočite ozadja</string>
      <string name="sst_change_wallpaper_desc">"Izberite kje želite postaviti ozadje"</string>
@@ -1010,6 +1041,7 @@ mm"</string>
      <string name="view_privacy_policy">Pravila o zasebnosti</string>
      <string name="wallpaper">Slika za ozadje</string>
      <string name="wallpaper_added_success_toast">Ozadje dodano</string>
+     <string name="wallpaper_creator_empty_dlg_content">Preprosti koraki, takojšnje oblikovanje. Uvozite ročno narisano sliko/drugo sliko, vnesite več pozivov in takoj ustvarite štiri stilizirane slike za ozadje prek velikih modelov AI. Izberite najbolj zadovoljivo in jo shranite v album.</string>
      <string name="wallpaper_feed_title">Morda vam bo všeč</string>
      <string name="wallpaper_relations_title">Priporočila</string>
      <string name="wednesday">Sreda</string>

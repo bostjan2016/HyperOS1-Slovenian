@@ -656,7 +656,7 @@ Razlog: \"%s\""</string>
      <string name="hide_app_description_title">Odstranim \"Stiki\" iz začetnega zaslona?</string>
      <string name="hint_distance">Med postopkom uvoza naj bosta napravi blizu druga drugi, da zagotovita, da ostaneta povezani.</string>
      <string name="hint_findContacts">Najdi stike</string>
-     <string name="hint_more_contact">Združi podvojene stike</string>
+     <string name="hint_more_contact">Če uvoz ustvari podvojene stike, uporabite storitev \"Združi podvojene stike\".</string>
      <string name="hybrid_check_network">Nastavitve omrežja</string>
      <string name="hybrid_data_error">Prišlo je do napake</string>
      <string name="hybrid_locating_fail">"Ne morem najti vaše lokacije"</string>
@@ -666,7 +666,7 @@ Razlog: \"%s\""</string>
      <string name="hybrid_webpage_not_available">Spletna stran ni na voljo</string>
      <string name="ic_menu_back">Nazaj</string>
      <string name="ic_menu_done">Končano</string>
-     <string name="identify_numbers_text">Vklopite ID klicatelja, da prepoznate neželene klice</string>
+     <string name="identify_numbers_text">Vklopite ID klicatelja, da prepoznate neželjene klice</string>
      <string name="imei">"IMEI: "</string>
      <string name="import_all_sim_entries_miui">Uvozi vse stike</string>
      <string name="import_all_vcard_string">Uvozi vse vCard datoteke</string>

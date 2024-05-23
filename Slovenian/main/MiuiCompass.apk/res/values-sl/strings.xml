@@ -45,6 +45,7 @@
      <string name="calibrate_failed_timeout">"Ne morem umeriti. Prišlo je do napake strežnika."</string>
      <string name="calibrate_new_tip">Napravo močno nagnite, da zakotalite žogo po krogu</string>
      <string name="calibrate_rotate_again">Poskusi ponovno</string>
+     <string name="calibrate_rotate_more_again">Zaznane magnetne motnje. Pred kalibracijo pojdite na odprto območje.</string>
      <string name="calibrate_success">Kalibrirano</string>
      <string name="calibrate_tip">Nagibajte napravo da s piko narišete krog</string>
      <string name="calibrate_title">Umerjanje kompasa</string>

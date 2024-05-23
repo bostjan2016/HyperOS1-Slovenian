@@ -131,6 +131,7 @@ Poskusite znova."</string>
      <string name="carry_current_location">Vključi trenutno lokacijo</string>
      <string name="carry_vital_signs">Vključi vitalne znake</string>
      <string name="change_duration_activity">Spremeni trajanje</string>
+     <string name="chatbot_info_title">Osnovne informacije</string>
      <string name="chatbot_list_title">5G sporočila</string>
      <string name="chatbot_main_title">Mini aplikacije</string>
      <string name="class_0_message_activity">Sporočilo razreda 0</string>
@@ -288,6 +289,7 @@ Poskusite znova."</string>
      <string name="favorite_at_time">Dodano v priljubljeno: %1s</string>
      <string name="fdn_check_failure">Sporočila lahko pošljete le fiksnim klicnim številkam.</string>
      <string name="file_expired">Ta datoteka je potekla</string>
+     <string name="file_name_too_long">"Ni bilo mogoče poslati. Ime datoteke je predolgo."</string>
      <string name="fmt_date">D</string>
      <string name="fmt_date_day">d</string>
      <string name="fmt_date_long_month">MMMM</string>
@@ -790,6 +792,8 @@ Preden nadaljujete, preberite in se strinjajte z novo različico pravilnika o za
      <string name="prvate_contact">Zasebni stiki</string>
      <string name="quick_reply">Odgovori</string>
      <string name="rate_limit_surpassed">V redu</string>
+     <string name="rcs_ad_close">Zapri ta oglas</string>
+     <string name="rcs_ad_name">Oglas</string>
      <string name="rcs_auto_resend_as_sms_remind_change">Zamenjaj nastavitve</string>
      <string name="rcs_auto_resend_as_sms_remind_desp">"Sporočila do 900B se lahko spremeni in pošlje kot SMS kadaj je omrežni signal slab. Tapnite \"Zamenjaj nastavitve\" če ne želite spremeniti sporočil v SMS."</string>
      <string name="rcs_auto_resend_as_sms_remind_title">Spremeni v SMS</string>
@@ -884,6 +888,7 @@ Oglejte si priporočene!"</string>
      <string name="rcs_message_title">RCS sporočila</string>
      <string name="rcs_more_bar_title">Več informacij</string>
      <string name="rcs_msg">5G sporočila</string>
+     <string name="rcs_msg_privacy_policy">Pravilnik o zasebnosti za sporočila 5G</string>
      <string name="rcs_my_black_chatbot_title">Seznam blokiranih</string>
      <string name="rcs_not_online">"Ne morem uporabiti 5G sporočila. Preverite omrežne nastavitve in poskusite ponovno."</string>
      <string name="rcs_offline">Niste prijavljeni v UC. Počakajte minuto ali dve in poskusite ponovno.</string>
@@ -1028,10 +1033,12 @@ Oglejte si priporočene!"</string>
      <string name="select_top_text">Besedilo na vrhu</string>
      <string name="send">Pošlji</string>
      <string name="send_after_compress">Stisni</string>
+     <string name="send_fail">"Ne morem poslati"</string>
      <string name="send_rms_editor_hints">5G sporočila</string>
      <string name="send_rms_editor_hints_omit">Mi sporočilo</string>
      <string name="send_sms">Pošlji sporočilo</string>
      <string name="send_sms_with_location">Dovolite tej aplikaciji dostop do vaše lokacije, da bo lahko pošiljala sporočila, vključno z vašo lokacijo. To dovoljenje lahko podelite v nastavitvah.</string>
+     <string name="send_success">Poslano</string>
      <string name="send_to">Za:</string>
      <string name="sent_label">"Poslano: "</string>
      <string name="service_message_not_found">Sporočilo pretečeno ali ni na voljo</string>
@@ -1245,6 +1252,8 @@ Za nadzor dolžine sporočila bo ohranjenih samo prvih 50 znakov vsake postavke 
      <string name="wednesday">Sreda</string>
      <string name="wednesday_short">Sre</string>
      <string name="wednesday_shortest">S</string>
+     <string name="wrong_mms_version_msg">"Namestite različico aplikacije Sporočila, ki je združljiva z vašo napravo in sistemom."</string>
+     <string name="wrong_mms_version_title">Napaka različice</string>
      <string name="xiaomi_market_sdk_update_dialog_cancel">Prekliči</string>
      <string name="xiaomi_market_sdk_update_dialog_ok">V redu</string>
      <string name="xiaomi_market_sdk_update_dialog_title">Posodobitev na voljo</string>
