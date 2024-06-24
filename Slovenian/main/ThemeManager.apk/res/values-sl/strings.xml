@@ -687,6 +687,7 @@ Za izklop pojdite v Nastavitve &gt; Zvok &amp; vibracija &gt; Profilni videoposn
      <string name="local_mode">Način brez povezave</string>
      <string name="local_mode_close">Izključim način brez povezave?</string>
      <string name="local_mode_close_desc">Izklopite način brez povezave, če želite uporabljati spletne storitve. Izklopim zdaj?</string>
+     <string name="local_mode_close_tip">Za nastavitev tega ozadja je potrebna spletna povezava. Če želite uporabljati spletno storitev, morate izklopiti lokalni način. Želite potrditi izklop?</string>
      <string name="local_mode_desc">"Način brez povezave uporablja samo lokalno vsebino in ne uporablja spletnih storitev"</string>
      <string name="local_mode_hint">"Uporabljate način brez povezave.
 Tapnite za izklop."</string>

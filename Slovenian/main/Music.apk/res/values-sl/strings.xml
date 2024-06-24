@@ -1209,6 +1209,15 @@ To kodo pošljite nadzorniku."</string>
      <string name="lyric_ai_state_identifying">Delam…</string>
      <string name="lyric_ai_state_use">Uporabi</string>
      <string name="lyric_ai_title">AI prepoznavanje besedil</string>
+     <string name="lyric_feedback_inaccurate_timing">Besedilo ni sinhronizirano</string>
+     <string name="lyric_feedback_lyrics_error">"Celotno besedilo pesmi je napačno"</string>
+     <string name="lyric_feedback_misspelling">Napačno črkovanje in napake</string>
+     <string name="lyric_feedback_other">Drugo</string>
+     <string name="lyric_feedback_pure_music">Instrumentalna pesem</string>
+     <string name="lyric_feedback_report_optimization">Pošljite poročilo, da nam pomagate optimizirati naše storitve</string>
+     <string name="lyric_feedback_submit">Pošljite</string>
+     <string name="lyric_feedback_submit_success">Poslano</string>
+     <string name="lyric_feedback_title">Povejte nam o težavi</string>
      <string name="lyric_is_empty">Besedilo ni na voljo</string>
      <string name="lyric_label">Besedilo</string>
      <string name="lyric_open_other_connect">Prenesi besedilo z uporabo mobilnega omrežja</string>
@@ -1775,6 +1784,7 @@ To kodo pošljite nadzorniku."</string>
      <string name="passport_talkback_switch_image_captcha">Preklopi na slikovno kodo</string>
      <string name="passport_talkback_switch_voice_captcha">Preklopi na glasovno kodo</string>
      <string name="passport_talkback_voice_captcha">Predvajaj glasovno kodo</string>
+     <string name="passport_third_sns_service_unavailable">"Storitev ni na voljo. Preverite, ali je aplikacija nameščena in ni blokirana."</string>
      <string name="passport_ticket_send_by_second">Poslano v %d</string>
      <string name="passport_to_forget_password">Pozabljeno geslo?</string>
      <string name="passport_to_password_login">Prijavite se z geslom</string>
@@ -1909,9 +1919,9 @@ To kodo pošljite nadzorniku."</string>
      <string name="privacy_notif_title">Xunlei Download Accelerator je vključen</string>
      <string name="privacy_policy">Pravila o zasebnosti</string>
      <string name="privacy_policy_title_asm">Svet glasbe na dosegu roke</string>
-     <string name="privacy_request_desc">"&lt;Data>Mi Glasba mora zbrati potrebne osebne podatke, da vam omogoči spletne storitve pretakanja. Izvedite kako ravnamo s podatki, ki jih zbiramo v &lt;a href=\"%1$s\">Pravila o zasebnosti&lt;/a>. V nastavitvah lahko kadar koli umaknete svoje soglasje k Pravilom o zasebnosti Mi Glasbe.
+     <string name="privacy_request_desc"><Data>"Mi Glasba mora zbrati potrebne osebne podatke, da vam omogoči spletne storitve pretakanja. Izvedite kako ravnamo s podatki, ki jih zbiramo v &lt;a href=\"%1$s\">Pravila o zasebnosti&lt;/a>. V nastavitvah lahko kadar koli umaknete svoje soglasje k Pravilom o zasebnosti Mi Glasbe.
 Preberite in se strinjajte z &lt;a href=\"%2$s\">Pogoji uporabe&lt;/a> in &lt;a href=\"%1$s\">Pravila o zasebnosti&lt;/a> pred uporabo.
-Če se ne strinjate z uporabo zgoraj omenjenih storitev, nekaterih funkcij te aplikacije ne boste mogli uporabljati; osnovna funkcionalnost pa vam bo še vedno na voljo.&lt;/Data>"</string>
+Če se ne strinjate z uporabo zgoraj omenjenih storitev, nekaterih funkcij te aplikacije ne boste mogli uporabljati; osnovna funkcionalnost pa vam bo še vedno na voljo."</Data></string>
      <string name="privacy_request_subtitle">"Dobrodošli v Mi glasbo! Ta aplikacija ponuja naslednje storitve:
 
 - Lokalni predvajalnik zvoka
@@ -1944,11 +1954,10 @@ Preberite in se strinjajte z &lt;a href=\"%2$s\">Pogoji uporabe&lt;/a> in &lt;a 
      <string name="radar_retry">Poskusi ponovno</string>
      <string name="radar_searching_state">Iskanje…</string>
      <string name="radar_support_by">Ponuja ACRCloud</string>
-     <string name="read_and_agree_asm_protocol">&lt;Data>Prebral sem in se strinjam z &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">ASM Pravila o zasebnosti&lt;/a>&lt;/font> da lahko uporabljam spletne glasbene storitve.&lt;/Data></string>
-     <string name="read_and_agree_hungama_protocol">"&lt;Data>Prebral sem in se strinjam z &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">Hungama Pravila o zasebnosti&lt;/a>&lt;/font>&lt;/Data>"</string>
-     <string name="read_and_agree_joox_protocol">"&lt;Data>Prebral sem in se strinjam z &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">JOOX Pravila o zasebnosti&lt;/a>&lt;/font>&lt;/Data>"</string>
-     <string name="read_and_agree_mi_protocol">"&lt;Data>Prebral sem in se strinjam Xiaomi &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">Pogoji uporabe&lt;/a>&lt;/font> in &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%2$s\">Pravila o zasebnosti&lt;/a>&lt;/font>&lt;/Data>"</string>
-     <string name="read_and_agree_protocol">Preden nadaljujete preberite in se strinjajte z Pogoji uporabe in Pravila o zasebnosti.</string>
+     <string name="read_and_agree_asm_protocol"><Data>Prebral sem in se strinjam z &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">ASM Pravila o zasebnosti&lt;/a>&lt;/font> da lahko uporabljam spletne glasbene storitve.</Data></string>
+     <string name="read_and_agree_hungama_protocol"><Data>"Prebral sem in se strinjam z &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">Hungama Pravila o zasebnosti&lt;/a>&lt;/font>"</Data></string>
+     <string name="read_and_agree_joox_protocol"><Data>"Prebral sem in se strinjam z &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">JOOX Pravila o zasebnosti&lt;/a>&lt;/font>"</Data></string>
+     <string name="read_and_agree_mi_protocol"><Data>"Prebral sem in se strinjam Xiaomi &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">Pogoji uporabe&lt;/a>&lt;/font> in &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%2$s\">Pravila o zasebnosti&lt;/a>&lt;/font>"</Data></string>
      <string name="ready_to_play">Naprej</string>
      <string name="really_pay">Plačati zdaj?</string>
      <string name="recently_played">Nedavno predvajano</string>
@@ -2597,5 +2606,7 @@ Velikost Delta posodobitve: %2$s"</string>
      <string name="youtube_tab_explore">Odkrij</string>
      <string name="youtube_tab_playlist">Seznam predvajanja</string>
      <string name="youtube_tab_popular">Popularno</string>
+     <string name="youtube_tab_shorts">Bližnjice</string>
      <string name="youtube_tab_trend">V trendu</string>
+     <string name="ytb_turn_on_sound">Tapnite za vklop zvoka</string>
 </resources>

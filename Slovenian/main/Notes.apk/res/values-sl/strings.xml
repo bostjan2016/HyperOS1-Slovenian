@@ -43,8 +43,13 @@
      <string name="actionbar_close_description">Zapri</string>
      <string name="actionbar_home_description">Nazaj</string>
      <string name="add_account_desc">Sinhroniziram beležke z vašim Mi Računom?</string>
+     <string name="add_excerpt_summary">Dodaj seznam povzetkov</string>
+     <string name="add_pic_excerpt_summary">Dodajte slikovni povzetek</string>
      <string name="added_to_clipboard">Uspešno kopirano</string>
      <string name="afternoon">pop.</string>
+     <string name="ai_chat_declare_double_link"><Data>Preberite in se strinjate z &lt;a href=\"%1$s\">Pogoji uporabe&lt;/a> in &lt;a href=\"%2$s\">Pravila o zasebnosti&lt;/a> preden nadaljujete.</Data></string>
+     <string name="ai_chat_dlg_content">Za različne vire informacij v različnih scenarijih (kot so povezave ali besedilo, ki se pojavlja v aplikacijah, kot so brskalniki, WeChat in Feishu), lahko funkcija hitrega zbiranja in povzemanja informacij ter samodejnega ustvarjanja in predstavitve v enotnem vnosu za arhiviranje biti dosežen.</string>
+     <string name="ai_watermark">Ustvari z AI:</string>
      <string name="alarm_bar_title">Opomnik</string>
      <string name="alert_action_edit_anyway">Nadaljuj urejanje</string>
      <string name="alert_edit_action_delete">Odstrani</string>
@@ -279,9 +284,19 @@ Tapnite + da napravite mapo"</string>
      <string name="evening">Popoldne</string>
      <string name="exceed_todo_text_limitation">Opis naloge je predolg.</string>
      <string name="excerpt">Naredite izvleček</string>
+     <string name="excerpt_ares_limit">Cenimo vaše navdušenje, vendar imamo trenutno velik promet. Za ogled kliknite izvirno povezavo ali poskusite znova pozneje.</string>
      <string name="excerpt_bubble_tips">Kopirano besedilo in shranjene slike se shranijo v Beležke</string>
+     <string name="excerpt_image_ares_limit">Cenimo vaše navdušenje, vendar imamo trenutno velik promet. Oglejte si izvirno sliko ali poskusite znova pozneje.</string>
+     <string name="excerpt_image_summary_fail">Razčlenjevanje vsebine ni uspelo. Preglejte izvirno sliko ali poskusite znova pozneje.</string>
+     <string name="excerpt_image_summary_huangfan">Vsebina je občutljiva, glejte izvirno sliko.</string>
      <string name="excerpt_link_bubble_tips">Tapnite za shranjevanje v Beležke</string>
      <string name="excerpt_note">Moji izvlečki</string>
+     <string name="excerpt_original_image">Original slika:</string>
+     <string name="excerpt_original_text">Originalno besedilo：</string>
+     <string name="excerpt_summary_fail">Razčlenjevanje vsebine ni uspelo. Za ogled kliknite izvirno povezavo ali poskusite znova pozneje.</string>
+     <string name="excerpt_summary_huangfan">Vsebina je občutljiva. Za ogled kliknite izvirno povezavo.</string>
+     <string name="excerpt_summary_link_bubble_tips">Tapnite, da shranite povzetek v Beležke.</string>
+     <string name="excerpt_text_min">Besedila je premalo za ustvarjanje povzetka. Prosimo, glejte izvirno sliko.</string>
      <string name="excerpted_to_note">Izvleček shranjen v Beležke</string>
      <string name="excerpting">Izdelava izvlečka…</string>
      <string name="expand_button_title">Napredno</string>
@@ -517,6 +532,7 @@ Tapnite + da napravite mapo"</string>
      <string name="miuix_appcompat_actionbar_immersion_button_more_description">Več</string>
      <string name="miuix_appcompat_cancel_description">Prekliči</string>
      <string name="miuix_appcompat_cloud_state_disabled">Sinhronizacija z Cloudom je izključena</string>
+     <string name="miuix_appcompat_cloud_state_encrypt_disabled">Za sinhronizacijo stvari vklopite zaščito od konca do konca</string>
      <string name="miuix_appcompat_cloud_state_finished">Sinhronizacija z Cloudom je končana</string>
      <string name="miuix_appcompat_cloud_state_syncing">Sinhr. z Cloudom…</string>
      <string name="miuix_appcompat_confirm_description">Potrdi</string>
@@ -749,6 +765,7 @@ Tapnite + da napravite mapo"</string>
      <string name="pref_desc_skip_confirm_for_quick_delete">"Ne sprašuj za potrditev ob brisanju beležke z uporabo giba"</string>
      <string name="pref_desc_todo_float_mode">Podrsajte s prstom od roba zaslona da odprete okvir orodja z nalogami</string>
      <string name="pref_excerpt_link_float">Prejmite opomnik, da ustvarite izvleček kadar koli se URL kopira</string>
+     <string name="pref_excerpt_summary_link_float">Vsakič, ko je povezava kopirana, bo stenografska vrstica ponudila opomnik o čakajočem povzetku. Kliknite, da izvlečete povzetek.</string>
      <string name="pref_permission_allowed">Dovoljeno</string>
      <string name="pref_permission_manage">Podrobnosti o dovoljenjih</string>
      <string name="pref_permission_manage_key_contact">Dostop do stikov</string>
@@ -871,6 +888,8 @@ Tapnite + da napravite mapo"</string>
      <string name="sina_token_expired_warning">Weibo je potekel: Obnovite račun</string>
      <string name="sina_token_invalid_warning">Weibo račun je neveljaven: Obnovite račun</string>
      <string name="single_link_excerpt_saving">Shranjevanje…</string>
+     <string name="single_link_excerpt_summary_saving">Ustvarjanje seznama povzetkov.</string>
+     <string name="single_link_pic_excerpt_summary_saving">Izdelava povzetka slike je v teku</string>
      <string name="single_new_excerpt_title">Izvlečki</string>
      <string name="size_byte">B</string>
      <string name="size_giga_byte">GB</string>
@@ -939,6 +958,9 @@ Tapnite + da napravite mapo"</string>
      <string name="time_picker_dialog_title">Nastavi čas</string>
      <string name="time_picker_label_hour">H</string>
      <string name="time_picker_label_minute">M</string>
+     <string name="to_be_read_bubble_tips">Kopirana povezava in besedilo bosta neposredno ekstrahirala povzetek v beležke.</string>
+     <string name="to_be_read_image_list">Povzetek slike</string>
+     <string name="to_be_read_link_bubble_tips">Tapnite, da shranite povzetek v beležke</string>
      <string name="to_view_alarm_content">Tapnite za ogled</string>
      <string name="toast_cancel_to_insert_image">"Ne morem dodati sliko."</string>
      <string name="toast_excerpt_end">Izvleček uspešno narejen</string>
@@ -978,6 +1000,8 @@ Dovolite aplikaciji Beležke branje statusa in identitete telefona."</string>
      <string name="toast_refuse_to_use_record_audio">"Dovoljenja za mikrofon so omejena.
 Dovolite aplikaciji Beležke snemanje zvoka."</string>
      <string name="toast_refuse_to_use_storage_in_excerpt">Omogočite Beležkam dostop do shrambe, tako da lahko beležkam dodate slike</string>
+     <string name="toast_show_no_network">Povežite se z omrežjem in poskusite znova.</string>
+     <string name="toast_show_xiaomi_account">Prijavite se v svoj račun Xiaomi in poskusite znova.</string>
      <string name="toast_unmark_privacy_notes">Uspešno odkrito</string>
      <string name="toast_unmark_privacy_notes_count">%1$s uspešno odkrito</string>
      <string name="today">Danes</string>

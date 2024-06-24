@@ -242,6 +242,7 @@
      <string name="enable_toast_subscribe">Wallpaper Carousel je vključen in predplačila so aktivirana.</string>
      <string name="error_icon_content_description">Napaka</string>
      <string name="evening">Večer</string>
+     <string name="expand_button_title">Napredno</string>
      <string name="exposed_dropdown_menu_content_description">Pokaži padajoči meni</string>
      <string name="external_storage_permission">Dostop do shrambe</string>
      <string name="external_storage_permission_summary">Dovolite tej aplikaciji dostop do datotek v vaši napravi, da boste lahko dodali lastna ozadja v Wallpaper Carousel in shranili preneseno vsebino v vašo napravo</string>
@@ -392,6 +393,9 @@ To lahko povzroči dodatne stroške."</string>
      <string name="llks_setting_view_title">Dodatni zaslon</string>
      <string name="llks_subscribe">Naročite se</string>
      <string name="llks_subscribe_sucess">Uspešno ste se naročili</string>
+     <string name="llks_tools_mipay_wallet_name">Mi denarnica</string>
+     <string name="llks_tools_remote_control_name">Mi daljinec</string>
+     <string name="llks_tools_smart_devices_name">Mi dom</string>
      <string name="llks_try_it">Poskusite</string>
      <string name="llks_whole_cate">Vse kategorije</string>
      <string name="load_hdpicture_complete">Naložena originalna slika</string>
@@ -793,6 +797,7 @@ mm"</string>
      <string name="privacy_update_summary3">"Ne boste mogli še naprej uporabljati Wallpaper Carousel, razen če se strinjate z novo različico &lt;font color ='#37A5FF'>&lt;a href='%2$s'>Pravila o zasebnosti&lt;/font>&lt;/a>. Se strinjate z posodobitvijo?"</string>
      <string name="privacy_update_title1">Posodobljena pravila o zasebnosti</string>
      <string name="privacy_update_title2">Pozor</string>
+     <string name="prompt_Theme_tip">Ni mogoče pridobiti sloga teme, preverite ali sta omrežje in čas pravilna</string>
      <string name="prompt_add_origin_pic">Dodajte sliko</string>
      <string name="prompt_add_tip">Dodajte opis</string>
      <string name="prv_end">"<CDATA>"To je vse za zdaj."</CDATA>"</string>
@@ -987,9 +992,16 @@ mm"</string>
      <string name="sunday_shortest">N</string>
      <string name="sure_close_gallery">Izklučim Wallpaper Carousel?</string>
      <string name="sure_close_gallery_des">"Ne boste dobivali novih slik za ozadje za začetni in zakl. zaslon če izključite Wallpaper Carousel. Vseeno izključim?"</string>
+     <string name="surprise_wallpaper_auth_failed_tip">Preverjanje podatkov o uporabniku ni uspelo, preverite stanje prijave in sistemski čas.</string>
+     <string name="surprise_wallpaper_can_not_open_tip">Najprej odprite slikovno rotacijo</string>
      <string name="surprise_wallpaper_empty_dlg_content">Ozadja presenečenja bodo ustvarila prilagojena ozadja na podlagi samoizbranih ozadij (če so omogočena) ali na podlagi naključne strategije, pogostost obračanja slik pa bo omejena na 1 dan. Ko ustvarjanje ne uspe, se ozadje posodobi z izvirno sliko.</string>
      <string name="surprise_wallpaper_empty_dlg_title">Ozadja presenečenja</string>
      <string name="surprise_wallpaper_generate_failed_toast">Ta generacija ozadij presenečenja ni uspela</string>
+     <string name="surprise_wallpaper_goto_prompts_error">Prišlo je do izjeme omrežja. Prosim poskusite kasneje.</string>
+     <string name="surprise_wallpaper_prompts_null">Če izberete izvirno sliko, ne boste dodali priljubljene</string>
+     <string name="surprise_wallpaper_prompts_send_failed">Shranjevanje ni uspelo, poskusite znova.</string>
+     <string name="surprise_wallpaper_prompts_send_succeed">Uspešno shranjevanje!</string>
+     <string name="surprise_wallpaper_prompts_sending">Pošiljanje vaših preferenc…</string>
      <string name="system_default">Privzeto</string>
      <string name="tab_user_title_bar_text">Nastavitve</string>
      <string name="tb_collapse_desc">Skrij meni \"Skupna raba\"</string>

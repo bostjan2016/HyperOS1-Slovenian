@@ -71,6 +71,9 @@
      <string name="bluetooth_sap_notif_ticker">Pristop SIM-u z Bluetoothom</string>
      <string name="bluetooth_sap_notif_title">Pristop SIM-u z Bluetoothom</string>
      <string name="broadcast_notification_name">Status oddajanja</string>
+     <string name="bt_Auracast_audio_share_notification_content">Tapnite za ogled podrobnosti</string>
+     <string name="bt_Auracast_audio_share_notification_title">Oddajanje zvoka iz te naprave…</string>
+     <string name="bt_audio_share_assistant_notification_title">Prejemanje oddaje iz bližnje naprave…</string>
      <string name="bt_audio_share_notification_content">Tapnite za prikaz možnosti</string>
      <string name="bt_audio_share_notification_title">Deljenje zvoka</string>
      <string name="bt_enable_cancel">Prekliči</string>
@@ -96,6 +99,7 @@
      <string name="call_notification_screening_text">Preverjanje dohodnega klica</string>
      <string name="clearable_edittext_clear_description">Izbriši</string>
      <string name="close">Zapri</string>
+     <string name="close_broadcast_audio">Ustavi</string>
      <string name="date_picker_lunar">Kitajski tradicionalni koledar</string>
      <string name="date_time_picker_dialog_title">Nastavi datum in uro</string>
      <string name="defaultname">Avtomobilski komplet</string>
@@ -193,6 +197,7 @@
      <string name="insert_record">Vstavite zapis</string>
      <string name="localPhoneName">Moje ime</string>
      <string name="midnight">Polnoč</string>
+     <string name="miheadset_close_broadcast_audio">Zapri oddajo</string>
      <string name="miui_transfer_history_title">Bluetooth prenosi</string>
      <string name="miui_transfer_inbound_title">Vhodno</string>
      <string name="miui_transfer_outbound_title">Izhodno</string>
@@ -275,6 +280,7 @@
      <string name="not_exist_file_desc">"Datoteka ne obstaja.
 "</string>
      <string name="noti_caption">%1$s uspešno, %2$s neuspešno.</string>
+     <string name="notice_Auracast_audio_share_disconnected">Ni več deljenja zvoka zaradi prekinjene povezave</string>
      <string name="notice_audio_share_disconnected">Zvok se ne deli več zaradi prekinjene povezave</string>
      <string name="notification_received">Bluetooth deljenje: Prejeto %1$s</string>
      <string name="notification_received_fail">Bluetooth deljenje: Datoteka %1$s ni prejeta</string>

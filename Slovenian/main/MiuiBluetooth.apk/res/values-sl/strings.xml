@@ -313,8 +313,8 @@ Hitrejši protokol povezave."</string>
      <string name="installer_installing">Nameščam…</string>
      <string name="installer_pending">Na čakanju…</string>
      <string name="instructions">Za izvedbo dejanja pritisnite gumb.</string>
-     <string name="lea_disable_successfully">Za povezavo slušalk in prenos zvoka se zdaj uporablja običajni Bluetooth</string>
-     <string name="lea_enable_successfully">LE Audio se zdaj uporablja za povezavo slušalk in prenos zvoka</string>
+     <string name="lea_disable_successfully">Preklopil na običajni Bluetooth</string>
+     <string name="lea_enable_successfully">Preklop na Bluetooth LE Audio</string>
      <string name="load_all_features_deferred">Naloži vse funkcije odloženo</string>
      <string name="load_assets">Pokaži sredstva</string>
      <string name="load_feature_hello">Začni Hello storitev</string>

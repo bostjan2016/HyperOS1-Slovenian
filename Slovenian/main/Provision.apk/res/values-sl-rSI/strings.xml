@@ -261,7 +261,7 @@ Za normalno delovanje se morajo te storitve povezati s spletom in zahtevajo nasl
 \u0009\u0009Za prenos predvajanja zvoka na povezane med pretakanjem
 Če se ne strinjate z dodelitvijo takih dovoljenj, ne boste mogli uporabljati Spletne komunikacijske storitve Xiaomi.
 Storitve se lahko spreminjajo. Nekatere od zgornjih storitev morda niso na voljo v vseh modelih naprav ali za vse različice sistema. Za preverjanje združljivosti obiščite spletno mesto MIUI (www.miui.com)."</string>
-     <string name="interconnection_service_summary_china">"Storitve medsebojne povezljivosti Xiaomi omogočajo vašim napravam brezžično interakcijo med seboj. Te storitve vključujejo Mi Smart Play, predvajanje, predajo aplikacij, domači zaslon+, skupno odložišče, zajemanje slik med napravami, omrežno pomoč, skupne tipkovnice in miške, skupno kamero in Mi Smart Hub. Za normalno delovanje storitve Storitve medsebojne povezljivosti Xiaomi se morate povezati s spletom in dati naslednja dovoljenja:
+     <string name="interconnection_service_summary_china">"Storitve medsebojne povezljivosti Xiaomi omogočajo vašim napravam brezžično interakcijo med seboj. %1$s Razpoložljive storitve medsebojnega povezovanja se lahko razlikujejo glede na različico vašega sistema in model naprave. Poiščite več informacij na %2$s.
 \u0009\u0009Mi Smart Play in predvajanje:
 \u0009\u0009Vklop ali izklop Bluetootha
 \u0009\u0009Za odkrivanje bližnjih naprav za povezavo prek Bluetootha
@@ -730,6 +730,8 @@ To storitev lahko nadzorujete v Nastavitve > Gesla &amp; varnost > Zasebnost > S
      <string name="sim_card_dial_card">SIM %d za klice</string>
      <string name="sim_card_dial_card1">SIM1 za klice</string>
      <string name="sim_card_dial_card2">SIM2 za klice</string>
+    <string name="sim_dectection_next">Nadaljuj</string>
+    <string name="sim_redetection">Preveri znova</string>
      <string name="sim_card_do_not_select_dial_card">Izberite SIM za klice</string>
      <string name="sim_card_network_card">Podatki SIM %d</string>
      <string name="sim_card_network_card1">Podatki SIM1</string>

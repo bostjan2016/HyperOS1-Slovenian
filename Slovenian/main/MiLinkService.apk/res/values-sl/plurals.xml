@@ -61,6 +61,14 @@
         <item quantity="other">Vnesite kodo iz %1$s (%2$d sek)</item>
         <item quantity="one">Vnesite kodo iz %1$s (%2$d sek)</item>
      </plurals>
+     <plurals name="habit_executed_number_day">
+        <item quantity="other">Uporabljeno pred %1$d dnevi</item>
+        <item quantity="one">Uporabljeno pred %1$d dnem</item>
+     </plurals>
+     <plurals name="habit_remembered_number_day">
+        <item quantity="other">Zapomnjeno pred %1$d dnevi</item>
+        <item quantity="one">Zapomnjeno pred %1$d dnevom</item>
+     </plurals>
      <plurals name="half_hour_ago">
         <item quantity="other">Pred pol ure</item>
      </plurals>
@@ -95,5 +103,13 @@
      <plurals name="remember_number_habit">
         <item quantity="other">Shranjenih %1$d vzorcev</item>
         <item quantity="one">Shranjen %1$d vzorec</item>
+     </plurals>
+     <plurals name="remembered_number_habit">
+        <item quantity="other">%1$d dodanih vzorcev</item>
+        <item quantity="one">%1$d dodan vzorec</item>
+     </plurals>
+     <plurals name="un_remember_number_habit">
+        <item quantity="other">%1$d čakajočih vzorcev</item>
+        <item quantity="one">%1$d čakajoč vzorec</item>
      </plurals>
 </resources>

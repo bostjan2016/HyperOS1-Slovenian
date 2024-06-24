@@ -372,6 +372,7 @@ Preklopite za ustavitev sinhronizacije."</string>
      <string name="click_always">Tapnite \"Vedno\"</string>
      <string name="click_clean">Očisti</string>
      <string name="click_to_refresh">Tukaj ste zadnjič končali, tapnite za osvežitev</string>
+     <string name="click_to_replay_btn">Tapnite za ponovno predvajanje</string>
      <string name="clip_dialog_title">Odprem kopirano povezavo?</string>
      <string name="clipboard_title_text">Kopirano besedilo</string>
      <string name="clipboard_title_url">Kopirana povezava</string>
@@ -601,6 +602,7 @@ Pošljite to kodo nadzorniku."</string>
      <string name="download_business_app_update_install">Posodobitev je pripravljena za namestitev.</string>
      <string name="download_business_v5_edit_mode_title_empty">Izberite stvari</string>
      <string name="download_change_dir">Spremeni mapo</string>
+     <string name="download_close">Zapri</string>
      <string name="download_complete">Uspešno prenešeno</string>
      <string name="download_completed">Preneseno</string>
      <string name="download_completed_private_tips">Uspešno preneseno in dodano v skrite datoteke. &lt;font color=\"#2dd9ce\">Tapnite za ogled.&lt;/font></string>
@@ -850,6 +852,7 @@ Pošljite to kodo nadzorniku."</string>
      <string name="feedback_website_general">Hitrost nalaganja je v redu, vendar bi lahko bila hitrejša</string>
      <string name="feedback_website_good">Hitrost nalaganja je dobra</string>
      <string name="feedback_website_speed_title">Kakšna je hitrost nalaganja spletnih strani?</string>
+     <string name="festival_task_start">Predvajaj</string>
      <string name="fetch_video">Priprava videoposnetka…</string>
      <string name="fetch_video_fail">"Podatkov ni mogoče pridobiti"</string>
      <string name="fetch_video_ssl_bad_clock">"Kaže da datum in čas, ki sta nastavljena na vaši napravi (%s) nista pravilna. Prilagodite nastavitve in poskusite ponovno."</string>
@@ -1921,8 +1924,11 @@ Preverite %s1 nastavitve omrežja %s2 in poskusite ponovno."</string>
      <string name="password_toggle_content_description">Pokaži geslo</string>
      <string name="pdf_confirm">V redu</string>
      <string name="pdf_failed_message">"Ne morem narediti povzetka"</string>
+     <string name="pdf_password_error">Napačno geslo. Poskusite ponovno.</string>
+     <string name="pdf_password_input">Vnesite geslo</string>
      <string name="pdf_retry">Poskusi znova</string>
      <string name="pdf_summary">Povzetek</string>
+     <string name="pdf_unlocking">Dostop do datotek</string>
      <string name="per_month">Na mesec</string>
      <string name="permission_agree_service">Prebral/-a sem in se strinjam z naslednjimi pogoji in določili.</string>
      <string name="permission_alert_window">Da boste lahko uporabili to storitev, dovolite prikazovanje pojavnih oken v nastavitvah.</string>
@@ -2450,6 +2456,7 @@ Nekatera spletna mesta ne bodo uporabila vaše prejšnje zgodovine brskanja za p
      <string name="setting_swipe_up">Povlecite navzgor na začetnem zaslonu</string>
      <string name="settings_search_online_apps">Trgovine aplikacij</string>
      <string name="settings_search_online_apps_desc">Vsebina iz trgovin aplikacij</string>
+     <string name="shake_get_more">Pretresite, če želite izvedeti več</string>
      <string name="share_image_text">Poglej, kaj sem delil! @MIUI</string>
      <string name="share_page_text">Poglej, kaj sem delil: %1$s @MIUI| %2$s</string>
      <string name="share_slide_video_text">Poglej, kaj sem delil: %1$s</string>

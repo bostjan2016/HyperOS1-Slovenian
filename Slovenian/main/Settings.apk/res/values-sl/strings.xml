@@ -1105,11 +1105,13 @@ Spremenim nastavitve?"</string>
      <string name="assist_gesture_training_suggestion_summary_including_alarms">Govorite s Pomočnikom, utišajte alarme in klice</string>
      <string name="assist_gesture_training_suggestion_title">Stisnite in spustite za Pomočnika</string>
      <string name="assistance_category_title">Dostopnost</string>
+     <string name="assistant_add_fail">"Ne morem zdaj poslušati. Počakajte minuto ali dve in poskusite znova."</string>
      <string name="assistant_corner_gesture_summary">Če želite sprožiti digitalnega pomočnika, s prstom povlecite navzgor iz spodnjega kota.</string>
      <string name="assistant_corner_gesture_title">Vlečenje za sproženje pomočnika</string>
      <string name="assistant_gesture_category_title">Digitalni pomočnik</string>
      <string name="assistant_long_press_home_gesture_summary">Pridržite gumb za začetni zaslon, če želite priklicati digitalnega pomočnika.</string>
      <string name="assistant_long_press_home_gesture_title">Priklic Pomočnika s pridržanjem gumba za začetni zaslon</string>
+     <string name="assistant_operate_timeout">Časovna omejitev zahteve je potekla. Poskusite ponovno.</string>
      <string name="assistant_security_warning">Pomočnik bo lahko bral podatke o aplikacijah ki se uporabljajo v vašem sistemu, vključno s podatki ki so vidni na zaslonu ali do katerih je mogoče dostopati v aplikacijah.</string>
      <string name="assistant_security_warning_agree">Strinjam se</string>
      <string name="assistant_security_warning_disagree">Ne strinjam se</string>
@@ -1140,6 +1142,7 @@ Spremenim nastavitve?"</string>
      <string name="audio_share_cancel">Ne, hvala</string>
      <string name="audio_share_confirm">Skupna raba</string>
      <string name="audio_synced">Zvok sinhroniziran</string>
+     <string name="auracast_scan_not_support">"Ni povezano z združljivimi slušalkami. Ne najdem bližnjih oddaj."</string>
      <string name="auto_adjst_effect_summary">Prilagodi temperaturo barve okoljski svetlobi samodejno da boste održali optimalni nivo udobnosti</string>
      <string name="auto_adjust_effect_title">Prilagodi temperaturo barve samodejno</string>
      <string name="auto_anc_closed">Izklj.</string>
@@ -1862,6 +1865,13 @@ v časovnem obdobju ^2"</string>
      <string name="bluetooth_audio_share_request_disable_title">Preklopim napravo?</string>
      <string name="bluetooth_audio_share_request_disconnect">"Če zdaj prekinete povezavo, vaše naprave ne bodo samodejno delile zvoka ob naslednji povezavi. Vseeno prekinem povezavo?"</string>
      <string name="bluetooth_audoi_share">" | Skupna raba zvoka"</string>
+     <string name="bluetooth_auracast_assist_add_source">Poslušanje</string>
+     <string name="bluetooth_auracast_assist_leave_broadcast">Ustavi</string>
+     <string name="bluetooth_auracast_password_input_hint">Vnesite kodo povezave</string>
+     <string name="bluetooth_auracast_source_and_assistant_text">Oddajajte zvok drugim napravam in poiščite bližnje zvočne oddaje</string>
+     <string name="bluetooth_auracast_source_available_connect">Oddaje v bližini</string>
+     <string name="bluetooth_auracast_source_explain_summary">Ko je vklopljeno, lahko ljudje v bližini prejemajo zvok iz vaše naprave s kodo za povezavo</string>
+     <string name="bluetooth_auracast_source_opend_summary">"Koda povezave: "</string>
      <string name="bluetooth_auto_connect">Samodejno poveži</string>
      <string name="bluetooth_battery_level">Akumulator na %1$s</string>
      <string name="bluetooth_battery_level_untethered">L: napolnjenost akumulatorja je %1$s, D: napolnjenost akumulatorja je %2$s</string>
@@ -5386,6 +5396,8 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
      <string name="guest_reset_guest_dialog_title">Želite ponastaviti gosta?</string>
      <string name="guest_resetting">Ponastavljanje gosta …</string>
      <string name="guide_button_text">Razumem</string>
+     <string name="guide_summary_1">Oddajanje zvoka napravam v bližini</string>
+     <string name="guide_summary_2">Poslušajte oddaje, ki jih delijo drugi ljudje</string>
      <string name="guide_text_center">"Povlecite naravnost navzgor po sredini zaslona.
 Območje, kjer lahko potrdite zaklepanje zaslona, bo poravnano na sredino."</string>
      <string name="guide_text_left">"Povlecite naravnost navzgor iz spodnjega levega kota.
@@ -5680,6 +5692,8 @@ morate najprej napraviti iCloud var. kopijo"</string>
      <string name="ignore_optimizations_on">Brez optimizacije</string>
      <string name="ignore_optimizations_on_desc">Baterija se lahko hitreje izprazni</string>
      <string name="ignore_optimizations_title">Naj bo aplikaciji %s dovoljeno prezreti optimizacije akumulatorja?</string>
+     <string name="illegal_device_name_modification_notification">Preimenujte vašo napravo</string>
+     <string name="illegal_hotspot_name_modification_notification">Preimenujte vaš hotspot</string>
      <string name="ime_security_warning">%1$s lahko morda zbere besedilo, ki ga vtipkate, vključno z osebnimi podatki.</string>
      <string name="ime_security_warning_global">Načini vnosa lahko zberejo celotno besedilo, ki ga vnesete, vključno z osebnimi podatki, kot so gesla in številke kreditnih kartic. Uporabim %1$s?</string>
      <string name="ime_security_warning_title_global">Vklop tipkovnice</string>
@@ -7974,6 +7988,7 @@ Znova zaženite napravo in poskusite znova."</string>
      <string name="my_device_info_device_name_preference_title">Ime naprave</string>
      <string name="my_device_info_legal_category_title">Pravna obvestila in informacije o skladnosti s predpisi</string>
      <string name="n_cacrts">%d CA certifikati</string>
+     <string name="name_modification_no_network_notification">Povežite se z omrežjem in poskusite znova</string>
      <string name="name_password_not_consistent">Napačno uporabniško ime ali geslo</string>
      <string name="natural_haptic">Naravni dotik</string>
      <string name="natural_haptic_summary">Novi vzorci haptičnih povratnih informacij dodajo dodatno dimenzijo vsem, kar vidite in se dotaknete na zaslonu.</string>
@@ -8829,6 +8844,7 @@ Pred uporabo preberite in sprejmite %s."</string>
      <string name="password">Geslo</string>
      <string name="passwordIncorrect">Geslo ki ste ga vnesli je napačno</string>
      <string name="password_and_security">Gesla &amp; varnost</string>
+     <string name="password_check_fail">Napačna koda</string>
      <string name="password_entrance_title">Nastavi zakl. zaslona</string>
      <string name="password_guard">Geslo</string>
      <string name="password_null">Geslo ne sme biti prazno</string>
@@ -9114,8 +9130,8 @@ Pred uporabo preberite in sprejmite %s."</string>
      <string name="please_connect_to_the_network">Povežite se z WiFi ali mobilnimi podatki, da dokončate brisanje podatkov eSIM.</string>
      <string name="please_connect_to_the_wifi">Povežite se z WiFi da dokončate brisanje podatkov eSIM.</string>
      <string name="please_select_phase2">Preverjanje pristnosti v fazi 2</string>
-     <string name="please_stop_broadcast_audio">Najprej dokončajte oddajanje lokalnega zvoka</string>
-     <string name="please_stop_listen_broadcast_audio">Dokončajte poslušanje trenutne oddaje</string>
+     <string name="please_stop_broadcast_audio">Najprej dokončajte oddajanje zvoka</string>
+     <string name="please_stop_listen_broadcast_audio">Najprej dokončajte poslušanje trenutne oddaje</string>
      <string name="please_type_passphrase">Geslo</string>
      <string name="plmn_failure_radio_off">Izbira omrežja ni mogoča, ker je radio izključen ali ni na voljo</string>
      <string name="pm">pop.</string>
@@ -10009,6 +10025,7 @@ To velja za vse uporabnike telefona."</string>
      <string name="save">Shrani</string>
      <string name="save_battery_mode">Prihranite energijo s pomočjo QHD+</string>
      <string name="save_battery_mode_summary">Samodejno spremenite ločljivost, da prihranite energijo</string>
+     <string name="save_device_name_progress_message">Shranjujem…</string>
      <string name="save_finish_with_failing_items">"Prenos je prekinjen.
 Neuvožene podatke morate ponovno uvoziti."</string>
      <string name="saved_network">Shranil(-a): %1$s</string>

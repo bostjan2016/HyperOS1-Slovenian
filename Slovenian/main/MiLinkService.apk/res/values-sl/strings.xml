@@ -231,8 +231,8 @@ za zrcaljenje zaslona tega tabličnega računalnika"</string>
 2. Pritisnite in držite gumb na ohišju.
 3. Dokončajte seznanjanje na ciljni napravi."</string>
      <string name="circulate_headset_back_to_box_desc_err_308">Če želite prenašati predvajanje med napravami, najprej seznanite slušalke s televizorjem.</string>
-     <string name="circulate_headset_back_to_box_desc_err_310">"%1$d. Pritisnite gumb za vklop na daljinskem upravljalniku televizorja, da odklopite zvočnike.
-2. Poskusite znova priključiti slušalke, ko zaslon zasveti."</string>
+    <string name="circulate_headset_back_to_box_desc_err_310">"%1$d. Pritisnite gumb za vklop na daljinskem upravljalniku televizorja, da odklopite zvočnike.
+%2$d. Poskusite znova priključiti slušalke, ko zaslon zasveti."</string>
      <string name="circulate_headset_back_to_box_desc_pad">"1. Obe slušalki vstavite v etui.
 2. Pritisnite in držite gumb na ohišju.
 3. Dokončajte seznanjanje v nastavitvah Bluetooth ali v pojavnem pogovornem oknu v tej napravi."</string>
@@ -269,6 +269,7 @@ za zrcaljenje zaslona tega tabličnega računalnika"</string>
      <string name="circulate_headset_error_headset_not_support">"Vaših slušalk ni mogoče povezati s tem računalnikom"</string>
      <string name="circulate_headset_error_headset_not_worn">Vstavite obe slušalki in poskusite znova</string>
      <string name="circulate_headset_error_headset_not_worn_both">Vstavite obe slušalki in poskusite znova</string>
+     <string name="circulate_headset_error_headset_not_worn_single">Za uporabo te storitve nosite slušalke</string>
      <string name="circulate_headset_error_remote_host_bluetooth_unenable">"Vklopite Bluetooth na televizorju
 in se prijavite v svoj račun Xiaomi"</string>
      <string name="circulate_headset_error_self_upgrade">"Tega dejanja ni bilo mogoče dokončati. Najprej posodobite Mi Smart Hub."</string>
@@ -670,6 +671,7 @@ Mobilno napravo in zunanji monitor (npr. Televizor) priključite v isto omrežje
 %1$d. Če naletite na kakršne koli težave, jih lahko prijavite z aplikacijo \ "Storitve in povratne informacije \"."</string>
      <string name="help_page_text_end">"Če blagovna znamka vaše naprave ni navedena tukaj, se obrnite na proizvajalca da izveste več o funkcionalnosti predvajanja."</string>
      <string name="hm_always">Zmeraj</string>
+     <string name="hm_always_execute">Zmeraj</string>
      <string name="hm_conflict_title">Ustavljen vzorec: %1$s</string>
      <string name="hm_conflict_toast">Imate nasprotujočo si sceno pametnega doma ali avtomatizacijo. Najprej jo uredite v aplikaciji.</string>
      <string name="hm_go_to_help">Pokaži pomoč</string>
@@ -680,12 +682,18 @@ z učenjem, kako jih uporabljate"</string>
      <string name="hm_habit_info_empty_describe">"Še naprej uporabljajte svoje naprave
 tako da se lahko Xiaomi HyperMind uči in izpopolnjuje vzorce"</string>
      <string name="hm_habit_info_list_empty">Učenje vzorcev…</string>
+     <string name="hm_has_ignored">Ta vzorec uspešno ignoriran</string>
+     <string name="hm_has_remembered">Ta vzorec uspešno zapomnjen</string>
      <string name="hm_help">Pomoč</string>
      <string name="hm_knew">Razumem</string>
+     <string name="hm_new_habit">Novi vzorci</string>
+     <string name="hm_new_habit_empty_title">Ni vzorcev</string>
+     <string name="hm_not_notify">"Ne kaži več"</string>
      <string name="hm_pause_habit">Premor</string>
      <string name="hm_please_login_mi_account">Za začetek se prijavite v svoj račun Xiaomi</string>
      <string name="hm_remember">Ne pozabite</string>
      <string name="hm_resume_habit">Nadaljuj</string>
+     <string name="hm_setstate_error">"Tega dejanja ni bilo mogoče dokončati"</string>
      <string name="hm_setup">Nastavitve</string>
      <string name="hm_time_has_paused">Premor</string>
      <string name="hm_time_just_remembered">Pravkar sem se naučil</string>
@@ -693,13 +701,20 @@ tako da se lahko Xiaomi HyperMind uči in izpopolnjuje vzorce"</string>
      <string name="hm_time_not_executed">Še ni uporabljeno</string>
      <string name="hm_time_recent_week">Ta teden</string>
      <string name="hm_time_today">Danes</string>
+     <string name="hm_time_today_executed">Danes uporabljeno ob %s</string>
+     <string name="hm_time_today_remembered">Zapomnjeno danes ob %s</string>
      <string name="hm_time_yesterday">Včeraj</string>
+     <string name="hm_time_yesterday_executed">Včeraj uporabljeno ob %s</string>
+     <string name="hm_time_yesterday_remembered">Zapomnjeno včeraj ob %s</string>
      <string name="hm_toast_log_in">Najprej se prijavite v svoj račun Xiaomi</string>
      <string name="hyper_mind_close_warning">Pozor</string>
      <string name="hyper_mind_close_warning_checkbox">"Ne kaži več"</string>
      <string name="hyper_mind_close_warning_content">Če izklopite to storitev, se HyperMind ne bo več mogel učiti ali uporabljati vaših vzorcev. Če želite preklicati svoje soglasje za naše zbiranje vaših podatkov, tapnite &lt;a href=%1$s>tukaj&lt;/a>.</string>
      <string name="hyper_mind_close_warning_ok">Razumem</string>
+     <string name="i_see">Razumem</string>
      <string name="icon_content_description">Pogovorno okno</string>
+     <string name="image_transfer_failed">"Slike ni bilo mogoče prenesti"</string>
+     <string name="install">Namesti</string>
      <string name="invisible_mode_dialog_content">"Ne morete uporabiti predvajanja, ko ste brez beleženja zgodovine. Najprej izklopite način brez beleženja zgodovine."</string>
      <string name="invisible_mode_dialog_content_audio_relay">"Predvajanja ni mogoče prenesti, ko ste brez beleženja zgodovine. Najprej izklopite način brez beleženja zgodovine."</string>
      <string name="invisible_mode_dialog_pos">Izklopi</string>
@@ -726,6 +741,9 @@ tako da se lahko Xiaomi HyperMind uči in izpopolnjuje vzorce"</string>
      <string name="material_timepicker_pm">pop.</string>
      <string name="material_timepicker_select_time">Izberite čas</string>
      <string name="material_timepicker_text_input_mode_description">Za vnos časa preklopite v način besedila.</string>
+     <string name="message_connection_interrupted">Prepričajte se, da sta vaš računalnik in tablični računalnik v dosegu povezave ter da sta Bluetooth in WiFi vklopljena. Če želite nadaljevati, znova zaženite nalogo v računalniku.</string>
+     <string name="message_install">Namestite Mi Canvas, da boste lahko skicirali v različnih napravah.</string>
+     <string name="message_update">Posodobite Mi Canvas, da boste lahko skicirali v različnih napravah.</string>
      <string name="midnight">Noč</string>
      <string name="miplay_accessibility_cast">Izberite napravo</string>
      <string name="miplay_accessibility_cover">Pokrov</string>
@@ -1120,6 +1138,9 @@ Pred predvajanjem iger se prepričajte, da ste vklopili Game Turbo."</string>
      <string name="time_picker_dialog_title">Nastavi čas</string>
      <string name="time_picker_label_hour">H</string>
      <string name="time_picker_label_minute">M</string>
+     <string name="title_connection_interrupted">Prekinjena povezava</string>
+     <string name="title_install">Namesti Mi Canvas</string>
+     <string name="title_update">Posodobi Mi Canvas</string>
      <string name="toast_guide_show_more">Izvedite več</string>
      <string name="toast_guide_title">Raziščite nove storitve</string>
      <string name="toast_invisible_mode">"Ste brez beleženja zgodovine. Trenutno ni mogoče uporabiti pretakanja."</string>
@@ -1144,6 +1165,7 @@ Pred predvajanjem iger se prepričajte, da ste vklopili Game Turbo."</string>
      <string name="tuesday_short">Tor</string>
      <string name="tuesday_shortest">T</string>
      <string name="unlock_screen_to_authorize_camera">"%s želi uporabiti kamero te naprave"</string>
+     <string name="update">Posodobi</string>
      <string name="upgrade_cancel">Prekliči</string>
      <string name="upgrade_cancel_all">Prekliči posodobitve</string>
      <string name="upgrade_check_upgrade">Posodobi</string>

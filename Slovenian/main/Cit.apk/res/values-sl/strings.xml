@@ -232,6 +232,7 @@ Držite napravo, kot da kličete, govorite v zgornji mikrofon, iz slušalke bi m
      <string name="cit_charge_usb_hvdcp">Polnjenje：USB_HVDCP</string>
      <string name="cit_charge_usb_pd">Polnjenje：USB_PD</string>
      <string name="cit_charger_check_title">Test polnilca</string>
+     <string name="cit_charger_hall_test_summary">Približajte magnet zadnjemu položaju, ki ustreza zelenemu pravokotnemu območju, ostanite 1 sekundo in se nato odmaknite</string>
      <string name="cit_charger_in">Polnilec priključen</string>
      <string name="cit_charger_main_ibat">Tok glavne baterije</string>
      <string name="cit_charger_plugin_check_title">Polnilec (priključite)</string>
@@ -302,6 +303,7 @@ Prosimo, kliknite ustrezen gumb glede na številko, ki jo slišite"</string>
      <string name="cit_get_signature_failed">Dobivanje podpisa NEUSPEŠNO</string>
      <string name="cit_gps_check_summary">GPS Informacije bi morale biti prikazane v nadaljevanju</string>
      <string name="cit_gps_check_title">Testiranje GPS-a</string>
+     <string name="cit_gps_first_fix_time">Fiksni_čas: %s</string>
      <string name="cit_gps_location">Lokacija: %s</string>
      <string name="cit_gps_satellite_count">GPS Sateliti: %d</string>
      <string name="cit_gps_satellite_prn">Prn: %s</string>
@@ -333,6 +335,7 @@ Prosimo, kliknite ustrezen gumb glede na številko, ki jo slišite"</string>
      <string name="cit_high_accdata_sensor_check_summary">Vrednosti za X, Y, Z, koordinate bi morale biti prikazane spodaj. Prosimo, da telefon postavite ravno na namizje, preden opravite preizkus</string>
      <string name="cit_high_accdata_sensor_check_title">Visok merilnik pospeška</string>
      <string name="cit_high_accdata_sensor_graph_title">Graf visokega pospeška</string>
+     <string name="cit_high_accelermeter_sensor_cali_title">Preskus kalibracije senzorja pospeška v visokem območju</string>
      <string name="cit_horn_motor_test">Test motorja hupe</string>
      <string name="cit_hvdcp_charger_in">Polnjenje preko (USB_HVDCP)</string>
      <string name="cit_init_fp_fod_test_tip">Init testno okolje za prstne odtise</string>
@@ -375,6 +378,8 @@ Med testom ne izklapljajte zaslona"</string>
      <string name="cit_proximity_data_check_summary">"Infrardeči senzor razdalje: Pokrijte senzor razdalje telefona z roko in zapustite senzor razdalje. 
 Ultrazvočni senzor razdalje: simulirajte dvig slušalke, da sprejmete klic 
 Če spodnje preskusno območje pri približevanju kaže vrednost 0,0, vrednost 5.0 pa, ko je oddaljena, je test uspešen, sicer test ne uspe ."</string>
+     <string name="cit_proximity_second_sensor_cali_title">Drugi preskus kalibracije senzorja bližine</string>
+     <string name="cit_proximity_second_sensor_check_summary">"Pri kalibraciji se prepričajte, da med senzorjem in vašo roko ni ničesar (npr. zaščitni pokrov zaslona ali rokavice)."</string>
      <string name="cit_proximity_sensor_cali_title">Preskus umerjanja senzorja bližine</string>
      <string name="cit_proximity_sensor_check_second_screen_title">Drugi senzor bližine</string>
      <string name="cit_proximity_sensor_check_summary">"Pokrijte senzor oddaljenosti (nahaja se na vrhu telefona v bližini sprejemnika) z roko, potem pa roko umaknite. Vrednost se mora povečati od 0,0 ko umaknete roko.

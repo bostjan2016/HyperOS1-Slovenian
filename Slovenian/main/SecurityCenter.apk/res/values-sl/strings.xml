@@ -1524,6 +1524,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
      <string name="continue_set">Nadaljuj</string>
      <string name="convenient_mode">Odkleni vse aplikacije naenkrat</string>
      <string name="convenient_summary">Vnesite geslo enkrat za odklepanje vseh aplikacij</string>
+     <string name="conversation_phone_title">Odpri orodje</string>
      <string name="conversation_settings_top">"·Med celozaslonskim zvočnim in video klicem izvlecite orodno vrstico za konferenco za dostop do njenih storitev.
 ·Vrsta in število storitev je odvisna od modela naprave."</string>
      <string name="conversation_sider_tips">Uporabite nova orodja za konference za najboljšo klicno izkušnjo</string>
@@ -2419,6 +2420,10 @@ Dodane bodo v izjeme, toda predhodno blokirane stvari ne bodo vidne v dohodnih o
      <string name="gb_advance_settings_screen_hdr_gear3">Močno</string>
      <string name="gb_advance_settings_screen_hdr_gear4">Ekstremno</string>
      <string name="gb_advance_settings_screen_hdr_summary">Povečajte kontrast in izboljšajte podrobnosti za igre</string>
+     <string name="gb_advance_settings_screen_show_enhancement">Izboljšaj vizualne elemente</string>
+     <string name="gb_advance_settings_screen_show_enhancement_summary">Prikaz gibanja z večjo gladkostjo in tekočnostjo</string>
+     <string name="gb_advance_settings_screen_super_picture_quality">Super kvaliteta slike</string>
+     <string name="gb_advance_settings_screen_super_picture_quality_summary">Povečaj ločljivost in hitrost sličic za bolj tekoče slike</string>
      <string name="gb_advance_settings_touch">Kontrole dotika</string>
      <string name="gb_advance_settings_vibration_4d">4D vibracija</string>
      <string name="gb_advance_settings_vibration_4d_summary">Ilustrirajte akcije v igri s pomočjo vibracij</string>
@@ -2663,6 +2668,7 @@ lahko izprazni baterijo in povzroči pregrevanje"</string>
      <string name="gb_vision_enhance_desc">Izboljšajte kakovost slike in zmogljivost</string>
      <string name="gb_vision_enhance_frme_insertion_tips">"Pametna hitrost sličic
 %dFPS"</string>
+     <string name="gb_vision_enhance_smart_frame_enhance">Izboljšajte hitrost sličic</string>
      <string name="gb_vision_enhance_smart_frame_insertion">Pametna hitrost sličic</string>
      <string name="gb_vision_enhance_smart_frame_insertion_desc">Samodejno prilagodite hitrost sličic, da bo gibanje bolj gladko</string>
      <string name="gb_vision_enhance_super_resolution">Super resolucija</string>
@@ -4060,6 +4066,7 @@ To skrajšuje trajanje baterije."</string>
      <string name="pc_battery_history_total_consumption_title">Skupna poraba energije</string>
      <string name="pc_battery_history_usetime_title">Aktivno</string>
      <string name="pc_battery_low_health_reminder">"Čas je, da zamenjate baterijo"</string>
+     <string name="pc_battery_replacement_service_title">Preizkusite našo storitev zamenjave baterije. Originalna strojna oprema %1$s z garancijo %2$s.</string>
      <string name="pc_berserk_mode_dialog_title">Aktivirajte Ultimate način</string>
      <string name="pc_berserk_mode_noti_summary">Ultimate način lahko poveča porabo energije in povzroči težave s pregrevanjem</string>
      <string name="pc_berserk_mode_performance_title">Ultimate način</string>

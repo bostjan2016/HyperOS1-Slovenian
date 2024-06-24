@@ -33,8 +33,7 @@
      <string name="app_name">Snemalec zaslona</string>
      <string name="app_notification_channel_record_complete">Obvestila o končanih posnetkih</string>
      <string name="app_notification_info">Snemalec zaslona dela v ozadju</string>
-     <string name="app_notification_record_saved">"Uspešno shranjeno.
-Tapnite za ogled"</string>
+     <string name="app_notification_record_saved">Uspešno shranjeno</string>
      <string name="app_notification_title">Snemalec zaslona</string>
      <string name="auto_stop_title">Videoposnetek je uspešno shranjen</string>
      <string name="battery_not_allowed_warning">"Ne morem snemati, ko je baterije manj kot %1$s. Prepričajte se, da je baterija napolnjena vsaj %2$s."</string>
@@ -45,6 +44,7 @@ Tapnite za ogled"</string>
      <string name="button_clear_storage">Sprostite nekaj prostora</string>
      <string name="button_confirm">V redu</string>
      <string name="button_goon_recorder">Nadaljuj</string>
+     <string name="camera_high_spec_recording">"Med snemanjem videa v %1$s ni mogoče posneti zaslona"</string>
      <string name="cancel_edit">Prekini</string>
      <string name="cannot_change_frames">Število slik se lahko prilagodi samo za posnetke z fiksnim številom slik.</string>
      <string name="cannot_change_parames">"Parametrov ne morem menjati med snemamjem"</string>
@@ -275,6 +275,7 @@ Tapnite za ogled"</string>
      <string name="sunday">Nedelja</string>
      <string name="sunday_short">Ned</string>
      <string name="sunday_shortest">N</string>
+     <string name="tap_to_view">Tapnite za ogled</string>
      <string name="thursday">Četrtek</string>
      <string name="thursday_short">Čet</string>
      <string name="thursday_shortest">Č</string>

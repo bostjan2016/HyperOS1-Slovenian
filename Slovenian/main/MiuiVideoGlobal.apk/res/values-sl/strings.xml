@@ -360,6 +360,8 @@ Mi Video mora zbrati potrebne osebne podatke, da vam zagotovi osnovne storitve. 
      <string name="download_unable_tip">Ne morem prenesti</string>
      <string name="download_video">Prenašam video</string>
      <string name="downloading">Prenašam…</string>
+     <string name="draw_ad_button_click_text">Stresite ali tapnite, da odprete</string>
+     <string name="draw_ad_button_slide_text">Potisnite za podrobnosti</string>
      <string name="early_morning">Jutro</string>
      <string name="empty_channels">Urejanje kanalov</string>
      <string name="error_change_video">Oprostite! Napaka pri predvajanju podatkov， poskusite z drugim videoposnetkom！</string>
@@ -1277,6 +1279,7 @@ To dovoljenje bomo uporabili samo za iskanje videoposnetkov, ki jih iščete, in
      <string name="pip">Slika v sliki</string>
      <string name="pip_not_supported_toast">Posodobite, da boste lahko uporabljali sliko v sliki.</string>
      <string name="play_at_normal_speed">Predvajanje s hitrostjo 1X</string>
+     <string name="play_at_speed">Predvajanje s hitrostjo %.1fX</string>
      <string name="play_list_save_dialog_create">Ustvarite seznam predvajanja</string>
      <string name="play_list_save_dialog_title">Dodaj v seznam predvajanja</string>
      <string name="play_list_sign_in_dialog_message">Za ogled vseh svojih seznamov predvajanja se prijavite s svojim Google Računom.</string>

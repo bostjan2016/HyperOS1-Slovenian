@@ -345,6 +345,7 @@
      <string name="gadget_search_label">Iskanje</string>
      <string name="gadget_weather_title">Vreme</string>
      <string name="global_search">Išči</string>
+     <string name="global_shelf">Iskalnik aplikacij</string>
      <string name="got_it_botton">Razumem</string>
      <string name="guide_install_app_msg">"Aplikacija ni naložena na telefonu. Poiščem in naložim aplikacijo zdaj?"</string>
      <string name="guide_install_app_title">Poiščem in naložim aplikacijo?</string>
@@ -353,6 +354,7 @@
      <string name="hide_apps_title">Skrij ikone aplikacij</string>
      <string name="home_gesture_content_center">Center za vsebino</string>
      <string name="home_gesture_global_search">Išči</string>
+     <string name="home_gesture_global_shelf">Iskalnik aplikacij</string>
      <string name="home_gesture_no_action">Nič</string>
      <string name="home_gesture_notification_and_control_center">Plošča obvestil in Center za kontrolo</string>
      <string name="home_gesture_notification_bar">Obvestila</string>
