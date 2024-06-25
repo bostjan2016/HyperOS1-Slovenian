@@ -1,15 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    </string-array>
-    <string-array name="aqi_detail_title">
+     <string-array name="aqi_detail_title">
         <item>Dobro</item>
         <item>Lepo</item>
         <item>Zmerno</item>
         <item>Nezdravo</item>
         <item>Resno</item>
         <item>Nevarno</item>
-    </string-array>
-    <string-array name="aqi_value">
+     </string-array>
+     <string-array name="aqi_value">
         <item>Dobro</item>
         <item>Lepo</item>
         <item>Zmerno</item>
@@ -17,13 +16,13 @@
         <item>Resno</item>
         <item>Nevarno</item>
         <item>Nad indeksom</item>
-    </string-array>
-    <string-array name="minute_rain_array">
+     </string-array>
+     <string-array name="minute_rain_array">
         <item>Močno</item>
         <item>Zmerno</item>
         <item>Rahlo</item>
-    </string-array>
-    <string-array name="weather_type">
+     </string-array>
+     <string-array name="weather_type">
         <item>Jasno</item>
         <item>Oblačno</item>
         <item>Delno oblačno</item>
@@ -51,8 +50,8 @@
         <item>Meglica</item>
         <item>Dež ki zmrzuje</item>
         <item></item>
-    </string-array>
-    <string-array name="wind_direction">
+     </string-array>
+     <string-array name="wind_direction">
         <item>Sever</item>
         <item>Severovzhod</item>
         <item>Vzhod</item>
@@ -61,8 +60,8 @@
         <item>Jugozahod</item>
         <item>Zahod</item>
         <item>Severozahod</item>
-    </string-array>
-    <string-array name="wind_direction_simple">
+     </string-array>
+     <string-array name="wind_direction_simple">
         <item>S</item>
         <item>SV</item>
         <item>V</item>
@@ -71,5 +70,5 @@
         <item>JZ</item>
         <item>Z</item>
         <item>SZ</item>
-    </string-array>
+     </string-array>
 </resources>
