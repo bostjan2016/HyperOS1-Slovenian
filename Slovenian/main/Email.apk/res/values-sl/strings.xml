@@ -1049,7 +1049,7 @@ Počakajte do konca sinhronizacije ali poglejte sporočilo na računalniku."</st
      <string name="replay_max_length_limit_hint">"E-poštno sporočilo je predolgo. Izvirnega e-poštnega sporočila ni mogoče urediti."</string>
      <string name="reply">Odgovor</string>
      <string name="reply_all">Odgovori vsem</string>
-     <string name="reply_attribution" formatted="false">Dne %s je oseba %s napisala:</string>
+     <string name="reply_attribution">Dne %1$s je oseba %2$s napisala:</string>
      <string name="request_copy_db_to_disk">Aplikacija E-pošta zahteva kopiranje baze podatkov v datoteko</string>
      <string name="request_entity_large">Datoteka je prevelika</string>
      <string name="respond_inline_text">Uredi izvirno e-pošto</string>
