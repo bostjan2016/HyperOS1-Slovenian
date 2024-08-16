@@ -2395,9 +2395,18 @@ Pri prvi uporabi te storitve lahko traja nekaj časa."</string>
      <string name="pic_to_pdf_a4_format">A4 papir</string>
      <string name="pic_to_pdf_all_not_support">"Izbranih slik ni mogoče shraniti kot PDF"</string>
      <string name="pic_to_pdf_exit_notice">"Ta PDF ne bo shranjen, če zapustite zdaj. Vseeno zapustim?"</string>
+     <string name="pic_to_pdf_install_dialog_content">Namestite Mi Doc Viewer, da lahko ustvarite PDF. Namestim zdaj?</string>
+     <string name="pic_to_pdf_install_dialog_positive">Namesti</string>
+     <string name="pic_to_pdf_install_dialog_title">Namesti Mi Doc Viewer</string>
      <string name="pic_to_pdf_not_support_video">"Videoposnetkov ni mogoče shraniti v obliki PDF"</string>
+     <string name="pic_to_pdf_permission_dialog_content">"Omogočite pregledovalniku Mi Doc Viewer dostop do fotografij in videoposnetkov te naprave, da lahko shranjuje datoteke PDF. To dovoljenje lahko podelite v nastavitvah."</string>
+     <string name="pic_to_pdf_permission_dialog_positive">Nastavitve</string>
+     <string name="pic_to_pdf_permission_dialog_title">Potrebna so dovoljenja</string>
      <string name="pic_to_pdf_preview_loading">Nalaganje pregleda…</string>
      <string name="pic_to_pdf_saved_in_fileexplorer">Uspešno shranjeno. Pokaži v Raziskovalcu.</string>
+     <string name="pic_to_pdf_update_dialog_content">Posodobite Mi Doc Viewer na najnovejšo različico, da boste lahko ustvarili PDF. Posodobim zdaj?</string>
+     <string name="pic_to_pdf_update_dialog_positive">Posodobi</string>
+     <string name="pic_to_pdf_update_dialog_title">Posodobite Mi Doc Viewer</string>
      <string name="pick_from_contact">Izberi iz stikov</string>
      <string name="pick_people_cover_fail">Napaka. Poskusite ponovno.</string>
      <string name="pick_people_cover_page_title">Izberite naslovno fotografijo</string>
@@ -3308,6 +3317,7 @@ Do %1$s lahko premaknete svoje stvari v Google Foto ali obiščete i.mi.com, da 
      <string name="toast_invalid_prefix">"Imena se ne morejo začeti z \".\" ali \"_\""</string>
      <string name="toast_orientation_locked">Usmerjenost zaslona je zaklenjena</string>
      <string name="toast_orientation_unlock">Usmerjenost zaslona je odklenjena</string>
+     <string name="toast_pdf_create_failed">"Ne morem ustvariti. Poskusite ponovno."</string>
      <string name="toast_rename_exit">Ta datoteka že obstaja</string>
      <string name="today">Danes</string>
      <string name="today_of_year">Na ta dan</string>
@@ -3315,7 +3325,9 @@ Do %1$s lahko premaknete svoje stvari v Google Foto ali obiščete i.mi.com, da 
      <string name="today_of_year_function_closed_btn_tip">Vklopi</string>
      <string name="today_of_year_function_closed_tip">"\"Na ta dan\" še niste vklopili"</string>
      <string name="today_of_year_location_num">Lokacije</string>
+     <string name="today_of_year_next_day">Naslednji dan</string>
      <string name="today_of_year_photo_num">Fotografije</string>
+     <string name="today_of_year_pre_day">Prejšnji dan</string>
      <string name="tomorrow">Jutri</string>
      <string name="too_many_recipients">"Ne morete dodati več kot %2$s prejemnikov (Trenutno ste dodali %1$s)."</string>
      <string name="tran_notification_complete_title">Prenos končan</string>

@@ -8,6 +8,7 @@
      <string name="AI_download_file_message">Podpira Mi AI Image Creator, ≈%.1f GB</string>
      <string name="AI_download_function_message">Namestite Mi AI Image Creator, da bo Mi AI ustvaril slike iz vaših opisov.</string>
      <string name="AI_download_title">Mi AI Image Creator model</string>
+     <string name="AI_version_number">Verzija: %d</string>
      <string name="abc_action_bar_home_description">Krmarjenje na začetek</string>
      <string name="abc_action_bar_up_description">Pomik navzgor</string>
      <string name="abc_action_menu_overflow_description">Več možnosti</string>
@@ -35,6 +36,7 @@
      <string name="abc_shareactionprovider_share_with">Deljenje z:</string>
      <string name="abc_shareactionprovider_share_with_application">Deljenje z drugimi prek aplikacije %s</string>
      <string name="abc_toolbar_collapse_description">Strnitev</string>
+     <string name="about_MiAI_engine">O Mi AI Engine</string>
      <string name="actionbar_button_up_description">Nazaj</string>
      <string name="afternoon">Popoldne</string>
      <string name="am">dop.</string>
@@ -121,8 +123,13 @@
      <string name="custom_define_permission_desc_android.permission_group.STORAGE">Za dostop do preteklih informacij o lokaciji, shranjenih v napravi</string>
      <string name="date_picker_lunar">Kitajski tradicionalni koledar</string>
      <string name="date_time_picker_dialog_title">Nastavi datum in čas</string>
+     <string name="download_cancel">Prekliči</string>
      <string name="download_complete">Prenešeno</string>
+     <string name="download_done">Končano</string>
+     <string name="download_notification_title">Izboljšajte stabilnost in optimizirajte svojo izkušnjo</string>
+     <string name="download_notification_update">Tapnite za posodobitevto update</string>
      <string name="download_paused">Nadaljuj</string>
+     <string name="download_process_content_wenshengtu_title">Prenos Mi AI Image Creator model…</string>
      <string name="download_start">Prenos</string>
      <string name="download_updata">Posodobi</string>
      <string name="early_morning">Jutro</string>
@@ -320,6 +327,8 @@
      <string name="notification_operationFailedWhenNoEnabledFunction">"Nisem se spomnil vzorca. Najprej vklopite HyperMind."</string>
      <string name="notification_operationFailedWhenNoPermission">"Nisem se spomnil vzorca. Sprejmite naša Pravila o zasebnosti in najprej podelite potrebna dovoljenja."</string>
      <string name="notification_operation_failed">"Nisem se spomnil vzorca"</string>
+     <string name="notification_remember_habit">Vzorec zapomnjen</string>
+     <string name="notification_remember_this_habit">Zapomni si vzorec</string>
      <string name="passport_access_denied">Dostop zavrnjen</string>
      <string name="passport_account_crop_user_avatar">Obreži sliko</string>
      <string name="passport_account_empty_user_name">Vnesite vaše ime</string>

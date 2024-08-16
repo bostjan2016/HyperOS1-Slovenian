@@ -35,8 +35,11 @@
      <string name="ai_mode_auto">Samodejno</string>
      <string name="ai_mode_manual">Ročno</string>
      <string name="ai_mode_subtitles">Naslovi</string>
+     <string name="align_satellite_model_call">Klic</string>
      <string name="align_satellite_model_exit">Izhod</string>
+     <string name="align_satellite_model_mms">Sporočilo</string>
      <string name="align_satellite_model_use">Začetek</string>
+     <string name="align_satellite_model_use_exp">Konec</string>
      <string name="am">dop.</string>
      <string name="antifraud_center">Platforma za opozorilo proti goljufijam</string>
      <string name="antifraud_center_incoming_prompt">"Ne zamudite nobenega klica z uradne platforme za opozarjanje na goljufije"</string>
@@ -71,6 +74,7 @@
      <string name="call_progress_info_user_busy">Uporabnik je zaseden. Pokličite pozneje</string>
      <string name="call_progress_info_user_call_rejected">Številka trenutno ni na voljo</string>
      <string name="call_record_wait_label">Čakam</string>
+     <string name="call_recording">Poteka snemanje klica</string>
      <string name="call_recording_deny_permission_msg">"Ne morem posneti. Najprej podelite dovoljenja v nastavitvah."</string>
      <string name="call_recording_error_low_storage">Ni dovolj prostora na SD kartici</string>
      <string name="call_recording_error_privacy">Snemanje ni mogoče medtem ko ste v načinu Gost</string>
@@ -157,6 +161,10 @@
      <string name="enter_ai_assistant">Uporabi</string>
      <string name="enter_ai_assistant_tip">"AI lahko pretvori besedilo v govor, če vam zdaj ni prijetno govoriti. Uporabim AI za ta klic?"</string>
      <string name="evening">Večer</string>
+     <string name="flip_expand_conference_call_text">Odprite za upravljanje konferenčnega klica</string>
+     <string name="flip_expand_suport_videocall_text">Odprite za možnosti video klica</string>
+     <string name="flip_expand_switch_call_text">Odprite, da preklopite na večkanalni klic</string>
+     <string name="flip_video_incoming_call_label">Video klic</string>
      <string name="fmt_date">D</string>
      <string name="fmt_date_day">d</string>
      <string name="fmt_date_long_month">MMMM</string>

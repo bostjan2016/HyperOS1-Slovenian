@@ -307,6 +307,13 @@ Preklopite za ustavitev sinhronizacije."</string>
      <string name="btn_copied">Kopirano</string>
      <string name="btn_copy">Kopiraj</string>
      <string name="btn_open">Odpri</string>
+     <string name="call_notification_answer_action">Odgovor</string>
+     <string name="call_notification_answer_video_action">Video</string>
+     <string name="call_notification_decline_action">Zavrni</string>
+     <string name="call_notification_hang_up_action">Odloži</string>
+     <string name="call_notification_incoming_text">Dohodni klic</string>
+     <string name="call_notification_ongoing_text">Odhodni klic</string>
+     <string name="call_notification_screening_text">Preverjanje dohodnega klica</string>
      <string name="camera_permission_name">Uporabi kamero</string>
      <string name="can_not_send_with_too_many">"Naenkrat ni mogoče poslati toliko stvari"</string>
      <string name="cancel">Prekliči</string>
@@ -797,6 +804,10 @@ Pošljite to kodo nadzorniku."</string>
      <string name="experience_improve">Program uporabniških izkušenj</string>
      <string name="exported">Izvoz</string>
      <string name="exposed_dropdown_menu_content_description">Pokaži spustni meni</string>
+     <string name="external_app_leave_incognito_leave">Izključi</string>
+     <string name="external_app_leave_incognito_stay">Obdrži</string>
+     <string name="external_app_leave_incognito_warning">To spletno mesto poskuša deliti podatke z aplikacijo zunaj načina brez beleženja zgodovine. Izklopim zdaj?</string>
+     <string name="external_app_leave_incognito_warning_title">Izklopim način brez beleženja zgodovine?</string>
      <string name="external_app_restricted_access_error">Mi Brskalnik nima dostopa do te stvari.</string>
      <string name="failed_dup_secure_phone_number">Ta telefonska številka je že povezana z drugim Mi Računom</string>
      <string name="fallback_menu_item_copy_link">Kopiraj povezavo</string>
@@ -1389,11 +1400,14 @@ Pošljite to kodo nadzorniku."</string>
      <string name="mw_accessibility_date_picker_year">Leto</string>
      <string name="mw_accessibility_datetime_picker_date">Datum</string>
      <string name="mw_accessibility_datetime_picker_time">Čas</string>
+     <string name="mw_accessibility_list_menu_button">%1$s Možnosti</string>
      <string name="mw_accessibility_time_picker_ampm">dop./pop.</string>
      <string name="mw_accessibility_time_picker_hour">Ura</string>
      <string name="mw_accessibility_time_picker_milli">Milisekunda</string>
      <string name="mw_accessibility_time_picker_minute">Minuta</string>
      <string name="mw_accessibility_time_picker_second">Sekunda</string>
+     <string name="mw_accessibility_toolbar_btn_menu">Prilagodite in nadzirajte Google Chrome</string>
+     <string name="mw_actionbar_manage_apps">Upravljanje aplikacij</string>
      <string name="mw_actionbar_share">Deli</string>
      <string name="mw_actionbar_textselection_title">Izberite besedilo</string>
      <string name="mw_actionbar_web_search">Spletno iskanje</string>
@@ -1435,6 +1449,7 @@ Pošljite to kodo nadzorniku."</string>
      <string name="mw_elided_url_text_view_url_truncated">URL skrajšan</string>
      <string name="mw_find_next">Poišči naslednjo</string>
      <string name="mw_find_previous">Poišči prejšnjo</string>
+     <string name="mw_image_copied">Slika kopirana</string>
      <string name="mw_js_dialog_before_unload">"%s
 
 Želite zapustiti to stran?"</string>
@@ -2580,6 +2595,7 @@ Nekatera spletna mesta ne bodo uporabila vaše prejšnje zgodovine brskanja za p
      <string name="sunday_short">Ned</string>
      <string name="sunday_shortest">N</string>
      <string name="survey_feedback_general">V redu</string>
+     <string name="swipe_exit_browser_toast">Ponovno povlecite za izhod iz brskalnika</string>
      <string name="switchText">DA</string>
      <string name="sync_alert_checkbox_bookmark">Zaznamki</string>
      <string name="sync_alert_checkbox_history">Zgodovina brskanja</string>

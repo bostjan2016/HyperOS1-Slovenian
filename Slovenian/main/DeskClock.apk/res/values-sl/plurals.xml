@@ -88,6 +88,10 @@
         <item quantity="other">%1$s ur</item>
         <item quantity="one">%1$s ura</item>
      </plurals>
+     <plurals name="sleep_duration_hour_new">
+        <item quantity="other">%1$d ur</item>
+        <item quantity="one">%1$d ura</item>
+     </plurals>
      <plurals name="sleep_duration_min">
         <item quantity="other">%1$s min</item>
         <item quantity="one">%1$s min</item>
@@ -95,6 +99,10 @@
      <plurals name="sleep_duration_min_avg">
         <item quantity="other">%1$s min</item>
         <item quantity="one">%1$s min</item>
+     </plurals>
+     <plurals name="sleep_duration_min_new">
+        <item quantity="other">%1$d minute</item>
+        <item quantity="one">%1$d minuta</item>
      </plurals>
      <plurals name="snooze_duration_changed_info">
         <item quantity="other">Alarm je odložen za %d min</item>

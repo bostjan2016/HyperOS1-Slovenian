@@ -373,6 +373,14 @@
 ·Izboljšani vizualni elementi ne bodo na voljo, ko je vklopljeno varčevanje z baterijo ali če je vaša naprava pregreta.
 ·Pametno število sličic v sekundi kaže najboljše rezultate, ko je vaša igra nastavljena na prikaz vsaj %d sličico na sekundo."</item>
      </plurals>
+     <plurals name="gb_vision_enhance_desc_detail_new">
+        <item quantity="other">"Opomba:
+· Izboljšani vizualni elementi ne bodo na voljo, ko je vklopljeno varčevanje z baterijo ali če je vaša naprava pregreta.
+· Izboljšana hitrost sličic v sekundi kaže najboljše rezultate, ko je vaša igra nastavljena na prikaz najmanj %d sličic na sekundo."</item>
+        <item quantity="one">"Note:
+· Izboljšani vizualni elementi ne bodo na voljo, ko je vklopljeno varčevanje z baterijo ali če je vaša naprava pregreta.
+· Izboljšana hitrost sličic v sekundi kaže najboljše rezultate, ko je vaša igra nastavljena na prikaz najmanj %d sličica na sekundo."</item>
+     </plurals>
      <plurals name="gb_voice_changer_toast_tips_window_bubble">
         <item quantity="other">"Poskusite Voice Changeer takoj 
 da boste dobili %d-dnevno brezplačno poskusno obdobje"</item>

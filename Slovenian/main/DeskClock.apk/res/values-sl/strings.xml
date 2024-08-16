@@ -188,6 +188,7 @@
      <string name="fmt_weekday_time_timezone">W T z</string>
      <string name="fmt_weekday_timezone">W z</string>
      <string name="force_start_permission_desc">"Omogočite normalno delovanje budilk, tudi ko ste zaprli aplikacijo"</string>
+     <string name="force_start_permission_title">Samodejni zagon</string>
      <string name="friday">Petek</string>
      <string name="friday_short">Pet</string>
      <string name="friday_shortest">P</string>
@@ -243,6 +244,7 @@
      <string name="material_timepicker_am">dop.</string>
      <string name="material_timepicker_clock_mode_description">Za vnos časa preklopite v način ure.</string>
      <string name="material_timepicker_hour">Ura</string>
+     <string name="material_timepicker_minute">Minuta</string>
      <string name="material_timepicker_pm">pop.</string>
      <string name="material_timepicker_select_time">Izberite čas</string>
      <string name="material_timepicker_text_input_mode_description">Preklopite v način vnosa besedila za vnos časa.</string>
@@ -267,6 +269,8 @@
      <string name="miuix_indexer_collect">Zbirke</string>
      <string name="miuix_indexer_selected">Izbrano %s</string>
      <string name="miuix_item_view_role_description">Zavihek</string>
+     <string name="miuix_navigator_category_group_collapse">Strni</string>
+     <string name="miuix_navigator_category_group_expand">Razširi</string>
      <string name="miuix_navigator_content_switch_description">Pokaži stransko vrstico</string>
      <string name="miuix_navigator_multiple_choice">Izberi</string>
      <string name="miuix_navigator_navigator_switch_description">Skrij stransko vrstico</string>

@@ -90,6 +90,7 @@
      <string name="cloud_storage_default_title">Cloud shramba</string>
      <string name="cloud_storage_full">Cloud shramba je polna. Nadgradite svoj plan da boste dobili več prostora za shranjevanje.</string>
      <string name="cloud_storage_info_type_backup">Var. kopije v oblaku</string>
+     <string name="cloud_storage_info_type_creation">Mi Platna</string>
      <string name="cloud_storage_info_type_family">Družina</string>
      <string name="cloud_storage_info_type_others">Ostalo</string>
      <string name="cloud_storage_info_type_pdc">Nastavitve sistema</string>
@@ -104,6 +105,9 @@
      <string name="create_folder_success">Mapa uspešno napravljena</string>
      <string name="create_other_pdf">Nov PDF</string>
      <string name="create_pdf_manual">Nov PDF</string>
+     <string name="creation_dialog_message">Oglejte si platna na tablici.</string>
+     <string name="creation_dialog_positive_btn">Razumem</string>
+     <string name="creation_dialog_title">Pozor</string>
      <string name="current_speed_content">Trenutna hitrost: %1$s</string>
      <string name="date_picker_lunar">Tradicionalni kitajski koledar</string>
      <string name="date_time_picker_dialog_title">Nastavi datum in čas</string>

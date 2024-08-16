@@ -43,12 +43,23 @@
      <string name="actionbar_close_description">Zapri</string>
      <string name="actionbar_home_description">Nazaj</string>
      <string name="add_account_desc">Sinhroniziram beležke z vašim Mi Računom?</string>
-     <string name="add_excerpt_summary">Dodaj seznam povzetkov</string>
+     <string name="add_excerpt_summary">Dodaj na seznam povzetkov</string>
+     <string name="add_modifications">Predlog: Dodaj \"%1$s\"</string>
      <string name="add_pic_excerpt_summary">Dodajte slikovni povzetek</string>
      <string name="added_to_clipboard">Uspešno kopirano</string>
+     <string name="adopt">Uporabi</string>
      <string name="afternoon">pop.</string>
      <string name="ai_chat_declare_double_link"><Data>Preberite in se strinjate z &lt;a href=\"%1$s\">Pogoji uporabe&lt;/a> in &lt;a href=\"%2$s\">Pravila o zasebnosti&lt;/a> preden nadaljujete.</Data></string>
      <string name="ai_chat_dlg_content">Za različne vire informacij v različnih scenarijih (kot so povezave ali besedilo, ki se pojavlja v aplikacijah, kot so brskalniki, WeChat in Feishu), lahko funkcija hitrega zbiranja in povzemanja informacij ter samodejnega ustvarjanja in predstavitve v enotnem vnosu za arhiviranje biti dosežen.</string>
+     <string name="ai_check">Lektoriranje z umetno inteligenco</string>
+     <string name="ai_failed">"Ne morem ustvariti. Poskusite ponovno."</string>
+     <string name="ai_feature_disabled">Večkrat ste kršili naše standarde skupnosti. Ta storitev ni več na voljo.</string>
+     <string name="ai_label">Lastnosti AI</string>
+     <string name="ai_layout">Postavitev AI</string>
+     <string name="ai_result_warn">Zgornja vsebina je ustvarjena z umetno inteligenco. Natančnost je lahko različna.</string>
+     <string name="ai_sensitive_content_warn">"Storitev umetne inteligence ni mogoče uporabiti za občutljivo ali neprimerno vsebino"</string>
+     <string name="ai_summary">AI povzetek</string>
+     <string name="ai_translate">AI prevod</string>
      <string name="ai_watermark">Ustvari z AI:</string>
      <string name="alarm_bar_title">Opomnik</string>
      <string name="alert_action_edit_anyway">Nadaljuj urejanje</string>
@@ -92,6 +103,7 @@
      <string name="audio_toast_file_invalid">Avdio datoteka je pokvarjena</string>
      <string name="audio_toast_file_undownload">Avdio datoteka ni prenešena ali manjka</string>
      <string name="audio_toast_network_is_not_available">"Ne morem se povezati na omrežje"</string>
+     <string name="auto_detected">Samodejno zaznano</string>
      <string name="blackboard_note">Pametna tabla</string>
      <string name="bottomsheet_action_expand_halfway">Razširi do polovice</string>
      <string name="brush_AirBrush">AirBrush</string>
@@ -160,6 +172,7 @@
      <string name="continuous_default_hint">Kopirajte besedilo, shranjujte slike in posnetke zaslona kot izvlečke</string>
      <string name="continuous_new_excerpt_title">Nov izvleček</string>
      <string name="copy">Kopiraj</string>
+     <string name="copy_toast_text">Kopirano</string>
      <string name="cta_agree_desc">Dovoli, da se ta aplikacija poveže na splet in dajte neobvezna dovoljenja, tako da lahko uporablja vse svoje storitve.</string>
      <string name="cta_confirm_cancel">"Prekliči"</string>
      <string name="cta_confirm_ok">Dovoli</string>
@@ -270,6 +283,7 @@ Tapnite + da napravite mapo"</string>
      <string name="empty_note_mark_privacy_error">"Ne morem skriti prazne beležke"</string>
      <string name="enable_sync">Sinhroniziraj</string>
      <string name="enable_sync_desc">Sinhroniziram beležke z vašim Mi računom (%1$s)?</string>
+     <string name="enter_content">Najprej vnesite vsebino</string>
      <string name="error_contact_not_exist">Stik ne obstaja</string>
      <string name="error_hide_empty_note">"Ne morem skriti prazne beležke"</string>
      <string name="error_icon_content_description">Napaka</string>
@@ -376,6 +390,7 @@ Tapnite + da napravite mapo"</string>
      <string name="friday">Petek</string>
      <string name="friday_short">Pet</string>
      <string name="friday_shortest">P</string>
+     <string name="generating">Delam…</string>
      <string name="gesture_guide_cancel">Preskoči</string>
      <string name="gesture_guide_message">Stvari se lahko dotaknete, pritisnete in pridržite in vlečete za ustvarjanje in preurejanje beležk. Se boste naučili?</string>
      <string name="gesture_guide_ok">Nauči me</string>
@@ -411,6 +426,7 @@ Tapnite + da napravite mapo"</string>
      <string name="loading_text">Nalaganje…</string>
      <string name="login_sync">Prijavi se &amp; sinhr.</string>
      <string name="lunar_day">Lunar %1$s</string>
+     <string name="main_body">Celotno besedilo</string>
      <string name="manage_folders">Urejaj mape</string>
      <string name="material_clock_toggle_content_description">Izberite dop. ali pop.</string>
      <string name="material_hour_selection">Izberite uro</string>
@@ -639,6 +655,7 @@ Tapnite + da napravite mapo"</string>
      <string name="mtrl_picker_toggle_to_day_selection">Tapnite za prehod na izbiro dni</string>
      <string name="mtrl_picker_toggle_to_text_input_mode">Prestavite na način vnosa teksta</string>
      <string name="mtrl_picker_toggle_to_year_selection">Tapnite za prehod na izbiro leta</string>
+     <string name="net_error">Prišlo je do napake v omrežju</string>
      <string name="network_error_info">Prišlo je do napake v omrežju. Preverite omrežne nastavitve in poskusite znova.</string>
      <string name="network_timeout_info">"Ni bilo mogoče vzpostaviti povezave z omrežjem. Poskusite ponovno."</string>
      <string name="new_alert_title_delete">Izbriši beležke</string>
@@ -695,6 +712,7 @@ Tapnite + da napravite mapo"</string>
      <string name="option_menu_save_as">Shrani kot</string>
      <string name="option_menu_save_as_pic">Shrani kot sliko</string>
      <string name="option_menu_share">Deli</string>
+     <string name="original_empty_content">V izvirni različici ni vsebine</string>
      <string name="pad_collpase_navigation">Skrij navigacijsko ploščo</string>
      <string name="pad_dialog_take_photo_by_device">Fotografiranje z %1$s</string>
      <string name="pad_dialog_tip_content_take_photo_by_phone">Uporaba kamere…</string>
@@ -736,6 +754,8 @@ Tapnite + da napravite mapo"</string>
      <string name="pc_todo_fast_create_hint">Vnesite besedilo in pritisnite \"Vhod\" za dodajanje nedokončanih nalog</string>
      <string name="pc_todo_set_remind_time_hint">Nastavite čas</string>
      <string name="permdesc_accessNote">Zlonamerne aplikacije lahko to uporabijo za dostop do vaših osebnih podatkov.</string>
+     <string name="permission_ai_desc_n">&lt;Data>Za zagotavljanje storitev umetne inteligence bo Beležka zbirala besedilo, ki ga vnesete, za ustvarjanje povzetkov in optimizacijo besedila. Preberite in se strinjate z našimi &lt;a href=\"%1$s\">Pravila o zasebnosti in Izjava o skupni rabi podatkov tretjih oseb&lt;/a> preden nadaljujete.&lt;/Data></string>
+     <string name="permission_ai_title">Storitve AI Beležka</string>
      <string name="permission_data_shared_desc">Beležka Izjava o skupni rabi podatkov tretjih oseb</string>
      <string name="permission_get_account_desc">Sinhroniziranje beležk z Mi Cloudom</string>
      <string name="permission_intro_contact">Za označevanje beležk posnetih med pogovorom</string>
@@ -824,6 +844,8 @@ Tapnite + da napravite mapo"</string>
      <string name="repeat_mode_set_title">Ponovi</string>
      <string name="repeat_mode_week">Vsak teden</string>
      <string name="repeat_mode_year">Vsako leto</string>
+     <string name="retry">Poskusi znova</string>
+     <string name="revoke_modifications">Razveljavi</string>
      <string name="rich_text_bold_description">Bold</string>
      <string name="rich_text_bulleted_list_description">Potrdilni okvir</string>
      <string name="rich_text_center_description">Sredina</string>
@@ -871,6 +893,7 @@ Tapnite + da napravite mapo"</string>
      <string name="select_up_limit_toast">Izberite do %d stvari</string>
      <string name="send">Pošlji</string>
      <string name="send_notifications_for_reminder">Za pošiljanje opomnikov</string>
+     <string name="sensitive_content_warn">"Ni mogoče ustvariti povzetka AI za občutljivo vsebino"</string>
      <string name="set_alarm_description">Nastavi alarm</string>
      <string name="setting_big_screen_layout_columns">Stranska vrstica</string>
      <string name="setting_big_screen_layout_flat">Ploščice</string>
@@ -919,6 +942,9 @@ Tapnite + da napravite mapo"</string>
      <string name="sns_toast_over_limit">Pošlji kot sliko</string>
      <string name="splash_note">Pisalo</string>
      <string name="stealth_mode_tip">"Ste brez beleženja zgodovine. Zdaj ne morem uporabljati mikrofona."</string>
+     <string name="suggested_delete">Predlog: Izbriši \"%1$s\"</string>
+     <string name="suggested_modifications">Predlog: Zamenjaj \"%1$s\" z \"%2$s\"</string>
+     <string name="summary">Povzetek</string>
      <string name="sunday">Nedelja</string>
      <string name="sunday_short">Ned</string>
      <string name="sunday_shortest">N</string>

@@ -83,7 +83,7 @@ vaših naprav?"</string>
      <string name="camera_associate_disconnecting">Prekinitev povezave s kamero telefona</string>
      <string name="camera_associate_failed">"Povezave s kamero ni bilo mogoče vzpostaviti"</string>
      <string name="camera_associate_success">Kamera povezana</string>
-     <string name="camera_choose_device">Izberite napravo</string>
+     <string name="camera_choose_device">Zamenjaj kamere</string>
      <string name="camera_connecting">"%s želi uporabiti kamero te naprave"</string>
      <string name="camera_connecting_device">Povezovanje z %s</string>
      <string name="camera_disassociate">Prekinjena povezava s kamero</string>
@@ -94,6 +94,12 @@ vaših naprav?"</string>
      <string name="car_air_con_back_switch_open">Vklopi klimatsko napravo za zadnji sedež</string>
      <string name="car_air_con_switch_close">Izklopi avtomobilsko klimatsko napravo</string>
      <string name="car_air_con_switch_open">Vklopi avtomobilsko klimatsko napravo</string>
+     <string name="car_camera_associate_connecting">Povezovanje z EV kamero</string>
+     <string name="car_camera_associate_disconnecting">Prekinitev povezave z EV kamero</string>
+     <string name="car_camera_device_name">%1$s sprednja kamera</string>
+     <string name="car_camera_unavailable_dialog_message">"Vklopljen je način nizke porabe energije ali način zasebnosti. V vaši mobilni napravi trenutno ni mogoče videti vira sprednje kamere vozila."</string>
+     <string name="car_camera_unavailable_dialog_positive_button">Razumem</string>
+     <string name="car_camera_unavailable_dialog_title">"Ne morem uporabiti kamere"</string>
      <string name="car_card_air_control_backseat_air">Zadnji sedeži</string>
      <string name="car_card_air_temperature_minus">Znižaj temperaturo</string>
      <string name="car_card_air_temperature_plus">Zvišaj temperaturo</string>
@@ -126,6 +132,8 @@ vaših naprav?"</string>
      <string name="character_counter_overflowed_content_description">Omejitev znakov je presegla %1$d od %2$d</string>
      <string name="circulate_audio_group_title">Predvajanje…</string>
      <string name="circulate_back_button_content_description">Nazaj</string>
+     <string name="circulate_car_card_use_camera">Uporabi EV kamero</string>
+     <string name="circulate_car_card_using_camera">Uporaba EV kamere</string>
      <string name="circulate_card_disconnect">Prekini povezavo</string>
      <string name="circulate_card_loading_title_audio_stereo">Stereo sistem</string>
      <string name="circulate_card_loading_title_band">Frekvenca</string>
@@ -231,7 +239,7 @@ za zrcaljenje zaslona tega tabličnega računalnika"</string>
 2. Pritisnite in držite gumb na ohišju.
 3. Dokončajte seznanjanje na ciljni napravi."</string>
      <string name="circulate_headset_back_to_box_desc_err_308">Če želite prenašati predvajanje med napravami, najprej seznanite slušalke s televizorjem.</string>
-    <string name="circulate_headset_back_to_box_desc_err_310">"%1$d. Pritisnite gumb za vklop na daljinskem upravljalniku televizorja, da odklopite zvočnike.
+     <string name="circulate_headset_back_to_box_desc_err_310">"%1$d. Pritisnite gumb za vklop na daljinskem upravljalniku televizorja, da odklopite zvočnike.
 %2$d. Poskusite znova priključiti slušalke, ko zaslon zasveti."</string>
      <string name="circulate_headset_back_to_box_desc_pad">"1. Obe slušalki vstavite v etui.
 2. Pritisnite in držite gumb na ohišju.
@@ -420,6 +428,7 @@ vaših naprav?"</string>
      <string name="device_permission_authorize_dialog_message">Ko bo to dovoljenje podeljeno, bo ta naprava lahko uporabljala %s za fotografiranje in snemanje videoposnetkov.</string>
      <string name="device_permission_authorize_dialog_title">Podelite dovoljenja za kamero %s</string>
      <string name="device_permission_dialog_message">Odprite Nastavitve > Medsebojna povezljivost > Medsebojna povezljivost in dovoljenja na %s in najprej podelite dovoljenja za kamero.</string>
+     <string name="device_permission_dialog_message_car">Dostop do kamere lahko dovolite v Nastavitve > Sistem > Upravljanje aplikacij > Posebna dovoljenja > Medsebojna povezljivost z %s.</string>
      <string name="device_permission_dialog_positive_button">Razumem</string>
      <string name="device_permission_dialog_title">Podelite dovoljenja za %s</string>
      <string name="device_type_name_pad">Tablica</string>

@@ -134,6 +134,12 @@
      <string name="afternoon">pop.</string>
      <string name="agreement_desc">Pogoji uporabe (obvezno)</string>
      <string name="alaka_required">Morate plačati za poslušanje te pesmi</string>
+     <string name="alarm_clock_album_modify_fail">"Ne morem zamenjati"</string>
+     <string name="alarm_clock_audio_name">Jutranje vreme</string>
+     <string name="alarm_clock_audio_text_city">Danes je %1$s, vreme je: %2$s.</string>
+     <string name="alarm_clock_audio_text_date">Dobro jutro! Danes je %1$s.</string>
+     <string name="alarm_clock_audio_text_temperature">Temperatura: %1$s</string>
+     <string name="alarm_clock_click_hint">"Tapnite za poslušanje današnjega vremena"</string>
      <string name="alarm_clock_recommend_desc">Vsak dan se zbudite ob novi pesmi</string>
      <string name="alarm_clock_recommend_switch">Priporočen alarm za pesem</string>
      <string name="alarm_clock_ringtones_successful">Alarm uspešno nastavljen</string>
@@ -172,6 +178,7 @@
      <string name="am">dop.</string>
      <string name="android_sdk_too_low">"Vaša Android verzija je zastarela, aplikacija Glasba se ne more posodobiti. Posodobite sistem Android."</string>
      <string name="apk_filter">APK</string>
+     <string name="app_closed_toast">Dinamični pokrovi so izklopljeni</string>
      <string name="app_description_content">"Glasba je sistemska aplikacija, ki vsebuje zvočni predvajalnik in omogoča upravljanje zvočnih datotek. Če odstranite bližnjico na začetnem zaslonu, boste lahko še vedno predvajali zvočne datoteke."</string>
      <string name="app_description_title">Odstranim \"Glasba\" iz začetnega zaslona?</string>
      <string name="app_disable_description_content">Mi Music je sistemska aplikacija. Če jo onemogočite, lahko to vpliva na vašo uporabo drugih aplikacij. Vseeno onemogočim?</string>
@@ -185,6 +192,7 @@
      <string name="app_notify_dialog_path_8">Nastavitve > Obvestila &amp; vrstica stanja > Obvestila aplikacij > Glasba</string>
      <string name="app_notify_dialog_subtitle">Vklopite obvestila za Mi glasbo, da boste lahko upravljali predvajanje glasbe v plošči obvestil.</string>
      <string name="app_notify_dialog_title">Potrebna so dovoljenja</string>
+     <string name="app_opened_toast">Dinamični pokrovi so vklopljeni</string>
      <string name="app_permission_confirm">Razumem</string>
      <string name="app_permission_optional">Izbirna dovoljenja</string>
      <string name="app_permission_require">Obvezna dovoljenja</string>
@@ -1468,6 +1476,7 @@ To kodo pošljite nadzorniku."</string>
      <string name="network_request_error">Povezave z omrežjem ni mogoče vzpostaviti</string>
      <string name="network_settings_error">Povezave z omrežjem ni mogoče vzpostaviti</string>
      <string name="network_timeout_info">"Ne morem vzpostaviti povezave z omrežjem. Poskusi ponovno."</string>
+     <string name="network_tip_title">Pretakajte svet nove glasbe</string>
      <string name="network_traffic">Uporaba podatkov</string>
      <string name="new_avatar_title_create">Izberite fotografijo</string>
      <string name="new_button_female">Ženska</string>
@@ -1538,6 +1547,8 @@ To kodo pošljite nadzorniku."</string>
      <string name="nowplaying_circle_style_wave">Val</string>
      <string name="nowplaying_dialog_title_delete_tracks">Odstranim pesem iz čakalne vrste?</string>
      <string name="nowplaying_menu_item_delete">Odstrani</string>
+     <string name="nowplaying_menu_item_gif_close">Vklopi dinamične naslovnice</string>
+     <string name="nowplaying_menu_item_gif_open">Izklopi dinamične naslovnice</string>
      <string name="number_custom">prilagodi</string>
      <string name="offline_notification_text">Dotaknite se, da odprete oglas</string>
      <string name="offline_notification_title">Oglejte si oglas, ki ste ga shranili, ko ste bili brez povezave</string>
@@ -1957,7 +1968,8 @@ Preberite in se strinjajte z &lt;a href=\"%2$s\">Pogoji uporabe&lt;/a> in &lt;a 
      <string name="read_and_agree_asm_protocol"><Data>Prebral sem in se strinjam z &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">ASM Pravila o zasebnosti&lt;/a>&lt;/font> da lahko uporabljam spletne glasbene storitve.</Data></string>
      <string name="read_and_agree_hungama_protocol"><Data>"Prebral sem in se strinjam z &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">Hungama Pravila o zasebnosti&lt;/a>&lt;/font>"</Data></string>
      <string name="read_and_agree_joox_protocol"><Data>"Prebral sem in se strinjam z &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">JOOX Pravila o zasebnosti&lt;/a>&lt;/font>"</Data></string>
-     <string name="read_and_agree_mi_protocol"><Data>"Prebral sem in se strinjam Xiaomi &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">Pogoji uporabe&lt;/a>&lt;/font> in &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%2$s\">Pravila o zasebnosti&lt;/a>&lt;/font>"</Data></string>
+     <string name="read_and_agree_mi_protocol"><Data>"Prebral sem in se strinjam z Xiaomi &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">Pogoji uporabe&lt;/a>&lt;/font> in &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%2$s\">Pravila o zasebnosti&lt;/a>&lt;/font>"</Data></string>
+     <string name="read_and_agree_protocol">Preberite in se strinjajte z Pogoji uporabe in Pravila o zasebnosti preden nadaljujete.</string>
      <string name="ready_to_play">Naprej</string>
      <string name="really_pay">Plačati zdaj?</string>
      <string name="recently_played">Nedavno predvajano</string>
@@ -2117,6 +2129,7 @@ Bodite srečni"</string>
      <string name="set_ringtones_failed">Ni bilo mogoče nastaviti melodije zvonjenja</string>
      <string name="set_ringtones_successful">%s nastavi za zvonjenje</string>
      <string name="setting_feature_setting">Izbrane nastavitve</string>
+     <string name="setting_open">Vklopi</string>
      <string name="settings">Nastavitve</string>
      <string name="settings_search_key_notification">Obvestila glasbe;Glasba;Obvestila;pesmi</string>
      <string name="settings_search_path_advance">Aplikacije sistema/Glasba/Storitev in nastavitve/Dodatne nastavitve</string>
@@ -2259,6 +2272,7 @@ Bodite srečni"</string>
      <string name="supplementary_songs">Dodatne pesmi</string>
      <string name="sure">Potrjeno</string>
      <string name="swipe_for_more">Povlecite navzgor za več glasbenih videov</string>
+     <string name="swipe_to_exit">Ponovno povlecite za izhod</string>
      <string name="switch_success">Uspešno zamenjano</string>
      <string name="sync_only_in_wifi">Sinhr. samo preko WiFi-ja</string>
      <string name="sync_only_in_wifi_summary">Sinhronizirajte svojo glasbo na vseh napravah z Mi Cloudom. Uporaba mobilne podatkovne povezave za sinhronizacijo glasbe bo povečala uporabo podatkov. Vaš operater vam to lahko računa.</string>

@@ -290,6 +290,7 @@ Pošljite to kodo nadzorniku."</string>
      <string name="miuix_appcompat_actionbar_immersion_button_more_description">Več</string>
      <string name="miuix_appcompat_cancel_description">Prekliči</string>
      <string name="miuix_appcompat_cloud_state_disabled">Sinhronizacija z Cloudom je izključena</string>
+     <string name="miuix_appcompat_cloud_state_encrypt_disabled">Za sinhronizacijo stvari vklopite zaščito od konca do konca</string>
      <string name="miuix_appcompat_cloud_state_finished">Sinhronizacija z Cloudom je končana</string>
      <string name="miuix_appcompat_cloud_state_syncing">Sinhronizacija z Cloudom…</string>
      <string name="miuix_appcompat_confirm_description">Potrdi</string>
@@ -585,7 +586,14 @@ Tapnite \"%1$s\" in izberite \"%2$s\"."</string>
      <string name="photoPickerNotFoundText">Ni slik.</string>
      <string name="play_speed">%1$.1fX hitrost</string>
      <string name="playback_delete_records">Izbriši posnetek</string>
+     <string name="playback_menu_hide_speaker">Skrij imena zvočnikov</string>
+     <string name="playback_menu_rerecognize">Ponovno prepišite</string>
+     <string name="playback_menu_share">Deljenje</string>
+     <string name="playback_menu_show_speaker">Pokaži imena zvočnikov</string>
+     <string name="playback_menu_to_note">Save to Notes</string>
      <string name="playback_share_records">Deli posnetek</string>
+     <string name="playback_tabs_audio">Zvok</string>
+     <string name="playback_tabs_text">Besedilo</string>
      <string name="pm">pop.</string>
      <string name="preference_clear_data">Izbriši</string>
      <string name="preference_copied">\"%1$s\" je kopiran v odložišče.</string>
@@ -603,8 +611,13 @@ Tapnite \"%1$s\" in izberite \"%2$s\"."</string>
      <string name="preference_silent_mode">Izključi zvok zvonjenja med snemanjem</string>
      <string name="preference_status_bar_indicator_prompt">Pokaži bližnjico v obvestilni vrstici med snemanjem</string>
      <string name="preference_tip_rename">Ročno poimenuj posnetek</string>
+     <string name="privacy_dialog_content">"Če nadaljujete, boste umaknili svoje soglasje s pravilnikom o zasebnosti Snemalnika. Prenehali bomo zbirati vaše osebne podatke. Že zbrani in shranjeni osebni podatki bodo izbrisani v določenem roku v skladu z veljavnimi zakoni in predpisi, razen če se zahteva drugače. Ker Snemalnik zagotavlja svoje storitve na podlagi zbiranja potrebnih osebnih podatkov, bo vaš umik soglasja obravnavan kot zavrnitev sprejemanja storitev Snemalnik. Preklic soglasja ne bo izbrisal posnetkov, shranjenih v vaši napravi. Umaknem soglasje?"</string>
+     <string name="privacy_dialog_negative_button">Preklic</string>
+     <string name="privacy_dialog_positive_button">Prekliči</string>
+     <string name="privacy_dialog_title">Preklic soglasja</string>
      <string name="privacy_policy_title">Pravila o zasebnosti</string>
      <string name="privacy_settings">Zasebnost</string>
+     <string name="privacy_withdraw">Preklic soglasja</string>
      <string name="progress">Vrstica napredovanja predvajanja</string>
      <string name="progressbar_title">Preverjanje varnostnih težav…</string>
      <string name="protocal_dialog_confirm">Strinjam se</string>
@@ -630,6 +643,8 @@ Tapnite \"%1$s\" in izberite \"%2$s\"."</string>
      <string name="recognition_error_stopped">Prepoznavanje ustavljeno</string>
      <string name="recognition_error_unknown">Neznana napaka. Prijavite nam to in poskusite ponovno.</string>
      <string name="recognition_interrupt_current_dialog_body">"Prepoznavanje lahko traja nekaj časa. Po koncu dobite obvestilo. \"%s\" se zdaj prepoznava. Dodam v vrsto?"</string>
+     <string name="recognition_language_dialog_cancel">Prekliči</string>
+     <string name="recognition_language_dialog_title">Izberite izvorni jezik</string>
      <string name="recognition_notification_channel">Prepoznavanje</string>
      <string name="recognition_notification_complete_success">Prepoznavanje \"%s\" je uspelo. Tapni za prikaz.</string>
      <string name="recognition_notification_error">"Ne morem prepoznati \"%s\""</string>
@@ -651,7 +666,9 @@ Tapnite \"%1$s\" in izberite \"%2$s\"."</string>
      <string name="recognize_choose_dialog_service_desp">Storitve prepisa zagotavlja iflyrec.com</string>
      <string name="recognize_choose_dialog_service_intruction">Pogoji uporabe</string>
      <string name="recognize_choose_dialog_title">Izberite način prepisa</string>
+     <string name="recognize_complete_toast">Transkripcija končana</string>
      <string name="recognize_extra_price_desp">(Ekskluzivno za Mi uporabnike)</string>
+     <string name="recognizing_not_rename">"Med snemanjem ni mogoče preimenovati"</string>
      <string name="record">Snemaj</string>
      <string name="record_back_pressed_hint">Za zaustavljanje snemanja še enkrat tapnite Nazaj</string>
      <string name="record_download">Prenesite iz Mi Clouda</string>
@@ -722,6 +739,8 @@ Tapnite \"%1$s\" in izberite \"%2$s\"."</string>
      <string name="rename_duplicate">Posnetek z enakim imenom že obstaja.</string>
      <string name="rename_fail_tip">"Ne morem preimenovati. Stvar z istim imenom že obstaja."</string>
      <string name="rename_no_more_tip">"Ne kaži več"</string>
+     <string name="rename_speaker_dialog_checkbox">Posodobi samo v trenutnem razdelku</string>
+     <string name="rename_speaker_dialog_title">Preimenuj zvočnik</string>
      <string name="request_agree">Dovoli</string>
      <string name="request_camera_permission_message">"Vaše osebne podatke bomo varovali v skladu z veljavnimi zakoni in predpisi. Ta aplikacija za normalno delovanje potrebuje naslednja dovoljenja:&lt;br>&lt;br>&lt;b>Uporaba kamere (za nastavitev fotografije profila)&lt;/b>&lt;br>&lt;br>Če se ne strinjate z dodelitvijo takih dovoljenj, ne boste mogli uporabljati nekaterih storitev te aplikacije; vendar vam bo njena osnovna funkcionalnost še vedno na voljo. Dovoljenja lahko kadar koli omejite ali prekličete pooblastilo v nastavitvah."</string>
      <string name="request_cancel">Prekliči</string>
@@ -729,11 +748,16 @@ Tapnite \"%1$s\" in izberite \"%2$s\"."</string>
      <string name="request_error_network">Prišlo je do omrežne napake. Preverite omrežne nastavitve in poskusite znova.</string>
      <string name="request_error_unknown">Prišlo je do sistemske napake. Pojdite nazaj in poskusite znova.</string>
      <string name="request_gallery_permission_message">Dovolite dostop do Galerija:&lt;br />Za nastavitev profilnih fotografij</string>
+     <string name="rerecognize_dialog_message">Naša posodobljena storitev prepisovanja lahko samodejno prepozna zvočnike in prelome stavkov. Za uporabo teh novih storitev znova prepišite to stvar.</string>
+     <string name="rerecognize_dialog_negative_button">Ne zdaj</string>
+     <string name="rerecognize_dialog_positive_button">Prepiši</string>
+     <string name="rerecognize_dialog_title">Ponovno prepišem?</string>
      <string name="resend_active_email">Ponovno pošlji</string>
      <string name="resend_email_reach_limit_message">Zahtevali ste preveč preverjanj po e-pošti. Poglejte ali e-pošta za preverjanje ni mogoče v mapi Vsiljena pošta.</string>
      <string name="resend_email_reach_limit_title">Preveč poskusov</string>
      <string name="resend_email_success">Uspešno poslano</string>
      <string name="retry">Poskusite znova</string>
+     <string name="retry_toast">Prišlo je do napake v omrežju. Poskusite ponovno.</string>
      <string name="runtime_permission_ungranted">"Ne morem uporabiti snemanja zaradi nepridobljenega dovoljenja"</string>
      <string name="saf_permission_dialog_content">Zaradi omejitev Androida Snemanje potrebuje dovoljenje za dostop do posnetkov, ki so jih naredile druge aplikacije. Dovolite Snemanje dostop do teh posnetkov?</string>
      <string name="saf_permission_dialog_grant_permission_immediately">Nastavitve</string>
@@ -782,6 +806,15 @@ Tapnite \"%1$s\" in izberite \"%2$s\"."</string>
      <string name="stop_status_focus_notification">Končano</string>
      <string name="storage_permission_dialog_title">Potrebna so dovoljenja za shrambo</string>
      <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
+     <string name="summary_content_need_deal">Naloge</string>
+     <string name="summary_content_result_content">Glavna vsebina</string>
+     <string name="summary_content_theme">Tema</string>
+     <string name="summary_copy">Kopirano</string>
+     <string name="summary_error_limit_tip">Vaša uporaba te storitve je bila blokirana</string>
+     <string name="summary_error_tip">"Ne morem povzeti občutljive ali žaljive vsebine"</string>
+     <string name="summary_information_tip">Zgornja vsebina je ustvarjena z umetno inteligenco in je na voljo samo za vašo referenco.</string>
+     <string name="summary_size_max_tip">Preveč vsebine za povzetek</string>
+     <string name="summary_size_min_tip">Premalo vsebine za povzetek</string>
      <string name="sunday">Nedelja</string>
      <string name="sunday_short">Ned</string>
      <string name="sunday_shortest">N</string>
@@ -825,6 +858,7 @@ Tapnite \"%1$s\" in izberite \"%2$s\"."</string>
      <string name="toast_uninstall_fileexplorer">"Aplikacija Raziskovalec ni nameščena"</string>
      <string name="today">Danes</string>
      <string name="tomorrow">Jutri</string>
+     <string name="translation_language">Izberite ciljni jezik</string>
      <string name="trash_box">Nedavno izbrisane stvari</string>
      <string name="trash_box_close_tip">Zapri povpraševanje</string>
      <string name="trash_box_delete_all">Trajno izbrišem vse stvari iz smeti?</string>
@@ -838,6 +872,7 @@ Tapnite \"%1$s\" in izberite \"%2$s\"."</string>
      <string name="update_email_address_dialog_message">Pred posodobitvijo obnovitvenega e-naslova morate potrditi svojo identiteto.</string>
      <string name="update_email_address_dialog_title">Posodobi obnovitveni e-poštni naslov</string>
      <string name="usage_description">Prepisovanje zvoka in sinhroniziranje stvari z Mi Cloudom</string>
+     <string name="user_agreement">Pogoji uporabe</string>
      <string name="user_agreement_hint_3rd_app"><Data>"Prebral sem in se strinjam z &lt;a href=%1$s>Pogoji uporabe&lt;/a> in &lt;a href=%2$s>Pravila o zasebnosti&lt;/a> in Mi račun &lt;a href=%3$s>Pogoji uporabe&lt;/a> in &lt;a href=%4$s>Pravila o zasebnosti&lt;/a>."</Data></string>
      <string name="user_agreement_hint_3rd_app_mobile"><Data>"Prebral sem in se strinjam z &lt;a href=%1$s>Pogoji uporabe&lt;/a> in &lt;a href=%2$s>Pravila o zasebnosti&lt;/a>, Mi račun &lt;a href=%3$s>Pogoji uporabe&lt;/a> in &lt;a href=%4$s>Pravila o zasebnosti&lt;/a>, kot tudi &lt;a href=%5$s>Pravila in pogoji storitev preverjanja China Mobile&lt;/a>."</Data></string>
      <string name="user_agreement_hint_3rd_app_with_telecom"><Data>"Prebral sem in se strinjam z &lt;a href=%1$s>Pogoji uporabe&lt;/a> in &lt;a href=%2$s>Pravila o zasebnosti&lt;/a>, Mi račun &lt;a href=%3$s>Pogoji uporabe&lt;/a> in &lt;a href=%4$s>Pravila o zasebnosti&lt;/a>, kot tudi &lt;a href=%5$s>Pravila in pogoji storitev preverjanja računa eSurfing&lt;/a>."</Data></string>

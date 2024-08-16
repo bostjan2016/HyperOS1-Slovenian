@@ -184,6 +184,10 @@
      <string name="help_content">"Če ne najdete naprave, ki jo potrebujete, prosite drugo osebo, da vklopi Mi Share."</string>
      <string name="hide">Skrij</string>
      <string name="i_know">Razumem</string>
+     <string name="international_privacy_dialog_agree">Strinjam se</string>
+     <string name="international_privacy_dialog_content">"Medtem ko uporabljate to aplikacijo, moramo zbrati potrebne podatke, da se lahko povežemo z napravami in prenesemo datoteke. Če se odločite, da teh informacij ne želite posredovati, vam morda ne bomo mogli zagotoviti ustreznih storitev ali odgovoriti na vaša vprašanja. Zahtevo za preklic soglasja lahko oddate kadar koli v Zasebnost > Preklic soglasja."</string>
+     <string name="international_privacy_dialog_disagree">"Ne strinjam se"</string>
+     <string name="international_privacy_dialog_title">Xiaomi Deljenje</string>
      <string name="lenovo_phone">Lenovo telefon</string>
      <string name="location_enabled">Vključena je storitev lociranja za iskanje naprav v bližini</string>
      <string name="menu_item_permission_manager_and_use_guide_title">Podrobnosti o dovoljenjih</string>
