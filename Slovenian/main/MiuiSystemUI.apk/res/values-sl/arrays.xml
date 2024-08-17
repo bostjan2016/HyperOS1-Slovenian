@@ -10,6 +10,7 @@
         <item>, aktivno</item>
         <item>, aktivno (predstavnosti)</item>
         <item>, aktivno (telefon)</item>
+     </string-array>
      <string-array name="clock_options">
         <item>Pokaži ure, minute in sekunde</item>
         <item>Pokaži ure in minute (privzeto)</item>
@@ -195,7 +196,7 @@
         <item>Ni na voljo</item>
         <item>Izključeno</item>
         <item>Vključeno</item>
- </string-array>          
+     </string-array>          
      <string-array name="udfps_accessibility_touch_hints">
         <item>Levo</item>
         <item>Dol</item>
