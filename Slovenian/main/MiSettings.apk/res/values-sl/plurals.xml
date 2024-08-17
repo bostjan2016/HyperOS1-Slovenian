@@ -64,6 +64,62 @@
         <item quantity="other">pred %d min</item>
         <item quantity="one">pred 1 minuto</item>
      </plurals>
+     <plurals name="pcl_add_account_ignore_with_seconds">
+        <item quantity="other">Ne zdaj (%ds)</item>
+        <item quantity="one">Ne zdaj (%ds)</item>
+     </plurals>
+     <plurals name="pcl_install_check_count_down">
+        <item quantity="other">Odštevanje: %d sek</item>
+        <item quantity="one">Odštevanje: %d sek</item>
+     </plurals>
+     <plurals name="pcl_mixed_recording_incorrect_too_short">
+        <item quantity="other">Vnesite vsaj %d znakov</item>
+        <item quantity="one">Vnesite vsaj %d znak</item>
+     </plurals>
+     <plurals name="pcl_number_locked">
+        <item quantity="other">%d aplikacij zaklenjeno</item>
+        <item quantity="one">%d aplikacija zaklenjena</item>
+     </plurals>
+     <plurals name="pcl_number_to_lock">
+        <item quantity="other">%d aplikacij ni zaklenjeno</item>
+        <item quantity="one">%d aplikacija ni zaklenjena</item>
+     </plurals>
+     <plurals name="pcl_numeric_recording_incorrect_too_short">
+        <item quantity="other">Vnesite vsaj %d števk</item>
+        <item quantity="one">Vnesite vsaj %d števko</item>
+     </plurals>
+     <plurals name="pcl_passport_re_get_verify_code_with_seconds">
+        <item quantity="other">Ponovno pošlji (%ds)</item>
+        <item quantity="one">Ponovno pošlji (%ds)</item>
+     </plurals>
+     <plurals name="pcl_privacy_policy_revoke_button_with_seconds">
+        <item quantity="other">Preklic (%ds)</item>
+        <item quantity="one">Preklic (%ds)</item>
+     </plurals>
+     <plurals name="pcl_recording_incorrect_too_short">
+        <item quantity="other">Povežite vsaj %d pike</item>
+        <item quantity="one">Povežite vsaj %d piko</item>
+     </plurals>
+     <plurals name="pcl_recording_intro_header_new">
+        <item quantity="other">Povežite vsaj %d pike</item>
+        <item quantity="one">Povežite vsaj %d piko</item>
+     </plurals>
+     <plurals name="pcl_set_unlock_pin_summary_new">
+        <item quantity="other">Vnesite %s številk</item>
+        <item quantity="one">Vnesite %s številko</item>
+     </plurals>
+     <plurals name="pcl_too_many_failed_confirmation_attempts_footer">
+        <item quantity="other">Počakajte %d sekund in poskusite znova.</item>
+        <item quantity="one">Počakajte %d sekundo in poskusite znova.</item>
+     </plurals>
+     <plurals name="pcl_unbind_email_confirm_with_seconds">
+        <item quantity="other">Odstrani (%ds)</item>
+        <item quantity="one">Odstrani (%ds)</item>
+     </plurals>
+     <plurals name="pcl_unlock_pattern_summary_new">
+        <item quantity="other">Povežite vsaj %d pike</item>
+        <item quantity="one">Povežite vsaj %d piko</item>
+     </plurals>
      <plurals name="steady_on_screen_notification_summary">
         <item quantity="other">"Napravo ste uporabljali %d minut neprekinjeno"</item>
         <item quantity="one">"Napravo ste uporabljali %d minuto neprekinjeno"</item>

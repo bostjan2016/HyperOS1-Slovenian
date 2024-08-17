@@ -68,6 +68,7 @@
      <string name="app_info_version_replace">Verzija: %1$s -> %2$s</string>
      <string name="app_installing_not_allow">"Blokirali ste namestitev %1$s. "</string>
      <string name="app_installing_not_allow_1">"%1$s je blokirana namestitev aplikacije. "</string>
+     <string name="app_installing_not_allow_2">Namestitev je bila blokirana. Poiščite \"Namesti neznane aplikacije\" v nastavitvah, da spremenite svoje nastavitve.</string>
      <string name="app_name">Orodje za namestitev paketa.</string>
      <string name="app_not_found_dlg_text">Aplikacije ni bilo mogoče najti na seznamu nameščenih aplikacij.</string>
      <string name="app_not_found_dlg_title">Aplikacije ni bilo mogoče najti.</string>
