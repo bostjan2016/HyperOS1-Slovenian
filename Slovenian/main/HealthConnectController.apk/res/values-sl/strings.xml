@@ -579,7 +579,7 @@ Kliknite Nadaljuj, da znova odprete aplikacijo in nadaljujete s prenosom podatko
      <string name="paragliding">Jadralno padalstvo</string>
      <string name="password_toggle_content_description">Prikaz gesla</string>
      <string name="pause">Premor</string>
-     <string name="percent" formatted="false">{value,plural, =1{1 %}one{# %}two{# %}few{# %}other{# %}}</string>
+     <string formatted="false" name="percent">{value,plural, =1{1 %}one{# %}two{# %}few{# %}other{# %}}</string>
      <string name="percent_long">{value,plural, =1{1 odstotek}one{# odstotek}two{# odstotka}few{# odstotki}other{# odstotkov}}</string>
      <string name="period_day">%1$d. dan menstruacije od %2$d</string>
      <string name="permdesc_readCaloriesBurned">Aplikaciji omogoča branje porabljenih kalorij</string>

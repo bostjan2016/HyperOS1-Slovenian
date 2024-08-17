@@ -890,7 +890,7 @@ To težavo lahko povzroči dvostopenjsko preverjanje pristnosti računa. Poskusi
      <string name="ntes_had_send">Sporočilo poslano</string>
      <string name="ntes_had_send_to_content">"Če ste s povezane telefonske številke že poslali sporočilo SMS, tapnite \"Sporočilo poslano\" za nadaljevanje."</string>
      <string name="ntes_login_auth_too_much">"Ne morem dodati več kot 5 kod za preverjanje. Prijavite se v mapo »Prejeto« v računalniku in izbrišite kode, ki jih niste uporabili."</string>
-     <string name="ntes_login_error_message" formatted="false">"Ne morem dobiti podatkov o računu (Napaka %s). %s."</string>
+     <string formatted="false" name="ntes_login_error_message">"Ne morem dobiti podatkov o računu (Napaka %s). %s."</string>
      <string name="ntes_password_error_hint">"Če se med vnosom gesla pojavijo napake, zaprite to stran in jo znova odprite."</string>
      <string name="ntes_phone_send">Pošlji besedilno sporočilo s povezane telefonske številke</string>
      <string name="ntes_send_to">Pošlji: %s</string>

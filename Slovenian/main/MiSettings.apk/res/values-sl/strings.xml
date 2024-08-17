@@ -262,7 +262,7 @@ niso ustvarjene v drugem prostoru"</string>
      <string name="focus_mode_timer_add_limit">Lahko dodate do %d lastnih časovnikov</string>
      <string name="focus_mode_timer_delete">Izbriši</string>
      <string name="focus_mode_timer_exist">Ta seja že obstaja</string>
-     <string name="focus_mode_timer_pick_dialog_summary" formatted="false">%d do %d min</string>
+     <string formatted="false" name="focus_mode_timer_pick_dialog_summary">%d do %d min</string>
      <string name="focus_mode_timer_pick_dialog_title">Vnesite trajanje</string>
      <string name="focus_time_exception_tip">Kaže da je zamenjan sistemski čas. Izključite način fokusiranja.</string>
      <string name="follow_apps_settings">Na podlagi nastavitev aplikacije</string>
@@ -747,7 +747,7 @@ več časa"</string>
      <string name="usage_app_limit_reach_summay">%s ostalo</string>
      <string name="usage_app_limit_reach_summay_new">Tapnite za dodajanje %d min</string>
      <string name="usage_app_limit_reach_title">%s dosega svojo časovno omejitev zaslona</string>
-     <string name="usage_app_limit_reach_title_new" formatted="false">Ostalo časa zaslona za %1s: %2s</string>
+     <string formatted="false" name="usage_app_limit_reach_title_new">Ostalo časa zaslona za %1s: %2s</string>
      <string name="usage_app_limit_summary">"Izbrane aplikacije ne bodo na voljo, ko bo dosežena omejitev"</string>
      <string name="usage_app_limit_title">Omejite čas zaslona</string>
      <string name="usage_app_other_settings">Dodatne nastavitve</string>
@@ -804,7 +804,7 @@ Za normalno delovanje aplikacija potrebuje dovoljenja za zbiranje podatkov: koli
 Aplikacija potrebuje povezavo s spletom in dovoljenje za dostop do osebnih podatkov:"</string>
      <string name="usage_home_premission_second_summary">Za normalno delovanje mora aplikacija zbrati vaše osebne podatke. Zaščitili bomo vaše osebne podatke v skladu z zakoni, predpisi in pravili o zasebnosti.</string>
      <string name="usage_home_premission_second_summary_double_link_prefix">"Zaščitili bomo vaše osebne podatke skladno z zakoni, predpisi in pravili o zasebnosti. Če ne daste dovoljenj ne boste mogli uporabljati te aplikacije. Lahko prekličete avtorizacijo v Čas zaslona &gt; Nastavitve &gt; Izklopi čas zaslona."</string>
-     <string name="usage_home_premission_second_summary_double_link_suffix" formatted="false">"Pred uporabo aplikacije preberite in se strinjajte z &amp;lt;a href='%1s'&amp;gt;Pogoji uporabe&amp;lt;/a&amp;gt; in &amp;lt;a href='%2s'&amp;gt;Pravila o zasebnosti&amp;lt;/a&amp;gt;."</string>
+     <string formatted="false" name="usage_home_premission_second_summary_double_link_suffix"><Data>"Pred uporabo aplikacije preberite in se strinjajte z &amp;lt;a href='%1s'&amp;gt;Pogoji uporabe&amp;lt;/a&amp;gt; in &amp;lt;a href='%2s'&amp;gt;Pravila o zasebnosti&amp;lt;/a&amp;gt;."</string>
      <string name="usage_home_premission_second_summary_new">"Zaščitili bomo vaše osebne podatke v skladu z relevantnimi zakoni, predpisi in pravili o zasebnosti. Če ne daste dovoljenj za vaše osebne podatke ne boste mogli uporabljati aplikacije. Lahko prekličete avtorizacijo v Čas zaslona &gt; Nastavitve &gt; Izključi čas zaslona. Več informacij na privacy@xiaomi.com."</string>
      <string name="usage_new_category_limit_summary">Nastavite dnevne omejitve uporabe za vse aplikacije v tej kategoriji</string>
      <string name="usage_new_category_limit_title">Omejite uporabo za kategorijo aplikacij</string>
@@ -852,7 +852,7 @@ Aplikacija potrebuje povezavo s spletom in dovoljenje za dostop do osebnih podat
      <string name="usage_optional_title">Izbirna dovoljenja</string>
      <string name="usage_permisison_agree_desc_o">Da bi vam zagotovila statistične podatke o zaslonu, mora ta aplikacija zbrati naslednje podatke: kolikokrat odklenete napravo, seznam vaših aplikacij skupaj z trajanjem uporabe.</string>
      <string name="usage_permisison_agree_desc_p">Za zagotovitev statističnih podatkov o času zaslona in načinu ostrenja mora ta aplikacija zbrati naslednje podatke: številko za odklepanje naprave, seznam aplikacij skupaj s primernim časom uporabe, številko svetlosti zaslona in nastavitvami načina ostrenja.</string>
-     <string name="usage_permission_double_link" formatted="false">"<Data>"Ta aplikacija se mora povezati s spletom in zbrati zahtevane osebne podatke, da lahko normalno deluje. Če želite v celoti razumeti svoje pravice kot uporabnik in načine, kako uporabljamo vaše podatke, preberite in se strinjate z &lt;a href='%1s'>Pogoji uporabe&lt;/a> in &lt;a href='%2s'>Pravila o zasebnosti&lt;/a>."</Data>"</string>
+     <string formatted="false" name="usage_permission_double_link"><Data>"Ta aplikacija se mora povezati s spletom in zbrati zahtevane osebne podatke, da lahko normalno deluje. Če želite v celoti razumeti svoje pravice kot uporabnik in načine, kako uporabljamo vaše podatke, preberite in se strinjate z &lt;a href='%1s'>Pogoji uporabe&lt;/a> in &lt;a href='%2s'>Pravila o zasebnosti&lt;/a>."</Data>"</string>
      <string name="usage_permission_main_desc">"Dobrodošli v čas zaslona!
 Ta aplikacija se mora povezati s spletom in za normalno delovanje potrebuje naslednja dovoljenja:"</string>
      <string name="usage_permission_title">Pozor</string>

@@ -613,7 +613,7 @@ Prepričajte se, da uporabljate povezani račun Xiaomi kot sistemski račun"</st
      <string name="permission_status_allow">Dovoljeno</string>
      <string name="permission_status_deny">Ni dovoljeno</string>
      <string name="permission_status_loading">Dostop do stanja naprave…</string>
-     <string name="phone_guarantee_service_description" formatted="false">Zaščito pred poškodbami zaslona in nesrečami lahko kupite v %d dneh po aktivaciji. Podaljšano garancijo je mogoče kupiti v %d dneh po aktivaciji.</string>
+     <string formatted="false" name="phone_guarantee_service_description">Zaščito pred poškodbami zaslona in nesrečami lahko kupite v %d dneh po aktivaciji. Podaljšano garancijo je mogoče kupiti v %d dneh po aktivaciji.</string>
      <string name="phone_guarantee_service_name">Garancija na napravo</string>
      <string name="picker_list_empty">Tu ni stikov</string>
      <string name="picker_search_empty">"Ne najdem stikov"</string>

@@ -160,7 +160,7 @@ Poskusite ustvariti sliko AI z drugimi fotografijami."</string>
      <string name="ai_create_image_fail_by_net">"Ne morem ustvariti slike AI. Naši strežniki so zdaj prezasedeni. Poskusite ponovno."</string>
      <string name="ai_create_image_photo_tip">Fotografije bodo izbrisane iz naših strežnikov, ko bo ustvarjena slika AI</string>
      <string name="ai_create_image_tip">Fotografije bodo izbrisane iz naših strežnikov, ko bo ustvarjena slika AI</string>
-     <string name="ai_create_remain_time" formatted="false">Čas čakanja: %1s %2s</string>
+     <string formatted="false" name="ai_create_remain_time">Čas čakanja: %1s %2s</string>
      <string name="ai_creating_image_tip">"Ko bo slika pripravljena, boste prejeli obvestilo"</string>
      <string name="ai_creating_image_title">Ustvarjam AI sliko…</string>
      <string name="ai_creation_button">Ustvari portret</string>
@@ -255,9 +255,11 @@ Namesto tega izberite druge fotografije in poskusite znova."</string>
      <string name="ai_recreate_image_dialog_msg">Lahko nadaljujete z nalaganjem fotografij ali izberete nove.</string>
      <string name="ai_recreate_image_dialog_title">"Fotografije osebe %s še niso bile naložene"</string>
      <string name="ai_refuse_update_toast">Izberite nove fotografije, da boste lahko posodobili to sliko AI</string>
-     <string name="ai_select_people_sub_title" formatted="false">%1d–%2d najboljših fotografij bo samodejno izbrano</string>
+     <string name="ai_search_picker_next_step">Naprej</string>
+     <string name="ai_search_picker_title">Izberite segment</string>
+     <string formatted="false" name="ai_select_people_sub_title">%1d–%2d najboljših fotografij bo samodejno izbrano</string>
      <string name="ai_select_people_title">Izberite osebo, da ustvarite njeno sliko AI</string>
-     <string name="ai_select_photo_complete_description" formatted="false">"Izberite %1d–%2d posnetke obraza ali polovice telesa.
+     <string formatted="false" name="ai_select_photo_complete_description">"Izberite %1d–%2d posnetke obraza ali polovice telesa.
 Najboljši posnetki so izbrani samodejno. Več fotografij lahko dodate ročno."</string>
      <string name="ai_select_photo_complete_toast">Samodejno filtrira najboljše posnetke</string>
      <string name="ai_select_photo_count">Izbrane fotografije (%d)</string>
@@ -547,7 +549,7 @@ Priključite polnilnik in izklopite zaslon, da se prikažejo spomini."</string>
      <string name="btn_cancel_send">Odpovej ta prenos</string>
      <string name="btn_exit_send">Izhod</string>
      <string name="btn_sure">V redu</string>
-     <string name="burst_image_download_item_title" formatted="false">Prenesi original (%s|%s)</string>
+     <string formatted="false" name="burst_image_download_item_title">Prenesi original (%s|%s)</string>
      <string name="burst_photo_enter">Zaporedno</string>
      <string name="burst_photo_preview_thumbnail_content_description">Slika %d</string>
      <string name="burst_preview_title">Zaporedno slikanje</string>
@@ -836,16 +838,21 @@ Priključite polnilnik in izklopite zaslon, da se prikažejo spomini."</string>
      <string name="delete_album_msg_format_cloud">Izbrišem %1$s %2$s iz Mi Clouda in vseh sinhroniziranih naprav?</string>
      <string name="delete_album_msg_format_local">Izbrišem %1$s %2$s?</string>
      <string name="delete_album_success">Album izbrisan</string>
+     <string name="delete_all_photos">"Izbrisali boste vse fotografije v tej napravi. Zaradi tega lahko izgubite pomembne podatke. Vseeno izbrišem?"</string>
      <string name="delete_from_all_devices_and_cloud">iz vseh naprav in Mi Clouda</string>
      <string name="delete_from_cloud">Izbriši stvari iz Mi Clouda</string>
      <string name="delete_from_this_album_and_cloud">iz tega albuma in Mi Clouda</string>
      <string name="delete_in_album">Izbrane stvari bodo izbrisane iz Mi Clouda in vseh povezanih naprav in shranjene v koš za smeti za %d dni če imate brezplačni plan shranjevanja v Mi Cloudu. Vseeno izbrišem?</string>
      <string name="delete_in_home_page">Izbrane stvari bodo izbrisane iz Mi Clouda in vseh povezanih naprav in shranjene v koš za smeti za %d dni če imate brezplačni plan shranjevanja v Mi Cloudu. Vseeno izbrišem?</string>
      <string name="delete_in_process">Brisanje…</string>
+     <string name="delete_media_dialog_comment">Te stvari bodo najprej premaknjene v \"Izbrisane stvari\". Od tam jih lahko obnovite ali trajno izbrišete.</string>
      <string name="delete_media_for_cloud">Izbrane stvari bodo odstranjene iz oblaka in vseh sinhroniziranih naprav v Nedavno izbrisane stvari.</string>
+     <string name="delete_media_from_cloud">Izbrane stvari bodo izbrisane iz vseh naprav in oblaka. Vseeno izbrišem?</string>
      <string name="delete_origin">Izbriši slike iz originalnega albuma</string>
      <string name="delete_other_shared_images">"Žal ne morete brisati fotografij deljenih od drugih"</string>
      <string name="delete_owner_and_other_shared_images_format">%1$d izbrisano, %2$d ohranjeno</string>
+     <string name="delete_risk_alert_message">"Izbrali ste veliko število stvari za brisanje. Če nadaljujete, bodo te stvari premaknjene v \"Izbrisane stvari\". Izbrišem?"</string>
+     <string name="delete_risk_alert_title">Pozor</string>
      <string name="delete_third_party_photo">Izbrišem to fotografijo?</string>
      <string name="delete_third_party_video">Izbrišem ta videoposnetek?</string>
      <string name="deny">Zavrni</string>
@@ -1051,6 +1058,8 @@ Pošljite to kodo nadzorniku."</string>
      <string name="ext_sdcard_permission_request_title">Odobrite galeriji dostop do SD kartice</string>
      <string name="ext_sdcard_request_failed_button_text">V redu</string>
      <string name="ext_sdcard_request_succeed_toast_text">"Vse je pripravljeno!"</string>
+     <string name="external_delete_notification_content">Tapnite za ogled nedavno izbrisanih stvari in se prepričajte, da ni izgubljenega nič pomembnega</string>
+     <string name="external_delete_notification_title">Stvari izbrisane iz galerije</string>
      <string name="face_album_empty">"Ni dovolj fotografij za prepoznavanje osebe.
 Napravite več fotografij vaših prijateljev!"</string>
      <string name="face_album_empty_syncing">Sinhr. podatkov.</string>
@@ -1320,13 +1329,19 @@ za fotografije"</string>
      <string name="global_pc">Moj prenosnik</string>
      <string name="global_phone">Moj telefon</string>
      <string name="global_trash_vip_info_text_login_medium_or_low_level">"Izbrisane stvari, ki so bile varnostno kopirane, lahko ostanejo v oblaku do %1$s dni. Stvari, ki niso bile varnostno kopirane, bodo shranjene do %2$s dni."</string>
+     <string name="google_banner_back_stop">Varnostno kopiranje je ustavljeno</string>
+     <string name="google_banner_back_stop_des">"Zmanjkalo vam je prostora za shranjevanje v Google Računu. Če želite nadaljevati varnostno kopiranje fotografij, pridobite več prostora za shranjevanje ali sprostite prostor."</string>
      <string name="google_banner_backup_des">Začnite zdaj in ohranite svoje fotografije in videoposnetke na varnem v storitvi Google Foto.</string>
      <string name="google_banner_backup_left_btn_text">Ne zdaj</string>
      <string name="google_banner_backup_right_btn_text">Vklopi varnostno kopiranje</string>
      <string name="google_banner_backup_title">Varnostno kopirajte svoje stvari v Google Foto</string>
      <string name="google_banner_upgrade_des">Za svoj Google Račun lahko kupite več prostora za shranjevanje v oblaku.</string>
+     <string name="google_banner_upgrade_left_btn_clean_space">Očisti prostor</string>
      <string name="google_banner_upgrade_left_btn_text">Pokaži podrobnosti</string>
+     <string name="google_banner_upgrade_right_btn_get_storage">Pridobi prostor</string>
      <string name="google_banner_upgrade_right_btn_text">Kupite prostor za shranjevanje</string>
+     <string name="google_banner_upgrade_space_low_des">"Kmalu ne boste več mogli varnostno kopirati novih fotografij in videoposnetkov"</string>
+     <string name="google_banner_upgrade_space_low_title">Vaša shramba je %s polna</string>
      <string name="google_banner_upgrade_title">Shramba v oblaku je polna</string>
      <string name="google_login_btn_content_description">Prijava z Google</string>
      <string name="google_open_backup_error">"Povezave z Google Foto ni bilo mogoče vzpostaviti"</string>
@@ -1872,6 +1887,7 @@ za normalno delovanje, tapnite \"Nastavi\", da odprete Dovoljenja."</string>
      <string name="multi_view_tip_button_text">Razumem</string>
      <string name="multi_view_tip_sub_title">Razširite dva prsta enega od drugega ali enega proti drugemu da prilagodite velikost prikaza.</string>
      <string name="multi_view_tip_title">Povečevanje in zmanjševanje</string>
+     <string name="multiwindow_not_support_camera">"Fotoaparata ni mogoče uporabljati v načinu z več okni"</string>
      <string name="must_pick_file">Izberi sliko</string>
      <string name="my_family">Moj dom</string>
      <string name="national_day">Dan državnosti</string>
@@ -2945,7 +2961,7 @@ Pri prvi uporabi te storitve lahko traja nekaj časa."</string>
      <string name="slim_dialog_empty_message">"Stvari za optimizacijo ni bilo mogoče najti."</string>
      <string name="slim_dialog_empty_positive">Razumem</string>
      <string name="slim_dialog_empty_title">Pozor</string>
-     <string name="slim_dialog_message" formatted="false">"Izvirne fotografije in videoposnetke zamenjajte z visokokakovostnimi kopijami %d dni po ustvarjanju stvari. Izvirne datoteke bodo shranjene v oblaku. Sprostili boste lahko približno %s lokalnega pomnilnika."</string>
+     <string formatted="false" name="slim_dialog_message">"Izvirne fotografije in videoposnetke zamenjajte z visokokakovostnimi kopijami %d dni po ustvarjanju stvari. Izvirne datoteke bodo shranjene v oblaku. Sprostili boste lahko približno %s lokalnega pomnilnika."</string>
      <string name="slim_dialog_positive">Optimiziraj</string>
      <string name="slim_dialog_title">Optimiziraj shrambo</string>
      <string name="slim_exit_dialog_positive">Ustavi</string>
@@ -3496,10 +3512,10 @@ Do %1$s lahko premaknete svoje stvari v Google Foto ali obiščete i.mi.com, da 
      <string name="video_editor_auto_trim">Samodejno trimaj</string>
      <string name="video_editor_auto_trim_tip">Samodejno trimanje…</string>
      <string name="video_editor_cancel">Prekini</string>
-     <string name="video_editor_component_delete_btn_content_description">Odstrani video %d</string>
+     <string name="video_editor_component_delete_btn_content_description">Odstrani segment %d</string>
      <string name="video_editor_component_next_step">Naprej %1$d/%2$d</string>
      <string name="video_editor_component_next_step_enabled_content_description">Naprej</string>
-     <string name="video_editor_component_picked_imageview_content_description">Dodana video reža %d</string>
+     <string name="video_editor_component_picked_imageview_content_description">Dodan segment v režo %d</string>
      <string name="video_editor_done">Končano</string>
      <string name="video_editor_down_load_later">Kasneje</string>
      <string name="video_editor_down_load_no_wifi_tips">Prenesete lahko le preko WiFi</string>

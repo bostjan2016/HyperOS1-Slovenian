@@ -65,7 +65,7 @@
      <string name="dialog_content_limit0">Omeji prenose</string>
      <string name="dialog_content_limit_max">Brez omejitev</string>
      <string name="dialog_delete_positive">Izbriši</string>
-     <string name="dialog_download_dir_content" formatted="false">Privzeta ciljna mapa za vaše prenose je spremenjena iz \"%s\" v \"%s/DLManager\".</string>
+     <string formatted="false" name="dialog_download_dir_content">Privzeta ciljna mapa za vaše prenose je spremenjena iz \"%s\" v \"%s/DLManager\".</string>
      <string name="dialog_download_dir_title">Nova ciljna mapa</string>
      <string name="dialog_file_missing_body">Datoteke ni mogoče najti, kaže da je izbrisana.</string>
      <string name="dialog_file_missing_title">"Datoteke ni mogoče odpreti"</string>

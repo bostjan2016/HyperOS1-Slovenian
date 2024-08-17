@@ -119,9 +119,9 @@
      <string name="close_camera_failed">"Ne morem zapreti kamere"</string>
      <string name="close_camera_requesting">Izklop kamere…</string>
      <string name="cloud_video_conference">Video konferenca v oblaku</string>
-     <string name="conference_call_description" formatted="false">%s,%s itd. skupaj %s</string>
+     <string formatted="false" name="conference_call_description">%s,%s itd. skupaj %s</string>
      <string name="conference_call_recorder_title">Konferenčni klic</string>
-     <string name="conference_call_single_description" formatted="false">%s itd. skupaj %s</string>
+     <string formatted="false" name="conference_call_single_description">%s itd. skupaj %s</string>
      <string name="conference_caller_info_name">"%1$s konferenčni klic"</string>
      <string name="conference_callers_exceeded">"Oseb ne morem več dodati"</string>
      <string name="contacts_icon_label">Stiki</string>

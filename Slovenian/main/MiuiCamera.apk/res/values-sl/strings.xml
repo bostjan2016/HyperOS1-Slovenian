@@ -683,7 +683,7 @@ in samodejno prilagodi nastavitve"</string>
      <string name="connect_view_sub_title_monitor">Povezane kamere</string>
      <string name="connect_view_sub_title_new">"Nastavitev Multicam uporablja večjo pasovno širino za zmanjšanje zakasnitve.
 Priporočamo povezavo z omrežji Wi-Fi %s GHz, ki podpirajo standard šeste generacije."</string>
-     <string name="connect_view_sub_title_new2" formatted="false">"Nastavitev Multicam uporablja večjo pasovno širino za zmanjšanje zakasnitve. Priporočamo povezavo z omrežji WiFi %1s GHz, ki podpirajo standard šeste generacije. 4K %2sFPS ni podprt."</string>
+     <string formatted="false" name="connect_view_sub_title_new2">"Nastavitev Multicam uporablja večjo pasovno širino za zmanjšanje zakasnitve. Priporočamo povezavo z omrežji WiFi %1s GHz, ki podpirajo standard šeste generacije. 4K %2sFPS ni podprt."</string>
      <string name="connect_view_title">Multicam nastavitve</string>
      <string name="connect_view_toast_start_error_camera">"Kamere ni bilo mogoče zagnati. Poskusite ponovno."</string>
      <string name="connect_view_toast_start_error_monitor">"Monitorja ni bilo mogoče zagnati. Poskusite ponovno."</string>
@@ -1519,7 +1519,7 @@ zgledali večji na fotografijah"</string>
      <string name="module_name_street">Hitro</string>
      <string name="module_name_street_hint">Tukaj spremenite razdaljo ostrenja</string>
      <string name="module_name_super_moon">Super mesec</string>
-     <string name="moiton_detection_960_fps_video_tip" formatted="false">%1dfps videoposnetki so lahko dolgi do %2d sekund</string>
+     <string formatted="false" name="moiton_detection_960_fps_video_tip">%1dfps videoposnetki so lahko dolgi do %2d sekund</string>
      <string name="moiton_detection_tip">xxxmd poteka</string>
      <string name="moiton_detection_video_electric_quantity_tip">Napolnite svojo napravo, da boste lahko uporabljali to storitev</string>
      <string name="moiton_detection_video_temperature_stop_tip">Vaša naprava je pregreta. Snemanje se bo ustavilo čez %d sekund.</string>
@@ -1619,7 +1619,7 @@ zgledali večji na fotografijah"</string>
      <string name="mtrl_timepicker_confirm">V redu</string>
      <string name="multi_window_mode_not_supported">"Kamera ne deluje v deljenem zaslonu"</string>
      <string name="music_hint_tt">Vir storitev</string>
-     <string name="mutex_hdr_quality" formatted="false">"HDR ni podprt za %1s %2sFPS"</string>
+     <string formatted="false" name="mutex_hdr_quality">"HDR ni podprt za %1s %2sFPS"</string>
      <string name="network_access_user_notice_agree">Strinjam se</string>
      <string name="network_access_user_notice_message_live_video">"Kamera se mora povezati na splet za ponujanje efektov, glasbe in ostalih stvari za kratke videoposnetke.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;Z dotikom na \"Strinjam se\", se strinjate z &amp;lt;a href =%1$s&amp;gt;Pogoji uporabe&amp;lt;/a&amp;gt; in &amp;lt;a href =%2$s&amp;gt;Pravila o zasebnosti&amp;lt;/a&amp;gt;, in dovolite Kameri povezovanje na splet."</string>
      <string name="network_access_user_notice_message_mi_live_video">&lt;Data&gt;Dobrodošli v kratke videoposnetke! Naša storitev se mora povezati na plet da vam ponudimo glasbo in druge stvari. &amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;Pred uporabo morate prebrati in se strinjati z &amp;lt;a href =%1$s&amp;gt;Pogoji uporabe&amp;lt;/a&amp;gt; in &amp;lt;a href =%2$s&amp;gt;Pravila o zasebnosti&amp;lt;/a&amp;gt;, in omogočiti aplikaciji povezavo na splet.&lt;/Data&gt;</string>

@@ -1219,9 +1219,9 @@ Tapnite \"%1$s\" in izberite \"%2$s\"."</string>
      <string name="t9_search_empty_send_sms">Pošlji sporočilo</string>
      <string name="t9_search_empty_video_call">Video klic</string>
      <string name="t9_search_guide_pinyin_title1">Hitro iskanje stikov s pomočjo vnosa številk</string>
-     <string name="t9_search_guide_pinyin_title2" formatted="false">Vnesite %d in %d za iskanje Miui SLO</string>
+     <string formatted="false" name="t9_search_guide_pinyin_title2">Vnesite %d in %d za iskanje Miui SLO</string>
      <string name="t9_search_guide_zhuyin_title1">Hitro iskanje stikov s pomočjo vnosa številk</string>
-     <string name="t9_search_guide_zhuyin_title2" formatted="false">Vnesite %d in %d za iskanje Miui SLO</string>
+     <string formatted="false" name="t9_search_guide_zhuyin_title2">Vnesite %d in %d za iskanje Miui SLO</string>
      <string name="take_new_photo">Posnemi novo sliko</string>
      <string name="take_photo">Posnemi sliko</string>
      <string name="text_msim_balance">Porabljeno danes</string>
