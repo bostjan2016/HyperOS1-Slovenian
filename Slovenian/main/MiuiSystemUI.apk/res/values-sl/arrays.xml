@@ -5,7 +5,6 @@
         <item>Pokaži odstotek med polnjenjem (privzeto)</item>
         <item>Ne kaži te ikone</item>
      </string-array>
-     </array>
      <string-array name="bluetooth_audio_active_device_summaries">
         <item></item>
         <item>, aktivno</item>
