@@ -37,6 +37,14 @@
         <item quantity="other">%1$s varnostnih kopij (%2$s)</item>
         <item quantity="one">%1$s varnostna kopija (%2$s)</item>
      </plurals>
+     <plurals name="days_and_size_without_backup">
+        <item quantity="other">%1$d dni od zadnje varnostne kopije | Novi podatki: %2$s</item>
+        <item quantity="one">%1$d dan od zadnje varnostne kopije | Novi podatki: %2$s</item>
+     </plurals>
+     <plurals name="days_without_backup">
+        <item quantity="other">%d dni od zadnje varnostne kopije</item>
+        <item quantity="one">%d dan od zadnje varnostne kopije</item>
+     </plurals>
      <plurals name="half_hour_ago">
         <item quantity="other">Pred pol ure</item>
      </plurals>

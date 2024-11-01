@@ -545,8 +545,8 @@
      <string name="upcoming_alarm">Prihodnji alarm: %s</string>
      <string name="upcoming_alarm_hint">Zdaj lahko izključite ta alarm</string>
      <string name="upcoming_alarm_new">Prihajajoči alarm: %s</string>
-     <string name="update_health_app_desc_new">Storitev sledenja spanju zagotavlja Mi Fitness. Za dostop do povezanih storitev posodobite Mi Fitness na najnovejšo različico..</string>
-     <string name="update_health_app_new">Posodobi Mi Fitness</string>
+     <string name="update_health_app_desc_new">Storitev sledenja spanju zagotavlja Mi Zdravje. Za dostop do povezanih storitev posodobite Mi Zdravje na najnovejšo različico.</string>
+     <string name="update_health_app_new">Posodobite Mi Zdravje</string>
      <string name="update_it">Posodobi</string>
      <string name="update_notification_info">Posodabljanje podatkov v ozadju…</string>
      <string name="usage_start">Začni</string>

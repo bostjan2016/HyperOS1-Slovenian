@@ -30,7 +30,7 @@
         <item quantity="one">pred 1 min</item>
      </plurals>
      <plurals name="backup_message_wechat_video">
-        <item quantity="other">"%1$d videoposnetki v pogovorih WeChat bodo kmalu potekli. Varnostno kopiram v notranji pomnilnik naprave?"</item>
+        <item quantity="other">"%1$d videoposnetkov v pogovorih WeChat bodo kmalu potekli. Varnostno kopiram v notranji pomnilnik naprave?"</item>
         <item quantity="one">"%1$d video v pogovorih WeChat bo kmalu potekel. Varnostno kopiram v notranji pomnilnik naprave?"</item>
      </plurals>
      <plurals name="clockin_day_count">
@@ -157,16 +157,16 @@
         <item quantity="one">%1$s komentar</item>
      </plurals>
      <plurals name="original_user_days">
-        <item quantity="other">• &lt;font color=#fc7050>%1$d&lt;/font> dni</item>
-        <item quantity="one">• &lt;font color=#fc7050>%1$d&lt;/font> dan</item>
+        <item quantity="other">" • &lt;font color=#fc7050>%1$d&lt;/font> dni"</item>
+        <item quantity="one">" • &lt;font color=#fc7050>%1$d&lt;/font> dan"</item>
      </plurals>
      <plurals name="original_user_fans">
-        <item quantity="other">• Imate &lt;font color=#fc7050>%1$s&lt;/font> sledilcev!</item>
-        <item quantity="one">• Imate &lt;font color=#fc7050>%1$s&lt;/font> sledilca!</item>
+        <item quantity="other">" • Imate &lt;font color=#fc7050>%1$s&lt;/font> sledilcev!"</item>
+        <item quantity="one">" • Imate &lt;font color=#fc7050>%1$s&lt;/font> sledilca!"</item>
      </plurals>
      <plurals name="original_user_play_1">
-        <item quantity="other">• Naložili ste &lt;font color=#fc7050>%1$s&lt;/font> videoposnetkov.</item>
-        <item quantity="one">• Naložili ste &lt;font color=#fc7050>%1$s&lt;/font> videoposnetek.</item>
+        <item quantity="other">" • Naložili ste &lt;font color=#fc7050>%1$s&lt;/font> videov. "</item>
+        <item quantity="one">" • Naložili ste &lt;font color=#fc7050>%1$s&lt;/font> video. "</item>
      </plurals>
      <plurals name="original_user_play_2">
         <item quantity="other">Osrečili ste &lt;font color=#fc7050>%1$s&lt;/font> oseb!</item>
@@ -178,11 +178,7 @@
      </plurals>
      <plurals name="search_head_hint_all">
         <item quantity="other">Rezultat iskanja (%1$d stvari)</item>
-        <item quantity="zero">Rezultat iskanja (%1$d stvari)</item>
         <item quantity="one">Rezultat iskanja (%1$d stvar)</item>
-        <item quantity="two">Rezultat iskanja (%1$d stvari)</item>
-        <item quantity="few">Rezultat iskanja (%1$d stvari)</item>
-        <item quantity="many">Rezultat iskanja (%1$d stvari)</item>
      </plurals>
      <plurals name="search_head_hint_app">
         <item quantity="other">Datoteke, povezane z aplikacijo %1$s (%2$d stvari)</item>

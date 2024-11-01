@@ -213,6 +213,7 @@
      <string name="columbus_reward_style_close_desc">Dokončajte ogled videa, da prejmete nagrado. Nadaljevanje gledanja?</string>
      <string name="columbus_reward_style_speed_confirm">Nadaljuj</string>
      <string name="columbus_skip_ad">Preskoči</string>
+     <string name="columbus_skip_ad_time">Preskoči (%d)</string>
      <string name="common_google_play_services_enable_button">Omogoči</string>
      <string name="common_google_play_services_enable_text">"Aplikacija %1$s ne bo delovala, če ne omogočite storitev Google Play."</string>
      <string name="common_google_play_services_enable_title">Omogočite storitve Google Play</string>
@@ -845,6 +846,7 @@
      <string name="similar_image_empty">Ni najdenih duplikatov</string>
      <string name="similar_image_scaning">Preverjam…</string>
      <string name="similar_image_title">Fotografije</string>
+     <string name="skip_ad">Preskoči</string>
      <string name="sponsored">Sponzorirano</string>
      <string name="start_downloading_app">Pričenjam s prenosom: %1$s</string>
      <string name="start_install">Namesti zdaj</string>

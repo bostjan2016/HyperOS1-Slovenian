@@ -583,7 +583,6 @@
      <string name="icon_content_description">Pogovorno okno</string>
      <string name="icoud_login_pw_hint">Vnesite geslo</string>
      <string name="imap_password_error">Napačno geslo dohodnega strežnika</string>
-
      <string name="info_item_hide">Skrij</string>
      <string name="inline_picture_deleted">Prenos manjkajoče slike…</string>
      <string name="install_mime_encrypt_cert">Dodajte potrdilo o šifriranju S/MIME</string>
@@ -640,8 +639,8 @@ To težavo lahko povzroči dvostopenjsko preverjanje pristnosti računa. Poskusi
      <string name="login_tip">%s protokol bo privzeto uporabljen za prijavo. Če želite uporabiti drug protokol, ga med možnostmi prijave izberite ročno.</string>
      <string name="mail_header_network_not_available">"Spletna povezava ni vzpostavljena."</string>
      <string name="mail_outlook_login_tips">"Preusmerjeni boste v Microsoft da vnesete geslo"</string>
-     <string name="mail_outlook_oauth_login">Prijavite se z OAuth
-(Osebni uporabniki Outlooka ne morejo sinhronizirati svojih koledarjev, ko se prijavijo z OAuth)"</string>
+     <string name="mail_outlook_oauth_login">"Prijavite se z OAuth
+(Osebni uporabniki Outlooka ne morejo sinhronizirati svojih koledarjev, ko se prijavijo z OAuth)""</string>
      <string name="mail_outlook_psw_login">Prijavite se z geslom</string>
      <string name="mail_spam_notify_title">Obvesti o spamu</string>
      <string name="mailbox_folder">Mape</string>
@@ -1064,7 +1063,6 @@ Počakajte do konca sinhronizacije ali poglejte sporočilo na računalniku."</st
      <string name="saturday_shortest">S</string>
      <string name="save_draft_failed">"Ne morem shraniti osnutka"</string>
      <string name="save_sign_pdf">Shrani v napravo</string>
-
      <string name="search_bar_text">Iskanje stikov</string>
      <string name="search_menu_title">Išči</string>
      <string name="search_remote_again">Ne morem se povezati na omrežje. Tapnite za ponovni poskus.</string>

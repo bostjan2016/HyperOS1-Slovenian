@@ -1204,6 +1204,7 @@ Tapnite \"%1$s\" in izberite \"%2$s\"."</string>
      <string name="sms_work_pager">Pošlji sporočilo službi (pager)</string>
      <string name="special_code_security_exception">Ne morem dokončati. To ni vaš privzeti klicalnik.</string>
      <string name="splitConfirmation_title">Razdelim stik?</string>
+     <string name="split_screen_fab_toast">Povlecite za uporabo številčnice</string>
      <string name="starredList">Z zvezdo</string>
      <string name="starred_contacts">Priljubljeno</string>
      <string name="status_available">Na voljo</string>

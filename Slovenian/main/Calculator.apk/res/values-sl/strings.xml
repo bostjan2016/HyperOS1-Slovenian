@@ -225,7 +225,7 @@
      <string name="loan_first_pay_date">Prvi datum plačila</string>
      <string name="loan_interest_rate">Obrestna mera</string>
      <string name="loan_type_title">Standardna obrestna mera</string>
-    <string name="locating_prompt">Lokacija</string>
+     <string name="locating_prompt">Lokacija</string>
      <string name="lpr_ok">Razumem</string>
      <string name="lpr_tips_msg">"Od 8. oktobra 2019 se bo obrestna mera za osebno stanovanjsko posojilo izračunavala po glavni obrestni meri posojila (LPR) namesto po predhodno uveljavljeni referenčni obrestni meri 4,9%. Zdaj bo končna stopnja potrjena z dodajanjem osnovne točke LPR.
 

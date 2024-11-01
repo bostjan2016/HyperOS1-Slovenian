@@ -281,6 +281,7 @@
 "</string>
      <string name="noti_caption">%1$s uspešno, %2$s neuspešno.</string>
      <string name="notice_Auracast_audio_share_disconnected">Ni več deljenja zvoka zaradi prekinjene povezave</string>
+     <string name="notice_audio_share_classic_disconnected">Ni več deljenja zvoka</string>
      <string name="notice_audio_share_disconnected">Zvok se ne deli več zaradi prekinjene povezave</string>
      <string name="notification_received">Bluetooth deljenje: Prejeto %1$s</string>
      <string name="notification_received_fail">Bluetooth deljenje: Datoteka %1$s ni prejeta</string>

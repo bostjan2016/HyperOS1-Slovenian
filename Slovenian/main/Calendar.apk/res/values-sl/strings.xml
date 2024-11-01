@@ -777,7 +777,7 @@ Preverite omrežne nastavitve in poskusite ponovno."</string>
      <string name="simple_date_format">dd.MM.yyyy</string>
      <string name="single_selected_holiday">%1$s je prost dan</string>
      <string name="skip">Preskoči</string>
-     <string name="small_week_date_format">EEE dd.MM.yyyy</string>     
+     <string name="small_week_date_format">EEE dd.MM.yyyy</string>
      <string name="solar_term_autumn_begins">Začetek jeseni</string>
      <string name="solar_term_autumn_equinox">Jesensko enakonočje</string>
      <string name="solar_term_clear_and_bright">Jasno</string>
@@ -943,6 +943,7 @@ Dodate lahko tudi opomnike, da ne boste zamudili ničesar pomembnega."</string>
      <string name="travel_item_reminder">Opomnik</string>
      <string name="travel_item_reminder_overdue">Opomnik</string>
      <string name="travel_item_trafic">Promet</string>
+     <string name="travel_item_virtual_sim">Mi Virtualna SIM</string>
      <string name="travel_item_weather_forecast">Napoved za ciljno destinacijo</string>
      <string name="travel_item_weather_now">Vreme ciljne destinacije</string>
      <string name="travel_load_failed">"Ne morem naložiti"</string>

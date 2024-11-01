@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="mortgage_repayment">
+     <string-array name="mortgage_repayment">
         <item>Enaki obroki</item>
         <item>Zmanjševanje obrokov</item>
-    </string-array>
-    <string-array name="unit_data_order_time_">
+     </string-array>
+     <string-array name="unit_data_order_time_">
         <item>leto</item>
         <item>teden</item>
         <item>dan</item>
@@ -14,5 +14,5 @@
         <item>ms</item>
         <item>us</item>
         <item>ps</item>
-    </string-array>
+     </string-array>
 </resources>

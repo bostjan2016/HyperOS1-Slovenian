@@ -698,7 +698,7 @@ Ne menjajte ali preimenujte datotek var. kopije."</string>
      <string name="platform_chooser_title">Izberite staro napravo</string>
      <string name="pm">pop.</string>
      <string name="preference_copied">\"%1$s\" je kopiran v odložišče.</string>
-     <string name="privacy_policy_link"><Data>"Če želite izvedeti več o naših praksah obdelave podatkov in vaših pravicah kot uporabnika, preberite in se strinjajte z &lt;a href='%1s'>Pravila o zasebnosti&lt;/a> preden nadaljujete."</Data></string>
+     <string name="privacy_policy_link">"<Data>"Če želite izvedeti več o naših praksah obdelave podatkov in vaših pravicah kot uporabnika, preberite in se strinjajte z &lt;a href='%1s'>Pravila o zasebnosti&lt;/a> preden nadaljujete."</Data>"</string>
      <string name="privacy_settings">Zasebnost</string>
      <string name="privacy_settings_title">Pravila o zasebnosti</string>
      <string name="private_policy_text">Pravila o zasebnosti</string>
